@@ -10,8 +10,8 @@ from bench_common import completion_yield, N5, N10, Y45, THETAS
 from radical_pair import RadicalPair
 from Bio import SeqIO
 
-B_PRIMARY = np.linspace(1e-6, 200e-6, 12)          # 0-200 uT (P5 primary)
-B_WIDE = np.concatenate([B_PRIMARY, np.linspace(2.5e-4, 2e-3, 8)])  # secondary wide
+B_PRIMARY = np.linspace(1e-6, 200e-6, 9)           # 0-200 uT (P5 primary, amended 00:59)
+B_WIDE = np.concatenate([B_PRIMARY, np.linspace(2.5e-4, 2e-3, 5)])  # secondary wide (amended 00:59)
 WIN = (25e-6, 65e-6)                                # geomagnetic window (locked)
 SPECIES = {
     'erCry4': ('CRY4__REFSEQ__Erithacus_rubecula__MN709784', 'MN709784'),
@@ -26,10 +26,12 @@ def seq_of(acc):
         if acc in k: return v
     raise KeyError(acc)
 
-def A_of_B(tau_us, B):
-    k = 1.0 / tau_us
-    rp = RadicalPair(hyperfine_A=[N5, N10], hyperfine_B=[Y45], kS=k, kT=k)
-    phis = np.array([completion_yield(rp, float(B), float(t)) for t in THETAS])
+TH25 = THETAS[::2][:19]  # amended 00:59: ~25-orientation subset of the validated grid (19 of 37, same sphere coverage)
+def A_of_B(tau_us, B, rp=None):
+    if rp is None:
+        k = 1.0 / tau_us
+        rp = RadicalPair(hyperfine_A=[N5, N10], hyperfine_B=[Y45], kS=k, kT=k)
+    phis = np.array([completion_yield(rp, float(B), float(t)) for t in TH25])
     return float((phis.max()-phis.min())/phis.mean()), float(phis.max())
 
 def S_of_tau(tau_us, Bgrid):
@@ -77,6 +79,16 @@ def species_chain(acc, fold_name):
             dts[tag] = cs.d_term_edge(pdb, term, pairs)
     return dts, len(pairs)
 
+
+def curve_one(tau):
+    k = 1.0 / float(tau)
+    rp = RadicalPair(hyperfine_A=[N5, N10], hyperfine_B=[Y45], kS=k, kT=k)
+    A = np.array([A_of_B(float(tau), B, rp=rp)[0] for B in B_WIDE])
+    Bw = np.linspace(WIN[0], WIN[1], 9); Aw = np.interp(Bw, B_WIDE, A)
+    S = float(np.trapezoid(Aw, Bw) if hasattr(np,'trapezoid') else np.trapz(Aw, Bw))
+    print('tau', round(float(tau),2), 'S', f'{S:.3e}', flush=True)
+    return round(float(tau),3), {'S': S, 'A_curve': [round(float(a),6) for a in A]}
+
 def main():
     definition = load_def()
     # terminal-chain d_term per species (WT tetrad) + triad variant (chain truncated after W318: terminal=C)
@@ -91,11 +103,10 @@ def main():
         print(sp, res[sp], flush=True)
     # universal S(tau) curve
     tau_grid = np.concatenate([np.linspace(0.1, 1.0, 10), np.linspace(1.2, 10.0, 15)])
-    curve = {}
-    for tau in tau_grid:
-        S, A = S_of_tau(float(tau), B_WIDE)
-        curve[round(float(tau),3)] = {'S': S, 'A_curve': [round(float(a),6) for a in A]}
-        print('tau', round(float(tau),2), 'S', f'{S:.3e}', flush=True)
+    from multiprocessing import Pool
+    with Pool(2) as p:
+        curve = dict(p.map(curve_one, list(tau_grid)))
+    print('curve done', flush=True)
     json.dump({'species': res, 'tau_grid_S': curve,
                'B_wide_uT': [round(float(b)*1e6,1) for b in B_WIDE], 'window_uT': [25,65]},
               open('results/h1_attempt4_stage1.json','w'), indent=1)
