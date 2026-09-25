@@ -1,0 +1,27 @@
+{
+ "phmmer_erCry4_vs_Ficedula_FULL_proteome": [
+  [
+   "ENSFALP00000002532.1",
+   0.0
+  ],
+  [
+   "ENSFALP00000032628.1",
+   0.0
+  ],
+  [
+   "ENSFALP00000030709.1",
+   1.2557054115671066e-186
+  ],
+  [
+   "ENSFALP00000029166.1",
+   1.4002136065978612e-186
+  ],
+  [
+   "ENSFALP00000030548.1",
+   1.527483886925145e-186
+  ]
+ ],
+ "hmm_called_ortholog": "ENSFALP00000002532.1",
+ "called_in_phmmer_top5": 1,
+ "note": "full-proteome phmmer validation of the HMM-seeded ortholog call"
+}

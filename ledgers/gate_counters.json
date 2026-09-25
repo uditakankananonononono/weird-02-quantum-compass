@@ -134,6 +134,21 @@
    "tool": "Three-way fold cross-validation (SVD RMSD)",
    "used_for": "ESM vs AF vs 6PTZ crystal: Cry4 agreement 1.2-1.6A",
    "ts": "2026-09-25T21:34+05:30"
+  },
+  {
+   "tool": "Biopython Phylo NJ tree (BLOSUM62)",
+   "used_for": "frozen-panel phylogeny, 121 taxa, gap-trimmed columns",
+   "ts": "2026-09-25T21:35+05:30"
+  },
+  {
+   "tool": "pyhmmer phmmer full-proteome validation",
+   "used_for": "HMM-called Ficedula Cry4 ortholog confirmed rank-1 e=0 (29,825 proteins)",
+   "ts": "2026-09-25T21:35+05:30"
+  },
+  {
+   "tool": "EBI PDBe API",
+   "used_for": "6PTZ metadata grounded: pigeon Cry4 Y319D+FAD, X-ray, Zoltowski et al. 2019",
+   "ts": "2026-09-25T21:35+05:30"
   }
  ],
  "accession_datasets": [
