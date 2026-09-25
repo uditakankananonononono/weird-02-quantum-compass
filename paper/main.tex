@@ -61,6 +61,21 @@ r_{ij} = \left\| \mathbf{c}_i - \mathbf{c}_j \right\|, \qquad \tau_{\mathrm{chai
 \end{equation}
 
 \section{Methods}
+\subsection{Sequence panel}
+A frozen panel of 36 migratory and 80 sedentary bird species was assembled from RefSeq annotation (NCBI datasets v2alpha, \texttt{reference\_only}), with migratory status grounded in the AVONET trait database (Tobias et al., figshare 16586228). Cryptochrome-4 orthologs were identified by profile-HMM search (HMMER 3.4, EBI phmmer REST, $E \leq 1.3\times10^{-172}$, rank-1 validated) against the 121-sequence reference alignment, yielding an 11-species Cry4 subpanel.
+
+\subsection{Multiple sequence alignment and features}
+The panel was aligned with FAMSA and cross-checked by EBI MAFFT REST. Feature set v1 comprises 116 per-sequence descriptors: Trp-tetrad presence and spacing, FAD-pocket residues, chain-edge distances mapped from the 6PTZ numbering, and physicochemical profiles.
+
+\subsection{Structure grounding and cross-validation}
+The tryptophan chain was assigned from the X-ray structure 6PTZ (Zoltowski et al.; COMPND mislabels the construct ``CRYPTOCHROME-1''; sequence is 99.6\% identical to \emph{Cl}Cry4 A0A386QUR4 over the aligned region): W395 $\rightarrow$ W372 $\rightarrow$ W318 $\rightarrow$ W369, FAD-to-surface. Every subpanel sequence was folded by ESMFold (ESM Atlas API, 400-aa cap) and, where available, retrieved from AlphaFold DB (model v6). ESM, AFDB, and crystal coordinates agree to 1.2--1.8\,\AA\ over the chain region, establishing that structure-derived distances are pipeline-invariant.
+
+\subsection{Spin-chemistry scoring}
+For each sequence, chain-edge distances feed the back-ET lifetime model M1.2 (Eq.~\eqref{eq:backet}); the Haberkorn equation~\eqref{eq:haberkorn} is integrated in the closed form of Eq.~\eqref{eq:yield} over a 65-orientation Lebedev grid to produce an anisotropy amplitude $A$ (Eq.~\eqref{eq:anisotropy}). The locked decision rule is AUC $\geq 0.75$ of $A$ separating migratory from sedentary panel members (pre-registered before scoring).
+
+\subsection{Structural landscape}
+To place 6PTZ in context, the cryptochrome fold census was enumerated by RCSB full-text search (34 structures) with per-entry resolution and method from the RCSB data API; FAD binding-site geometry, ligand identity (FAD, residue 501, chain A; 95.4\% observed residues), and secondary structure (31 helices, 10 strands) were grounded through the PDBe API. Domain architecture was independently confirmed by InterPro (cryptochrome/photolyase class-1) after correcting a UniProt mis-annotation of the erCry4 reference (Q6LML8 $\neq$ Cry4; correct accession A0A2I4SZI9).
+
 % pipeline: RefSeq fetch -> hmm/phmmer Cry4 subpanel -> FAMSA MSA -> feature set v1 (116)
 % -> ESM/AF/6PTZ 3-way fold cross-validation (1.2-1.8 A) -> compass_scan v0.3 -> locked AUC>=0.75
 
