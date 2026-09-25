@@ -60,6 +60,23 @@ Chain assignment from the crystal structure 6PTZ: W395 $\to$ W372 $\to$ W318 $\t
 r_{ij} = \left\| \mathbf{c}_i - \mathbf{c}_j \right\|, \qquad \tau_{\mathrm{chain}} \propto \exp(\beta\, r_{\mathrm{term-FAD}}). \label{eq:chain}
 \end{equation}
 
+
+\subsection{Hyperfine parameterization}
+Hyperfine tensors for FAD$^{\bullet-}$ and Trp$^{\bullet+}$ radicals follow the published DFT set of Hiscock et al.\ (2016): FAD N5, N10, H6; Trp N1, H4, H7 dominate the anisotropy. The effective isotropic couplings satisfy
+\begin{equation}
+a_{\mathrm{iso}} = \tfrac{1}{3}\mathrm{Tr}(A_k), \qquad
+\sigma_{\mathrm{eff}}^2 = \sum_k \tfrac{2}{3} a_k^2 I_k(I_k+1), \label{eq:sigeff}
+\end{equation}
+where $\sigma_{\mathrm{eff}}$ sets the S--T mixing rate in the semiclassical limit
+\begin{equation}
+\omega_{\mathrm{ST}} \approx \sigma_{\mathrm{eff}}\, \gamma B \;/\; \sqrt{\sigma_{\mathrm{eff}}^2 + (\gamma B)^2}. \label{eq:omst}
+\end{equation}
+The directional response is maximized when the lifetime matches the mixing time,
+\begin{equation}
+\tau_{\mathrm{opt}} \;\approx\; \frac{2\pi}{\omega_{\mathrm{ST}}}, \label{eq:tauopt}
+\end{equation}
+which for geomagnetic fields and the Cry4 hyperfine set evaluates to the microsecond regime - precisely the regime the tetrad chain reaches via Eq.~\eqref{eq:backet} and the triad does not. This is the mechanistic content of hypothesis H1.
+
 \section{Methods}
 \subsection{Sequence panel}
 A frozen panel of 36 migratory and 80 sedentary bird species was assembled from RefSeq annotation (NCBI datasets v2alpha, \texttt{reference\_only}), with migratory status grounded in the AVONET trait database (Tobias et al., figshare 16586228). Cryptochrome-4 orthologs were identified by profile-HMM search (HMMER 3.4, EBI phmmer REST, $E \leq 1.3\times10^{-172}$, rank-1 validated) against the 121-sequence reference alignment, yielding an 11-species Cry4 subpanel.
