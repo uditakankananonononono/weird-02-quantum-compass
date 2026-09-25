@@ -38,3 +38,11 @@ baselines, boundary analyses, negative-result supplements. Padding prohibited.
 Also locked: world's-best-tools standard; continuous depth/feature improvement
 after gates pass; negatives never published as the result (angles redirect until
 a genuine positive, else escalate). Stacks on all prior steering; nothing relaxed.
+
+## AMENDMENT 2026-09-25 21:29 IST (user steering, authenticated WhatsApp 9:28 PM, relayed by parent)
+Every natural sub-project inside this item is a SEPARATE project with its own FULL
+gate set: 40+ genuine external tools, 120+ accession datasets, 50-page TNR paper,
+benchmark win or match+named-plus-point. Shared pipelines DO NOT transfer gate
+credit between sub-projects: a run counts for a sub-project only when genuinely
+executed FOR that sub-project; item-level shared runs are logged at item level
+and do not inflate sub-project counts. Verdict reporting is per sub-project.
