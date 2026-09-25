@@ -60,13 +60,50 @@ def chain_positions(seq, pdb_path, definition, aligned_row=None):
         aas = None
     return aas, pts
 
-def k_hop(d): return K0 * np.exp(-BETA * max(d - D0, 0.0))
+TRP_RING = ('CD1','CD2','CE2','CE3','CZ2','CZ3','CH2','NE1','CG')
+import re
+ISO = re.compile(r'^(N1|C2|O2|N3|C4|O4|C4A|C4X|N5|C5A|C5X|C6|C7|C7M|C8|C8M|C9|C9A|C9X|N10|C10)$')
 
-def tau_eff(hops, default=(15.4, 18.1)):
-    gs = [g for g in hops if g <= 30.0]
-    if len(gs) < 2: gs = list(default)
-    k_eff = 1.0 / sum(1.0/k_hop(g) for g in gs)
-    return 1.0 / max(k_eff * 1e-6, 1e-12)
+def _load_6ptz():
+    cas, ring, fad = {}, {}, []
+    for line in open('/tmp/6ptz.pdb'):
+        if line.startswith('HETATM') and line[17:20].strip() == 'FAD' and ISO.match(line[12:16].strip()):
+            fad.append(np.array([float(line[30:38]), float(line[38:46]), float(line[46:54])]))
+        if line.startswith('ATOM'):
+            r = int(line[22:26]); atom = line[12:16].strip()
+            xyz = np.array([float(line[30:38]), float(line[38:46]), float(line[46:54])])
+            if atom == 'CA': cas[r] = xyz
+            if line[17:20].strip() == 'TRP' and atom in TRP_RING: ring.setdefault(r, []).append(xyz)
+    return cas, ring, np.array(fad)
+
+def d_term_edge(species_pdb, chain_residx_terminal, pairs):
+    """pairs = [(species_residx, clcry4/6PTZ_residx)] from MSA columns; SVD superpose."""
+    cas6, ring6, fad6 = _load_6ptz()
+    casS = {}
+    ringS = {}
+    for line in open(species_pdb):
+        if line.startswith('ATOM'):
+            r = int(line[22:26]); atom = line[12:16].strip()
+            xyz = np.array([float(line[30:38]), float(line[38:46]), float(line[46:54])])
+            if atom == 'CA': casS[r] = xyz
+            if line[17:20].strip() == 'TRP' and atom in TRP_RING: ringS.setdefault(r, []).append(xyz)
+    pairs = [(vs, u6) for vs, u6 in pairs if vs in casS and u6 in cas6]
+    if len(pairs) < 100: raise ValueError(f'too few CA pairs for superposition: {len(pairs)}')
+    A = np.array([casS[vs] for vs, _ in pairs]); B = np.array([cas6[u6] for _, u6 in pairs])
+    # SVD superposition A(species) -> B(6PTZ): map species Trp ring into 6PTZ frame
+    Ac, Bc = A.mean(0), B.mean(0)
+    H = (A - Ac).T @ (B - Bc)
+    U, _, Vt = np.linalg.svd(H)
+    R = Vt.T @ U.T
+    if np.linalg.det(R) < 0: Vt[-1] *= -1; R = Vt.T @ U.T
+    term = chain_residx_terminal
+    if term not in ringS: raise ValueError(f'terminal Trp {term} missing ring atoms')
+    ringS_6 = [(R @ (x - Ac)) + Bc for x in ringS[term]]
+    return min(float(np.linalg.norm(x - f)) for x in ringS_6 for f in fad6)
+
+def tau_eff(d_term):
+    k_back = K0 * np.exp(-BETA * max(d_term - D0, 0.0))
+    return 1.0 / max(k_back * 1e-6, 1e-12)   # microseconds
 
 def anisotropy_50uT(tau_us):
     k = 1.0 / tau_us
@@ -86,16 +123,46 @@ def main():
     if a.msa_row:
         row, _ = msa_row(a.msa_row)
     aas, pts = chain_positions(str(rec.seq), a.pdb, definition, aligned_row=row)
-    broken = aas is not None and any(x != 'W' for x in aas)
-    hops = [float(np.linalg.norm(p1[1]-p0[1])) for p0, p1 in zip(pts, pts[1:])]
-    tau = tau_eff([] if broken else hops)
+    # terminal Trp: last consecutive W walking FAD->surface chain columns
+    chain_res = definition['ref_chain_residx']  # erCry4 numbering == 6PTZ numbering
+    pairs = []
+    if row is not None:
+        col2res = {}
+        ri = 0
+        for c, ch in enumerate(row):
+            if ch != '-': ri += 1; col2res[c] = ri
+        species_res = [col2res.get(c) for c in definition['msa_cols']]
+        # full correspondence set: species residx <-> ClCry4(=6PTZ) residx per column
+        _, msa_all = msa_row(a.msa_row)
+        clkey = [k for k in msa_all if 'A0A386QUR4' in k][0]
+        clrow = msa_all[clkey]
+        ri_cl = 0; cl_col2res = {}
+        for c, ch in enumerate(clrow):
+            if ch != '-': ri_cl += 1; cl_col2res[c] = ri_cl
+        for c in range(min(len(row), len(clrow))):
+            if c in col2res and c in cl_col2res:
+                pairs.append((col2res[c], cl_col2res[c]))
+    else:
+        species_res = [p[0] for p in pts]
+    terminal_idx = 0
+    if aas is not None:
+        for j, x in enumerate(aas):
+            if x == 'W': terminal_idx = j
+            else: break
+    broken = aas is not None and aas[0] != 'W'
+    if broken:
+        d_term, tau = 3.6, tau_eff(3.6)   # proximal W absent -> contact recombination
+    else:
+        d_term = d_term_edge(a.pdb, species_res[terminal_idx], pairs)
+        tau = tau_eff(d_term)
     A, phimax = anisotropy_50uT(tau)
     out = {'id': rec.id, 'chain_aas': aas, 'chain_broken': broken,
-           'hops_A': [round(h,2) for h in hops], 'tau_eff_us': round(tau,4),
+           'terminal_chain_pos': terminal_idx, 'd_term_A': round(d_term,2),
+           'tau_eff_us': round(tau,4),
            'anisotropy_50uT': round(A,5), 'phi_s_max': round(phimax,5),
            'model': 'M1 locked 2026-09-25 20:29 IST; solver B1/B2/B5-validated'}
     print(json.dumps(out, indent=1) if a.json else
-          f"{rec.id}: A@50uT={A:.4f} tau={tau:.3f}us broken={broken} hops={out['hops_A']}")
+          f"{rec.id}: A@50uT={A:.4f} tau={tau:.3f}us d_term={d_term:.2f}A terminal_pos={terminal_idx}")
 
 if __name__ == '__main__':
     main()

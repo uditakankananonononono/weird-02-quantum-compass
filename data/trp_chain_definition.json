@@ -1,0 +1,47 @@
+{
+ "pdb_source": "6PTZ (Xu et al. 2021, ClCry4 Y319D + FAD; COMPND curation error verified 99.6% ClCry4 identity)",
+ "chain_6ptz_numbering": [
+  395,
+  372,
+  318,
+  369
+ ],
+ "chain_order": "FAD->surface",
+ "edge_hops_A_6PTZ": {
+  "FAD_to_W395": 3.63,
+  "W395_W372": 5.05,
+  "W372_W318": 3.82,
+  "W318_W369": 3.73
+ },
+ "chain_clcry4_uniprot": [
+  395,
+  372,
+  318,
+  369
+ ],
+ "msa_cols": [
+  436,
+  413,
+  359,
+  410
+ ],
+ "ref_chain_residx": [
+  395,
+  372,
+  318,
+  369
+ ],
+ "ref_note": "ref_chain_residx in erCry4 A0A2I4SZI9 numbering",
+ "clcry4_aas": [
+  "W",
+  "W",
+  "W",
+  "W"
+ ],
+ "ercry4_aas": [
+  "W",
+  "W",
+  "W",
+  "W"
+ ]
+}

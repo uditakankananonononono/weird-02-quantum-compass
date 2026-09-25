@@ -73,3 +73,18 @@ the 4th hop). Sequences with a broken chain (missing Trp at a locked column)
 use the triad-minus-one configuration. No per-species hyperfine refitting.
 AUC test: predicted anisotropy A(tau_eff) at 50 uT, migratory(3) vs sedentary(1),
 locked threshold AUC >= 0.75 (pre-reg H1). One-sided gate, no post-hoc metric swaps.
+
+## AMENDMENT M1.2 (LOCKED 20:36 IST, BEFORE any AUC/scoring; supersedes the tau mechanics of M1)
+Physics correction found during CLI diagnostics: tau_eff is NOT the forward chain
+hop rate. tau_eff = 1/k_back where k_back = k0*exp(-beta*(d_term - d0)) is the
+back-ET rate from the TERMINAL chain Trp to the FAD isoalloxazine ring
+(beta=1.4/A, k0=1e13/s, d0=3.6A, as locked). d_term = minimum edge distance
+(Trp indole atoms to isoalloxazine atoms) measured after SVD superposition of
+the species apo fold onto PDB 6PTZ (holo, FAD-bound), transforming the 6PTZ FAD
+into the species frame. Terminal Trp = last consecutive W walking the locked
+chain columns FAD->surface (cols 436,413,359,410 = ClCry4 395,372,318,369);
+a non-W breaks the chain there (triad = terminal at 318-column species).
+Validation anchor (must hold for the scoring run): ClCry4/6PTZ d_term = 15.21 A
+-> tau ~1.1 us; triad (terminal 318) d_term = 12.07 A -> tau ~0.14 us.
+Chain definition grounded in 6PTZ (data/trp_chain_definition.json; COMPND
+misannotation verified: 99.6% identity to ClCry4 A0A386QUR4 vs 57% Cry1).
