@@ -1,0 +1,29 @@
+{
+ "gate": "LOO AUC>=0.75 (locked 23:52 before scoring)",
+ "auc": 0.2065972222222222,
+ "null_median": 0.26232638888888893,
+ "null_p95": 0.4552604166666666,
+ "null_max": 0.5628472222222223,
+ "n": 116,
+ "n_mig": 36,
+ "features": [
+  "trp_total",
+  "trp_cterm150",
+  "ident_erCry4",
+  "trp_gap1",
+  "trp_gap2",
+  "trp_gap3"
+ ],
+ "estimator": "L2 logistic C=1.0, sklearn-equivalent objective, numpy Newton (sklearn unavailable in sandbox)",
+ "feature_mapping": "prereg(a)->trp_cterm150 count; (b)->within cterm count; (c)->ident_erCry4; (d)->trp_gaps[0:3] zero-padded",
+ "result": "FAIL",
+ "univariate_model_free_check": {
+  "trp_total": 0.457,
+  "trp_cterm150": 0.515,
+  "ident_erCry4": 0.532,
+  "gap1": 0.533,
+  "gap2": 0.549,
+  "gap3": 0.512,
+  "note": "model-free rank AUCs all chance-level; estimator sign-verified on toy separable (AUC=1.0) and noise (~0.5) cases; LOO 0.2066 is an instability artifact within the permutation null, not a real anti-signal; no post-hoc sign flip permitted by prereg"
+ }
+}
