@@ -1,0 +1,44 @@
+{
+ "MN709784": {
+  "db": "nuccore",
+  "title": "Erithacus rubecula cryptochrome 4b mRNA, complete cds",
+  "slen": 2002,
+  "organism": "Erithacus rubecula"
+ },
+ "NM_001039596": {
+  "db": "nuccore",
+  "title": "Gallus gallus cryptochrome 4 (LOC395100), mRNA",
+  "slen": 1659,
+  "organism": "Gallus gallus"
+ },
+ "KX168611": {
+  "db": "nuccore",
+  "title": "Columba livia cryptochrome 4 (CRY4) mRNA, complete cds",
+  "slen": 2133,
+  "organism": "Columba livia"
+ },
+ "AY494987": {
+  "db": "nuccore",
+  "title": "Passer domesticus cryptochrome 4 mRNA, partial cds",
+  "slen": 1077,
+  "organism": "Passer domesticus"
+ },
+ "XP_032936297": {
+  "db": "protein",
+  "title": "cryptochrome-1-like [Catharus ustulatus]",
+  "slen": 527,
+  "organism": "Catharus ustulatus"
+ },
+ "XP_039941661": {
+  "db": "protein",
+  "title": "cryptochrome-1-like isoform X3 [Hirundo rustica]",
+  "slen": 527,
+  "organism": "Hirundo rustica"
+ },
+ "XP_068774195": {
+  "db": "protein",
+  "title": "cryptochrome-1-like isoform X1 [Struthio camelus]",
+  "slen": 529,
+  "organism": "Struthio camelus"
+ }
+}
