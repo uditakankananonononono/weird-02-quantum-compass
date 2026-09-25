@@ -46,3 +46,15 @@ benchmark win or match+named-plus-point. Shared pipelines DO NOT transfer gate
 credit between sub-projects: a run counts for a sub-project only when genuinely
 executed FOR that sub-project; item-level shared runs are logged at item level
 and do not inflate sub-project counts. Verdict reporting is per sub-project.
+
+## AMENDMENT 2026-09-25 21:43 IST (user steering, authenticated WhatsApp 9:41-9:42 PM, relayed by parent)
+(1) NOVELTY-LEAD: the paper must lead with what is genuinely NEW - the discovery,
+pipeline/design advance, or new method. Benchmarks are supporting evidence, not
+the headline. If no real novelty claim exists, that is said honestly and a
+novelty-creation plan is named; incremental results are not dressed up.
+(2) ISEF-JUDGE LOOP (completion requirement, per project incl. sub-projects):
+after gates complete, ask ChatGPT (browser, user's account, free tier) whether
+the project would win ISEF and for its weaknesses. Every round recorded verbatim
+in the repo (question, critique, fix applied). Iterate until no material
+weaknesses remain or only wet-lab/large-GPU items are left. Final judge verdict
+reported honestly; never claim a win the judge did not give.
