@@ -1,0 +1,98 @@
+{
+ "Catharus ustulatus": {
+  "migration": 3,
+  "assembly": "GCF_009819885.2_bCatUst1.pri.v2",
+  "n_proteins": 36071,
+  "top_hits": [
+   {
+    "acc": "XP_032936297.1",
+    "evalue": 0.0,
+    "bits": 1205.5
+   },
+   {
+    "acc": "XP_032913984.1",
+    "evalue": 1.3827568539777314e-197,
+    "bits": 658.5
+   },
+   {
+    "acc": "XP_032913983.1",
+    "evalue": 1.916311392199753e-197,
+    "bits": 658.1
+   },
+   {
+    "acc": "XP_032917795.1",
+    "evalue": 1.71240811648708e-191,
+    "bits": 638.4
+   },
+   {
+    "acc": "XP_032917794.1",
+    "evalue": 1.7231626184091666e-191,
+    "bits": 638.4
+   }
+  ]
+ },
+ "Hirundo rustica": {
+  "migration": 3,
+  "assembly": "GCF_015227805.2_bHirRus1.pri.v3",
+  "n_proteins": 36955,
+  "top_hits": [
+   {
+    "acc": "XP_039941661.1",
+    "evalue": 0.0,
+    "bits": 1210.1
+   },
+   {
+    "acc": "XP_039941662.1",
+    "evalue": 0.0,
+    "bits": 1210.1
+   },
+   {
+    "acc": "XP_039941663.1",
+    "evalue": 0.0,
+    "bits": 1210.1
+   },
+   {
+    "acc": "XP_039941664.1",
+    "evalue": 0.0,
+    "bits": 1210.1
+   },
+   {
+    "acc": "XP_039941666.1",
+    "evalue": 0.0,
+    "bits": 1210.1
+   }
+  ]
+ },
+ "Struthio camelus": {
+  "migration": 1,
+  "assembly": "GCF_040807025.1_bStrCam1.hap1",
+  "n_proteins": 60486,
+  "top_hits": [
+   {
+    "acc": "XP_068774195.1",
+    "evalue": 0.0,
+    "bits": 1198.1
+   },
+   {
+    "acc": "XP_068774196.1",
+    "evalue": 0.0,
+    "bits": 1198.1
+   },
+   {
+    "acc": "XP_068774197.1",
+    "evalue": 0.0,
+    "bits": 1198.1
+   },
+   {
+    "acc": "XP_068774198.1",
+    "evalue": 0.0,
+    "bits": 1198.1
+   },
+   {
+    "acc": "XP_068774200.1",
+    "evalue": 0.0,
+    "bits": 1108.4
+   }
+  ]
+ }
+}
