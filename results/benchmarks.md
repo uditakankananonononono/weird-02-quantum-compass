@@ -53,3 +53,23 @@ suppresses S-T mixing faster than reaction samples it; the locked expectation
 was regime-wrong for these parameters (simulator behavior is the physics; the
 expectation erred). Redirect logged: re-lock B4b with the recombination regime
 taken from the source figure before recomputation.
+
+## Methods note (locked 20:26, BEFORE any structure-derived scoring)
+ESM Atlas foldSequence API caps at <500 aa (empirical: 400 OK, 500 -> HTTP 413).
+Empirical cap found 20:27: 400 OK, 410+ -> 413. Rule corrected BEFORE folding:
+first 400 residues (domain core; FAD pocket + Trp chain incl. 4th Trp at ~394 in
+erCry4 numbering sit inside). Sequences whose 4th-chain Trp lies beyond 400 get
+an explicit truncated flag. Tail features remain sequence-level.
+
+## AMENDMENT: simulator parameterization mapping (LOCKED 20:29 IST, BEFORE any AUC/scoring)
+M1 (locked): hyperfine tensors fixed from literature (FAD N5/N10 axial + Trp
+partner; Hiscock 2016 configs as used in B2/B3). Per-species variation enters
+ONLY via effective radical-pair lifetime tau_eff, derived from Trp-chain
+geometry by standard ET theory: each chain hop of length d contributes rate
+k_hop = k0 * exp(-beta*(d - d0)), beta = 1.4/A (Gray-Winkler canonical value),
+k0=1e13/s at van der Waals contact d0=3.6A; tau_eff = 1/kS with kS the
+chain-limited back-ET rate (harmonic sum of hop rates for triad; tetrad adds
+the 4th hop). Sequences with a broken chain (missing Trp at a locked column)
+use the triad-minus-one configuration. No per-species hyperfine refitting.
+AUC test: predicted anisotropy A(tau_eff) at 50 uT, migratory(3) vs sedentary(1),
+locked threshold AUC >= 0.75 (pre-reg H1). One-sided gate, no post-hoc metric swaps.

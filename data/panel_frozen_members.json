@@ -1,0 +1,600 @@
+{
+ "migratory": {
+  "Apus apus": [
+   "XM_051636888",
+   620
+  ],
+  "Chaetura pelagica": [
+   "XM_010005852",
+   570
+  ],
+  "Gavia stellata": [
+   "XM_059817274",
+   622
+  ],
+  "Antrostomus carolinensis": [
+   "XM_010175277",
+   567
+  ],
+  "Calidris pugnax": [
+   "XM_014963979",
+   461
+  ],
+  "Charadrius vociferus": [
+   "XM_009881988",
+   573
+  ],
+  "Fulmarus glacialis": [
+   "XM_009586717",
+   585
+  ],
+  "Phaethon lepturus": [
+   "XM_010290738",
+   584
+  ],
+  "Lathamus discolor": [
+   "XM_065679551",
+   621
+  ],
+  "Ficedula albicollis": [
+   "XM_005039848",
+   620
+  ],
+  "Erithacus rubecula": [
+   "KT380948",
+   620
+  ],
+  "Empidonax traillii": [
+   "XM_027886629",
+   620
+  ],
+  "Agelaius phoeniceus": [
+   "XM_054631870",
+   620
+  ],
+  "Sylvia atricapilla": [
+   "KC691287",
+   620
+  ],
+  "Sylvia borin": [
+   "AJ632120",
+   620
+  ],
+  "Zonotrichia albicollis": [
+   "XM_005491170",
+   620
+  ],
+  "Zonotrichia leucophrys gambelii": [
+   "XM_064702516",
+   620
+  ],
+  "Ammospiza nelsoni": [
+   "XM_059471837",
+   620
+  ],
+  "Ammospiza caudacuta": [
+   "XM_058805008",
+   620
+  ],
+  "Molothrus ater": [
+   "XM_036400416",
+   620
+  ],
+  "Catharus ustulatus": [
+   "XM_033058092",
+   620
+  ],
+  "Motacilla alba alba": [
+   "XM_038155640",
+   620
+  ],
+  "Melospiza georgiana": [
+   "XM_058022374",
+   620
+  ],
+  "Hirundo rustica": [
+   "XM_040061678",
+   620
+  ],
+  "Falco naumanni": [
+   "XM_040593916",
+   620
+  ],
+  "Falco cherrug": [
+   "XM_055710683",
+   620
+  ],
+  "Falco rusticolus": [
+   "XM_037387508",
+   620
+  ],
+  "Numenius arquata": [
+   "XM_074169129",
+   620
+  ],
+  "Calonectris borealis": [
+   "XM_075156645",
+   639
+  ],
+  "Coturnix japonica": [
+   "XM_085539342",
+   661
+  ],
+  "Cygnus olor": [
+   "XM_040559753",
+   621
+  ],
+  "Anas acuta": [
+   "XM_068664613",
+   621
+  ],
+  "Cuculus canorus": [
+   "XM_009557610",
+   619
+  ],
+  "Ciconia boyciana": [
+   "XM_072870405",
+   620
+  ],
+  "Grus americana": [
+   "XM_054813766",
+   620
+  ],
+  "Haliaeetus leucocephalus": [
+   "XM_010585455",
+   557
+  ]
+ },
+ "sedentary": {
+  "Chlamydotis macqueenii": [
+   "XM_086753885",
+   639
+  ],
+  "Heliangelus exortis": [
+   "XM_071729106",
+   620
+  ],
+  "Opisthocomus hoazin": [
+   "XM_075428041",
+   620
+  ],
+  "Apteryx mantelli": [
+   "XM_067308814",
+   621
+  ],
+  "Apteryx rowi": [
+   "XM_026056817",
+   578
+  ],
+  "Eurypyga helias": [
+   "XM_010160904",
+   567
+  ],
+  "Buceros rhinoceros silvestris": [
+   "XM_010136611",
+   632
+  ],
+  "Manacus vitellinus": [
+   "XM_029963404",
+   578
+  ],
+  "Geospiza fortis": [
+   "XM_014307378",
+   569
+  ],
+  "Parus major": [
+   "XM_019006761",
+   461
+  ],
+  "Acanthisitta chloris": [
+   "XM_009070505",
+   578
+  ],
+  "Pithys albifrons albifrons": [
+   "XM_071551007",
+   620
+  ],
+  "Strix uralensis": [
+   "XM_074871926",
+   620
+  ],
+  "Strix aluco": [
+   "XM_074825824",
+   620
+  ],
+  "Athene cunicularia": [
+   "XM_026865634",
+   462
+  ],
+  "Cariama cristata": [
+   "XM_009705171",
+   570
+  ],
+  "Neopelma chrysocephalum": [
+   "XM_027680404",
+   620
+  ],
+  "Myiozetetes cayanensis": [
+   "XM_050323703",
+   620
+  ],
+  "Pseudopipra pipra": [
+   "XM_064654879",
+   620
+  ],
+  "Manacus candei": [
+   "XM_051784588",
+   620
+  ],
+  "Pipra filicauda": [
+   "XM_027715127",
+   620
+  ],
+  "Chiroxiphia lanceolata": [
+   "XM_032687872",
+   620
+  ],
+  "Lepidothrix coronata": [
+   "XM_017804782",
+   620
+  ],
+  "Aphelocoma coerulescens": [
+   "XM_069002938",
+   620
+  ],
+  "Corvus hawaiiensis": [
+   "XM_048300261",
+   620
+  ],
+  "Corvus kubaryi": [
+   "XM_042051121",
+   620
+  ],
+  "Corvus moneduloides": [
+   "XM_032107635",
+   620
+  ],
+  "Vidua macroura": [
+   "XM_053979095",
+   620
+  ],
+  "Vidua chalybeata": [
+   "XM_053944176",
+   620
+  ],
+  "Malurus melanocephalus": [
+   "XM_057381074",
+   620
+  ],
+  "Lonchura striata": [
+   "XM_021535870",
+   620
+  ],
+  "Molothrus aeneus": [
+   "XM_066549801",
+   620
+  ],
+  "Chamaea fasciata": [
+   "XM_066183980",
+   620
+  ],
+  "Passer domesticus": [
+   "XM_064420417",
+   620
+  ],
+  "Passer montanus": [
+   "XM_039725572",
+   620
+  ],
+  "Cinclus cinclus": [
+   "XM_062492123",
+   620
+  ],
+  "Serinus canaria": [
+   "XM_030238000",
+   618
+  ],
+  "Cyanistes caeruleus": [
+   "XM_086887242",
+   620
+  ],
+  "Melozone crissalis": [
+   "XM_054273453",
+   620
+  ],
+  "Prinia subflava": [
+   "XM_063395753",
+   620
+  ],
+  "Patagioenas fasciata": [
+   "XM_065838886",
+   620
+  ],
+  "Columba livia": [
+   "KX168607",
+   620
+  ],
+  "Tyto alba": [
+   "XM_042792549",
+   621
+  ],
+  "Athene noctua": [
+   "XM_074901909",
+   621
+  ],
+  "Neopsephotus bourkii": [
+   "XM_061371821",
+   621
+  ],
+  "Pezoporus wallicus": [
+   "XM_057420483",
+   621
+  ],
+  "Pezoporus occidentalis": [
+   "XM_062602741",
+   627
+  ],
+  "Strigops habroptila": [
+   "XM_030478447",
+   620
+  ],
+  "Nestor notabilis": [
+   "XM_010010346",
+   567
+  ],
+  "Mesitornis unicolor": [
+   "XM_010192841",
+   568
+  ],
+  "Harpia harpyja": [
+   "XM_052789489",
+   620
+  ],
+  "Apaloderma vittatum": [
+   "XM_009870532",
+   421
+  ],
+  "Struthio camelus": [
+   "XM_068943972",
+   621
+  ],
+  "Tinamus guttatus": [
+   "XM_088535349",
+   621
+  ],
+  "Nothoprocta perdicaria": [
+   "XM_026052220",
+   621
+  ],
+  "Dromaius novaehollandiae": [
+   "XM_026117945",
+   621
+  ],
+  "Rhea americana": [
+   "XM_085321686",
+   621
+  ],
+  "Rhea pennata": [
+   "XM_062589058",
+   621
+  ],
+  "Cyrtonyx montezumae": [
+   "XM_065743080",
+   621
+  ],
+  "Gallus gallus": [
+   "AY034432",
+   621
+  ],
+  "Lagopus muta": [
+   "XM_048956813",
+   621
+  ],
+  "Tympanuchus pallidicinctus": [
+   "XM_052668596",
+   621
+  ],
+  "Phasianus colchicus": [
+   "XM_031600058",
+   621
+  ],
+  "Centrocercus urophasianus": [
+   "XM_042837763",
+   621
+  ],
+  "Lagopus leucura": [
+   "XM_042889900",
+   621
+  ],
+  "Meleagris gallopavo": [
+   "XM_085227606",
+   621
+  ],
+  "Numida meleagris": [
+   "XM_021386586",
+   621
+  ],
+  "Oxyura jamaicensis": [
+   "XM_035340816",
+   621
+  ],
+  "Colius striatus": [
+   "XM_062011745",
+   621
+  ],
+  "Phaenicophaeus curvirostris": [
+   "XM_069859589",
+   619
+  ],
+  "Leptosomus discolor": [
+   "XM_086479597",
+   620
+  ],
+  "Balearica regulorum gibbericeps": [
+   "XM_075754104",
+   620
+  ],
+  "Nyctibius grandis": [
+   "XM_068400630",
+   620
+  ],
+  "Tauraco erythrolophus": [
+   "XM_086611119",
+   655
+  ],
+  "Pogoniulus pusillus": [
+   "XM_064155388",
+   620
+  ],
+  "Melanerpes formicivorus": [
+   "XM_068142320",
+   620
+  ],
+  "Dryobates pubescens": [
+   "XM_054167589",
+   620
+  ],
+  "Indicator indicator": [
+   "XM_054387004",
+   620
+  ],
+  "Nipponia nippon": [
+   "XM_087764154",
+   620
+  ],
+  "Gymnogyps californianus": [
+   "XM_050915611",
+   620
+  ]
+ },
+ "partial": {
+  "Haemorhous mexicanus": [
+   "XM_059846264",
+   675
+  ],
+  "Larus michahellis": [
+   "XM_074580702",
+   620
+  ],
+  "Rissa tridactyla": [
+   "XM_054213692",
+   620
+  ],
+  "Calypte anna": [
+   "XM_030444701",
+   620
+  ],
+  "Merops nubicus": [
+   "XM_008940650",
+   567
+  ],
+  "Aptenodytes forsteri": [
+   "XM_019471453",
+   461
+  ],
+  "Pygoscelis adeliae": [
+   "XM_009333067",
+   570
+  ],
+  "Corvus brachyrhynchos": [
+   "XM_017737914",
+   575
+  ],
+  "Melopsittacus undulatus": [
+   "XM_005150419",
+   621
+  ],
+  "Egretta garzetta": [
+   "XM_035889192",
+   461
+  ],
+  "Sturnus vulgaris": [
+   "XM_014876976",
+   620
+  ],
+  "Taeniopygia guttata": [
+   "XM_030263132",
+   620
+  ],
+  "Agelaius tricolor": [
+   "XM_071422704",
+   620
+  ],
+  "Pyrgilauda ruficollis": [
+   "XM_041481591",
+   620
+  ],
+  "Onychostruthus taczanowskii": [
+   "XM_041416732",
+   620
+  ],
+  "Pseudopodoces humilis": [
+   "XM_005527535",
+   620
+  ],
+  "Melospiza melodia melodia": [
+   "XM_063154386",
+   620
+  ],
+  "Anomalospiza imberbis": [
+   "XM_068191062",
+   620
+  ],
+  "Caloenas nicobarica": [
+   "XM_065643237",
+   621
+  ],
+  "Falco biarmicus": [
+   "XM_056339166",
+   620
+  ],
+  "Falco peregrinus": [
+   "XM_005237343",
+   620
+  ],
+  "Phalacrocorax carbo": [
+   "XM_064455813",
+   620
+  ],
+  "Pelecanus crispus": [
+   "XM_075704687",
+   629
+  ],
+  "Aptenodytes patagonicus": [
+   "XM_076339034",
+   620
+  ],
+  "Aquila chrysaetos chrysaetos": [
+   "XM_030040073",
+   620
+  ],
+  "Buteo buteo": [
+   "XM_075051698",
+   620
+  ],
+  "Haliaeetus albicilla": [
+   "XM_069807380",
+   620
+  ],
+  "Cygnus atratus": [
+   "XM_035569237",
+   621
+  ],
+  "Anas platyrhynchos": [
+   "XM_027449814",
+   621
+  ],
+  "Aythya fuligula": [
+   "XM_032200236",
+   621
+  ],
+  "Mycteria americana": [
+   "XM_075501823",
+   620
+  ],
+  "Pterocles gutturalis": [
+   "XM_010084167",
+   567
+  ]
+ }
+}

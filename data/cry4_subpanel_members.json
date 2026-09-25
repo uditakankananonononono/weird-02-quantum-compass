@@ -1,0 +1,38 @@
+{
+ "refseq": {
+  "Columba livia": "KX168611",
+  "Gallus gallus": "NM_001039596",
+  "Passer domesticus": "AY494987",
+  "Erithacus rubecula": "MN709784"
+ },
+ "mined": {
+  "Catharus ustulatus": [
+   "XP_032936297.1",
+   0.0
+  ],
+  "Ficedula albicollis": [
+   "ENSFALP00000002532.1",
+   0.0
+  ],
+  "Hirundo rustica": [
+   "XP_039941661.1",
+   0.0
+  ],
+  "Pavo cristatus": [
+   "ENSPSTP00000009578.1",
+   1.3334006551878815e-172
+  ],
+  "Serinus canaria": [
+   "ENSSCAP00000009299.1",
+   0.0
+  ],
+  "Struthio camelus": [
+   "XP_068774195.1",
+   0.0
+  ],
+  "Zonotrichia albicollis": [
+   "ENSZALP00000018676.1",
+   0.0
+  ]
+ }
+}
