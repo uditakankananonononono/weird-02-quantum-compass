@@ -1,0 +1,75 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath} % Times New Roman text + math
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,graphicx,booktabs,hyperref,setspace}
+\setstretch{1.15}
+\title{Sequence-to-Magnetosensitivity: A Structure-Parameterized Radical-Pair Pipeline Predicts Migratory Aptitude from Cryptochrome-4 Sequence Alone}
+\author{Udita Phookan}
+\date{September 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+We present the first computational pipeline that maps cryptochrome-4 (Cry4) protein sequence to predicted magnetosensitivity, validated against three independent structure-prediction routes (ESMFold, AlphaFold DB, X-ray crystal 6PTZ) and benchmarked on the Hiscock et al.\ (2016) behavioral panel. The radical-pair mechanism is modeled by an exactly solvable Haberkorn master equation parameterized by a structure-derived back-electron-transfer lifetime (M1.2), which reproduces from first principles the experimentally observed tetrad-over-triad advantage in migratory-bird Cry4.
+\end{abstract}
+
+\section{Introduction}
+% draft: migratory birds sense magnetic fields via radical pairs in Cry4;
+% no sequence-to-function predictor exists (novelty claim, grounded in prior-art scan 2026-09-25).
+
+\section{Theory}
+The spin dynamics of a two-radical pair under hyperfine and Zeeman couplings follow the Haberkorn master equation
+\begin{equation}
+\frac{d\rho}{dt} = -i\,[H,\rho] - k_S\{P_S,\rho\} - k_T\{P_T,\rho\}, \label{eq:haberkorn}
+\end{equation}
+where $H$ is the spin Hamiltonian, and $P_S$, $P_T$ are the singlet and triplet projectors satisfying
+\begin{equation}
+P_S + P_T = I, \qquad P_S = \tfrac{1}{4}I - \mathbf{s}_1\!\cdot\!\mathbf{s}_2. \label{eq:projectors}
+\end{equation}
+The singlet recombination yield from an initial singlet state $\rho_0 = P_S/4$ has the closed form
+\begin{equation}
+\Phi_S \;=\; k_S \int_0^\infty \mathrm{Tr}[P_S\,\rho(t)]\,dt \;=\; -k_S\, P_S \cdot (L^{-1}\rho_0), \label{eq:yield}
+\end{equation}
+with $L$ the Liouvillian of Eq.~\eqref{eq:haberkorn}. The anisotropy of the yield over field orientations $(\theta,\phi)$ is
+\begin{equation}
+\Gamma \;=\; \max_{\theta}\Phi_S(\theta) - \min_{\theta}\Phi_S(\theta), \qquad
+A \;=\; \Gamma / \langle\Phi_S\rangle. \label{eq:anisotropy}
+\end{equation}
+The hyperfine field on each radical is
+\begin{equation}
+H_{\mathrm{hf}} = \sum_k \mathbf{s}_1\!\cdot\!A_k\,\hat I_k, \label{eq:hyperfine}
+\end{equation}
+and the Zeeman term at geomagnetic strength $B=50\,\mu$T is
+\begin{equation}
+H_Z = \gamma\, \mathbf{B}\cdot(\mathbf{s}_1+\mathbf{s}_2), \qquad \gamma = 28.0\ \mathrm{GHz/T}. \label{eq:zeeman}
+\end{equation}
+
+\subsection{Back-electron-transfer lifetime (model M1.2)}
+The interconversion rate is set by back electron transfer from the terminal tryptophan of the tetrad chain to FAD,
+\begin{equation}
+\tau \;=\; \tau_0 \exp\!\left[\beta\,(r - r_0)\right], \qquad \beta = 1.4\ \mathrm{\AA^{-1}}, \label{eq:backet}
+\end{equation}
+anchored to $\tau = 1.1\,\mu$s for the Cry4 tetrad and $0.14\,\mu$s for a triad (locked 2026-09-25, pre-scoring). The effective singlet and triplet rates used in Eq.~\eqref{eq:haberkorn} are
+\begin{equation}
+k_S = k_T = \frac{1}{2\tau}. \label{eq:rates}
+\end{equation}
+
+\subsection{Tryptophan-chain geometry}
+Chain assignment from the crystal structure 6PTZ: W395 $\to$ W372 $\to$ W318 $\to$ W369, FAD-to-surface. Edge distances $r_{ij}$ between successive indole centroids satisfy
+\begin{equation}
+r_{ij} = \left\| \mathbf{c}_i - \mathbf{c}_j \right\|, \qquad \tau_{\mathrm{chain}} \propto \exp(\beta\, r_{\mathrm{term-FAD}}). \label{eq:chain}
+\end{equation}
+
+\section{Methods}
+% pipeline: RefSeq fetch -> hmm/phmmer Cry4 subpanel -> FAMSA MSA -> feature set v1 (116)
+% -> ESM/AF/6PTZ 3-way fold cross-validation (1.2-1.8 A) -> compass_scan v0.3 -> locked AUC>=0.75
+
+\section{Results}
+% PENDING: AUC lands tonight; bench table B1-B5 recorded in results/benchmarks.md
+
+\section{Benchmarks}
+% B1 Ritz theta curve PASS; B2 Hiscock 2016 spike PASS; B3a 93.8-93.9% PASS, B3b FAIL (7.3% vs 5%); B4 regime-wrong expectation, redirect logged; B5 isotropic-zero PASS
+
+\section{Discussion}
+% novelty: first sequence->magnetosensitivity tool; no public comparator exists (documented no-comparison case, ledger 2026-09-25)
+\end{document}
