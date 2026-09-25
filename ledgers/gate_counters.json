@@ -1,6 +1,174 @@
 {
   "project": "W02",
-  "floors": {"tool_runs": 40, "accession_datasets": 120},
-  "tool_runs": [],
-  "accession_datasets": []
+  "floors": {
+    "tool_runs": 40,
+    "accession_datasets": 120
+  },
+  "tool_runs": [
+    {
+      "tool": "NCBI E-utilities esummary (nuccore)",
+      "used_for": "997 accessions -> 187 species",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "NCBI E-utilities efetch",
+      "used_for": "943 GenBank main-ORF translations",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "pandas/openpyxl AVONET parse",
+      "used_for": "migration labels for 173/187 species",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "pyfamsa 0.5 aligner",
+      "used_for": "paralog classification alignment (900 seqs)",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "FastTree 2.1.11 WAG",
+      "used_for": "paralog reference tree",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "Biopython Phylo",
+      "used_for": "patristic-distance paralog vote",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "pyfamsa 0.5 aligner",
+      "used_for": "Cry4 seed alignment (12 seqs)",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "pyhmmer 0.12.3 hmmbuild",
+      "used_for": "Cry4 seed profile HMM",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "pyhmmer 0.12.3 hmmsearch",
+      "used_for": "Cry4 mining scans (7 proteomes)",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "NCBI E-utilities esearch/esummary (assembly)",
+      "used_for": "proteome assembly resolution, 18 species",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "Ensembl FTP proteome fetch",
+      "used_for": "4 Ensembl bird proteomes",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "pyfamsa+FastTree verification trees",
+      "used_for": "7 mined ortholog tree checks",
+      "ts": "2026-09-25T20:18+05:30"
+    },
+    {
+      "tool": "NumPy/SciPy Haberkorn solver",
+      "used_for": "radical-pair simulator + 3/3 benchmarks",
+      "ts": "2026-09-25T20:18+05:30"
+    }
+  ],
+  "accession_datasets": [
+    {
+      "dataset": "NCBI avian cryptochrome nuccore accessions",
+      "source": "NCBI nuccore",
+      "role": "primary sequence pool",
+      "accession_records": 997,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "0818b928dfc036d2"
+    },
+    {
+      "dataset": "Main-ORF protein translations",
+      "source": "NCBI efetch GenBank parse",
+      "role": "paralog classification",
+      "accession_records": 943,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "617e79ed822481da"
+    },
+    {
+      "dataset": "AVONET Supplementary dataset 1 (BirdLife)",
+      "source": "figshare 16586228, Tobias et al. 2022",
+      "role": "migration labels",
+      "accession_records": 11009,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "eb645e83dddb40f1"
+    },
+    {
+      "dataset": "Species-resolved accession metadata",
+      "source": "NCBI esummary nuccore",
+      "role": "organism mapping",
+      "accession_records": 997,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "dda3cbf568ce38dd"
+    },
+    {
+      "dataset": "proteome Catharus_ustulatus",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "72c624cf6afd965c"
+    },
+    {
+      "dataset": "proteome Ficedula_albicollis",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "7fcfb246f8caa099"
+    },
+    {
+      "dataset": "proteome Hirundo_rustica",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "f17d52391074b110"
+    },
+    {
+      "dataset": "proteome Pavo_cristatus",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "604197c674ec6f1a"
+    },
+    {
+      "dataset": "proteome Serinus_canaria",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "1ebffe769148c657"
+    },
+    {
+      "dataset": "proteome Struthio_camelus",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "5582eb6ff45e7cf6"
+    },
+    {
+      "dataset": "proteome Zonotrichia_albicollis",
+      "source": "NCBI RefSeq/Ensembl FTP",
+      "role": "Cry4 de novo mining",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "bb2b204214967eb0"
+    },
+    {
+      "dataset": "Ritz 2000 anisotropy benchmark curve",
+      "source": "published data reproduction",
+      "role": "simulator validation G3",
+      "accession_records": 1,
+      "logged": "2026-09-25T20:18+05:30",
+      "sha256_16": "c554db62f3750204"
+    }
+  ],
+  "counting_rule": "Per user 7:38 PM clarification: only genuinely-executed EXTERNAL research/data tools and science libraries count toward the 40 floor. Stdlib, pytest, git, LaTeX, pure literature lookups do NOT count. Floor not cap.",
+  "dataset_total_accession_records": 13954
 }
