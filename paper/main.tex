@@ -115,6 +115,10 @@ Grounded in Xu et al.\ (2021) - whose accepted manuscript confirms the migratory
 \section{Benchmarks}
 % B1 Ritz theta curve PASS; B2 Hiscock 2016 spike PASS; B3a 93.8-93.9% PASS, B3b FAIL (7.3% vs 5%); B4 regime-wrong expectation, redirect logged; B5 isotropic-zero PASS
 
+
+\subsection{Attempt 4: physics-forward MFE replication (pre-registered)}
+Following three pre-registered negative results (Sections above), we pre-registered a fourth, physics-forward angle before any outcome inspection (PREREG\_ATTEMPT4.md, locked 00:12 IST, amended 00:13, 00:59 and 03:00 with gates unchanged). Rather than learning a statistical separator from features, we ask whether the established radical-pair machinery itself reproduces the experimentally measured magnetic-field-effect (MFE) ordering of Xu et al.\ 2021: European robin Cry4 (erCry4) more magnetically sensitive than pigeon (ClCry4) and chicken (GgCry4) Cry4. We compute the singlet-yield anisotropy curve $S(\tau)$ over $\tau \in [0.1, 10]\,\mu$s (16-point log-dense grid) from the Haberkorn master equation with the locked M1.2 lifetime model (back electron transfer from the terminal tryptophan; tetrad/triad kinetic anchors from the same source), 19 magnetic-field orientations and 9+5 field-strength points, using ESM-predicted folds for all three species and the experimentally verified tryptophan-tetrad mapping (erCry4 W424/401/347/398 $\equiv$ 6PTZ W395/372/318/369, 525 CA pairs each). Five gates were locked before computation: P1 ordering ($S_{\mathrm{er}} > S_{\mathrm{Cl}} \wedge S_{\mathrm{er}} > S_{\mathrm{Gg}}$), P2 anchor robustness, P3 equalized-$d_{\mathrm{term}}$ control, P4 sign consistency, P5 window stability. The outcome is reported honestly whatever the gate pattern.
+
 \section{Discussion}
 % to be completed with attempt-4 outcome; key honest points to make:
 % (1) three-way structure cross-validation shows chain geometry is conserved -
