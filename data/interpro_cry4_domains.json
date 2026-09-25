@@ -1,0 +1,54 @@
+{
+ "ClCry4": [
+  {
+   "ipr": "IPR002081",
+   "name": "Cryptochrome/DNA photolyase class 1"
+  },
+  {
+   "ipr": "IPR005101",
+   "name": "Cryptochrome/DNA photolyase, FAD-binding domain"
+  },
+  {
+   "ipr": "IPR006050",
+   "name": "DNA photolyase, N-terminal"
+  },
+  {
+   "ipr": "IPR014729",
+   "name": "Rossmann-like alpha/beta/alpha sandwich fold"
+  },
+  {
+   "ipr": "IPR036134",
+   "name": "Cryptochrome/DNA photolyase, FAD-binding domain-like superfamily"
+  },
+  {
+   "ipr": "IPR036155",
+   "name": "Cryptochrome/photolyase, N-terminal domain superfamily"
+  }
+ ],
+ "erCry4_CORRECTED_A0A2I4SZI9": [
+  {
+   "ipr": "IPR002081",
+   "name": "Cryptochrome/DNA photolyase class 1"
+  },
+  {
+   "ipr": "IPR005101",
+   "name": "Cryptochrome/DNA photolyase, FAD-binding domain"
+  },
+  {
+   "ipr": "IPR006050",
+   "name": "DNA photolyase, N-terminal"
+  },
+  {
+   "ipr": "IPR014729",
+   "name": "Rossmann-like alpha/beta/alpha sandwich fold"
+  },
+  {
+   "ipr": "IPR036134",
+   "name": "Cryptochrome/DNA photolyase, FAD-binding domain-like superfamily"
+  },
+  {
+   "ipr": "IPR036155",
+   "name": "Cryptochrome/photolyase, N-terminal domain superfamily"
+  }
+ ]
+}
