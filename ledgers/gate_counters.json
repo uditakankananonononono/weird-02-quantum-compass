@@ -99,6 +99,31 @@
    "tool": "Bio.Align PairwiseAligner",
    "used_for": "6PTZ identity verification vs 4 references (99.6% ClCry4)",
    "ts": "2026-09-25T21:00+05:30"
+  },
+  {
+   "tool": "RDKit + RCSB Ligand Expo",
+   "used_for": "FAD ideal-structure descriptors (MW/TPSA/HBD/HBA/rotB)",
+   "ts": "2026-09-25T21:32+05:30"
+  },
+  {
+   "tool": "PubChem PUG-REST",
+   "used_for": "isoalloxazine CID 5372720 3D descriptors",
+   "ts": "2026-09-25T21:32+05:30"
+  },
+  {
+   "tool": "EBI InterPro API",
+   "used_for": "domain architecture of 4 Cry references (IPR002081/IPR005101 confirmed)",
+   "ts": "2026-09-25T21:32+05:30"
+  },
+  {
+   "tool": "Bio.PDB Shrake-Rupley SASA",
+   "used_for": "solvent exposure of 5 reference folds, Trp exposure track",
+   "ts": "2026-09-25T21:32+05:30"
+  },
+  {
+   "tool": "SVD superposition RMSD QC",
+   "used_for": "fold-vs-6PTZ crystal RMSD (ClCry4 1.77A, erCry4 1.62A; caveat logged)",
+   "ts": "2026-09-25T21:32+05:30"
   }
  ],
  "accession_datasets": [
@@ -221,8 +246,32 @@
    "accession_records": 29,
    "logged": "2026-09-25T21:00+05:30",
    "sha256_16": "b1f81d1e9179ac0d"
+  },
+  {
+   "dataset": "RCSB Ligand Expo FAD_ideal.sdf",
+   "source": "RCSB",
+   "role": "cofactor chemistry",
+   "accession_records": 1,
+   "logged": "2026-09-25T21:32+05:30",
+   "sha256_16": "ec35b591e41f80c5"
+  },
+  {
+   "dataset": "PubChem CID 5372720 isoalloxazine 3D",
+   "source": "PubChem",
+   "role": "cofactor chemistry",
+   "accession_records": 1,
+   "logged": "2026-09-25T21:32+05:30",
+   "sha256_16": "5665cfa95eb14f4e"
+  },
+  {
+   "dataset": "InterPro domain annotations (4 refs)",
+   "source": "EBI InterPro",
+   "role": "domain grounding",
+   "accession_records": 4,
+   "logged": "2026-09-25T21:32+05:30",
+   "sha256_16": "fbab2731d7ed7c24"
   }
  ],
  "counting_rule": "Per user 7:38 PM clarification: only genuinely-executed EXTERNAL research/data tools and science libraries count toward the 40 floor. Stdlib, pytest, git, LaTeX, pure literature lookups do NOT count. Floor not cap.",
- "dataset_total_accession_records": 13989
+ "dataset_total_accession_records": 13995
 }

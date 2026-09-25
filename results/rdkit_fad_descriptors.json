@@ -1,0 +1,20 @@
+{
+ "FAD": {
+  "source": "RCSB Ligand Expo FAD_ideal",
+  "MW": 785.56,
+  "TPSA": 362.93,
+  "HBD": 9,
+  "HBA": 19,
+  "rotB": 13,
+  "atoms": 53
+ },
+ "isoalloxazine": {
+  "source": "PubChem CID 5372720",
+  "MW": 214.18,
+  "TPSA": 91.5,
+  "HBD": 2,
+  "HBA": 4,
+  "rotB": 0,
+  "atoms": 16
+ }
+}
