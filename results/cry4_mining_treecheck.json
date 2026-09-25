@@ -1,0 +1,65 @@
+{
+ "Catharus ustulatus": {
+  "acc": "XP_032936297",
+  "tree_class": "Cry4",
+  "neighbors": [
+   [
+    "MN709784",
+    "Cry4",
+    0.0468
+   ],
+   [
+    "KX890129",
+    "Cry4",
+    0.0468
+   ],
+   [
+    "AY494987",
+    "Cry4",
+    0.0646
+   ]
+  ]
+ },
+ "Hirundo rustica": {
+  "acc": "XP_039941661",
+  "tree_class": "Cry4",
+  "neighbors": [
+   [
+    "MN709784",
+    "Cry4",
+    0.0545
+   ],
+   [
+    "KX890129",
+    "Cry4",
+    0.0545
+   ],
+   [
+    "AY494987",
+    "Cry4",
+    0.059
+   ]
+  ]
+ },
+ "Struthio camelus": {
+  "acc": "XP_068774195",
+  "tree_class": "Cry4",
+  "neighbors": [
+   [
+    "NM_001039596",
+    "Cry4",
+    0.1298
+   ],
+   [
+    "XM_046932841",
+    "Cry4",
+    0.1298
+   ],
+   [
+    "XM_046932840",
+    "Cry4",
+    0.1298
+   ]
+  ]
+ }
+}
