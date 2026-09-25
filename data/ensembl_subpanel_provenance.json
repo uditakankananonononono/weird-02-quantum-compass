@@ -1,0 +1,30 @@
+{
+ "ENSFALP00000002532": {
+  "display_name": null,
+  "species": "ficedula_albicollis",
+  "biotype": null,
+  "gene": "ENSFALT00000002544",
+  "length": 527
+ },
+ "ENSPSTP00000009578": {
+  "display_name": null,
+  "species": "pavo_cristatus",
+  "biotype": null,
+  "gene": "ENSPSTT00000010058",
+  "length": 280
+ },
+ "ENSSCAP00000009299": {
+  "display_name": null,
+  "species": "serinus_canaria",
+  "biotype": null,
+  "gene": "ENSSCAT00000010504",
+  "length": 527
+ },
+ "ENSZALP00000018676": {
+  "display_name": null,
+  "species": "zonotrichia_albicollis",
+  "biotype": null,
+  "gene": "ENSZALT00000024665",
+  "length": 527
+ }
+}
