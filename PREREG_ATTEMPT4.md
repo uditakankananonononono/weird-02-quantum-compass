@@ -25,3 +25,7 @@ B grid: 12 points 0-200 uT + 8 points 0.2-2 mT; 65-orientation Lebedev grid as v
 
 ## COMPUTE AMENDMENT (00:59, before any gate evaluation; logged)
 Stage-1 at the locked resolution (65 orientations x 20 B x 25 taus) measured ~15 min/tau (~6h total) - intractable before the deadline. Numerical resolution amended: orientation grid 65 -> 25 (every 3rd Lebedev point, same sphere coverage), primary B grid 12 -> 9 points (same 0-200 uT range), parallelized across taus. GATES, METRIC, WINDOW, TAU GRID UNCHANGED. The 2 partially computed tau points (0.1, 0.2) are discarded; the curve is recomputed uniformly at the amended resolution. This changes compute granularity only, not any decision rule.
+
+
+## COMPUTE AMENDMENT 2 (03:00, before gate evaluation; logged)
+The sandbox has recycled processes repeatedly tonight (PIDs reused, daemons killed mid-run), giving ~2 tau points/hour effective throughput. Tau grid amended 25 -> 16 points (log-dense 0.1-10 us, same span; all gate taus - species WT/triad - fall inside). Engine made incremental (per-tau JSONL resume) + supervisor-restarted. Gates, metric, window, anchors UNCHANGED. Previously computed partial curve points are kept only if computed at the current amended resolution; otherwise recomputed.

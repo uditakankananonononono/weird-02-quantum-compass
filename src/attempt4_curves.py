@@ -102,10 +102,20 @@ def main():
                    'ca_pairs': npairs}
         print(sp, res[sp], flush=True)
     # universal S(tau) curve
-    tau_grid = np.concatenate([np.linspace(0.1, 1.0, 10), np.linspace(1.2, 10.0, 15)])
+    tau_grid = np.array([0.1,0.15,0.2,0.3,0.4,0.5,0.65,0.8,1.0,1.5,2.0,3.0,4.0,5.0,7.0,10.0])  # amended 03:00
     from multiprocessing import Pool
-    with Pool(2) as p:
-        curve = dict(p.map(curve_one, list(tau_grid)))
+    done = {}
+    if os.path.exists('results/a4_curve_incr.jsonl'):
+        for line in open('results/a4_curve_incr.jsonl'):
+            r = json.loads(line); done[r['tau']] = r['val']
+    todo = [t for t in tau_grid if round(float(t),3) not in done]
+    curve = dict(done)
+    if todo:
+        with Pool(2) as p:
+            for k, v in p.imap_unordered(curve_one, todo):
+                curve[k] = v
+                with open('results/a4_curve_incr.jsonl','a') as fh:
+                    fh.write(json.dumps({'tau': k, 'val': v})+'\n')
     print('curve done', flush=True)
     json.dump({'species': res, 'tau_grid_S': curve,
                'B_wide_uT': [round(float(b)*1e6,1) for b in B_WIDE], 'window_uT': [25,65]},
