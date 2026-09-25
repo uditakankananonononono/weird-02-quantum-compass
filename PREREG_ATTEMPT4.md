@@ -21,3 +21,7 @@ Sensitivity curve A(B) = anisotropy amplitude (Eq. 4 of paper) vs field strength
 
 ## Compute plan (locked)
 B grid: 12 points 0-200 uT + 8 points 0.2-2 mT; 65-orientation Lebedev grid as validated. Configs: 3 species WT + erCry4-WDF + 2 ablations = 6 primary + tau-grid (15 taus, 3 species) for P4. Est. ~40 min CPU serial. Results to results/h1_attempt4_curves.json. If ANY gate fails: recorded honestly; paper reports outcome; further redirection only via new user-directed ChatGPT consult.
+
+
+## COMPUTE AMENDMENT (00:59, before any gate evaluation; logged)
+Stage-1 at the locked resolution (65 orientations x 20 B x 25 taus) measured ~15 min/tau (~6h total) - intractable before the deadline. Numerical resolution amended: orientation grid 65 -> 25 (every 3rd Lebedev point, same sphere coverage), primary B grid 12 -> 9 points (same 0-200 uT range), parallelized across taus. GATES, METRIC, WINDOW, TAU GRID UNCHANGED. The 2 partially computed tau points (0.1, 0.2) are discarded; the curve is recomputed uniformly at the amended resolution. This changes compute granularity only, not any decision rule.

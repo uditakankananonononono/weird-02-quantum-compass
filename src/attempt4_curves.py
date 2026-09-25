@@ -42,20 +42,52 @@ def S_of_tau(tau_us, Bgrid):
         return float(np.trapezoid(Aw, Bw) if hasattr(np,'trapezoid') else np.trapz(Aw, Bw)), A
     return float(np.trapezoid(A[m], Bgrid[m]) if hasattr(np,'trapezoid') else np.trapz(A[m], Bgrid[m])), A
 
+
+def species_chain(acc, fold_name):
+    """Pairwise-align species seq to ClCry4 (A0A386QUR4) reference; map chain Ws; return (d_term_WT, d_term_triad)."""
+    from Bio.Align import PairwiseAligner
+    import compass_scan as cs
+    # ClCry4 reference sequence from MSA REF row
+    _, msa_all = cs.msa_row('REF|tr|A0A386QUR4|A0A386QUR4_COLLI')
+    clrow = msa_all['REF|tr|A0A386QUR4|A0A386QUR4_COLLI']
+    clseq = clrow.replace('-','')
+    spseq = seq_of(acc)
+    aln = PairwiseAligner()
+    aln.mode = 'global'; aln.match_score = 2; aln.mismatch_score = -1
+    aln.open_gap_score = -5; aln.extend_gap_score = -0.5
+    a = aln.align(spseq, clseq)[0]
+    blocks = a.aligned  # ((sp_starts...),(cl_starts...))
+    pairs = []
+    sp2cl = {}
+    for (s0, s1), (c0, c1) in zip(*blocks):
+        for i in range(s1 - s0):
+            pairs.append((s0 + i + 1, c0 + i + 1))   # 1-based residx
+            sp2cl[s0 + i + 1] = c0 + i + 1
+    pdb = f'data/folds/{fold_name}.pdb'
+    defn = cs.load_def()
+    chain_cl = defn['ref_chain_residx']          # 6PTZ/ClCry4 numbering W395,W372,W318,W369
+    inv = {v: k for k, v in sp2cl.items()}
+    chain_sp = [inv.get(c) for c in chain_cl]    # species residx per chain position
+    dts = {}
+    for n_keep, tag in [(4, 'WT'), (3, 'triad')]:
+        term = chain_sp[n_keep - 1]
+        if term is None:
+            dts[tag] = None
+        else:
+            dts[tag] = cs.d_term_edge(pdb, term, pairs)
+    return dts, len(pairs)
+
 def main():
     definition = load_def()
     # terminal-chain d_term per species (WT tetrad) + triad variant (chain truncated after W318: terminal=C)
     res = {}
     for sp, (fold, acc) in SPECIES.items():
-        pdb = f'data/folds/{fold}.pdb'
-        fasta = f'/tmp/a4_{sp}.fa'
-        open(fasta,'w').write(f'>{sp}\n{seq_of(acc)}\n')
-        # reuse compass_scan machinery via its CLI for exactness
-        import subprocess
-        msa = [k for k in msa_row([k for k in msa_row('migratory|Apus_apus|XM_051636888')[1].keys() if sp.split('Cry')[0][:3] in k] or ['migratory|Apus_apus|XM_051636888'])[1].keys()] # placeholder
-        r = subprocess.run(['python3','src/compass_scan.py',fasta,'--pdb',pdb,'--json'], capture_output=True, text=True)
-        d = json.loads(r.stdout)
-        res[sp] = {'d_term_WT': d['d_term_A'], 'tau_WT': d['tau_eff_us'], 'A50_WT': d['anisotropy_50uT']}
+        dts, npairs = species_chain(acc, fold)
+        res[sp] = {'d_term_WT': round(dts['WT'],2) if dts['WT'] else None,
+                   'd_term_triad': round(dts['triad'],2) if dts['triad'] else None,
+                   'tau_WT': round(tau_eff(dts['WT']),4) if dts['WT'] else None,
+                   'tau_triad': round(tau_eff(dts['triad']),4) if dts['triad'] else None,
+                   'ca_pairs': npairs}
         print(sp, res[sp], flush=True)
     # universal S(tau) curve
     tau_grid = np.concatenate([np.linspace(0.1, 1.0, 10), np.linspace(1.2, 10.0, 15)])
