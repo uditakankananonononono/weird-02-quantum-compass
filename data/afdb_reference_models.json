@@ -1,0 +1,20 @@
+{
+ "A0A2I4SZI9": {
+  "name": "erCry4",
+  "paeUrl": "https://alphafold.ebi.ac.uk/files/AF-A0A2I4SZI9-F1-predicted_aligned_error_v6.json",
+  "confidenceVersion": null,
+  "modelEntityId": "AF-A0A2I4SZI9-F1",
+  "latestVersion": 6,
+  "uniprotStart": 1,
+  "uniprotEnd": 527
+ },
+ "A0A386QUR4": {
+  "name": "ClCry4",
+  "paeUrl": "https://alphafold.ebi.ac.uk/files/AF-A0A386QUR4-F1-predicted_aligned_error_v6.json",
+  "confidenceVersion": null,
+  "modelEntityId": "AF-A0A386QUR4-F1",
+  "latestVersion": 6,
+  "uniprotStart": 1,
+  "uniprotEnd": 525
+ }
+}
