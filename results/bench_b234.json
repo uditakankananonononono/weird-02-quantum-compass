@@ -1,0 +1,61 @@
+{
+ "B2": {
+  "tau_1.0us": {
+   "phi_max": 0.3706169183554073,
+   "phi_min": 0.2539948342600248,
+   "spike_amp_over_background": 0.009526169682264884
+  },
+  "tau_10.0us": {
+   "phi_max": 0.37061689923523533,
+   "phi_min": 0.2506179199385427,
+   "spike_amp_over_background": 0.009802587049342004
+  },
+  "tau_100.0us": {
+   "phi_max": 0.37061689904403256,
+   "phi_min": 0.2505805129791489,
+   "spike_amp_over_background": 0.009805648791783306
+  },
+  "no_partner_anisotropy": {
+   "spike_amp_over_background": 0.0004966130852402939
+  },
+  "E2a_spike_present": true,
+  "E2b_grows_with_tau": true,
+  "E2c_no_spike_without_partner": true,
+  "pass": true
+ },
+ "B3": {
+  "baseline_spike_amp": 0.009526169682264884,
+  "attenuated": {
+   "N5_zeroed": 0.0005946967797939573,
+   "N10_zeroed": 0.0005840563323537551,
+   "both_zeroed": 0.0006902748061859421
+  },
+  "E3a_N5_attenuation_pct": 93.8,
+  "E3a_N10_attenuation_pct": 93.9,
+  "E3b_both_abolishes": false,
+  "pass": false
+ },
+ "B4": {
+  "anisotropy_vs_B_mT": {
+   "0.005": 0.39867730391621287,
+   "0.05": 0.4609833689844501,
+   "0.5": 0.49022796562165544,
+   "5.0": 0.015027946459298305,
+   "50.0": 0.0001537947931182965
+  },
+  "E4a_high_field_monotone_sat": false,
+  "E4b_earth_below_sat": false,
+  "pass": false
+ },
+ "summary": {
+  "B2": true,
+  "B3": false,
+  "B4": false,
+  "B5": true
+ },
+ "B5": {
+  "isotropic_anisotropy": 3.6606928846814354e-13,
+  "threshold": 1e-09,
+  "pass": true
+ }
+}

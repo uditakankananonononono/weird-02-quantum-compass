@@ -36,3 +36,20 @@ LOCKED EXPECTATIONS:
       (no decrease >5% between successive high-field points).
  E4b: A(50 uT) < A(5 mT) (Earth field sits below saturation).
 PASS = E4a + E4b.
+
+## B5 (Ritz 2000 Sec II theoretical benchmark) - LOCKED 20:21 IST (BEFORE computation)
+Published prediction: an ISOTROPIC hyperfine coupling produces NO magnetic-field
+orientation dependence (anisotropic coupling is required for a compass).
+Model: single nucleus with isotropic tensor (1.0,1.0,1.0) mT; kS=kT=1/us; B=50 uT.
+LOCKED EXPECTATION E5: anisotropy < 1e-9 (numerical zero).
+PASS = E5 holds.
+## B3/B4 outcomes (computed 20:21 IST, logged honestly)
+B3: E3a PASS (N5-zeroed attenuation 93.8%, N10-zeroed 93.9%, both within the
+30-100% band; paper 60-70%, spin-1/2 approximation noted). E3b FAIL: both-zeroed
+residual = 7.3% of baseline vs locked <5% abolition. B3 overall FAIL (partial).
+B4: FAIL under locked criteria: anisotropy rises 0.005->0.5 mT (0.399->0.490)
+then collapses at 5/50 mT (0.015/0.00015) - at kS=kT=1/us the high-field regime
+suppresses S-T mixing faster than reaction samples it; the locked expectation
+was regime-wrong for these parameters (simulator behavior is the physics; the
+expectation erred). Redirect logged: re-lock B4b with the recombination regime
+taken from the source figure before recomputation.
