@@ -1,0 +1,13 @@
+{
+ "migratory": [
+  "Emberiza bruniceps",
+  "Erithacus rubecula",
+  "Sylvia borin"
+ ],
+ "sedentary": [
+  "Columba livia",
+  "Gallus gallus",
+  "Passer domesticus"
+ ],
+ "partial_held_out": []
+}

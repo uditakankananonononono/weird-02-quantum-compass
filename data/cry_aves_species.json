@@ -1,0 +1,3990 @@
+{
+ "XM_088534762": {
+  "organism": "Tinamus guttatus",
+  "title": "PREDICTED: Tinamus guttatus cryptochrome DASH-like (LOC104578293), mRNA"
+ },
+ "XM_088520504": {
+  "organism": "Tinamus guttatus",
+  "title": "PREDICTED: Tinamus guttatus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_088535349": {
+  "organism": "Tinamus guttatus",
+  "title": "PREDICTED: Tinamus guttatus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_014881938": {
+  "organism": "Sturnus vulgaris",
+  "title": "PREDICTED: Sturnus vulgaris cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_014881936": {
+  "organism": "Sturnus vulgaris",
+  "title": "PREDICTED: Sturnus vulgaris cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_014876978": {
+  "organism": "Sturnus vulgaris",
+  "title": "PREDICTED: Sturnus vulgaris cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_014876976": {
+  "organism": "Sturnus vulgaris",
+  "title": "PREDICTED: Sturnus vulgaris cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_088154859": {
+  "organism": "Sturnus vulgaris",
+  "title": "PREDICTED: Sturnus vulgaris cryptochrome DASH-like (LOC106851573), mRNA"
+ },
+ "XM_005522470": {
+  "organism": "Pseudopodoces humilis",
+  "title": "PREDICTED: Pseudopodoces humilis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_014256649": {
+  "organism": "Pseudopodoces humilis",
+  "title": "PREDICTED: Pseudopodoces humilis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_005527535": {
+  "organism": "Pseudopodoces humilis",
+  "title": "PREDICTED: Pseudopodoces humilis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_088059297": {
+  "organism": "Pseudopodoces humilis",
+  "title": "PREDICTED: Pseudopodoces humilis cryptochrome DASH-like (LOC102100736), transcript variant X2, mRNA"
+ },
+ "XM_014256712": {
+  "organism": "Pseudopodoces humilis",
+  "title": "PREDICTED: Pseudopodoces humilis cryptochrome DASH-like (LOC102100736), transcript variant X1, mRNA"
+ },
+ "XM_087764156": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_087764155": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_087764154": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_087746211": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_087746210": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_009473785": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_087765287": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome DASH-like (LOC104021772), transcript variant X2, mRNA"
+ },
+ "XM_009475373": {
+  "organism": "Nipponia nippon",
+  "title": "PREDICTED: Nipponia nippon cryptochrome DASH-like (LOC104021772), transcript variant X1, mRNA"
+ },
+ "XM_086895193": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_086895192": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_086887243": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XR_015286358": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, misc_RNA"
+ },
+ "XM_086887242": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_086866462": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome DASH-like (LOC111925530), transcript variant X2, mRNA"
+ },
+ "XM_023921988": {
+  "organism": "Cyanistes caeruleus",
+  "title": "PREDICTED: Cyanistes caeruleus cryptochrome DASH-like (LOC111925530), transcript variant X1, mRNA"
+ },
+ "XM_086748222": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_086748221": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_010115331": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_086741752": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome DASH-like (LOC104478590), transcript variant X2, mRNA"
+ },
+ "XM_086741751": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome DASH-like (LOC104478590), transcript variant X1, mRNA"
+ },
+ "XM_086753893": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_086753885": {
+  "organism": "Chlamydotis macqueenii",
+  "title": "PREDICTED: Chlamydotis macqueenii cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_086614994": {
+  "organism": "Tauraco erythrolophus",
+  "title": "PREDICTED: Tauraco erythrolophus cryptochrome DASH-like (LOC104379149), mRNA"
+ },
+ "XM_086611122": {
+  "organism": "Tauraco erythrolophus",
+  "title": "PREDICTED: Tauraco erythrolophus cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_086611121": {
+  "organism": "Tauraco erythrolophus",
+  "title": "PREDICTED: Tauraco erythrolophus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_086611120": {
+  "organism": "Tauraco erythrolophus",
+  "title": "PREDICTED: Tauraco erythrolophus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_086611119": {
+  "organism": "Tauraco erythrolophus",
+  "title": "PREDICTED: Tauraco erythrolophus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_086612756": {
+  "organism": "Tauraco erythrolophus",
+  "title": "PREDICTED: Tauraco erythrolophus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_086467113": {
+  "organism": "Leptosomus discolor",
+  "title": "PREDICTED: Leptosomus discolor cryptochrome DASH-like (LOC104351605), mRNA"
+ },
+ "XM_086462339": {
+  "organism": "Leptosomus discolor",
+  "title": "PREDICTED: Leptosomus discolor cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_086479597": {
+  "organism": "Leptosomus discolor",
+  "title": "PREDICTED: Leptosomus discolor cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_085581856": {
+  "organism": "Lonchura striata",
+  "title": "PREDICTED: Lonchura striata cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_021533435": {
+  "organism": "Lonchura striata",
+  "title": "PREDICTED: Lonchura striata cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_085550266": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_015864389": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_085563248": {
+  "organism": "Lonchura striata",
+  "title": "PREDICTED: Lonchura striata cryptochrome DASH (LOC110484556), transcript variant X2, mRNA"
+ },
+ "XM_031504158": {
+  "organism": "Lonchura striata",
+  "title": "PREDICTED: Lonchura striata cryptochrome DASH (LOC110484556), transcript variant X1, mRNA"
+ },
+ "XM_021535877": {
+  "organism": "Lonchura striata",
+  "title": "PREDICTED: Lonchura striata cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_021535870": {
+  "organism": "Lonchura striata",
+  "title": "PREDICTED: Lonchura striata cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_085539366": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 1 (CRY1), transcript variant X6, mRNA"
+ },
+ "XM_085539360": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XM_015863869": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_015863858": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_085539348": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_085539342": {
+  "organism": "Coturnix japonica",
+  "title": "PREDICTED: Coturnix japonica cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_085321687": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_085321686": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XR_014897219": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X12, misc_RNA"
+ },
+ "XR_014897218": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X11, misc_RNA"
+ },
+ "XR_014897217": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X10, misc_RNA"
+ },
+ "XR_014897216": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X9, misc_RNA"
+ },
+ "XR_014897215": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X8, misc_RNA"
+ },
+ "XR_014897214": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X7, misc_RNA"
+ },
+ "XR_014897213": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X6, misc_RNA"
+ },
+ "XR_014897212": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X5, misc_RNA"
+ },
+ "XR_014897211": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X4, misc_RNA"
+ },
+ "XR_014897210": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X3, misc_RNA"
+ },
+ "XM_085316473": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X2, mRNA"
+ },
+ "XM_085316472": {
+  "organism": "Rhea americana",
+  "title": "PREDICTED: Rhea americana cryptochrome DASH-like (LOC146589308), transcript variant X1, mRNA"
+ },
+ "XM_010711334": {
+  "organism": "Meleagris gallopavo",
+  "title": "PREDICTED: Meleagris gallopavo cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_085224762": {
+  "organism": "Meleagris gallopavo",
+  "title": "PREDICTED: Meleagris gallopavo cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_085224761": {
+  "organism": "Meleagris gallopavo",
+  "title": "PREDICTED: Meleagris gallopavo cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_085227614": {
+  "organism": "Meleagris gallopavo",
+  "title": "PREDICTED: Meleagris gallopavo cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_085227606": {
+  "organism": "Meleagris gallopavo",
+  "title": "PREDICTED: Meleagris gallopavo cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_085062435": {
+  "organism": "Lichenostomus cassidix",
+  "title": "PREDICTED: Lichenostomus cassidix cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_085062434": {
+  "organism": "Lichenostomus cassidix",
+  "title": "PREDICTED: Lichenostomus cassidix cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_085050181": {
+  "organism": "Lichenostomus cassidix",
+  "title": "PREDICTED: Lichenostomus cassidix cryptochrome DASH-like (LOC146440739), transcript variant X2, mRNA"
+ },
+ "XM_085050180": {
+  "organism": "Lichenostomus cassidix",
+  "title": "PREDICTED: Lichenostomus cassidix cryptochrome DASH-like (LOC146440739), transcript variant X1, mRNA"
+ },
+ "XM_085049681": {
+  "organism": "Lichenostomus cassidix",
+  "title": "PREDICTED: Lichenostomus cassidix cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_085049680": {
+  "organism": "Lichenostomus cassidix",
+  "title": "PREDICTED: Lichenostomus cassidix cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_084507896": {
+  "organism": "Aythya ferina",
+  "title": "Aythya ferina cryptochrome DASH-like (LOC311430929), transcript variant 3, mRNA"
+ },
+ "XM_084507895": {
+  "organism": "Aythya ferina",
+  "title": "Aythya ferina cryptochrome DASH-like (LOC311430929), transcript variant 2, mRNA"
+ },
+ "XM_084507894": {
+  "organism": "Aythya ferina",
+  "title": "Aythya ferina cryptochrome DASH-like (LOC311430929), transcript variant 1, mRNA"
+ },
+ "XM_083943240": {
+  "organism": "Clangula hyemalis",
+  "title": "Clangula hyemalis cryptochrome DASH-like (LOC310968197), partial mRNA"
+ },
+ "XM_083825459": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome DASH-like (LOC310894851), transcript variant 6, mRNA"
+ },
+ "XM_083825458": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome DASH-like (LOC310894851), transcript variant 5, mRNA"
+ },
+ "XM_083825457": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome DASH-like (LOC310894851), transcript variant 4, mRNA"
+ },
+ "XM_083825456": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome DASH-like (LOC310894851), transcript variant 3, mRNA"
+ },
+ "XM_083825455": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome DASH-like (LOC310894851), transcript variant 2, mRNA"
+ },
+ "XM_083825454": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome DASH-like (LOC310894851), transcript variant 1, mRNA"
+ },
+ "XR_014579891": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome circadian regulator 1 (CRY1), transcript variant X2, miscRNA"
+ },
+ "XR_014579890": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome circadian regulator 1 (CRY1), transcript variant X3, miscRNA"
+ },
+ "XR_014579889": {
+  "organism": "Anser anser",
+  "title": "Anser anser cryptochrome circadian regulator 1 (CRY1), transcript variant X4, miscRNA"
+ },
+ "XM_084280330": {
+  "organism": "Gallinula chloropus",
+  "title": "Gallinula chloropus cryptochrome DASH-like (LOC311205823), partial mRNA"
+ },
+ "XM_084206120": {
+  "organism": "Fringilla coelebs",
+  "title": "Fringilla coelebs cryptochrome DASH-like (LOC311153984), transcript variant 3, mRNA"
+ },
+ "XM_084206119": {
+  "organism": "Fringilla coelebs",
+  "title": "Fringilla coelebs cryptochrome DASH-like (LOC311153984), transcript variant 2, mRNA"
+ },
+ "XM_084206118": {
+  "organism": "Fringilla coelebs",
+  "title": "Fringilla coelebs cryptochrome DASH-like (LOC311153984), transcript variant 1, mRNA"
+ },
+ "XM_084283024": {
+  "organism": "Netta rufina",
+  "title": "Netta rufina cryptochrome DASH-like (LOC311207123), partial mRNA"
+ },
+ "XM_040600518": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_040593919": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_040593918": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_040593917": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_040593916": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_040593840": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome DASH-like (LOC121088118), transcript variant X3, mRNA"
+ },
+ "XM_040593839": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome DASH-like (LOC121088118), transcript variant X2, mRNA"
+ },
+ "XM_040593838": {
+  "organism": "Falco naumanni",
+  "title": "PREDICTED: Falco naumanni cryptochrome DASH-like (LOC121088118), transcript variant X1, mRNA"
+ },
+ "XM_039552493": {
+  "organism": "Corvus cornix cornix",
+  "title": "PREDICTED: Corvus cornix cornix cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_039552492": {
+  "organism": "Corvus cornix cornix",
+  "title": "PREDICTED: Corvus cornix cornix cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_010394823": {
+  "organism": "Corvus cornix cornix",
+  "title": "PREDICTED: Corvus cornix cornix cryptochrome DASH-like (LOC104686415), mRNA"
+ },
+ "XM_039570775": {
+  "organism": "Corvus cornix cornix",
+  "title": "PREDICTED: Corvus cornix cornix cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_039570774": {
+  "organism": "Corvus cornix cornix",
+  "title": "PREDICTED: Corvus cornix cornix cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_010176441": {
+  "organism": "Antrostomus carolinensis",
+  "title": "PREDICTED: Antrostomus carolinensis cryptochrome DASH-like (LOC104531539), partial mRNA"
+ },
+ "XM_010175277": {
+  "organism": "Antrostomus carolinensis",
+  "title": "PREDICTED: Antrostomus carolinensis cryptochrome circadian regulator 1 (CRY1), partial mRNA"
+ },
+ "XM_010169036": {
+  "organism": "Antrostomus carolinensis",
+  "title": "PREDICTED: Antrostomus carolinensis cryptochrome DASH-like (LOC104525785), partial mRNA"
+ },
+ "XM_082796951": {
+  "organism": "Cygnus columbianus",
+  "title": "Cygnus columbianus cryptochrome DASH-like (LOC309897406), transcript variant 6, mRNA"
+ },
+ "XM_082796950": {
+  "organism": "Cygnus columbianus",
+  "title": "Cygnus columbianus cryptochrome DASH-like (LOC309897406), transcript variant 5, mRNA"
+ },
+ "XM_082796949": {
+  "organism": "Cygnus columbianus",
+  "title": "Cygnus columbianus cryptochrome DASH-like (LOC309897406), transcript variant 4, mRNA"
+ },
+ "XM_082796948": {
+  "organism": "Cygnus columbianus",
+  "title": "Cygnus columbianus cryptochrome DASH-like (LOC309897406), transcript variant 3, mRNA"
+ },
+ "XM_082796947": {
+  "organism": "Cygnus columbianus",
+  "title": "Cygnus columbianus cryptochrome DASH-like (LOC309897406), transcript variant 2, mRNA"
+ },
+ "XM_082796946": {
+  "organism": "Cygnus columbianus",
+  "title": "Cygnus columbianus cryptochrome DASH-like (LOC309897406), transcript variant 1, mRNA"
+ },
+ "XM_082754357": {
+  "organism": "Aythya marila",
+  "title": "Aythya marila cryptochrome DASH-like (LOC309875211), partial mRNA"
+ },
+ "XM_082290688": {
+  "organism": "Coloeus monedula",
+  "title": "Coloeus monedula cryptochrome DASH-like (LOC309578249), partial mRNA"
+ },
+ "XR_014191265": {
+  "organism": "Larus argentatus",
+  "title": "Larus argentatus cryptochrome DASH-like (AC1HJL_010054), transcript variant X2, miscRNA"
+ },
+ "XM_082103071": {
+  "organism": "Larus argentatus",
+  "title": "Larus argentatus cryptochrome DASH-like (LOC309463309), transcript variant 1, mRNA"
+ },
+ "XM_081996724": {
+  "organism": "Phaethon aethereus",
+  "title": "Phaethon aethereus cryptochrome DASH-like (LOC309402789), partial mRNA"
+ },
+ "XM_082046063": {
+  "organism": "Streptopelia decaocto",
+  "title": "Streptopelia decaocto cryptochrome DASH-like (LOC309436685), transcript variant 2, mRNA"
+ },
+ "XM_082046062": {
+  "organism": "Streptopelia decaocto",
+  "title": "Streptopelia decaocto cryptochrome DASH-like (LOC309436685), transcript variant 1, mRNA"
+ },
+ "XM_082017237": {
+  "organism": "Branta canadensis",
+  "title": "Branta canadensis cryptochrome DASH-like (LOC309418542), partial mRNA"
+ },
+ "XM_082307310": {
+  "organism": "Platalea leucorodia",
+  "title": "Platalea leucorodia cryptochrome DASH-like (LOC309588256), partial mRNA"
+ },
+ "XM_082499048": {
+  "organism": "Vanellus vanellus",
+  "title": "Vanellus vanellus cryptochrome DASH-like (LOC309686392), partial mRNA"
+ },
+ "XM_069017346": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_069017345": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_069005722": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome DASH-like (LOC138105581), transcript variant X3, mRNA"
+ },
+ "XM_069005721": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome DASH-like (LOC138105581), transcript variant X2, mRNA"
+ },
+ "XM_069005720": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome DASH-like (LOC138105581), transcript variant X1, mRNA"
+ },
+ "XM_069002939": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_069002938": {
+  "organism": "Aphelocoma coerulescens",
+  "title": "PREDICTED: Aphelocoma coerulescens cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_049798418": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X7, mRNA"
+ },
+ "XR_007505801": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X6, misc_RNA"
+ },
+ "XM_049798417": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X5, mRNA"
+ },
+ "XM_049798416": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X4, mRNA"
+ },
+ "XM_049798415": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X3, mRNA"
+ },
+ "XM_049798414": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X2, mRNA"
+ },
+ "XM_049798412": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome DASH-like (LOC126037733), transcript variant X1, mRNA"
+ },
+ "XM_049825494": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_049822340": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_049822339": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_049822338": {
+  "organism": "Astur gentilis",
+  "title": "PREDICTED: Astur gentilis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_080949333": {
+  "organism": "Bucephala clangula",
+  "title": "Bucephala clangula cryptochrome DASH-like (LOC308444151), partial mRNA"
+ },
+ "XR_013975774": {
+  "organism": "Bucephala clangula",
+  "title": "Bucephala clangula cryptochrome circadian regulator 1 (CRY1), transcript variant X2, miscRNA"
+ },
+ "XR_014036694": {
+  "organism": "Grus grus",
+  "title": "Grus grus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, miscRNA"
+ },
+ "XM_081408486": {
+  "organism": "Grus grus",
+  "title": "Grus grus cryptochrome DASH-like (LOC308715407), transcript variant 2, mRNA"
+ },
+ "XM_081408485": {
+  "organism": "Grus grus",
+  "title": "Grus grus cryptochrome DASH-like (LOC308715407), transcript variant 1, mRNA"
+ },
+ "XM_080581450": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 7, mRNA"
+ },
+ "XM_080581449": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 6, mRNA"
+ },
+ "XM_080581448": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 5, mRNA"
+ },
+ "XM_080581447": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 4, mRNA"
+ },
+ "XM_080581446": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 3, mRNA"
+ },
+ "XM_080581445": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 2, mRNA"
+ },
+ "XM_080581444": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome DASH-like (LOC308190290), transcript variant 1, mRNA"
+ },
+ "XR_013950641": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, miscRNA"
+ },
+ "XR_013950640": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, miscRNA"
+ },
+ "XR_013950639": {
+  "organism": "Anser brachyrhynchus",
+  "title": "Anser brachyrhynchus cryptochrome circadian regulator 1 (CRY1), transcript variant X4, miscRNA"
+ },
+ "XM_080610353": {
+  "organism": "Psittacula echo",
+  "title": "Psittacula echo cryptochrome DASH-like (LOC308217342), partial mRNA"
+ },
+ "XM_080383017": {
+  "organism": "Falco punctatus",
+  "title": "Falco punctatus cryptochrome DASH-like (LOC308062081), mRNA"
+ },
+ "XM_080364231": {
+  "organism": "Nesoenas mayeri",
+  "title": "Nesoenas mayeri cryptochrome DASH-like (LOC308053381), partial mRNA"
+ },
+ "XM_079538151": {
+  "organism": "Tetrao urogallus",
+  "title": "Tetrao urogallus cryptochrome DASH-like (LOC306948512), partial mRNA"
+ },
+ "XM_079299484": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome DASH-like (LOC306799003), transcript variant 3, mRNA"
+ },
+ "XM_079299483": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome DASH-like (LOC306799003), transcript variant 2, mRNA"
+ },
+ "XM_079299482": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome DASH-like (LOC306799003), transcript variant 1, mRNA"
+ },
+ "XM_079194844": {
+  "organism": "Caprimulgus europaeus",
+  "title": "Caprimulgus europaeus cryptochrome DASH-like (LOC306720907), partial mRNA"
+ },
+ "XM_077180164": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_077180163": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_054635356": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XR_013182336": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, misc_RNA"
+ },
+ "XM_054631871": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_054631870": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_054646620": {
+  "organism": "Agelaius phoeniceus",
+  "title": "PREDICTED: Agelaius phoeniceus cryptochrome DASH-like (LOC129128966), mRNA"
+ },
+ "XM_076344591": {
+  "organism": "Aptenodytes patagonicus",
+  "title": "PREDICTED: Aptenodytes patagonicus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_076344590": {
+  "organism": "Aptenodytes patagonicus",
+  "title": "PREDICTED: Aptenodytes patagonicus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_076331997": {
+  "organism": "Aptenodytes patagonicus",
+  "title": "PREDICTED: Aptenodytes patagonicus cryptochrome DASH-like (LOC143157232), mRNA"
+ },
+ "XM_076339034": {
+  "organism": "Aptenodytes patagonicus",
+  "title": "PREDICTED: Aptenodytes patagonicus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_075754496": {
+  "organism": "Balearica regulorum gibbericeps",
+  "title": "PREDICTED: Balearica regulorum gibbericeps cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XR_012835713": {
+  "organism": "Balearica regulorum gibbericeps",
+  "title": "PREDICTED: Balearica regulorum gibbericeps cryptochrome circadian regulator 2 (CRY2), transcript variant X2, misc_RNA"
+ },
+ "XM_075754495": {
+  "organism": "Balearica regulorum gibbericeps",
+  "title": "PREDICTED: Balearica regulorum gibbericeps cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_075754104": {
+  "organism": "Balearica regulorum gibbericeps",
+  "title": "PREDICTED: Balearica regulorum gibbericeps cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_075746745": {
+  "organism": "Balearica regulorum gibbericeps",
+  "title": "PREDICTED: Balearica regulorum gibbericeps cryptochrome DASH-like (LOC104639137), transcript variant X2, mRNA"
+ },
+ "XM_075746744": {
+  "organism": "Balearica regulorum gibbericeps",
+  "title": "PREDICTED: Balearica regulorum gibbericeps cryptochrome DASH-like (LOC104639137), transcript variant X1, mRNA"
+ },
+ "XM_075711768": {
+  "organism": "Pelecanus crispus",
+  "title": "PREDICTED: Pelecanus crispus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_075705193": {
+  "organism": "Pelecanus crispus",
+  "title": "PREDICTED: Pelecanus crispus cryptochrome DASH-like (LOC104030044), mRNA"
+ },
+ "XM_075704694": {
+  "organism": "Pelecanus crispus",
+  "title": "PREDICTED: Pelecanus crispus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_075704687": {
+  "organism": "Pelecanus crispus",
+  "title": "PREDICTED: Pelecanus crispus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_075502710": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_075492307": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X7, mRNA"
+ },
+ "XM_075492306": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X6, mRNA"
+ },
+ "XM_075492305": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X5, mRNA"
+ },
+ "XM_075492304": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X4, mRNA"
+ },
+ "XM_075492303": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X3, mRNA"
+ },
+ "XM_075492301": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X2, mRNA"
+ },
+ "XM_075492300": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome DASH-like (LOC142405244), transcript variant X1, mRNA"
+ },
+ "XM_075501832": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_075501823": {
+  "organism": "Mycteria americana",
+  "title": "PREDICTED: Mycteria americana cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_075428042": {
+  "organism": "Opisthocomus hoazin",
+  "title": "PREDICTED: Opisthocomus hoazin cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_075428041": {
+  "organism": "Opisthocomus hoazin",
+  "title": "PREDICTED: Opisthocomus hoazin cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_075425342": {
+  "organism": "Opisthocomus hoazin",
+  "title": "PREDICTED: Opisthocomus hoazin cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_075425341": {
+  "organism": "Opisthocomus hoazin",
+  "title": "PREDICTED: Opisthocomus hoazin cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_075419840": {
+  "organism": "Opisthocomus hoazin",
+  "title": "PREDICTED: Opisthocomus hoazin cryptochrome DASH-like (LOC104337213), transcript variant X2, mRNA"
+ },
+ "XM_075419839": {
+  "organism": "Opisthocomus hoazin",
+  "title": "PREDICTED: Opisthocomus hoazin cryptochrome DASH-like (LOC104337213), transcript variant X1, mRNA"
+ },
+ "XM_075152177": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_075144262": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome DASH-like (LOC142079660), mRNA"
+ },
+ "XM_075156681": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XM_075156671": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_075156662": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_075156654": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_075156645": {
+  "organism": "Calonectris borealis",
+  "title": "PREDICTED: Calonectris borealis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_075082249": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome DASH-like (LOC142052348), transcript variant X6, mRNA"
+ },
+ "XM_075082247": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome DASH-like (LOC142052348), transcript variant X5, mRNA"
+ },
+ "XM_075082246": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome DASH-like (LOC142052348), transcript variant X4, mRNA"
+ },
+ "XM_075082245": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome DASH-like (LOC142052348), transcript variant X3, mRNA"
+ },
+ "XM_075082244": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome DASH-like (LOC142052348), transcript variant X2, mRNA"
+ },
+ "XM_075082243": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome DASH-like (LOC142052348), transcript variant X1, mRNA"
+ },
+ "XM_075105549": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_075075599": {
+  "organism": "Phalacrocorax aristotelis",
+  "title": "PREDICTED: Phalacrocorax aristotelis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_075030744": {
+  "organism": "Buteo buteo",
+  "title": "PREDICTED: Buteo buteo cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_075030742": {
+  "organism": "Buteo buteo",
+  "title": "PREDICTED: Buteo buteo cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_075044680": {
+  "organism": "Buteo buteo",
+  "title": "PREDICTED: Buteo buteo cryptochrome DASH-like (LOC142038838), transcript variant X2, mRNA"
+ },
+ "XM_075044678": {
+  "organism": "Buteo buteo",
+  "title": "PREDICTED: Buteo buteo cryptochrome DASH-like (LOC142038838), transcript variant X1, mRNA"
+ },
+ "XM_075051698": {
+  "organism": "Buteo buteo",
+  "title": "PREDICTED: Buteo buteo cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_074909529": {
+  "organism": "Athene noctua",
+  "title": "PREDICTED: Athene noctua cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_074901909": {
+  "organism": "Athene noctua",
+  "title": "PREDICTED: Athene noctua cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_074897489": {
+  "organism": "Athene noctua",
+  "title": "PREDICTED: Athene noctua cryptochrome DASH-like (LOC141956684), mRNA"
+ },
+ "XM_074871927": {
+  "organism": "Strix uralensis",
+  "title": "PREDICTED: Strix uralensis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_074871926": {
+  "organism": "Strix uralensis",
+  "title": "PREDICTED: Strix uralensis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_074867779": {
+  "organism": "Strix uralensis",
+  "title": "PREDICTED: Strix uralensis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_074867778": {
+  "organism": "Strix uralensis",
+  "title": "PREDICTED: Strix uralensis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_074884268": {
+  "organism": "Strix uralensis",
+  "title": "PREDICTED: Strix uralensis cryptochrome DASH-like (LOC141949817), mRNA"
+ },
+ "XM_074825825": {
+  "organism": "Strix aluco",
+  "title": "PREDICTED: Strix aluco cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_074825824": {
+  "organism": "Strix aluco",
+  "title": "PREDICTED: Strix aluco cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_074824111": {
+  "organism": "Strix aluco",
+  "title": "PREDICTED: Strix aluco cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_074824110": {
+  "organism": "Strix aluco",
+  "title": "PREDICTED: Strix aluco cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_074808791": {
+  "organism": "Strix aluco",
+  "title": "PREDICTED: Strix aluco cryptochrome DASH-like (LOC141916177), mRNA"
+ },
+ "NM_204244": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_074584551": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_074584550": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_074584548": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XR_012585418": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome DASH-like (LOC141738590), transcript variant X2, misc_RNA"
+ },
+ "XM_074574016": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome DASH-like (LOC141738590), transcript variant X1, mRNA"
+ },
+ "XM_074580711": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_074580702": {
+  "organism": "Larus michahellis",
+  "title": "PREDICTED: Larus michahellis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_074543050": {
+  "organism": "Zonotrichia albicollis",
+  "title": "PREDICTED: Zonotrichia albicollis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_074543049": {
+  "organism": "Zonotrichia albicollis",
+  "title": "PREDICTED: Zonotrichia albicollis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_014269991": {
+  "organism": "Zonotrichia albicollis",
+  "title": "PREDICTED: Zonotrichia albicollis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_005491170": {
+  "organism": "Zonotrichia albicollis",
+  "title": "PREDICTED: Zonotrichia albicollis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_005491454": {
+  "organism": "Zonotrichia albicollis",
+  "title": "PREDICTED: Zonotrichia albicollis cryptochrome DASH (LOC102073426), mRNA"
+ },
+ "XM_074150036": {
+  "organism": "Numenius arquata",
+  "title": "PREDICTED: Numenius arquata cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_074169129": {
+  "organism": "Numenius arquata",
+  "title": "PREDICTED: Numenius arquata cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_074157514": {
+  "organism": "Numenius arquata",
+  "title": "PREDICTED: Numenius arquata cryptochrome DASH-like (LOC141471104), transcript variant X2, mRNA"
+ },
+ "XM_074157513": {
+  "organism": "Numenius arquata",
+  "title": "PREDICTED: Numenius arquata cryptochrome DASH-like (LOC141471104), transcript variant X1, mRNA"
+ },
+ "NM_204245": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_012574176": {
+  "organism": "Taeniopygia guttata",
+  "title": "PREDICTED: Taeniopygia guttata cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_030274299": {
+  "organism": "Taeniopygia guttata",
+  "title": "PREDICTED: Taeniopygia guttata cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_030264212": {
+  "organism": "Taeniopygia guttata",
+  "title": "PREDICTED: Taeniopygia guttata cryptochrome DASH (LOC100226561), mRNA"
+ },
+ "XM_030263133": {
+  "organism": "Taeniopygia guttata",
+  "title": "PREDICTED: Taeniopygia guttata cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_030263132": {
+  "organism": "Taeniopygia guttata",
+  "title": "PREDICTED: Taeniopygia guttata cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_072864617": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_072851550": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X7, mRNA"
+ },
+ "XM_072851549": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X6, mRNA"
+ },
+ "XM_072851548": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X5, mRNA"
+ },
+ "XM_072851547": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X4, mRNA"
+ },
+ "XM_072851546": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X3, mRNA"
+ },
+ "XR_012040692": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X2, misc_RNA"
+ },
+ "XM_072851545": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome DASH-like (LOC140647185), transcript variant X1, mRNA"
+ },
+ "XM_072870416": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_072870405": {
+  "organism": "Ciconia boyciana",
+  "title": "PREDICTED: Ciconia boyciana cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "NM_001315515": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_072339129": {
+  "organism": "Excalfactoria chinensis",
+  "title": "PREDICTED: Excalfactoria chinensis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_072339128": {
+  "organism": "Excalfactoria chinensis",
+  "title": "PREDICTED: Excalfactoria chinensis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_072348357": {
+  "organism": "Excalfactoria chinensis",
+  "title": "PREDICTED: Excalfactoria chinensis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_072038725": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_038180620": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_027458086": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_072033870": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome DASH (LOC101797805), transcript variant X3, mRNA"
+ },
+ "XM_072033869": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome DASH (LOC101797805), transcript variant X2, mRNA"
+ },
+ "XM_027450363": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome DASH (LOC101797805), transcript variant X1, mRNA"
+ },
+ "XM_027449814": {
+  "organism": "Anas platyrhynchos",
+  "title": "PREDICTED: Anas platyrhynchos cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_065838322": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_071809157": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_071805361": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome DASH-like (LOC136097851), transcript variant X4, mRNA"
+ },
+ "XM_071805360": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome DASH-like (LOC136097851), transcript variant X3, mRNA"
+ },
+ "XM_065830670": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome DASH-like (LOC136097851), transcript variant X2, mRNA"
+ },
+ "XM_065830669": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome DASH-like (LOC136097851), transcript variant X1, mRNA"
+ },
+ "XM_065838886": {
+  "organism": "Patagioenas fasciata",
+  "title": "PREDICTED: Patagioenas fasciata cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_071744764": {
+  "organism": "Heliangelus exortis",
+  "title": "PREDICTED: Heliangelus exortis cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_071744763": {
+  "organism": "Heliangelus exortis",
+  "title": "PREDICTED: Heliangelus exortis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_071744762": {
+  "organism": "Heliangelus exortis",
+  "title": "PREDICTED: Heliangelus exortis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_071734630": {
+  "organism": "Heliangelus exortis",
+  "title": "PREDICTED: Heliangelus exortis cryptochrome DASH-like (LOC139792008), transcript variant X2, mRNA"
+ },
+ "XM_071734629": {
+  "organism": "Heliangelus exortis",
+  "title": "PREDICTED: Heliangelus exortis cryptochrome DASH-like (LOC139792008), transcript variant X1, mRNA"
+ },
+ "XM_071729106": {
+  "organism": "Heliangelus exortis",
+  "title": "PREDICTED: Heliangelus exortis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XR_011698251": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome DASH-like (LOC139674010), transcript variant X3, misc_RNA"
+ },
+ "XR_011698250": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome DASH-like (LOC139674010), transcript variant X2, misc_RNA"
+ },
+ "XM_071560086": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome DASH-like (LOC139674010), transcript variant X1, mRNA"
+ },
+ "XM_071558448": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_071558447": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_071558446": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_071551009": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_071551008": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_071551007": {
+  "organism": "Pithys albifrons albifrons",
+  "title": "PREDICTED: Pithys albifrons albifrons cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_071428518": {
+  "organism": "Agelaius tricolor",
+  "title": "PREDICTED: Agelaius tricolor cryptochrome DASH-like (LOC139590784), mRNA"
+ },
+ "XM_071427390": {
+  "organism": "Agelaius tricolor",
+  "title": "PREDICTED: Agelaius tricolor cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_071427389": {
+  "organism": "Agelaius tricolor",
+  "title": "PREDICTED: Agelaius tricolor cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XR_011678540": {
+  "organism": "Agelaius tricolor",
+  "title": "PREDICTED: Agelaius tricolor cryptochrome circadian regulator 1 (CRY1), transcript variant X3, misc_RNA"
+ },
+ "XM_071422705": {
+  "organism": "Agelaius tricolor",
+  "title": "PREDICTED: Agelaius tricolor cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_071422704": {
+  "organism": "Agelaius tricolor",
+  "title": "PREDICTED: Agelaius tricolor cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_069859247": {
+  "organism": "Phaenicophaeus curvirostris",
+  "title": "PREDICTED: Phaenicophaeus curvirostris cryptochrome DASH-like (LOC138721804), transcript variant X2, mRNA"
+ },
+ "XM_069859246": {
+  "organism": "Phaenicophaeus curvirostris",
+  "title": "PREDICTED: Phaenicophaeus curvirostris cryptochrome DASH-like (LOC138721804), transcript variant X1, mRNA"
+ },
+ "XM_069858070": {
+  "organism": "Phaenicophaeus curvirostris",
+  "title": "PREDICTED: Phaenicophaeus curvirostris cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_069859598": {
+  "organism": "Phaenicophaeus curvirostris",
+  "title": "PREDICTED: Phaenicophaeus curvirostris cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_069859589": {
+  "organism": "Phaenicophaeus curvirostris",
+  "title": "PREDICTED: Phaenicophaeus curvirostris cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_069784469": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XR_011324823": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome circadian regulator 2 (CRY2), transcript variant X2, misc_RNA"
+ },
+ "XM_069784468": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XR_011323766": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome DASH-like (LOC104316702), transcript variant X4, misc_RNA"
+ },
+ "XM_069778281": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome DASH-like (LOC104316702), transcript variant X3, mRNA"
+ },
+ "XM_069778280": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome DASH-like (LOC104316702), transcript variant X2, mRNA"
+ },
+ "XM_069778279": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome DASH-like (LOC104316702), transcript variant X1, mRNA"
+ },
+ "XM_069807380": {
+  "organism": "Haliaeetus albicilla",
+  "title": "PREDICTED: Haliaeetus albicilla cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_034062749": {
+  "organism": "Melopsittacus undulatus",
+  "title": "PREDICTED: Melopsittacus undulatus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_034062459": {
+  "organism": "Melopsittacus undulatus",
+  "title": "PREDICTED: Melopsittacus undulatus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_031049815": {
+  "organism": "Melopsittacus undulatus",
+  "title": "PREDICTED: Melopsittacus undulatus cryptochrome DASH-like (LOC101878073), mRNA"
+ },
+ "XM_031049912": {
+  "organism": "Melopsittacus undulatus",
+  "title": "PREDICTED: Melopsittacus undulatus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_005150419": {
+  "organism": "Melopsittacus undulatus",
+  "title": "PREDICTED: Melopsittacus undulatus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_068945869": {
+  "organism": "Struthio camelus",
+  "title": "PREDICTED: Struthio camelus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_068934161": {
+  "organism": "Struthio camelus",
+  "title": "PREDICTED: Struthio camelus cryptochrome DASH-like (LOC104150767), transcript variant X4, mRNA"
+ },
+ "XM_068934160": {
+  "organism": "Struthio camelus",
+  "title": "PREDICTED: Struthio camelus cryptochrome DASH-like (LOC104150767), transcript variant X3, mRNA"
+ },
+ "XM_068934159": {
+  "organism": "Struthio camelus",
+  "title": "PREDICTED: Struthio camelus cryptochrome DASH-like (LOC104150767), transcript variant X2, mRNA"
+ },
+ "XM_068934158": {
+  "organism": "Struthio camelus",
+  "title": "PREDICTED: Struthio camelus cryptochrome DASH-like (LOC104150767), transcript variant X1, mRNA"
+ },
+ "XM_068943972": {
+  "organism": "Struthio camelus",
+  "title": "PREDICTED: Struthio camelus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_068683823": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_068683822": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_068683821": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_068673347": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome DASH-like (LOC137852062), transcript variant X3, mRNA"
+ },
+ "XM_068673345": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome DASH-like (LOC137852062), transcript variant X2, mRNA"
+ },
+ "XM_068673344": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome DASH-like (LOC137852062), transcript variant X1, mRNA"
+ },
+ "XM_068664613": {
+  "organism": "Anas acuta",
+  "title": "PREDICTED: Anas acuta cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_068405337": {
+  "organism": "Nyctibius grandis",
+  "title": "PREDICTED: Nyctibius grandis cryptochrome DASH-like (LOC137665873), mRNA"
+ },
+ "XM_068400630": {
+  "organism": "Nyctibius grandis",
+  "title": "PREDICTED: Nyctibius grandis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_068398221": {
+  "organism": "Nyctibius grandis",
+  "title": "PREDICTED: Nyctibius grandis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_068193528": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_068193527": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_068193526": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_068191063": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_068191062": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_068175521": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome DASH-like (LOC137464203), transcript variant X2, mRNA"
+ },
+ "XM_068175515": {
+  "organism": "Anomalospiza imberbis",
+  "title": "PREDICTED: Anomalospiza imberbis cryptochrome DASH-like (LOC137464203), transcript variant X1, mRNA"
+ },
+ "XM_068161464": {
+  "organism": "Melanerpes formicivorus",
+  "title": "PREDICTED: Melanerpes formicivorus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_068161463": {
+  "organism": "Melanerpes formicivorus",
+  "title": "PREDICTED: Melanerpes formicivorus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_068145930": {
+  "organism": "Melanerpes formicivorus",
+  "title": "PREDICTED: Melanerpes formicivorus cryptochrome DASH-like (LOC137444850), transcript variant X2, mRNA"
+ },
+ "XM_068145929": {
+  "organism": "Melanerpes formicivorus",
+  "title": "PREDICTED: Melanerpes formicivorus cryptochrome DASH-like (LOC137444850), transcript variant X1, mRNA"
+ },
+ "XM_068142320": {
+  "organism": "Melanerpes formicivorus",
+  "title": "PREDICTED: Melanerpes formicivorus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_067296424": {
+  "organism": "Apteryx mantelli",
+  "title": "PREDICTED: Apteryx mantelli cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_013947754": {
+  "organism": "Apteryx mantelli",
+  "title": "PREDICTED: Apteryx mantelli cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_067308823": {
+  "organism": "Apteryx mantelli",
+  "title": "PREDICTED: Apteryx mantelli cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_067308814": {
+  "organism": "Apteryx mantelli",
+  "title": "PREDICTED: Apteryx mantelli cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_066997840": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_066997839": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_048065130": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_066991429": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X8, mRNA"
+ },
+ "XM_066991428": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X7, mRNA"
+ },
+ "XM_066991426": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X6, mRNA"
+ },
+ "XM_066991425": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X5, mRNA"
+ },
+ "XM_066991424": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X4, mRNA"
+ },
+ "XM_066991423": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X3, mRNA"
+ },
+ "XM_066991422": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X2, mRNA"
+ },
+ "XM_048062433": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome DASH-like (LOC106036846), transcript variant X1, mRNA"
+ },
+ "XM_048057002": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_048056993": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_048056986": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_048056976": {
+  "organism": "Anser cygnoides",
+  "title": "PREDICTED: Anser cygnoides cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_066551182": {
+  "organism": "Molothrus aeneus",
+  "title": "PREDICTED: Molothrus aeneus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_066551181": {
+  "organism": "Molothrus aeneus",
+  "title": "PREDICTED: Molothrus aeneus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_066549801": {
+  "organism": "Molothrus aeneus",
+  "title": "PREDICTED: Molothrus aeneus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_066549446": {
+  "organism": "Molothrus aeneus",
+  "title": "PREDICTED: Molothrus aeneus cryptochrome DASH-like (LOC136556315), mRNA"
+ },
+ "XM_066319995": {
+  "organism": "Sylvia atricapilla",
+  "title": "PREDICTED: Sylvia atricapilla cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_066319994": {
+  "organism": "Sylvia atricapilla",
+  "title": "PREDICTED: Sylvia atricapilla cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_066319993": {
+  "organism": "Sylvia atricapilla",
+  "title": "PREDICTED: Sylvia atricapilla cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_066321194": {
+  "organism": "Sylvia atricapilla",
+  "title": "PREDICTED: Sylvia atricapilla cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_066321193": {
+  "organism": "Sylvia atricapilla",
+  "title": "PREDICTED: Sylvia atricapilla cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_066321170": {
+  "organism": "Sylvia atricapilla",
+  "title": "PREDICTED: Sylvia atricapilla cryptochrome DASH-like (LOC136362515), mRNA"
+ },
+ "XM_066188043": {
+  "organism": "Chamaea fasciata",
+  "title": "PREDICTED: Chamaea fasciata cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_066188042": {
+  "organism": "Chamaea fasciata",
+  "title": "PREDICTED: Chamaea fasciata cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_066183981": {
+  "organism": "Chamaea fasciata",
+  "title": "PREDICTED: Chamaea fasciata cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_066183980": {
+  "organism": "Chamaea fasciata",
+  "title": "PREDICTED: Chamaea fasciata cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_066196118": {
+  "organism": "Chamaea fasciata",
+  "title": "PREDICTED: Chamaea fasciata cryptochrome DASH-like (LOC136296716), mRNA"
+ },
+ "XM_065743080": {
+  "organism": "Cyrtonyx montezumae",
+  "title": "PREDICTED: Cyrtonyx montezumae cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_065754814": {
+  "organism": "Cyrtonyx montezumae",
+  "title": "PREDICTED: Cyrtonyx montezumae cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_065754812": {
+  "organism": "Cyrtonyx montezumae",
+  "title": "PREDICTED: Cyrtonyx montezumae cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_065684951": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_065684950": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_065666880": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome DASH-like (LOC136008092), transcript variant X3, mRNA"
+ },
+ "XM_065666879": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome DASH-like (LOC136008092), transcript variant X2, mRNA"
+ },
+ "XM_065666878": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome DASH-like (LOC136008092), transcript variant X1, mRNA"
+ },
+ "XM_065679565": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_065679558": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_065679551": {
+  "organism": "Lathamus discolor",
+  "title": "PREDICTED: Lathamus discolor cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_065635361": {
+  "organism": "Caloenas nicobarica",
+  "title": "PREDICTED: Caloenas nicobarica cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_065629942": {
+  "organism": "Caloenas nicobarica",
+  "title": "PREDICTED: Caloenas nicobarica cryptochrome DASH-like (LOC135986125), mRNA"
+ },
+ "XM_065643406": {
+  "organism": "Caloenas nicobarica",
+  "title": "PREDICTED: Caloenas nicobarica cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_065643324": {
+  "organism": "Caloenas nicobarica",
+  "title": "PREDICTED: Caloenas nicobarica cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_065643237": {
+  "organism": "Caloenas nicobarica",
+  "title": "PREDICTED: Caloenas nicobarica cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_065064640": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_065064639": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_065050361": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome DASH-like (LOC102087960), transcript variant X5, mRNA"
+ },
+ "XM_065050360": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome DASH-like (LOC102087960), transcript variant X4, mRNA"
+ },
+ "XM_065050359": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome DASH-like (LOC102087960), transcript variant X3, mRNA"
+ },
+ "XM_065050358": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome DASH-like (LOC102087960), transcript variant X2, mRNA"
+ },
+ "XM_065050357": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome DASH-like (LOC102087960), transcript variant X1, mRNA"
+ },
+ "XM_065059843": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_065059083": {
+  "organism": "Columba livia",
+  "title": "PREDICTED: Columba livia cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_064714096": {
+  "organism": "Zonotrichia leucophrys gambelii",
+  "title": "PREDICTED: Zonotrichia leucophrys gambelii cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_064714095": {
+  "organism": "Zonotrichia leucophrys gambelii",
+  "title": "PREDICTED: Zonotrichia leucophrys gambelii cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_064702516": {
+  "organism": "Zonotrichia leucophrys gambelii",
+  "title": "PREDICTED: Zonotrichia leucophrys gambelii cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_064703269": {
+  "organism": "Zonotrichia leucophrys gambelii",
+  "title": "PREDICTED: Zonotrichia leucophrys gambelii cryptochrome DASH-like (LOC135443005), transcript variant X2, mRNA"
+ },
+ "XM_064703268": {
+  "organism": "Zonotrichia leucophrys gambelii",
+  "title": "PREDICTED: Zonotrichia leucophrys gambelii cryptochrome DASH-like (LOC135443005), transcript variant X1, mRNA"
+ },
+ "XM_064658028": {
+  "organism": "Pseudopipra pipra",
+  "title": "PREDICTED: Pseudopipra pipra cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_064658027": {
+  "organism": "Pseudopipra pipra",
+  "title": "PREDICTED: Pseudopipra pipra cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_064658026": {
+  "organism": "Pseudopipra pipra",
+  "title": "PREDICTED: Pseudopipra pipra cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_064654879": {
+  "organism": "Pseudopipra pipra",
+  "title": "PREDICTED: Pseudopipra pipra cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_064639094": {
+  "organism": "Pseudopipra pipra",
+  "title": "PREDICTED: Pseudopipra pipra cryptochrome DASH-like (LOC135404372), mRNA"
+ },
+ "XM_026107524": {
+  "organism": "Dromaius novaehollandiae",
+  "title": "PREDICTED: Dromaius novaehollandiae cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_026096646": {
+  "organism": "Dromaius novaehollandiae",
+  "title": "PREDICTED: Dromaius novaehollandiae cryptochrome DASH-like (LOC112981185), mRNA"
+ },
+ "XM_026117946": {
+  "organism": "Dromaius novaehollandiae",
+  "title": "PREDICTED: Dromaius novaehollandiae cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_026117945": {
+  "organism": "Dromaius novaehollandiae",
+  "title": "PREDICTED: Dromaius novaehollandiae cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_064445118": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome DASH-like (LOC104050365), transcript variant X6, mRNA"
+ },
+ "XM_064445117": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome DASH-like (LOC104050365), transcript variant X5, mRNA"
+ },
+ "XM_064445116": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome DASH-like (LOC104050365), transcript variant X4, mRNA"
+ },
+ "XM_064445115": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome DASH-like (LOC104050365), transcript variant X3, mRNA"
+ },
+ "XM_064445114": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome DASH-like (LOC104050365), transcript variant X2, mRNA"
+ },
+ "XM_064445113": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome DASH-like (LOC104050365), transcript variant X1, mRNA"
+ },
+ "XM_064462543": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_064462542": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_064455813": {
+  "organism": "Phalacrocorax carbo",
+  "title": "PREDICTED: Phalacrocorax carbo cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_064424730": {
+  "organism": "Passer domesticus",
+  "title": "PREDICTED: Passer domesticus cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_064424729": {
+  "organism": "Passer domesticus",
+  "title": "PREDICTED: Passer domesticus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_064424728": {
+  "organism": "Passer domesticus",
+  "title": "PREDICTED: Passer domesticus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_064420417": {
+  "organism": "Passer domesticus",
+  "title": "PREDICTED: Passer domesticus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XR_010364391": {
+  "organism": "Passer domesticus",
+  "title": "PREDICTED: Passer domesticus cryptochrome DASH-like (LOC135302763), transcript variant X2, misc_RNA"
+ },
+ "XM_064423680": {
+  "organism": "Passer domesticus",
+  "title": "PREDICTED: Passer domesticus cryptochrome DASH-like (LOC135302763), transcript variant X1, mRNA"
+ },
+ "XM_064162895": {
+  "organism": "Pogoniulus pusillus",
+  "title": "PREDICTED: Pogoniulus pusillus cryptochrome DASH-like (LOC135185773), transcript variant X3, mRNA"
+ },
+ "XM_064162893": {
+  "organism": "Pogoniulus pusillus",
+  "title": "PREDICTED: Pogoniulus pusillus cryptochrome DASH-like (LOC135185773), transcript variant X2, mRNA"
+ },
+ "XM_064162892": {
+  "organism": "Pogoniulus pusillus",
+  "title": "PREDICTED: Pogoniulus pusillus cryptochrome DASH-like (LOC135185773), transcript variant X1, mRNA"
+ },
+ "XM_064155388": {
+  "organism": "Pogoniulus pusillus",
+  "title": "PREDICTED: Pogoniulus pusillus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_064145628": {
+  "organism": "Pogoniulus pusillus",
+  "title": "PREDICTED: Pogoniulus pusillus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_064145623": {
+  "organism": "Pogoniulus pusillus",
+  "title": "PREDICTED: Pogoniulus pusillus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_063398505": {
+  "organism": "Prinia subflava",
+  "title": "PREDICTED: Prinia subflava cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_063398504": {
+  "organism": "Prinia subflava",
+  "title": "PREDICTED: Prinia subflava cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_063395753": {
+  "organism": "Prinia subflava",
+  "title": "PREDICTED: Prinia subflava cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_063416628": {
+  "organism": "Prinia subflava",
+  "title": "PREDICTED: Prinia subflava cryptochrome DASH-like (LOC134560529), mRNA"
+ },
+ "XM_063331808": {
+  "organism": "Chroicocephalus ridibundus",
+  "title": "PREDICTED: Chroicocephalus ridibundus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XR_010069770": {
+  "organism": "Chroicocephalus ridibundus",
+  "title": "PREDICTED: Chroicocephalus ridibundus cryptochrome DASH-like (LOC134511019), transcript variant X3, misc_RNA"
+ },
+ "XR_010069769": {
+  "organism": "Chroicocephalus ridibundus",
+  "title": "PREDICTED: Chroicocephalus ridibundus cryptochrome DASH-like (LOC134511019), transcript variant X2, misc_RNA"
+ },
+ "XM_063324332": {
+  "organism": "Chroicocephalus ridibundus",
+  "title": "PREDICTED: Chroicocephalus ridibundus cryptochrome DASH-like (LOC134511019), transcript variant X1, mRNA"
+ },
+ "XM_063321277": {
+  "organism": "Chroicocephalus ridibundus",
+  "title": "PREDICTED: Chroicocephalus ridibundus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_063321269": {
+  "organism": "Chroicocephalus ridibundus",
+  "title": "PREDICTED: Chroicocephalus ridibundus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_063159016": {
+  "organism": "Melospiza melodia melodia",
+  "title": "PREDICTED: Melospiza melodia melodia cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_063154387": {
+  "organism": "Melospiza melodia melodia",
+  "title": "PREDICTED: Melospiza melodia melodia cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_063154386": {
+  "organism": "Melospiza melodia melodia",
+  "title": "PREDICTED: Melospiza melodia melodia cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_063176310": {
+  "organism": "Melospiza melodia melodia",
+  "title": "PREDICTED: Melospiza melodia melodia cryptochrome DASH-like (LOC134429191), mRNA"
+ },
+ "XM_062602747": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 1 (CRY1), transcript variant X6, mRNA"
+ },
+ "XM_062602746": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XM_062602745": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_062602744": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_062602742": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_062602741": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_062635780": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_062635779": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_062621375": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome DASH-like (LOC134165037), transcript variant X2, mRNA"
+ },
+ "XM_062621374": {
+  "organism": "Pezoporus occidentalis",
+  "title": "PREDICTED: Pezoporus occidentalis cryptochrome DASH-like (LOC134165037), transcript variant X1, mRNA"
+ },
+ "XM_062576395": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_062568768": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X9, mRNA"
+ },
+ "XR_009957535": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X8, misc_RNA"
+ },
+ "XR_009957534": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X7, misc_RNA"
+ },
+ "XR_009957533": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X6, misc_RNA"
+ },
+ "XR_009957532": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X5, misc_RNA"
+ },
+ "XR_009957531": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X4, misc_RNA"
+ },
+ "XR_009957530": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X3, misc_RNA"
+ },
+ "XM_062568767": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X2, mRNA"
+ },
+ "XM_062568765": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome DASH-like (LOC134136748), transcript variant X1, mRNA"
+ },
+ "XM_062589068": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_062589058": {
+  "organism": "Rhea pennata",
+  "title": "PREDICTED: Rhea pennata cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_062495915": {
+  "organism": "Cinclus cinclus",
+  "title": "PREDICTED: Cinclus cinclus cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_062495912": {
+  "organism": "Cinclus cinclus",
+  "title": "PREDICTED: Cinclus cinclus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_062495911": {
+  "organism": "Cinclus cinclus",
+  "title": "PREDICTED: Cinclus cinclus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_062492124": {
+  "organism": "Cinclus cinclus",
+  "title": "PREDICTED: Cinclus cinclus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_062492123": {
+  "organism": "Cinclus cinclus",
+  "title": "PREDICTED: Cinclus cinclus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_062493527": {
+  "organism": "Cinclus cinclus",
+  "title": "PREDICTED: Cinclus cinclus cryptochrome DASH-like (LOC134044342), mRNA"
+ },
+ "XM_061997829": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_061997828": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_061996597": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome DASH-like (LOC104562326), transcript variant X3, mRNA"
+ },
+ "XR_009818775": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome DASH-like (LOC104562326), transcript variant X2, misc_RNA"
+ },
+ "XM_061996596": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome DASH-like (LOC104562326), transcript variant X1, mRNA"
+ },
+ "XM_062011763": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_062011755": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_062011745": {
+  "organism": "Colius striatus",
+  "title": "PREDICTED: Colius striatus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_061474570": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome DASH-like (LOC133280140), transcript variant X3, mRNA"
+ },
+ "XM_061474569": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome DASH-like (LOC133280140), transcript variant X2, mRNA"
+ },
+ "XM_061474568": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome DASH-like (LOC133280140), transcript variant X1, mRNA"
+ },
+ "XM_061462276": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_061462275": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_061445065": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 1 (CRY1), transcript variant X6, mRNA"
+ },
+ "XM_061445064": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XM_061445063": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_061445062": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_061445061": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_061445060": {
+  "organism": "Pezoporus flaviventris",
+  "title": "PREDICTED: Pezoporus flaviventris cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_061343440": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_061343439": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_061343438": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_061371823": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_061371822": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_061371821": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_061354803": {
+  "organism": "Neopsephotus bourkii",
+  "title": "PREDICTED: Neopsephotus bourkii cryptochrome DASH-like (LOC133212933), mRNA"
+ },
+ "XM_059849448": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_059849447": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_059849446": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_059846265": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_059846264": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_059838894": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome DASH-like (LOC132323550), transcript variant X2, mRNA"
+ },
+ "XM_059838883": {
+  "organism": "Haemorhous mexicanus",
+  "title": "PREDICTED: Haemorhous mexicanus cryptochrome DASH-like (LOC132323550), transcript variant X1, mRNA"
+ },
+ "XM_059819995": {
+  "organism": "Gavia stellata",
+  "title": "PREDICTED: Gavia stellata cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_059819023": {
+  "organism": "Gavia stellata",
+  "title": "PREDICTED: Gavia stellata cryptochrome DASH-like (LOC104264760), mRNA"
+ },
+ "XM_059817274": {
+  "organism": "Gavia stellata",
+  "title": "PREDICTED: Gavia stellata cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "NM_001039596": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome 4 (LOC395100), mRNA"
+ },
+ "XM_059473612": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_059473611": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_059471838": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XR_009418465": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome circadian regulator 1 (CRY1), transcript variant X3, misc_RNA"
+ },
+ "XR_009418464": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome circadian regulator 1 (CRY1), transcript variant X2, misc_RNA"
+ },
+ "XM_059471837": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_059478290": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome DASH-like (LOC132076879), transcript variant X3, mRNA"
+ },
+ "XM_059478281": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome DASH-like (LOC132076879), transcript variant X2, mRNA"
+ },
+ "XM_059478271": {
+  "organism": "Ammospiza nelsoni",
+  "title": "PREDICTED: Ammospiza nelsoni cryptochrome DASH-like (LOC132076879), transcript variant X1, mRNA"
+ },
+ "XM_058832572": {
+  "organism": "Poecile atricapillus",
+  "title": "PREDICTED: Poecile atricapillus cryptochrome DASH-like (LOC131576171), transcript variant X3, mRNA"
+ },
+ "XM_058832571": {
+  "organism": "Poecile atricapillus",
+  "title": "PREDICTED: Poecile atricapillus cryptochrome DASH-like (LOC131576171), transcript variant X2, mRNA"
+ },
+ "XM_058832570": {
+  "organism": "Poecile atricapillus",
+  "title": "PREDICTED: Poecile atricapillus cryptochrome DASH-like (LOC131576171), transcript variant X1, mRNA"
+ },
+ "XM_058839433": {
+  "organism": "Poecile atricapillus",
+  "title": "PREDICTED: Poecile atricapillus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_058839424": {
+  "organism": "Poecile atricapillus",
+  "title": "PREDICTED: Poecile atricapillus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_058806192": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_058806191": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_058805011": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XR_009274754": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 1 (CRY1), transcript variant X4, misc_RNA"
+ },
+ "XM_058805009": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XR_009274753": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 1 (CRY1), transcript variant X2, misc_RNA"
+ },
+ "XM_058805008": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_058814806": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome DASH-like (LOC131564367), transcript variant X3, mRNA"
+ },
+ "XM_058814797": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome DASH-like (LOC131564367), transcript variant X2, mRNA"
+ },
+ "XM_058814789": {
+  "organism": "Ammospiza caudacuta",
+  "title": "PREDICTED: Ammospiza caudacuta cryptochrome DASH-like (LOC131564367), transcript variant X1, mRNA"
+ },
+ "XM_040068584": {
+  "organism": "Hirundo rustica",
+  "title": "PREDICTED: Hirundo rustica cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_040061678": {
+  "organism": "Hirundo rustica",
+  "title": "PREDICTED: Hirundo rustica cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_040069690": {
+  "organism": "Hirundo rustica",
+  "title": "PREDICTED: Hirundo rustica cryptochrome DASH-like (LOC120755099), mRNA"
+ },
+ "XM_040068585": {
+  "organism": "Hirundo rustica",
+  "title": "PREDICTED: Hirundo rustica cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "OR223857": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele15 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223856": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele14 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223855": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele13 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223854": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele12 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223853": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele11 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223852": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele10 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223851": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele9 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223850": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele8 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223849": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele7 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223848": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele6 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223847": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele5 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223846": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele4 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223845": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele3 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223844": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele2 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223843": {
+  "organism": "Oceanodroma leucorhoa",
+  "title": "Oceanodroma leucorhoa OlCry2_Allele1 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223842": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele7 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223841": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele6 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223840": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele5 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223839": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele4 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223838": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele3 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223837": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele2 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "OR223836": {
+  "organism": "Hydrobates castro",
+  "title": "Oceanodroma castro OcCry2_Allele1 cryptochrome circadian regulator 2 gene, partial cds"
+ },
+ "XM_058025509": {
+  "organism": "Melospiza georgiana",
+  "title": "PREDICTED: Melospiza georgiana cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_058022374": {
+  "organism": "Melospiza georgiana",
+  "title": "PREDICTED: Melospiza georgiana cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_058038247": {
+  "organism": "Melospiza georgiana",
+  "title": "PREDICTED: Melospiza georgiana cryptochrome DASH-like (LOC131091885), mRNA"
+ },
+ "XM_057420486": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_057420484": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_057420483": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_057404016": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_057404015": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_057398281": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome DASH-like (LOC130593260), transcript variant X3, mRNA"
+ },
+ "XM_057398280": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome DASH-like (LOC130593260), transcript variant X2, mRNA"
+ },
+ "XM_057398279": {
+  "organism": "Pezoporus wallicus",
+  "title": "PREDICTED: Pezoporus wallicus cryptochrome DASH-like (LOC130593260), transcript variant X1, mRNA"
+ },
+ "XM_057381074": {
+  "organism": "Malurus melanocephalus",
+  "title": "PREDICTED: Malurus melanocephalus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_057365423": {
+  "organism": "Malurus melanocephalus",
+  "title": "PREDICTED: Malurus melanocephalus cryptochrome DASH-like (LOC130573169), mRNA"
+ },
+ "XM_057365347": {
+  "organism": "Malurus melanocephalus",
+  "title": "PREDICTED: Malurus melanocephalus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_056492706": {
+  "organism": "Oenanthe melanoleuca",
+  "title": "PREDICTED: Oenanthe melanoleuca cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_056492705": {
+  "organism": "Oenanthe melanoleuca",
+  "title": "PREDICTED: Oenanthe melanoleuca cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_056485173": {
+  "organism": "Oenanthe melanoleuca",
+  "title": "PREDICTED: Oenanthe melanoleuca cryptochrome DASH-like (LOC130249976), mRNA"
+ },
+ "XM_056508267": {
+  "organism": "Oenanthe melanoleuca",
+  "title": "PREDICTED: Oenanthe melanoleuca cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_056508258": {
+  "organism": "Oenanthe melanoleuca",
+  "title": "PREDICTED: Oenanthe melanoleuca cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_056346050": {
+  "organism": "Falco biarmicus",
+  "title": "PREDICTED: Falco biarmicus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_056339167": {
+  "organism": "Falco biarmicus",
+  "title": "PREDICTED: Falco biarmicus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_056339166": {
+  "organism": "Falco biarmicus",
+  "title": "PREDICTED: Falco biarmicus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_056334304": {
+  "organism": "Falco biarmicus",
+  "title": "PREDICTED: Falco biarmicus cryptochrome DASH-like (LOC130147332), mRNA"
+ },
+ "XM_027786639": {
+  "organism": "Falco peregrinus",
+  "title": "PREDICTED: Falco peregrinus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_005237343": {
+  "organism": "Falco peregrinus",
+  "title": "PREDICTED: Falco peregrinus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_005240979": {
+  "organism": "Falco peregrinus",
+  "title": "PREDICTED: Falco peregrinus cryptochrome DASH-like (LOC101923079), mRNA"
+ },
+ "XM_055715999": {
+  "organism": "Falco cherrug",
+  "title": "PREDICTED: Falco cherrug cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_055804525": {
+  "organism": "Falco peregrinus",
+  "title": "PREDICTED: Falco peregrinus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_055710684": {
+  "organism": "Falco cherrug",
+  "title": "PREDICTED: Falco cherrug cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_055710683": {
+  "organism": "Falco cherrug",
+  "title": "PREDICTED: Falco cherrug cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_005442391": {
+  "organism": "Falco cherrug",
+  "title": "PREDICTED: Falco cherrug cryptochrome DASH-like (LOC102050175), mRNA"
+ },
+ "XM_054827067": {
+  "organism": "Grus americana",
+  "title": "PREDICTED: Grus americana cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_054827066": {
+  "organism": "Grus americana",
+  "title": "PREDICTED: Grus americana cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_054816729": {
+  "organism": "Grus americana",
+  "title": "PREDICTED: Grus americana cryptochrome DASH-like (LOC129202958), mRNA"
+ },
+ "XM_054813767": {
+  "organism": "Grus americana",
+  "title": "PREDICTED: Grus americana cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_054813766": {
+  "organism": "Grus americana",
+  "title": "PREDICTED: Grus americana cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_036384153": {
+  "organism": "Molothrus ater",
+  "title": "PREDICTED: Molothrus ater cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_036400416": {
+  "organism": "Molothrus ater",
+  "title": "PREDICTED: Molothrus ater cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_036406956": {
+  "organism": "Molothrus ater",
+  "title": "PREDICTED: Molothrus ater cryptochrome DASH-like (LOC118701961), mRNA"
+ },
+ "XM_054400797": {
+  "organism": "Indicator indicator",
+  "title": "PREDICTED: Indicator indicator cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_054390229": {
+  "organism": "Indicator indicator",
+  "title": "PREDICTED: Indicator indicator cryptochrome DASH-like (LOC128973794), mRNA"
+ },
+ "XM_054387004": {
+  "organism": "Indicator indicator",
+  "title": "PREDICTED: Indicator indicator cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_054275184": {
+  "organism": "Melozone crissalis",
+  "title": "PREDICTED: Melozone crissalis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_054275183": {
+  "organism": "Melozone crissalis",
+  "title": "PREDICTED: Melozone crissalis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_054273974": {
+  "organism": "Melozone crissalis",
+  "title": "PREDICTED: Melozone crissalis cryptochrome DASH-like (LOC128935556), mRNA"
+ },
+ "XM_054273453": {
+  "organism": "Melozone crissalis",
+  "title": "PREDICTED: Melozone crissalis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_054199631": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_054199630": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_054199629": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_054193337": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome DASH-like (LOC128906286), transcript variant X2, mRNA"
+ },
+ "XM_054193336": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome DASH-like (LOC128906286), transcript variant X1, mRNA"
+ },
+ "XM_054213698": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_054213692": {
+  "organism": "Rissa tridactyla",
+  "title": "PREDICTED: Rissa tridactyla cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_054161491": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_054161490": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_054161489": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_009899125": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome DASH-like (LOC104298987), mRNA"
+ },
+ "XM_054167591": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_054167590": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_054167589": {
+  "organism": "Dryobates pubescens",
+  "title": "PREDICTED: Dryobates pubescens cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XR_008449997": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome circadian regulator 2 (CRY2), transcript variant X3, misc_RNA"
+ },
+ "XM_009570077": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_054067623": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_054060410": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome DASH-like (LOC104057016), transcript variant X2, mRNA"
+ },
+ "XM_009558338": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome DASH-like (LOC104057016), transcript variant X1, mRNA"
+ },
+ "XM_054056567": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_009557610": {
+  "organism": "Cuculus canorus",
+  "title": "PREDICTED: Cuculus canorus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_053980211": {
+  "organism": "Vidua macroura",
+  "title": "PREDICTED: Vidua macroura cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_053980210": {
+  "organism": "Vidua macroura",
+  "title": "PREDICTED: Vidua macroura cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_053979096": {
+  "organism": "Vidua macroura",
+  "title": "PREDICTED: Vidua macroura cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_053979095": {
+  "organism": "Vidua macroura",
+  "title": "PREDICTED: Vidua macroura cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_053945451": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_053945450": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XR_008431228": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome circadian regulator 1 (CRY1), transcript variant X2, misc_RNA"
+ },
+ "XM_053944176": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_053998350": {
+  "organism": "Vidua macroura",
+  "title": "PREDICTED: Vidua macroura cryptochrome DASH-like (LOC128818755), transcript variant X2, mRNA"
+ },
+ "XM_053998343": {
+  "organism": "Vidua macroura",
+  "title": "PREDICTED: Vidua macroura cryptochrome DASH-like (LOC128818755), transcript variant X1, mRNA"
+ },
+ "XM_053966012": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome DASH-like (LOC128800644), transcript variant X3, mRNA"
+ },
+ "XM_053966003": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome DASH-like (LOC128800644), transcript variant X2, mRNA"
+ },
+ "XM_053965995": {
+  "organism": "Vidua chalybeata",
+  "title": "PREDICTED: Vidua chalybeata cryptochrome DASH-like (LOC128800644), transcript variant X1, mRNA"
+ },
+ "XM_018907685": {
+  "organism": "Serinus canaria",
+  "title": "PREDICTED: Serinus canaria cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_050975714": {
+  "organism": "Serinus canaria",
+  "title": "PREDICTED: Serinus canaria cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_030238000": {
+  "organism": "Serinus canaria",
+  "title": "PREDICTED: Serinus canaria cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_009086265": {
+  "organism": "Serinus canaria",
+  "title": "PREDICTED: Serinus canaria cryptochrome DASH-like (LOC103813054), transcript variant X2, mRNA"
+ },
+ "XM_030232356": {
+  "organism": "Serinus canaria",
+  "title": "PREDICTED: Serinus canaria cryptochrome DASH-like (LOC103813054), transcript variant X1, mRNA"
+ },
+ "XM_035539392": {
+  "organism": "Cygnus atratus",
+  "title": "PREDICTED: Cygnus atratus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_035539391": {
+  "organism": "Cygnus atratus",
+  "title": "PREDICTED: Cygnus atratus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_035554367": {
+  "organism": "Cygnus atratus",
+  "title": "PREDICTED: Cygnus atratus cryptochrome DASH-like (LOC118251790), transcript variant X2, mRNA"
+ },
+ "XM_035554366": {
+  "organism": "Cygnus atratus",
+  "title": "PREDICTED: Cygnus atratus cryptochrome DASH-like (LOC118251790), transcript variant X1, mRNA"
+ },
+ "XM_035569238": {
+  "organism": "Cygnus atratus",
+  "title": "PREDICTED: Cygnus atratus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_035569237": {
+  "organism": "Cygnus atratus",
+  "title": "PREDICTED: Cygnus atratus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_050897256": {
+  "organism": "Gymnogyps californianus",
+  "title": "PREDICTED: Gymnogyps californianus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_050891919": {
+  "organism": "Gymnogyps californianus",
+  "title": "PREDICTED: Gymnogyps californianus cryptochrome DASH-like (LOC127013203), mRNA"
+ },
+ "XM_050915611": {
+  "organism": "Gymnogyps californianus",
+  "title": "PREDICTED: Gymnogyps californianus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_052789490": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_052789489": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_052782100": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_052782099": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_052782097": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_052807697": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome DASH-like (LOC128150911), transcript variant X3, mRNA"
+ },
+ "XM_052807689": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome DASH-like (LOC128150911), transcript variant X2, mRNA"
+ },
+ "XM_052807681": {
+  "organism": "Harpia harpyja",
+  "title": "PREDICTED: Harpia harpyja cryptochrome DASH-like (LOC128150911), transcript variant X1, mRNA"
+ },
+ "XM_052668596": {
+  "organism": "Tympanuchus pallidicinctus",
+  "title": "PREDICTED: Tympanuchus pallidicinctus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_052694018": {
+  "organism": "Tympanuchus pallidicinctus",
+  "title": "PREDICTED: Tympanuchus pallidicinctus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_051768384": {
+  "organism": "Manacus candei",
+  "title": "PREDICTED: Manacus candei cryptochrome DASH-like (LOC127461082), mRNA"
+ },
+ "XM_051791646": {
+  "organism": "Manacus candei",
+  "title": "PREDICTED: Manacus candei cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_051784588": {
+  "organism": "Manacus candei",
+  "title": "PREDICTED: Manacus candei cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_051621500": {
+  "organism": "Apus apus",
+  "title": "PREDICTED: Apus apus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_051621498": {
+  "organism": "Apus apus",
+  "title": "PREDICTED: Apus apus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_051612233": {
+  "organism": "Apus apus",
+  "title": "PREDICTED: Apus apus cryptochrome DASH-like (LOC127381659), mRNA"
+ },
+ "XM_051636888": {
+  "organism": "Apus apus",
+  "title": "PREDICTED: Apus apus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_050336592": {
+  "organism": "Myiozetetes cayanensis",
+  "title": "PREDICTED: Myiozetetes cayanensis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_050323703": {
+  "organism": "Myiozetetes cayanensis",
+  "title": "PREDICTED: Myiozetetes cayanensis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_050317071": {
+  "organism": "Myiozetetes cayanensis",
+  "title": "PREDICTED: Myiozetetes cayanensis cryptochrome DASH-like (LOC126640875), transcript variant X4, mRNA"
+ },
+ "XM_050317063": {
+  "organism": "Myiozetetes cayanensis",
+  "title": "PREDICTED: Myiozetetes cayanensis cryptochrome DASH-like (LOC126640875), transcript variant X3, mRNA"
+ },
+ "XM_050317054": {
+  "organism": "Myiozetetes cayanensis",
+  "title": "PREDICTED: Myiozetetes cayanensis cryptochrome DASH-like (LOC126640875), transcript variant X2, mRNA"
+ },
+ "XM_050317046": {
+  "organism": "Myiozetetes cayanensis",
+  "title": "PREDICTED: Myiozetetes cayanensis cryptochrome DASH-like (LOC126640875), transcript variant X1, mRNA"
+ },
+ "XM_048948630": {
+  "organism": "Lagopus muta",
+  "title": "PREDICTED: Lagopus muta cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_048956821": {
+  "organism": "Lagopus muta",
+  "title": "PREDICTED: Lagopus muta cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_048956813": {
+  "organism": "Lagopus muta",
+  "title": "PREDICTED: Lagopus muta cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_048308184": {
+  "organism": "Corvus hawaiiensis",
+  "title": "PREDICTED: Corvus hawaiiensis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_048308183": {
+  "organism": "Corvus hawaiiensis",
+  "title": "PREDICTED: Corvus hawaiiensis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_048300262": {
+  "organism": "Corvus hawaiiensis",
+  "title": "PREDICTED: Corvus hawaiiensis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_048300261": {
+  "organism": "Corvus hawaiiensis",
+  "title": "PREDICTED: Corvus hawaiiensis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_048316248": {
+  "organism": "Corvus hawaiiensis",
+  "title": "PREDICTED: Corvus hawaiiensis cryptochrome DASH-like (LOC125331842), mRNA"
+ },
+ "XM_046917632": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_046932842": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome 4 (LOC395100), transcript variant X3, mRNA"
+ },
+ "XM_046932841": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome 4 (LOC395100), transcript variant X2, mRNA"
+ },
+ "XM_046932840": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome 4 (LOC395100), transcript variant X1, mRNA"
+ },
+ "XM_046906341": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_046906340": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_046906339": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XM_046906338": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_015286915": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_040652671": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome 4 (LOC395100), transcript variant X3, mRNA"
+ },
+ "XM_015298682": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome 4 (LOC395100), transcript variant X2, mRNA"
+ },
+ "XM_015298681": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome 4 (LOC395100), transcript variant X1, mRNA"
+ },
+ "XM_040698727": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_046941222": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_046941176": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_040698702": {
+  "organism": "Gallus gallus",
+  "title": "PREDICTED: Gallus gallus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_042792550": {
+  "organism": "Tyto alba",
+  "title": "PREDICTED: Tyto alba cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_042792549": {
+  "organism": "Tyto alba",
+  "title": "PREDICTED: Tyto alba cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_042790565": {
+  "organism": "Tyto alba",
+  "title": "PREDICTED: Tyto alba cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_042889900": {
+  "organism": "Lagopus leucura",
+  "title": "PREDICTED: Lagopus leucura cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_042866138": {
+  "organism": "Lagopus leucura",
+  "title": "PREDICTED: Lagopus leucura cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_042837763": {
+  "organism": "Centrocercus urophasianus",
+  "title": "PREDICTED: Centrocercus urophasianus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_042814077": {
+  "organism": "Centrocercus urophasianus",
+  "title": "PREDICTED: Centrocercus urophasianus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_042814076": {
+  "organism": "Centrocercus urophasianus",
+  "title": "PREDICTED: Centrocercus urophasianus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_033058093": {
+  "organism": "Catharus ustulatus",
+  "title": "PREDICTED: Catharus ustulatus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_033058092": {
+  "organism": "Catharus ustulatus",
+  "title": "PREDICTED: Catharus ustulatus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_033076907": {
+  "organism": "Catharus ustulatus",
+  "title": "PREDICTED: Catharus ustulatus cryptochrome DASH-like (LOC117005342), mRNA"
+ },
+ "XM_033061904": {
+  "organism": "Catharus ustulatus",
+  "title": "PREDICTED: Catharus ustulatus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_033061903": {
+  "organism": "Catharus ustulatus",
+  "title": "PREDICTED: Catharus ustulatus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_042051122": {
+  "organism": "Corvus kubaryi",
+  "title": "PREDICTED: Corvus kubaryi cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_042051121": {
+  "organism": "Corvus kubaryi",
+  "title": "PREDICTED: Corvus kubaryi cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_042043643": {
+  "organism": "Corvus kubaryi",
+  "title": "PREDICTED: Corvus kubaryi cryptochrome DASH-like (LOC121671629), transcript variant X2, mRNA"
+ },
+ "XM_042043642": {
+  "organism": "Corvus kubaryi",
+  "title": "PREDICTED: Corvus kubaryi cryptochrome DASH-like (LOC121671629), transcript variant X1, mRNA"
+ },
+ "XM_042038156": {
+  "organism": "Corvus kubaryi",
+  "title": "PREDICTED: Corvus kubaryi cryptochrome circadian regulator 2 (CRY2), partial mRNA"
+ },
+ "XM_041459833": {
+  "organism": "Pyrgilauda ruficollis",
+  "title": "PREDICTED: Pyrgilauda ruficollis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_041459832": {
+  "organism": "Pyrgilauda ruficollis",
+  "title": "PREDICTED: Pyrgilauda ruficollis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_041489138": {
+  "organism": "Pyrgilauda ruficollis",
+  "title": "PREDICTED: Pyrgilauda ruficollis cryptochrome DASH-like (LOC121365158), mRNA"
+ },
+ "XM_041481592": {
+  "organism": "Pyrgilauda ruficollis",
+  "title": "PREDICTED: Pyrgilauda ruficollis cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_041481591": {
+  "organism": "Pyrgilauda ruficollis",
+  "title": "PREDICTED: Pyrgilauda ruficollis cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_041416733": {
+  "organism": "Onychostruthus taczanowskii",
+  "title": "PREDICTED: Onychostruthus taczanowskii cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_041416732": {
+  "organism": "Onychostruthus taczanowskii",
+  "title": "PREDICTED: Onychostruthus taczanowskii cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_041408766": {
+  "organism": "Onychostruthus taczanowskii",
+  "title": "PREDICTED: Onychostruthus taczanowskii cryptochrome DASH-like (LOC121338115), mRNA"
+ },
+ "XM_041414805": {
+  "organism": "Onychostruthus taczanowskii",
+  "title": "PREDICTED: Onychostruthus taczanowskii cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_041414726": {
+  "organism": "Onychostruthus taczanowskii",
+  "title": "PREDICTED: Onychostruthus taczanowskii cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_030040074": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_030040073": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_041122474": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X9, mRNA"
+ },
+ "XM_041122473": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X8, mRNA"
+ },
+ "XM_030009277": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X7, mRNA"
+ },
+ "XR_005932084": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X6, misc_RNA"
+ },
+ "XR_005932083": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X5, misc_RNA"
+ },
+ "XM_041122472": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X4, mRNA"
+ },
+ "XM_041122471": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X3, mRNA"
+ },
+ "XM_030009276": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X2, mRNA"
+ },
+ "XM_030009275": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome DASH-like (LOC115339370), transcript variant X1, mRNA"
+ },
+ "XM_029996515": {
+  "organism": "Aquila chrysaetos chrysaetos",
+  "title": "PREDICTED: Aquila chrysaetos chrysaetos cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_040558407": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_040558406": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_040546188": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome DASH-like (LOC121064541), transcript variant X6, mRNA"
+ },
+ "XM_040546187": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome DASH-like (LOC121064541), transcript variant X5, mRNA"
+ },
+ "XM_040546186": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome DASH-like (LOC121064541), transcript variant X4, mRNA"
+ },
+ "XM_040546185": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome DASH-like (LOC121064541), transcript variant X3, mRNA"
+ },
+ "XM_040546184": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome DASH-like (LOC121064541), transcript variant X2, mRNA"
+ },
+ "XM_040546183": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome DASH-like (LOC121064541), transcript variant X1, mRNA"
+ },
+ "XM_040559753": {
+  "organism": "Cygnus olor",
+  "title": "PREDICTED: Cygnus olor cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_039704888": {
+  "organism": "Passer montanus",
+  "title": "PREDICTED: Passer montanus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_039704887": {
+  "organism": "Passer montanus",
+  "title": "PREDICTED: Passer montanus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_039726524": {
+  "organism": "Passer montanus",
+  "title": "PREDICTED: Passer montanus cryptochrome DASH-like (LOC120510579), transcript variant X2, mRNA"
+ },
+ "XM_039726523": {
+  "organism": "Passer montanus",
+  "title": "PREDICTED: Passer montanus cryptochrome DASH-like (LOC120510579), transcript variant X1, mRNA"
+ },
+ "XM_039725573": {
+  "organism": "Passer montanus",
+  "title": "PREDICTED: Passer montanus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_039725572": {
+  "organism": "Passer montanus",
+  "title": "PREDICTED: Passer montanus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_039389032": {
+  "organism": "Pipra filicauda",
+  "title": "PREDICTED: Pipra filicauda cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_027750154": {
+  "organism": "Pipra filicauda",
+  "title": "PREDICTED: Pipra filicauda cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_027750153": {
+  "organism": "Pipra filicauda",
+  "title": "PREDICTED: Pipra filicauda cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_027715127": {
+  "organism": "Pipra filicauda",
+  "title": "PREDICTED: Pipra filicauda cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_027733439": {
+  "organism": "Pipra filicauda",
+  "title": "PREDICTED: Pipra filicauda cryptochrome DASH-like (LOC113994419), mRNA"
+ },
+ "MN656980": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome 2a mRNA, complete cds"
+ },
+ "XM_038137876": {
+  "organism": "Motacilla alba alba",
+  "title": "PREDICTED: Motacilla alba alba cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_038137875": {
+  "organism": "Motacilla alba alba",
+  "title": "PREDICTED: Motacilla alba alba cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_038129809": {
+  "organism": "Motacilla alba alba",
+  "title": "PREDICTED: Motacilla alba alba cryptochrome DASH-like (LOC119698171), mRNA"
+ },
+ "XM_038155640": {
+  "organism": "Motacilla alba alba",
+  "title": "PREDICTED: Motacilla alba alba cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_037394093": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_037387513": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome circadian regulator 1 (CRY1), transcript variant X5, mRNA"
+ },
+ "XM_037387512": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome circadian regulator 1 (CRY1), transcript variant X4, mRNA"
+ },
+ "XM_037387511": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_037387509": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_037387508": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_037382465": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome DASH-like (LOC119145787), transcript variant X3, mRNA"
+ },
+ "XM_037382464": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome DASH-like (LOC119145787), transcript variant X2, mRNA"
+ },
+ "XM_037382463": {
+  "organism": "Falco rusticolus",
+  "title": "PREDICTED: Falco rusticolus cryptochrome DASH-like (LOC119145787), transcript variant X1, mRNA"
+ },
+ "MN709784": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome 4b mRNA, complete cds"
+ },
+ "XM_035899642": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome DASH-like (LOC104130984), partial mRNA"
+ },
+ "XM_035902911": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome circadian regulator 2 (CRY2), transcript variant X5, mRNA"
+ },
+ "XM_009647632": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome circadian regulator 2 (CRY2), transcript variant X4, mRNA"
+ },
+ "XM_035902910": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_035902909": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_035902908": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_035889192": {
+  "organism": "Egretta garzetta",
+  "title": "PREDICTED: Egretta garzetta cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_035326997": {
+  "organism": "Oxyura jamaicensis",
+  "title": "PREDICTED: Oxyura jamaicensis cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_035326996": {
+  "organism": "Oxyura jamaicensis",
+  "title": "PREDICTED: Oxyura jamaicensis cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_035316366": {
+  "organism": "Oxyura jamaicensis",
+  "title": "PREDICTED: Oxyura jamaicensis cryptochrome DASH-like (LOC118161238), transcript variant X2, mRNA"
+ },
+ "XM_035316365": {
+  "organism": "Oxyura jamaicensis",
+  "title": "PREDICTED: Oxyura jamaicensis cryptochrome DASH-like (LOC118161238), transcript variant X1, mRNA"
+ },
+ "XM_035340816": {
+  "organism": "Oxyura jamaicensis",
+  "title": "PREDICTED: Oxyura jamaicensis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_015631500": {
+  "organism": "Parus major",
+  "title": "PREDICTED: Parus major cryptochrome circadian regulator 2 (CRY2), transcript variant X4, mRNA"
+ },
+ "XM_033514934": {
+  "organism": "Parus major",
+  "title": "PREDICTED: Parus major cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_015619799": {
+  "organism": "Parus major",
+  "title": "PREDICTED: Parus major cryptochrome DASH-like (LOC107200822), mRNA"
+ },
+ "XM_019006761": {
+  "organism": "Parus major",
+  "title": "PREDICTED: Parus major cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_015631499": {
+  "organism": "Parus major",
+  "title": "PREDICTED: Parus major cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_015631498": {
+  "organism": "Parus major",
+  "title": "PREDICTED: Parus major cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_030478450": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_030478449": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_030478447": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_030481695": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome circadian regulator 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_030481694": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_030481693": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_030490750": {
+  "organism": "Strigops habroptila",
+  "title": "PREDICTED: Strigops habroptila cryptochrome DASH-like (LOC115609924), mRNA"
+ },
+ "MH715487": {
+  "organism": "Passer montanus",
+  "title": "Passer montanus cryptochrome 1 (Cry1) mRNA, partial cds"
+ },
+ "MH715484": {
+  "organism": "Passer montanus",
+  "title": "Passer montanus cryptochrome 2 (Cry2) gene, partial cds"
+ },
+ "XM_032687872": {
+  "organism": "Chiroxiphia lanceolata",
+  "title": "PREDICTED: Chiroxiphia lanceolata cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_032694299": {
+  "organism": "Chiroxiphia lanceolata",
+  "title": "PREDICTED: Chiroxiphia lanceolata cryptochrome DASH-like (LOC116789941), transcript variant X2, mRNA"
+ },
+ "XM_032694289": {
+  "organism": "Chiroxiphia lanceolata",
+  "title": "PREDICTED: Chiroxiphia lanceolata cryptochrome DASH-like (LOC116789941), transcript variant X1, mRNA"
+ },
+ "XM_032690398": {
+  "organism": "Chiroxiphia lanceolata",
+  "title": "PREDICTED: Chiroxiphia lanceolata cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_032690397": {
+  "organism": "Chiroxiphia lanceolata",
+  "title": "PREDICTED: Chiroxiphia lanceolata cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_032188300": {
+  "organism": "Aythya fuligula",
+  "title": "PREDICTED: Aythya fuligula cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_032188299": {
+  "organism": "Aythya fuligula",
+  "title": "PREDICTED: Aythya fuligula cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_032183338": {
+  "organism": "Aythya fuligula",
+  "title": "PREDICTED: Aythya fuligula cryptochrome DASH-like (LOC116486841), mRNA"
+ },
+ "XM_032200236": {
+  "organism": "Aythya fuligula",
+  "title": "PREDICTED: Aythya fuligula cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_032098191": {
+  "organism": "Corvus moneduloides",
+  "title": "PREDICTED: Corvus moneduloides cryptochrome DASH-like (LOC116439077), mRNA"
+ },
+ "XM_032111094": {
+  "organism": "Corvus moneduloides",
+  "title": "PREDICTED: Corvus moneduloides cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_032111093": {
+  "organism": "Corvus moneduloides",
+  "title": "PREDICTED: Corvus moneduloides cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_032107636": {
+  "organism": "Corvus moneduloides",
+  "title": "PREDICTED: Corvus moneduloides cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_032107635": {
+  "organism": "Corvus moneduloides",
+  "title": "PREDICTED: Corvus moneduloides cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_031600059": {
+  "organism": "Phasianus colchicus",
+  "title": "PREDICTED: Phasianus colchicus cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_031600058": {
+  "organism": "Phasianus colchicus",
+  "title": "PREDICTED: Phasianus colchicus cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_031593494": {
+  "organism": "Phasianus colchicus",
+  "title": "PREDICTED: Phasianus colchicus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_031593493": {
+  "organism": "Phasianus colchicus",
+  "title": "PREDICTED: Phasianus colchicus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_031059745": {
+  "organism": "Geospiza fortis",
+  "title": "PREDICTED: Geospiza fortis cryptochrome DASH-like (LOC102044406), transcript variant X2, mRNA"
+ },
+ "XM_031059744": {
+  "organism": "Geospiza fortis",
+  "title": "PREDICTED: Geospiza fortis cryptochrome DASH-like (LOC102044406), transcript variant X1, mRNA"
+ },
+ "XM_014307378": {
+  "organism": "Geospiza fortis",
+  "title": "PREDICTED: Geospiza fortis cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_031055805": {
+  "organism": "Geospiza fortis",
+  "title": "PREDICTED: Geospiza fortis cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_030948631": {
+  "organism": "Camarhynchus parvulus",
+  "title": "PREDICTED: Camarhynchus parvulus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_030948630": {
+  "organism": "Camarhynchus parvulus",
+  "title": "PREDICTED: Camarhynchus parvulus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_030943712": {
+  "organism": "Camarhynchus parvulus",
+  "title": "PREDICTED: Camarhynchus parvulus cryptochrome DASH-like (LOC115901236), mRNA"
+ },
+ "XM_030959636": {
+  "organism": "Camarhynchus parvulus",
+  "title": "PREDICTED: Camarhynchus parvulus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_030452008": {
+  "organism": "Calypte anna",
+  "title": "PREDICTED: Calypte anna cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_030445497": {
+  "organism": "Calypte anna",
+  "title": "PREDICTED: Calypte anna cryptochrome DASH-like (LOC103536100), transcript variant X2, mRNA"
+ },
+ "XM_008502228": {
+  "organism": "Calypte anna",
+  "title": "PREDICTED: Calypte anna cryptochrome DASH-like (LOC103536100), transcript variant X1, mRNA"
+ },
+ "XM_030444701": {
+  "organism": "Calypte anna",
+  "title": "PREDICTED: Calypte anna cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_029964252": {
+  "organism": "Manacus vitellinus",
+  "title": "PREDICTED: Manacus vitellinus cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_029964251": {
+  "organism": "Manacus vitellinus",
+  "title": "PREDICTED: Manacus vitellinus cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_029963404": {
+  "organism": "Manacus vitellinus",
+  "title": "PREDICTED: Manacus vitellinus cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_018067705": {
+  "organism": "Manacus vitellinus",
+  "title": "PREDICTED: Manacus vitellinus cryptochrome DASH-like (LOC103764353), transcript variant X2, mRNA"
+ },
+ "XM_018067704": {
+  "organism": "Manacus vitellinus",
+  "title": "PREDICTED: Manacus vitellinus cryptochrome DASH-like (LOC103764353), transcript variant X1, mRNA"
+ },
+ "MH719001": {
+  "organism": "Emberiza bruniceps",
+  "title": "Emberiza bruniceps cryptochrome 4 mRNA, partial cds"
+ },
+ "XM_027898812": {
+  "organism": "Empidonax traillii",
+  "title": "PREDICTED: Empidonax traillii cryptochrome DASH-like (LOC114065145), transcript variant X2, mRNA"
+ },
+ "XM_027898811": {
+  "organism": "Empidonax traillii",
+  "title": "PREDICTED: Empidonax traillii cryptochrome DASH-like (LOC114065145), transcript variant X1, mRNA"
+ },
+ "XM_027886629": {
+  "organism": "Empidonax traillii",
+  "title": "PREDICTED: Empidonax traillii cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_027887431": {
+  "organism": "Empidonax traillii",
+  "title": "PREDICTED: Empidonax traillii cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_027887425": {
+  "organism": "Empidonax traillii",
+  "title": "PREDICTED: Empidonax traillii cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "EC911993": {
+  "organism": "Gallus gallus",
+  "title": "sgEST025 Chicken Shell Gland cDNA Library Gallus gallus cDNA clone CSG1027A04 5' end similar to ref | NM_204245.1 | Gallus gallus cryptochrome 1 (photolyase-like) (CRY1), mRNA sequence"
+ },
+ "XM_027660628": {
+  "organism": "Corapipo altera",
+  "title": "PREDICTED: Corapipo altera cryptochrome DASH-like (LOC113955302), transcript variant X2, mRNA"
+ },
+ "XM_027660627": {
+  "organism": "Corapipo altera",
+  "title": "PREDICTED: Corapipo altera cryptochrome DASH-like (LOC113955302), transcript variant X1, mRNA"
+ },
+ "XM_027641914": {
+  "organism": "Corapipo altera",
+  "title": "PREDICTED: Corapipo altera cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_027641913": {
+  "organism": "Corapipo altera",
+  "title": "PREDICTED: Corapipo altera cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_027657549": {
+  "organism": "Corapipo altera",
+  "title": "PREDICTED: Corapipo altera cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_027657540": {
+  "organism": "Corapipo altera",
+  "title": "PREDICTED: Corapipo altera cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "DV570697": {
+  "organism": "Taeniopygia guttata",
+  "title": "0033P0002C09_5' library 33 - normalized (Single directed singing) - male Taeniopygia guttata cDNA clone 0033P0002C09 5' similar to cryptochrome 2, mRNA sequence"
+ },
+ "DV570696": {
+  "organism": "Taeniopygia guttata",
+  "title": "0033P0002C09_3' library 33 - normalized (Single directed singing) - male Taeniopygia guttata cDNA clone 0033P0002C09 3' similar to cryptochrome 2, mRNA sequence"
+ },
+ "XM_027695521": {
+  "organism": "Neopelma chrysocephalum",
+  "title": "PREDICTED: Neopelma chrysocephalum cryptochrome DASH-like (LOC113973436), transcript variant X2, mRNA"
+ },
+ "XM_027695520": {
+  "organism": "Neopelma chrysocephalum",
+  "title": "PREDICTED: Neopelma chrysocephalum cryptochrome DASH-like (LOC113973436), transcript variant X1, mRNA"
+ },
+ "XM_027680404": {
+  "organism": "Neopelma chrysocephalum",
+  "title": "PREDICTED: Neopelma chrysocephalum cryptochrome circadian regulator 1 (CRY1), mRNA"
+ },
+ "XM_027706126": {
+  "organism": "Neopelma chrysocephalum",
+  "title": "PREDICTED: Neopelma chrysocephalum cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_027706118": {
+  "organism": "Neopelma chrysocephalum",
+  "title": "PREDICTED: Neopelma chrysocephalum cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "CD217787": {
+  "organism": "Gallus gallus",
+  "title": "pgr1n.pk004.m5 Normalized chicken reproductive tract cDNA library (pgr1n) Gallus gallus cDNA clone pgr1n.pk004.m5 5' similar to gb|AAK61385.1 (AY034432) cryptochrome 1 [Gallus gallus], mRNA sequence"
+ },
+ "CD215125": {
+  "organism": "Gallus gallus",
+  "title": "pgm2n.pk013.p10 Normalized chicken muscle cDNA library (pgm2n) Gallus gallus cDNA clone pgm2n.pk013.p10 5' similar to gb|AAK94665.1 (AY049033) cryptochrome 1 [Xenopus laevis], mRNA sequence"
+ },
+ "BI394078": {
+  "organism": "Gallus gallus",
+  "title": "pgp1n.pk013.g2 Normalized Chicken Pituitary/Hypothalamus/Pineal Library Gallus gallus cDNA clone pgp1n.pk013.g2 5' similar to gi|6681031 ref|NP_031797.1| cryptochrome 1 (photolyase-like) [Mus musculus] dbj|BAA19175.1| (AB000777) photolyase/blue-light receptor homolog [Mus musculus] gb|AAD39548.1|AF156986_1 (AF156986) cryptochrome 1 [Mus musculus], mRNA sequence"
+ },
+ "XM_026849337": {
+  "organism": "Athene cunicularia",
+  "title": "PREDICTED: Athene cunicularia cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "XM_026865644": {
+  "organism": "Athene cunicularia",
+  "title": "PREDICTED: Athene cunicularia cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_026865634": {
+  "organism": "Athene cunicularia",
+  "title": "PREDICTED: Athene cunicularia cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "MG839694": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 4 (Cry4) mRNA, complete cds"
+ },
+ "MG839693": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 2 (Cry2) mRNA, complete cds"
+ },
+ "MG839692": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 1 (Cry1) mRNA, complete cds"
+ },
+ "XM_026091551": {
+  "organism": "Apteryx rowi",
+  "title": "PREDICTED: Apteryx rowi cryptochrome DASH-like (LOC112978254), partial mRNA"
+ },
+ "XM_026065847": {
+  "organism": "Apteryx rowi",
+  "title": "PREDICTED: Apteryx rowi cryptochrome circadian regulator 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_026065846": {
+  "organism": "Apteryx rowi",
+  "title": "PREDICTED: Apteryx rowi cryptochrome circadian regulator 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_026056819": {
+  "organism": "Apteryx rowi",
+  "title": "PREDICTED: Apteryx rowi cryptochrome circadian regulator 1 (CRY1), transcript variant X3, mRNA"
+ },
+ "XM_026056818": {
+  "organism": "Apteryx rowi",
+  "title": "PREDICTED: Apteryx rowi cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_026056817": {
+  "organism": "Apteryx rowi",
+  "title": "PREDICTED: Apteryx rowi cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_026052221": {
+  "organism": "Nothoprocta perdicaria",
+  "title": "PREDICTED: Nothoprocta perdicaria cryptochrome circadian regulator 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_026052220": {
+  "organism": "Nothoprocta perdicaria",
+  "title": "PREDICTED: Nothoprocta perdicaria cryptochrome circadian regulator 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_026051916": {
+  "organism": "Nothoprocta perdicaria",
+  "title": "PREDICTED: Nothoprocta perdicaria cryptochrome DASH-like (LOC112958107), mRNA"
+ },
+ "XM_026045837": {
+  "organism": "Nothoprocta perdicaria",
+  "title": "PREDICTED: Nothoprocta perdicaria cryptochrome circadian regulator 2 (CRY2), mRNA"
+ },
+ "KX890129": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome 4 mRNA, complete cds"
+ },
+ "MF471347": {
+  "organism": "Lonchura punctulata",
+  "title": "Lonchura punctulata cryptochrome 2 mRNA, partial cds"
+ },
+ "KY929434": {
+  "organism": "Lonchura punctulata",
+  "title": "Lonchura punctulata cryptochrome circadian clock 1 mRNA, partial cds"
+ },
+ "KX168611": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 4 (CRY4) mRNA, complete cds"
+ },
+ "KX168610": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 2b (CRY2b) mRNA, complete cds"
+ },
+ "KX168609": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 2a (CRY2a) mRNA, complete cds"
+ },
+ "KX168608": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 1b (CRY1b) mRNA, complete cds"
+ },
+ "KX168607": {
+  "organism": "Columba livia",
+  "title": "Columba livia cryptochrome 1a (CRY1a) mRNA, complete cds"
+ },
+ "XM_021401735": {
+  "organism": "Numida meleagris",
+  "title": "PREDICTED: Numida meleagris cryptochrome circadian clock 2 (CRY2), transcript variant X3, mRNA"
+ },
+ "XM_021401734": {
+  "organism": "Numida meleagris",
+  "title": "PREDICTED: Numida meleagris cryptochrome circadian clock 2 (CRY2), transcript variant X2, mRNA"
+ },
+ "XM_021401733": {
+  "organism": "Numida meleagris",
+  "title": "PREDICTED: Numida meleagris cryptochrome circadian clock 2 (CRY2), transcript variant X1, mRNA"
+ },
+ "XM_021386597": {
+  "organism": "Numida meleagris",
+  "title": "PREDICTED: Numida meleagris cryptochrome circadian clock 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_021386586": {
+  "organism": "Numida meleagris",
+  "title": "PREDICTED: Numida meleagris cryptochrome circadian clock 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_019471610": {
+  "organism": "Aptenodytes forsteri",
+  "title": "PREDICTED: Aptenodytes forsteri cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_019471453": {
+  "organism": "Aptenodytes forsteri",
+  "title": "PREDICTED: Aptenodytes forsteri cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_009275970": {
+  "organism": "Aptenodytes forsteri",
+  "title": "PREDICTED: Aptenodytes forsteri cryptochrome DASH-like (LOC103896186), mRNA"
+ },
+ "XM_017828690": {
+  "organism": "Lepidothrix coronata",
+  "title": "PREDICTED: Lepidothrix coronata cryptochrome DASH-like (LOC108504076), transcript variant X2, mRNA"
+ },
+ "XM_017828689": {
+  "organism": "Lepidothrix coronata",
+  "title": "PREDICTED: Lepidothrix coronata cryptochrome DASH-like (LOC108504076), transcript variant X1, mRNA"
+ },
+ "XM_017804782": {
+  "organism": "Lepidothrix coronata",
+  "title": "PREDICTED: Lepidothrix coronata cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_017807955": {
+  "organism": "Lepidothrix coronata",
+  "title": "PREDICTED: Lepidothrix coronata cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_017741609": {
+  "organism": "Corvus brachyrhynchos",
+  "title": "PREDICTED: Corvus brachyrhynchos cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_017737915": {
+  "organism": "Corvus brachyrhynchos",
+  "title": "PREDICTED: Corvus brachyrhynchos cryptochrome circadian clock 1 (CRY1), transcript variant X2, mRNA"
+ },
+ "XM_017737914": {
+  "organism": "Corvus brachyrhynchos",
+  "title": "PREDICTED: Corvus brachyrhynchos cryptochrome circadian clock 1 (CRY1), transcript variant X1, mRNA"
+ },
+ "XM_008643159": {
+  "organism": "Corvus brachyrhynchos",
+  "title": "PREDICTED: Corvus brachyrhynchos cryptochrome DASH-like (LOC103623978), mRNA"
+ },
+ "AY046568": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome 2 (Cry2) gene, partial cds"
+ },
+ "AY772689": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome 2 mRNA, partial cds"
+ },
+ "AY739908": {
+  "organism": "Sylvia borin",
+  "title": "Sylvia borin cryptochrome 2 (Cry2) mRNA, partial cds"
+ },
+ "AY494989": {
+  "organism": "Passer domesticus",
+  "title": "Passer domesticus cryptochrome 2 variant 2 mRNA, partial cds"
+ },
+ "AY494987": {
+  "organism": "Passer domesticus",
+  "title": "Passer domesticus cryptochrome 4 mRNA, partial cds"
+ },
+ "AF410956": {
+  "organism": "Passer domesticus",
+  "title": "Passer domesticus cryptochrome 1-like protein mRNA, partial cds"
+ },
+ "AF363633": {
+  "organism": "Coturnix japonica",
+  "title": "Coturnix japonica cryptochrome 2 (CRY2) mRNA, partial cds"
+ },
+ "AF363632": {
+  "organism": "Coturnix japonica",
+  "title": "Coturnix japonica cryptochrome 1 (CRY1) mRNA, partial cds"
+ },
+ "GQ896539": {
+  "organism": "Sylvia borin",
+  "title": "Sylvia borin cryptochrome 4 (Cry4) mRNA, partial cds"
+ },
+ "AY102068": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome 4 mRNA, partial cds"
+ },
+ "EF050794": {
+  "organism": "Meleagris gallopavo",
+  "title": "Meleagris gallopavo cryptochrome 1 (Cry1) mRNA, partial cds"
+ },
+ "EF050791": {
+  "organism": "Meleagris gallopavo",
+  "title": "Meleagris gallopavo cryptochrome 2 (Cry2) mRNA, partial cds"
+ },
+ "XM_005039848": {
+  "organism": "Ficedula albicollis",
+  "title": "PREDICTED: Ficedula albicollis cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_005047159": {
+  "organism": "Ficedula albicollis",
+  "title": "PREDICTED: Ficedula albicollis cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_005040541": {
+  "organism": "Ficedula albicollis",
+  "title": "PREDICTED: Ficedula albicollis cryptochrome DASH-like (LOC101817193), mRNA"
+ },
+ "KT380949": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome 1b (CRY1b) mRNA, complete cds"
+ },
+ "KT380948": {
+  "organism": "Erithacus rubecula",
+  "title": "Erithacus rubecula cryptochrome 1a (CRY1a) mRNA, complete cds"
+ },
+ "XM_014963979": {
+  "organism": "Calidris pugnax",
+  "title": "PREDICTED: Calidris pugnax cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_014950331": {
+  "organism": "Calidris pugnax",
+  "title": "PREDICTED: Calidris pugnax cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_014944898": {
+  "organism": "Calidris pugnax",
+  "title": "PREDICTED: Calidris pugnax cryptochrome DASH-like (LOC106889676), transcript variant X3, mRNA"
+ },
+ "XM_014944897": {
+  "organism": "Calidris pugnax",
+  "title": "PREDICTED: Calidris pugnax cryptochrome DASH-like (LOC106889676), transcript variant X2, mRNA"
+ },
+ "XM_014944896": {
+  "organism": "Calidris pugnax",
+  "title": "PREDICTED: Calidris pugnax cryptochrome DASH-like (LOC106889676), transcript variant X1, mRNA"
+ },
+ "XM_009333321": {
+  "organism": "Pygoscelis adeliae",
+  "title": "PREDICTED: Pygoscelis adeliae cryptochrome DASH-like (LOC103924745), mRNA"
+ },
+ "XM_009333067": {
+  "organism": "Pygoscelis adeliae",
+  "title": "PREDICTED: Pygoscelis adeliae cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_009319273": {
+  "organism": "Pygoscelis adeliae",
+  "title": "PREDICTED: Pygoscelis adeliae cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "KC691288": {
+  "organism": "Sylvia atricapilla",
+  "title": "Sylvia atricapilla cryptochrome 1b (CRY1b) mRNA, complete cds"
+ },
+ "KC691287": {
+  "organism": "Sylvia atricapilla",
+  "title": "Sylvia atricapilla cryptochrome 1a (CRY1a) mRNA, complete cds"
+ },
+ "XM_010580210": {
+  "organism": "Haliaeetus leucocephalus",
+  "title": "PREDICTED: Haliaeetus leucocephalus cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010585455": {
+  "organism": "Haliaeetus leucocephalus",
+  "title": "PREDICTED: Haliaeetus leucocephalus cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_010563189": {
+  "organism": "Haliaeetus leucocephalus",
+  "title": "PREDICTED: Haliaeetus leucocephalus cryptochrome DASH-like (LOC104829106), mRNA"
+ },
+ "XM_010290738": {
+  "organism": "Phaethon lepturus",
+  "title": "PREDICTED: Phaethon lepturus cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_010295079": {
+  "organism": "Phaethon lepturus",
+  "title": "PREDICTED: Phaethon lepturus cryptochrome DASH-like (LOC104627007), mRNA"
+ },
+ "XM_010291037": {
+  "organism": "Phaethon lepturus",
+  "title": "PREDICTED: Phaethon lepturus cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010192841": {
+  "organism": "Mesitornis unicolor",
+  "title": "PREDICTED: Mesitornis unicolor cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_010185652": {
+  "organism": "Mesitornis unicolor",
+  "title": "PREDICTED: Mesitornis unicolor cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010184728": {
+  "organism": "Mesitornis unicolor",
+  "title": "PREDICTED: Mesitornis unicolor cryptochrome DASH-like (LOC104540827), partial mRNA"
+ },
+ "XM_010084167": {
+  "organism": "Pterocles gutturalis",
+  "title": "PREDICTED: Pterocles gutturalis cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_010081792": {
+  "organism": "Pterocles gutturalis",
+  "title": "PREDICTED: Pterocles gutturalis cryptochrome DASH-like (LOC104467851), partial mRNA"
+ },
+ "XM_010076092": {
+  "organism": "Pterocles gutturalis",
+  "title": "PREDICTED: Pterocles gutturalis cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010155759": {
+  "organism": "Eurypyga helias",
+  "title": "PREDICTED: Eurypyga helias cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010149662": {
+  "organism": "Eurypyga helias",
+  "title": "PREDICTED: Eurypyga helias cryptochrome DASH-like (LOC104508141), partial mRNA"
+ },
+ "XM_010160904": {
+  "organism": "Eurypyga helias",
+  "title": "PREDICTED: Eurypyga helias cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_010141747": {
+  "organism": "Buceros rhinoceros silvestris",
+  "title": "PREDICTED: Buceros rhinoceros silvestris cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010136611": {
+  "organism": "Buceros rhinoceros silvestris",
+  "title": "PREDICTED: Buceros rhinoceros silvestris cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_010006005": {
+  "organism": "Chaetura pelagica",
+  "title": "PREDICTED: Chaetura pelagica cryptochrome DASH-like (LOC104396188), mRNA"
+ },
+ "XM_010005852": {
+  "organism": "Chaetura pelagica",
+  "title": "PREDICTED: Chaetura pelagica cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_009999599": {
+  "organism": "Chaetura pelagica",
+  "title": "PREDICTED: Chaetura pelagica cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_010010346": {
+  "organism": "Nestor notabilis",
+  "title": "PREDICTED: Nestor notabilis cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_010024623": {
+  "organism": "Nestor notabilis",
+  "title": "PREDICTED: Nestor notabilis cryptochrome DASH-like (LOC104413584), partial mRNA"
+ },
+ "XM_009890481": {
+  "organism": "Charadrius vociferus",
+  "title": "PREDICTED: Charadrius vociferus cryptochrome DASH-like (LOC104291272), mRNA"
+ },
+ "XM_009881988": {
+  "organism": "Charadrius vociferus",
+  "title": "PREDICTED: Charadrius vociferus cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_009895713": {
+  "organism": "Charadrius vociferus",
+  "title": "PREDICTED: Charadrius vociferus cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_009875182": {
+  "organism": "Apaloderma vittatum",
+  "title": "PREDICTED: Apaloderma vittatum cryptochrome DASH-like (LOC104278264), partial mRNA"
+ },
+ "XM_009870532": {
+  "organism": "Apaloderma vittatum",
+  "title": "PREDICTED: Apaloderma vittatum cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_009696310": {
+  "organism": "Cariama cristata",
+  "title": "PREDICTED: Cariama cristata cryptochrome DASH-like (LOC104158610), partial mRNA"
+ },
+ "XM_009709946": {
+  "organism": "Cariama cristata",
+  "title": "PREDICTED: Cariama cristata cryptochrome circadian clock 2 (CRY2), partial mRNA"
+ },
+ "XM_009705171": {
+  "organism": "Cariama cristata",
+  "title": "PREDICTED: Cariama cristata cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_009585117": {
+  "organism": "Fulmarus glacialis",
+  "title": "PREDICTED: Fulmarus glacialis cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_009576658": {
+  "organism": "Fulmarus glacialis",
+  "title": "PREDICTED: Fulmarus glacialis cryptochrome DASH-like (LOC104075974), partial mRNA"
+ },
+ "XM_009586717": {
+  "organism": "Fulmarus glacialis",
+  "title": "PREDICTED: Fulmarus glacialis cryptochrome circadian clock 1 (CRY1), mRNA"
+ },
+ "XM_009073875": {
+  "organism": "Acanthisitta chloris",
+  "title": "PREDICTED: Acanthisitta chloris cryptochrome DASH-like (LOC103801460), mRNA"
+ },
+ "XM_009072794": {
+  "organism": "Acanthisitta chloris",
+  "title": "PREDICTED: Acanthisitta chloris cryptochrome circadian clock 2 (CRY2), mRNA"
+ },
+ "XM_009070505": {
+  "organism": "Acanthisitta chloris",
+  "title": "PREDICTED: Acanthisitta chloris cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "XM_008941377": {
+  "organism": "Merops nubicus",
+  "title": "PREDICTED: Merops nubicus cryptochrome DASH-like (LOC103773996), partial mRNA"
+ },
+ "XM_008940650": {
+  "organism": "Merops nubicus",
+  "title": "PREDICTED: Merops nubicus cryptochrome circadian clock 1 (CRY1), partial mRNA"
+ },
+ "JN792410": {
+  "organism": "Parus major",
+  "title": "Parus major cryptochrome 1 mRNA, partial cds"
+ },
+ "AY494988": {
+  "organism": "Passer domesticus",
+  "title": "Passer domesticus cryptochrome 2 variant 1 mRNA, partial cds"
+ },
+ "DQ838738": {
+  "organism": "Sylvia borin",
+  "title": "Sylvia borin cryptochrome 1b (Cry1b) mRNA, complete cds"
+ },
+ "AY034433": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome 2 mRNA, complete cds"
+ },
+ "AY034432": {
+  "organism": "Gallus gallus",
+  "title": "Gallus gallus cryptochrome 1 mRNA, complete cds"
+ },
+ "AJ632120": {
+  "organism": "Sylvia borin",
+  "title": "Sylvia borin mRNA for cryptochrome 1 (cry1 gene)"
+ }
+}
