@@ -50,12 +50,6 @@
  "summary": {
   "B2": true,
   "B3": false,
-  "B4": false,
-  "B5": true
- },
- "B5": {
-  "isotropic_anisotropy": 3.6606928846814354e-13,
-  "threshold": 1e-09,
-  "pass": true
+  "B4": false
  }
 }
