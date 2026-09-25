@@ -29,3 +29,12 @@ Do cryptochrome (Cry) sequence and structure variants across species predict rad
 
 ## Honest-negative policy
 Unvalidated predictions are labeled as such; no extinct-style extrapolation beyond validated domain.
+
+## AMENDMENT 2026-09-25 19:44 IST (user steering, authenticated WhatsApp 7:43 PM)
+G5 PAPER floor raised: >= 50 pages of actual research content, EXCLUDING headings
+and references (supersedes the >=20-page floor). Real content only - methods,
+full per-attempt result tables, benchmark comparisons vs all relevant published
+baselines, boundary analyses, negative-result supplements. Padding prohibited.
+Also locked: world's-best-tools standard; continuous depth/feature improvement
+after gates pass; negatives never published as the result (angles redirect until
+a genuine positive, else escalate). Stacks on all prior steering; nothing relaxed.
