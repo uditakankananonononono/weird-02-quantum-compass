@@ -94,5 +94,89 @@
     "bits": 1108.4
    }
   ]
+ },
+ "Ficedula_albicollis": {
+  "source": "ensembl",
+  "n_proteins": 29825,
+  "top_hits": [
+   {
+    "acc": "ENSFALP00000002532.1",
+    "evalue": 0.0,
+    "bits": 1220.7
+   },
+   {
+    "acc": "ENSFALP00000032628.1",
+    "evalue": 0.0,
+    "bits": 1106.7
+   },
+   {
+    "acc": "ENSFALP00000030709.1",
+    "evalue": 1.1468096149111704e-197,
+    "bits": 658.5
+   }
+  ]
+ },
+ "Pavo_cristatus": {
+  "source": "ensembl",
+  "n_proteins": 26506,
+  "top_hits": [
+   {
+    "acc": "ENSPSTP00000009578.1",
+    "evalue": 1.3334006551878815e-172,
+    "bits": 575.7
+   },
+   {
+    "acc": "ENSPSTP00000026115.1",
+    "evalue": 6.138032428930352e-109,
+    "bits": 365.6
+   },
+   {
+    "acc": "ENSPSTP00000004027.1",
+    "evalue": 8.71882455009332e-91,
+    "bits": 305.7
+   }
+  ]
+ },
+ "Serinus_canaria": {
+  "source": "ensembl",
+  "n_proteins": 24281,
+  "top_hits": [
+   {
+    "acc": "ENSSCAP00000009299.1",
+    "evalue": 0.0,
+    "bits": 1205.5
+   },
+   {
+    "acc": "ENSSCAP00000009303.1",
+    "evalue": 0.0,
+    "bits": 1205.5
+   },
+   {
+    "acc": "ENSSCAP00000009305.1",
+    "evalue": 0.0,
+    "bits": 1151.9
+   }
+  ]
+ },
+ "Zonotrichia_albicollis": {
+  "source": "ensembl",
+  "n_proteins": 23611,
+  "top_hits": [
+   {
+    "acc": "ENSZALP00000018676.1",
+    "evalue": 0.0,
+    "bits": 1205.2
+   },
+   {
+    "acc": "ENSZALP00000018677.1",
+    "evalue": 0.0,
+    "bits": 1147.3
+   },
+   {
+    "acc": "ENSZALP00000018678.1",
+    "evalue": 1.0943316836092462e-301,
+    "bits": 1001.5
+   }
+  ]
  }
 }

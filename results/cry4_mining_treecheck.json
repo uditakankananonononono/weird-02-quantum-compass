@@ -61,5 +61,21 @@
     0.1298
    ]
   ]
+ },
+ "Ficedula albicollis": {
+  "acc": "ENSFALP00000002532",
+  "tree_class": "Cry4"
+ },
+ "Pavo cristatus": {
+  "acc": "ENSPSTP00000009578",
+  "tree_class": "Cry4"
+ },
+ "Serinus canaria": {
+  "acc": "ENSSCAP00000009299",
+  "tree_class": "Cry4"
+ },
+ "Zonotrichia albicollis": {
+  "acc": "ENSZALP00000018676",
+  "tree_class": "Cry4"
  }
 }
