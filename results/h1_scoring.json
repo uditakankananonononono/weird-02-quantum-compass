@@ -1,0 +1,1053 @@
+{
+ "n_mig": 35,
+ "n_sed": 80,
+ "n_partial": 0,
+ "AUC_mig_vs_sed": 0.3414,
+ "gate": "AUC >= 0.75 (locked)",
+ "median_A_mig": 0.00109,
+ "median_A_sed": 0.00109,
+ "partial_median_A": null,
+ "fails": [
+  [
+   "migratory|Coturnix_japonica|XM_085539342",
+   " line 100, in d_term_edge\n    if term not in ringS: raise ValueError(f'terminal Trp {term} missing ring atoms')\nValueError: terminal Trp 409 missing ring atoms\n"
+  ]
+ ],
+ "rows": [
+  {
+   "row": "migratory|Apus_apus|XM_051636888",
+   "group": "migratory",
+   "A": 0.00115,
+   "tau": 2.6897,
+   "d_term": 15.82,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Chaetura_pelagica|XM_010005852",
+   "group": "migratory",
+   "A": 0.00057,
+   "tau": 1.8924,
+   "d_term": 15.57,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Gavia_stellata|XM_059817274",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Antrostomus_carolinensis|XM_010175277",
+   "group": "migratory",
+   "A": 0.00068,
+   "tau": 2.0695,
+   "d_term": 15.63,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Calidris_pugnax|XM_014963979",
+   "group": "migratory",
+   "A": 0.00078,
+   "tau": 2.2083,
+   "d_term": 15.68,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Charadrius_vociferus|XM_009881988",
+   "group": "migratory",
+   "A": 0.00071,
+   "tau": 2.1073,
+   "d_term": 15.65,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Fulmarus_glacialis|XM_009586717",
+   "group": "migratory",
+   "A": 0.00033,
+   "tau": 1.442,
+   "d_term": 15.37,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Phaethon_lepturus|XM_010290738",
+   "group": "migratory",
+   "A": 0.0004,
+   "tau": 1.5779,
+   "d_term": 15.44,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Lathamus_discolor|XM_065679551",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Ficedula_albicollis|XM_005039848",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Erithacus_rubecula|KT380948",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Empidonax_traillii|XM_027886629",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6326,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Agelaius_phoeniceus|XM_054631870",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Sylvia_atricapilla|KC691287",
+   "group": "migratory",
+   "A": 0.00104,
+   "tau": 2.5611,
+   "d_term": 15.78,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Sylvia_borin|AJ632120",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Zonotrichia_albicollis|XM_005491170",
+   "group": "migratory",
+   "A": 0.00108,
+   "tau": 2.6057,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Zonotrichia_leucophrys_gambelii|XM_064702516",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Ammospiza_nelsoni|XM_059471837",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Ammospiza_caudacuta|XM_058805008",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Molothrus_ater|XM_036400416",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Catharus_ustulatus|XM_033058092",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Motacilla_alba_alba|XM_038155640",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Melospiza_georgiana|XM_058022374",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Hirundo_rustica|XM_040061678",
+   "group": "migratory",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Falco_naumanni|XM_040593916",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Falco_cherrug|XM_055710683",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Falco_rusticolus|XM_037387508",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Numenius_arquata|XM_074169129",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Calonectris_borealis|XM_075156645",
+   "group": "migratory",
+   "A": 0.00101,
+   "tau": 2.5199,
+   "d_term": 15.77,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Cygnus_olor|XM_040559753",
+   "group": "migratory",
+   "A": 0.00112,
+   "tau": 2.659,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Anas_acuta|XM_068664613",
+   "group": "migratory",
+   "A": 0.00111,
+   "tau": 2.6451,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Cuculus_canorus|XM_009557610",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6365,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Ciconia_boyciana|XM_072870405",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6362,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Grus_americana|XM_054813766",
+   "group": "migratory",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "migratory|Haliaeetus_leucocephalus|XM_010585455",
+   "group": "migratory",
+   "A": 0.00043,
+   "tau": 1.6334,
+   "d_term": 15.46,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Chlamydotis_macqueenii|XM_086753885",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Heliangelus_exortis|XM_071729106",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Opisthocomus_hoazin|XM_075428041",
+   "group": "sedentary",
+   "A": 0.00116,
+   "tau": 2.7052,
+   "d_term": 15.82,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Apteryx_mantelli|XM_067308814",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Apteryx_rowi|XM_026056817",
+   "group": "sedentary",
+   "A": 0.00065,
+   "tau": 2.0207,
+   "d_term": 15.62,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Eurypyga_helias|XM_010160904",
+   "group": "sedentary",
+   "A": 0.00068,
+   "tau": 2.0695,
+   "d_term": 15.63,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Buceros_rhinoceros_silvestris|XM_010136611",
+   "group": "sedentary",
+   "A": 0.00076,
+   "tau": 2.1789,
+   "d_term": 15.67,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Manacus_vitellinus|XM_029963404",
+   "group": "sedentary",
+   "A": 0.0005,
+   "tau": 1.7791,
+   "d_term": 15.52,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Geospiza_fortis|XM_014307378",
+   "group": "sedentary",
+   "A": 0.00061,
+   "tau": 1.956,
+   "d_term": 15.59,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Parus_major|XM_019006761",
+   "group": "sedentary",
+   "A": 0.00054,
+   "tau": 1.84,
+   "d_term": 15.55,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Acanthisitta_chloris|XM_009070505",
+   "group": "sedentary",
+   "A": 0.00046,
+   "tau": 1.6954,
+   "d_term": 15.49,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Pithys_albifrons_albifrons|XM_071551007",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Strix_uralensis|XM_074871926",
+   "group": "sedentary",
+   "A": 0.00105,
+   "tau": 2.5768,
+   "d_term": 15.79,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Strix_aluco|XM_074825824",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Athene_cunicularia|XM_026865634",
+   "group": "sedentary",
+   "A": 0.00075,
+   "tau": 2.1662,
+   "d_term": 15.67,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Cariama_cristata|XM_009705171",
+   "group": "sedentary",
+   "A": 0.00054,
+   "tau": 1.8344,
+   "d_term": 15.55,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Neopelma_chrysocephalum|XM_027680404",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Myiozetetes_cayanensis|XM_050323703",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6326,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Pseudopipra_pipra|XM_064654879",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Manacus_candei|XM_051784588",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Pipra_filicauda|XM_027715127",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Chiroxiphia_lanceolata|XM_032687872",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Lepidothrix_coronata|XM_017804782",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Aphelocoma_coerulescens|XM_069002938",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Corvus_hawaiiensis|XM_048300261",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Corvus_kubaryi|XM_042051121",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Corvus_moneduloides|XM_032107635",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Vidua_macroura|XM_053979095",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Vidua_chalybeata|XM_053944176",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Malurus_melanocephalus|XM_057381074",
+   "group": "sedentary",
+   "A": 0.00113,
+   "tau": 2.6696,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Lonchura_striata|XM_021535870",
+   "group": "sedentary",
+   "A": 0.00108,
+   "tau": 2.6107,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Molothrus_aeneus|XM_066549801",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Chamaea_fasciata|XM_066183980",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Passer_domesticus|XM_064420417",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Passer_montanus|XM_039725572",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Cinclus_cinclus|XM_062492123",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6341,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Serinus_canaria|XM_030238000",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Cyanistes_caeruleus|XM_086887242",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Melozone_crissalis|XM_054273453",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Prinia_subflava|XM_063395753",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6214,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Patagioenas_fasciata|XM_065838886",
+   "group": "sedentary",
+   "A": 0.00144,
+   "tau": 3.0134,
+   "d_term": 15.9,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Columba_livia|KX168607",
+   "group": "sedentary",
+   "A": 0.00137,
+   "tau": 2.9358,
+   "d_term": 15.88,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Tyto_alba|XM_042792549",
+   "group": "sedentary",
+   "A": 0.00115,
+   "tau": 2.6897,
+   "d_term": 15.82,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Athene_noctua|XM_074901909",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6501,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Neopsephotus_bourkii|XM_061371821",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6325,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Pezoporus_wallicus|XM_057420483",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6325,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Pezoporus_occidentalis|XM_062602741",
+   "group": "sedentary",
+   "A": 0.00089,
+   "tau": 2.3678,
+   "d_term": 15.73,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Strigops_habroptila|XM_030478447",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6228,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Nestor_notabilis|XM_010010346",
+   "group": "sedentary",
+   "A": 0.00068,
+   "tau": 2.0695,
+   "d_term": 15.63,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Mesitornis_unicolor|XM_010192841",
+   "group": "sedentary",
+   "A": 0.00056,
+   "tau": 1.8739,
+   "d_term": 15.56,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Harpia_harpyja|XM_052789489",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6257,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Apaloderma_vittatum|XM_009870532",
+   "group": "sedentary",
+   "A": 0.00044,
+   "tau": 1.6582,
+   "d_term": 15.47,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Struthio_camelus|XM_068943972",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Tinamus_guttatus|XM_088535349",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6297,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Nothoprocta_perdicaria|XM_026052220",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6297,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Dromaius_novaehollandiae|XM_026117945",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Rhea_americana|XM_085321686",
+   "group": "sedentary",
+   "A": 0.00115,
+   "tau": 2.6897,
+   "d_term": 15.82,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Rhea_pennata|XM_062589058",
+   "group": "sedentary",
+   "A": 0.0012,
+   "tau": 2.753,
+   "d_term": 15.84,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Cyrtonyx_montezumae|XM_065743080",
+   "group": "sedentary",
+   "A": 0.00106,
+   "tau": 2.5795,
+   "d_term": 15.79,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Gallus_gallus|AY034432",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Lagopus_muta|XM_048956813",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Tympanuchus_pallidicinctus|XM_052668596",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Phasianus_colchicus|XM_031600058",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Centrocercus_urophasianus|XM_042837763",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Lagopus_leucura|XM_042889900",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Meleagris_gallopavo|XM_085227606",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Numida_meleagris|XM_021386586",
+   "group": "sedentary",
+   "A": 0.00111,
+   "tau": 2.6497,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Oxyura_jamaicensis|XM_035340816",
+   "group": "sedentary",
+   "A": 0.00113,
+   "tau": 2.6648,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Colius_striatus|XM_062011745",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Phaenicophaeus_curvirostris|XM_069859589",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6365,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Leptosomus_discolor|XM_086479597",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Balearica_regulorum_gibbericeps|XM_075754104",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Nyctibius_grandis|XM_068400630",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6365,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Tauraco_erythrolophus|XM_086611119",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6228,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Pogoniulus_pusillus|XM_064155388",
+   "group": "sedentary",
+   "A": 0.00109,
+   "tau": 2.6183,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Melanerpes_formicivorus|XM_068142320",
+   "group": "sedentary",
+   "A": 0.00105,
+   "tau": 2.5706,
+   "d_term": 15.79,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Dryobates_pubescens|XM_054167589",
+   "group": "sedentary",
+   "A": 0.00105,
+   "tau": 2.5706,
+   "d_term": 15.79,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Indicator_indicator|XM_054387004",
+   "group": "sedentary",
+   "A": 0.00108,
+   "tau": 2.6077,
+   "d_term": 15.8,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Nipponia_nippon|XM_087764154",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  },
+  {
+   "row": "sedentary|Gymnogyps_californianus|XM_050915611",
+   "group": "sedentary",
+   "A": 0.0011,
+   "tau": 2.6351,
+   "d_term": 15.81,
+   "terminal_pos": 3,
+   "broken": false
+  }
+ ]
+}
