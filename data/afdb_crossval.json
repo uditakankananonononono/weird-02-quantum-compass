@@ -1,0 +1,42 @@
+{
+ "afdb": {
+  "A0A2I4SZI9": {
+   "url": "https://alphafold.ebi.ac.uk/files/AF-A0A2I4SZI9-F1-model_v6.pdb",
+   "bytes": 355103,
+   "mean_plddt": null
+  },
+  "Q5IZC5": {
+   "url": "https://alphafold.ebi.ac.uk/files/AF-Q5IZC5-F1-model_v6.pdb",
+   "bytes": 405242,
+   "mean_plddt": null
+  },
+  "A0A386QUR4": {
+   "url": "https://alphafold.ebi.ac.uk/files/AF-A0A386QUR4-F1-model_v6.pdb",
+   "bytes": 355184,
+   "mean_plddt": null
+  },
+  "X5D0Q5": {
+   "url": "https://alphafold.ebi.ac.uk/files/AF-X5D0Q5-F1-model_v6.pdb",
+   "bytes": 405242,
+   "mean_plddt": null
+  }
+ },
+ "cross_validation": {
+  "A0A2I4SZI9": {
+   "ESM_vs_AF_rmsd": 1.277,
+   "AF_vs_6PTZ_rmsd": 1.328
+  },
+  "Q5IZC5": {
+   "ESM_vs_AF_rmsd": 1.961,
+   "AF_vs_6PTZ_rmsd": 4.872
+  },
+  "A0A386QUR4": {
+   "ESM_vs_AF_rmsd": 1.61,
+   "AF_vs_6PTZ_rmsd": 1.153
+  },
+  "X5D0Q5": {
+   "ESM_vs_AF_rmsd": 2.112,
+   "AF_vs_6PTZ_rmsd": 4.885
+  }
+ }
+}

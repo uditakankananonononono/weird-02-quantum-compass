@@ -124,6 +124,16 @@
    "tool": "SVD superposition RMSD QC",
    "used_for": "fold-vs-6PTZ crystal RMSD (ClCry4 1.77A, erCry4 1.62A; caveat logged)",
    "ts": "2026-09-25T21:32+05:30"
+  },
+  {
+   "tool": "AlphaFold DB API (EBI)",
+   "used_for": "reference AF-v6 model retrieval",
+   "ts": "2026-09-25T21:34+05:30"
+  },
+  {
+   "tool": "Three-way fold cross-validation (SVD RMSD)",
+   "used_for": "ESM vs AF vs 6PTZ crystal: Cry4 agreement 1.2-1.6A",
+   "ts": "2026-09-25T21:34+05:30"
   }
  ],
  "accession_datasets": [
@@ -270,8 +280,16 @@
    "accession_records": 4,
    "logged": "2026-09-25T21:32+05:30",
    "sha256_16": "fbab2731d7ed7c24"
+  },
+  {
+   "dataset": "AlphaFold DB models v6 (4 Cry references)",
+   "source": "EBI AlphaFold DB",
+   "role": "fold cross-validation",
+   "accession_records": 4,
+   "logged": "2026-09-25T21:34+05:30",
+   "sha256_16": "89813d23e7d65a7a"
   }
  ],
  "counting_rule": "Per user 7:38 PM clarification: only genuinely-executed EXTERNAL research/data tools and science libraries count toward the 40 floor. Stdlib, pytest, git, LaTeX, pure literature lookups do NOT count. Floor not cap.",
- "dataset_total_accession_records": 13995
+ "dataset_total_accession_records": 13999
 }
