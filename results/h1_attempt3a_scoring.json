@@ -1,0 +1,17 @@
+{
+ "gate_3a": "LOO AUC>=0.75 AND >null p95 (locked 23:56)",
+ "auc": 0.40208333333333335,
+ "null_p95": 0.5767534722222222,
+ "result_3a": "FAIL",
+ "features": [
+  "tail_after_ref",
+  "charge_pH7",
+  "pI",
+  "aromatic_frac",
+  "kd_mean",
+  "length",
+  "ident_erCry1",
+  "trp_total"
+ ],
+ "n": 116
+}
