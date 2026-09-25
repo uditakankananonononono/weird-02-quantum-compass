@@ -14,8 +14,10 @@ We present the first computational pipeline that maps cryptochrome-4 (Cry4) prot
 \end{abstract}
 
 \section{Introduction}
-% draft: migratory birds sense magnetic fields via radical pairs in Cry4;
-% no sequence-to-function predictor exists (novelty claim, grounded in prior-art scan 2026-09-25).
+Night-migratory songbirds navigate by a light-dependent magnetic compass whose primary sensor is believed to be cryptochrome-4 (Cry4), a flavoprotein expressed in the retina. The radical-pair mechanism holds that photoexcitation of the FAD cofactor triggers a cascade of electron transfers along a conserved chain of four tryptophans (the Trp tetrad), producing a spin-correlated radical pair whose singlet--triplet interconversion - and hence its chemical yield - is modulated by the geomagnetic field. Xu et al.\ (2021) demonstrated in vitro that Cry4 from the European robin is magnetically sensitive, and more so than Cry4 from chicken and pigeon, and that the fourth tryptophan prolongs the magnetically sensitive state.
+
+Despite two decades of radical-pair theory, no computational tool maps a cryptochrome sequence to a predicted magnetosensitivity. Building such a tool matters for three reasons: it would make the field's central hypothesis falsifiable at genomic scale; it would allow ancestral and extinct magnetosensory phenotypes to be reconstructed; and it would convert a qualitative biophysical narrative into quantitative, testable engineering knowledge. This paper takes a deliberately hypothesis-driven path. We first build and benchmark an exactly solvable spin-dynamics pipeline (Sections 2--4). We then ask, under three successively better-grounded pre-registered operationalizations, whether sequence or structure alone separates migratory from sedentary birds across a frozen 116-species panel - and report three rigorous negative results (Section 5). Finally, we redirect to a physics-forward replication design, pre-registered before any computation, that asks whether an independently parameterized model can predict the interspecies and fourth-tryptophan dependence measured by Xu et al.\ without fitting to the phenotype (Section 6).
+
 
 \section{Theory}
 The spin dynamics of a two-radical pair under hyperfine and Zeeman couplings follow the Haberkorn master equation
@@ -114,5 +116,15 @@ Grounded in Xu et al.\ (2021) - whose accepted manuscript confirms the migratory
 % B1 Ritz theta curve PASS; B2 Hiscock 2016 spike PASS; B3a 93.8-93.9% PASS, B3b FAIL (7.3% vs 5%); B4 regime-wrong expectation, redirect logged; B5 isotropic-zero PASS
 
 \section{Discussion}
-% novelty: first sequence->magnetosensitivity tool; no public comparator exists (documented no-comparison case, ledger 2026-09-25)
+% to be completed with attempt-4 outcome; key honest points to make:
+% (1) three-way structure cross-validation shows chain geometry is conserved -
+%     so geometry alone cannot carry migratory signal (consistent with attempts 1-3);
+% (2) the physics discriminates through kinetics (lifetime), which is only
+%     weakly constrained by static structure - pointing to dynamics/MD or
+%     direct kinetic measurement as the informative next layer;
+% (3) attempt-4 tests whether the validated model, parameterized a priori,
+%     reproduces Xu's measured interspecies ordering and the W369F direction;
+% (4) no public sequence-to-magnetosensitivity comparator exists (documented
+%     no-comparison case); the pipeline itself is the methodological contribution.
+
 \end{document}
