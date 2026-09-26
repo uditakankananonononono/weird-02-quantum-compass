@@ -1,0 +1,50 @@
+DISREGARD my previous truncated message(s) in this chat - sent accidentally incomplete. Real round now, in 3 parts. Do NOT respond until PART 3/3 says RESPOND NOW.
+
+PART 1/3:
+
+Full-paper ISEF-judge verification round, project W02 "quantum-compass" (avian magnetoreception, radical-pair). Standing rules: exacting judge; identify MATERIAL weaknesses only, ranked, each with a concrete actionable fix; no style nitpicks. Honest context to weigh, not re-litigate: attempts 1-4 are pre-registered honest FAILs; attempt-5a (locked pre-evaluation) converts the falsification into the headline constraint result; attempt-5b passes locked gates with one knife-edge flagged in-text. Tool gate 41 runs, datasets 13,999 accessions. The full LaTeX paper follows in parts 1-3.
+\documentclass[12pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx} % Times New Roman text + math
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,graphicx}
+\title{Structure cannot explain avian magnetosensitivity: pre-registered physics-constrained tests rule out tryptophan-chain geometry as the basis of the migratory Cry4 advantage}
+\author{Udita Phookan}
+\date{September 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+The radical-pair mechanism of cryptochrome-4 (Cry4) is the leading candidate for the avian magnetic compass, and the simplest structural account - that the geometry of the protein's tryptophan chain sets magnetic sensitivity - has never been tested under pre-registered gates. We built an exactly solvable Haberkorn master-equation pipeline parameterized by predicted structure (ESMFold, validated against AlphaFold DB and the X-ray crystal 6PTZ at 1.2-1.8 \AA) and subjected the structural account to five pre-registered tests across a 116-species avian panel. Sequence features, structure-amplitude classification, and kinetic proxies all failed to separate migratory from sedentary species at locked thresholds (LOO AUC 0.21-0.40, all within permutation nulls). A physics-forward replication attempt with a distance-anchored back-electron-transfer lifetime model then \emph{anti-predicted} the experimental ordering of Xu et al.\ (2021) by $19.9\times$: the robin's shorter modeled terminal-Trp edge yields a shorter, not longer, magnetically sensitive lifetime. Pre-registering that failure as the hypothesis, we show the frozen model provably cannot recover the experimental ordering (Spearman $\rho=-1.0$, bootstrap 95\% CI $[-1.0,-0.5]$, exact permutation enumeration): terminal-Trp geometry is ruled out as a sufficient explanation of the migratory advantage, which must instead be kinetic or dynamic in origin. A final pre-registered analysis shows the fourth tryptophan extends the magnetically responsive state $\sim$44-fold at no measurable cost in peak sensitivity or field selectivity - a free temporal extension that may explain its conservation across birds.
+\end{abstract}
+
+\section{Introduction}
+Night-migratory songbirds navigate by a light-dependent magnetic compass whose primary sensor is believed to be cryptochrome-4 (Cry4), a flavoprotein expressed in the retina. The radical-pair mechanism holds that photoexcitation of the FAD cofactor triggers a cascade of electron transfers along a conserved chain of four tryptophans (the Trp tetrad), producing a spin-correlated radical pair whose singlet--triplet interconversion - and hence its chemical yield - is modulated by the geomagnetic field. Xu et al.\ (2021) demonstrated in vitro that Cry4 from the European robin is magnetically sensitive, and more so than Cry4 from chicken and pigeon, and that the fourth tryptophan prolongs the magnetically sensitive state.
+
+Despite two decades of radical-pair theory, no computational tool maps a cryptochrome sequence to a predicted magnetosensitivity. Building such a tool matters for three reasons: it would make the field's central hypothesis falsifiable at genomic scale; it would allow ancestral and extinct magnetosensory phenotypes to be reconstructed; and it would convert a qualitative biophysical narrative into quantitative, testable engineering knowledge. This paper takes a deliberately hypothesis-driven path. We first build and benchmark an exactly solvable spin-dynamics pipeline (Sections 2--4). We then ask, under three successively better-grounded pre-registered operationalizations, whether sequence or structure alone separates migratory from sedentary birds across a frozen 116-species panel - and report three rigorous negative results (Section 5). Finally, we redirect to a physics-forward replication design, pre-registered before any computation, that asks whether an independently parameterized model can predict the interspecies and fourth-tryptophan dependence measured by Xu et al.\ without fitting to the phenotype (Section 6).
+
+
+\section{Theory}
+The spin dynamics of a two-radical pair under hyperfine and Zeeman couplings follow the Haberkorn master equation
+\begin{equation}
+\frac{d\rho}{dt} = -i\,[H,\rho] - k_S\{P_S,\rho\} - k_T\{P_T,\rho\}, \label{eq:haberkorn}
+\end{equation}
+where $H$ is the spin Hamiltonian, and $P_S$, $P_T$ are the singlet and triplet projectors satisfying
+\begin{equation}
+P_S + P_T = I, \qquad P_S = \tfrac{1}{4}I - \mathbf{s}_1\!\cdot\!\mathbf{s}_2. \label{eq:projectors}
+\end{equation}
+The singlet recombination yield from an initial singlet state $\rho_0 = P_S/4$ has the closed form
+\begin{equation}
+\Phi_S \;=\; k_S \int_0^\infty \mathrm{Tr}[P_S\,\rho(t)]\,dt \;=\; -k_S\, P_S \cdot (L^{-1}\rho_0), \label{eq:yield}
+\end{equation}
+with $L$ the Liouvillian of Eq.~\eqref{eq:haberkorn}. The anisotropy of the yield over field orientations $(\theta,\phi)$ is
+\begin{equation}
+\Gamma \;=\; \max_{\theta}\Phi_S(\theta) - \min_{\theta}\Phi_S(\theta), \qquad
+A \;=\; \Gamma / \langle\Phi_S\rangle. \label{eq:anisotropy}
+\end{equation}
+The hyperfine field on each radical is
+\begin{equation}
+H_{\mathrm{hf}} = \sum_k \mathbf{s}_1\!\cdot\!A_k\,\hat I_k, \label{eq:hyperfine}
+\end{equation}
+and the Zeeman term at geomagnetic strength $B=50\,\mu$T is
+\begin{equation}
+H

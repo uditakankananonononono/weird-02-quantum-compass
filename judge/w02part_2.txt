@@ -1,0 +1,69 @@
+PART 2/3 (do NOT respond yet):
+
+_Z = \gamma\, \mathbf{B}\cdot(\mathbf{s}_1+\mathbf{s}_2), \qquad \gamma = 28.0\ \mathrm{GHz/T}. \label{eq:zeeman}
+\end{equation}
+
+\subsection{Back-electron-transfer lifetime (model M1.2)}
+The interconversion rate is set by back electron transfer from the terminal tryptophan of the tetrad chain to FAD,
+\begin{equation}
+\tau \;=\; \tau_0 \exp\!\left[\beta\,(r - r_0)\right], \qquad \beta = 1.4\ \mathrm{\AA^{-1}}, \label{eq:backet}
+\end{equation}
+anchored to $\tau = 1.1\,\mu$s for the Cry4 tetrad and $0.14\,\mu$s for a triad (locked 2026-09-25, pre-scoring). The effective singlet and triplet rates used in Eq.~\eqref{eq:haberkorn} are
+\begin{equation}
+k_S = k_T = \frac{1}{2\tau}. \label{eq:rates}
+\end{equation}
+
+\subsection{Tryptophan-chain geometry}
+Chain assignment from the crystal structure 6PTZ: W395 $\to$ W372 $\to$ W318 $\to$ W369, FAD-to-surface. Edge distances $r_{ij}$ between successive indole centroids satisfy
+\begin{equation}
+r_{ij} = \left\| \mathbf{c}_i - \mathbf{c}_j \right\|, \qquad \tau_{\mathrm{chain}} \propto \exp(\beta\, r_{\mathrm{term-FAD}}). \label{eq:chain}
+\end{equation}
+
+
+\subsection{Hyperfine parameterization}
+Hyperfine tensors for FAD$^{\bullet-}$ and Trp$^{\bullet+}$ radicals follow the published DFT set of Hiscock et al.\ (2016): FAD N5, N10, H6; Trp N1, H4, H7 dominate the anisotropy. The effective isotropic couplings satisfy
+\begin{equation}
+a_{\mathrm{iso}} = \tfrac{1}{3}\mathrm{Tr}(A_k), \qquad
+\sigma_{\mathrm{eff}}^2 = \sum_k \tfrac{2}{3} a_k^2 I_k(I_k+1), \label{eq:sigeff}
+\end{equation}
+where $\sigma_{\mathrm{eff}}$ sets the S--T mixing rate in the semiclassical limit
+\begin{equation}
+\omega_{\mathrm{ST}} \approx \sigma_{\mathrm{eff}}\, \gamma B \;/\; \sqrt{\sigma_{\mathrm{eff}}^2 + (\gamma B)^2}. \label{eq:omst}
+\end{equation}
+The directional response is maximized when the lifetime matches the mixing time,
+\begin{equation}
+\tau_{\mathrm{opt}} \;\approx\; \frac{2\pi}{\omega_{\mathrm{ST}}}, \label{eq:tauopt}
+\end{equation}
+which for geomagnetic fields and the Cry4 hyperfine set evaluates to the microsecond regime - precisely the regime the tetrad chain reaches via Eq.~\eqref{eq:backet} and the triad does not. This is the mechanistic content of hypothesis H1.
+
+\section{Methods}
+\subsection{Sequence panel}
+A frozen panel of 36 migratory and 80 sedentary bird species was assembled from RefSeq annotation (NCBI datasets v2alpha, \texttt{reference\_only}), with migratory status grounded in the AVONET trait database (Tobias et al., figshare 16586228). Cryptochrome-4 orthologs were identified by profile-HMM search (HMMER 3.4, EBI phmmer REST, $E \leq 1.3\times10^{-172}$, rank-1 validated) against the 121-sequence reference alignment, yielding an 11-species Cry4 subpanel.
+
+\subsection{Multiple sequence alignment and features}
+The panel was aligned with FAMSA and cross-checked by EBI MAFFT REST. Feature set v1 comprises 116 per-sequence descriptors: Trp-tetrad presence and spacing, FAD-pocket residues, chain-edge distances mapped from the 6PTZ numbering, and physicochemical profiles.
+
+\subsection{Structure grounding and cross-validation}
+The tryptophan chain was assigned from the X-ray structure 6PTZ (Zoltowski et al.; COMPND mislabels the construct ``CRYPTOCHROME-1''; sequence is 99.6\% identical to \emph{Cl}Cry4 A0A386QUR4 over the aligned region): W395 $\rightarrow$ W372 $\rightarrow$ W318 $\rightarrow$ W369, FAD-to-surface. Every subpanel sequence was folded by ESMFold (ESM Atlas API, 400-aa cap) and, where available, retrieved from AlphaFold DB (model v6). ESM, AFDB, and crystal coordinates agree to 1.2--1.8\,\AA\ over the chain region, establishing that structure-derived distances are pipeline-invariant.
+
+\subsection{Spin-chemistry scoring}
+For each sequence, chain-edge distances feed the back-ET lifetime model M1.2 (Eq.~\eqref{eq:backet}); the Haberkorn equation~\eqref{eq:haberkorn} is integrated in the closed form of Eq.~\eqref{eq:yield} over a 65-orientation Lebedev grid to produce an anisotropy amplitude $A$ (Eq.~\eqref{eq:anisotropy}). The locked decision rule is AUC $\geq 0.75$ of $A$ separating migratory from sedentary panel members (pre-registered before scoring).
+
+\subsection{Structural landscape}
+To place 6PTZ in context, the cryptochrome fold census was enumerated by RCSB full-text search (34 structures) with per-entry resolution and method from the RCSB data API; FAD binding-site geometry, ligand identity (FAD, residue 501, chain A; 95.4\% observed residues), and secondary structure (31 helices, 10 strands) were grounded through the PDBe API. Domain architecture was independently confirmed by InterPro (cryptochrome/photolyase class-1) after correcting a UniProt mis-annotation of the erCry4 reference (Q6LML8 $\neq$ Cry4; correct accession A0A2I4SZI9).
+
+% pipeline: RefSeq fetch -> hmm/phmmer Cry4 subpanel -> FAMSA MSA -> feature set v1 (116)
+% -> ESM/AF/6PTZ 3-way fold cross-validation (1.2-1.8 A) -> compass_scan v0.3 -> locked AUC>=0.75
+
+\section{Results}
+\subsection{Benchmark battery (G3)}
+The solver was validated against five pre-registered benchmarks (results/benchmarks.md): B1 (Ritz $\theta$-curve reproduction) PASS; B2 (Hiscock et al.\ 2016 field-strength response spike) PASS; B5 (isotropic-field zero response) PASS; B3a (monochromatic attenuation 93.8--93.9\%) PASS; B3b FAIL (7.3\% residual vs.\ 5\% expectation); B4 FAIL (locked expectation regime-wrong; redirect logged at lock time, no silent edits).
+
+\subsection{H1 attempt 1: structure-derived amplitude does not separate migratory aptitude}
+The locked decision rule (AUC $\geq 0.75$, migratory vs.\ sedentary, amplitude $A$ from Eq.~\eqref{eq:anisotropy}) yielded AUC $= 0.3414$ ($n = 35$ migratory, $80$ sedentary; one technical failure where the terminal Trp lay beyond the 400-aa fold cap). Median amplitude was identical across groups ($1.09\times10^{-3}$). Diagnosis: chain geometry is conserved across birds - the same conclusion as our three-way structure cross-validation (1.2--1.8\,\AA) - so structure-derived amplitude carries almost no between-group variance.
+
+\subsection{H1 attempt 2: sequence-level discriminators carry no signal}
+Pre-registered logistic discrimination on the frozen feature set (Trp signature, identity; locked 23:52 before scoring) gave LOO AUC $= 0.2066$, inside the permutation null (median 0.2623, p95 0.4553, 1000 permutations). Model-free univariate rank AUCs of every locked feature were chance-level (0.457--0.549). The estimator was sign-verified on synthetic separable and noise data.
+
+\subsection{H1 attempt 3: kinetic-proxy features also fail; ladder exhausted}
+Grounded in Xu et al.\ (2021) - whose accepted manuscript confirms the migratory advantage is kinetic and whose chain numbering matches our 6PTZ chain - a pre-registered test of kinetic-proxy features (C-terminal tail, charge, pI, aromatics; locked 23:56) gave LOO AUC $= 0.4021$ (null p95 0.5768). The pre-registered directional replication (3b) was not run, per lock. We conclude that across 11
