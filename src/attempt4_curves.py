@@ -11,7 +11,7 @@ from radical_pair import RadicalPair
 from Bio import SeqIO
 
 B_PRIMARY = np.linspace(1e-6, 200e-6, 9)           # 0-200 uT (P5 primary, amended 00:59)
-B_WIDE = np.concatenate([B_PRIMARY, np.linspace(2.5e-4, 2e-3, 5)])  # secondary wide (amended 00:59)
+B_WIDE = np.array([0.0,1e-6,5e-6,1.5e-05,4e-05,0.0001,0.0006,0.002,0.005,0.02])  # amended 08:02: 7+3 B points
 WIN = (25e-6, 65e-6)                                # geomagnetic window (locked)
 SPECIES = {
     'erCry4': ('CRY4__REFSEQ__Erithacus_rubecula__MN709784', 'MN709784'),
@@ -26,7 +26,7 @@ def seq_of(acc):
         if acc in k: return v
     raise KeyError(acc)
 
-TH25 = THETAS[::2][:19]  # amended 00:59: ~25-orientation subset of the validated grid (19 of 37, same sphere coverage)
+TH25 = THETAS[::4][:9]  # amended 08:02: 9 of 37, same sphere coverage family
 def A_of_B(tau_us, B, rp=None):
     if rp is None:
         k = 1.0 / tau_us
