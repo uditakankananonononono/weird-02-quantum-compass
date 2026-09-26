@@ -1,0 +1,15 @@
+{
+ "attempt": "5b",
+ "peak_tetrad": 0.001048,
+ "peak_triad": 0.001049,
+ "I_tetrad": 0.00015667600000000002,
+ "I_triad": 3.5666e-06,
+ "ratio": 43.928671563954474,
+ "FWHM_tetrad_uT": 0.0,
+ "FWHM_triad_uT": 0.0,
+ "log2_width_ratio": null,
+ "B1_pass": true,
+ "B2_pass": true,
+ "B3_pass": false,
+ "ALL_pass": false
+}
