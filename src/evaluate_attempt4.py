@@ -5,7 +5,7 @@ d = json.load(open('results/h1_attempt4_stage1.json'))
 sp, curve = d['species'], d['tau_grid_S']
 taus = sorted(float(t) for t in curve)
 S = np.array([curve[str(t)]['S'] if str(t) in curve else curve[f'{t:g}']['S'] for t in taus])
-A_curves = {t: curve[f'{t:g}']['A_curve'] for t in taus}
+A_curves = {t: (curve[f'{t:g}'] if f'{t:g}' in curve else curve[str(t)])['A_curve'] for t in taus}
 def S_at(tau):
     return float(np.interp(tau, taus, S))
 def Apeak_at(tau):
