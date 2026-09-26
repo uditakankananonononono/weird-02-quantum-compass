@@ -1,0 +1,463 @@
+{
+ "locked": {
+  "topk": 20,
+  "nperm": 1000,
+  "gapcap": 0.9,
+  "seed": 260926,
+  "weights": {
+   "chain_break": 3.0,
+   "chain_gain": 2.0
+  }
+ },
+ "n_variants": 56,
+ "ranking": [
+  {
+   "col": 87,
+   "from": "R",
+   "to": "E",
+   "score": 0.7318,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "D",
+   "score": 0.5604,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 87,
+   "from": "R",
+   "to": "A",
+   "score": 0.4348,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 87,
+   "from": "R",
+   "to": "S",
+   "score": 0.4344,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 87,
+   "from": "R",
+   "to": "P",
+   "score": 0.4101,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 87,
+   "from": "R",
+   "to": "V",
+   "score": 0.3822,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 87,
+   "from": "R",
+   "to": "Q",
+   "score": 0.3783,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "A",
+   "score": 0.3764,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "C",
+   "score": 0.3648,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "P",
+   "score": 0.3624,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 87,
+   "from": "R",
+   "to": "M",
+   "score": 0.3588,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "V",
+   "score": 0.3466,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "Q",
+   "score": 0.3444,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "M",
+   "score": 0.3333,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "L",
+   "score": 0.3311,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 89,
+   "from": "R",
+   "to": "G",
+   "score": 0.1985,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 89,
+   "from": "R",
+   "to": "S",
+   "score": 0.1859,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 89,
+   "from": "R",
+   "to": "P",
+   "score": 0.1755,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 89,
+   "from": "R",
+   "to": "V",
+   "score": 0.1635,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 88,
+   "from": "W",
+   "to": "H",
+   "score": 0.1418,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 173,
+   "from": "D",
+   "to": "N",
+   "score": 0.1395,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 417,
+   "from": "M",
+   "to": "V",
+   "score": 0.0698,
+   "n_carriers": 2,
+   "rationale": "ET-pathway adjacent"
+  },
+  {
+   "col": 205,
+   "from": "P",
+   "to": "L",
+   "score": 0.023,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 374,
+   "from": "T",
+   "to": "S",
+   "score": 0.0174,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 215,
+   "from": "E",
+   "to": "K",
+   "score": 0.0155,
+   "n_carriers": 44,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 547,
+   "from": "N",
+   "to": "S",
+   "score": 0.0145,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 206,
+   "from": "V",
+   "to": "A",
+   "score": 0.0131,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 204,
+   "from": "M",
+   "to": "V",
+   "score": 0.0087,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 215,
+   "from": "E",
+   "to": "A",
+   "score": 0.0085,
+   "n_carriers": 4,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 216,
+   "from": "K",
+   "to": "N",
+   "score": 0.0083,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 215,
+   "from": "E",
+   "to": "Q",
+   "score": 0.0075,
+   "n_carriers": 10,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 361,
+   "from": "K",
+   "to": "R",
+   "score": 0.006,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 192,
+   "from": "F",
+   "to": "Y",
+   "score": 0.0029,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 213,
+   "from": "V",
+   "to": "A",
+   "score": 0.0024,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 504,
+   "from": "N",
+   "to": "S",
+   "score": 0.0023,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 89,
+   "from": "R",
+   "to": "K",
+   "score": 0.0021,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 500,
+   "from": "I",
+   "to": "V",
+   "score": 0.0016,
+   "n_carriers": 15,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 211,
+   "from": "P",
+   "to": "A",
+   "score": 0.0011,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 220,
+   "from": "P",
+   "to": "L",
+   "score": 0.0011,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 507,
+   "from": "K",
+   "to": "R",
+   "score": 0.0011,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 109,
+   "from": "N",
+   "to": "S",
+   "score": 0.001,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 491,
+   "from": "E",
+   "to": "D",
+   "score": 0.001,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 212,
+   "from": "E",
+   "to": "D",
+   "score": 0.0009,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 214,
+   "from": "M",
+   "to": "V",
+   "score": 0.0009,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 126,
+   "from": "L",
+   "to": "V",
+   "score": 0.0008,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 493,
+   "from": "I",
+   "to": "V",
+   "score": 0.0008,
+   "n_carriers": 49,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 133,
+   "from": "A",
+   "to": "T",
+   "score": 0.0006,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 157,
+   "from": "S",
+   "to": "T",
+   "score": 0.0006,
+   "n_carriers": 3,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 218,
+   "from": "T",
+   "to": "A",
+   "score": 0.0006,
+   "n_carriers": 3,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 218,
+   "from": "T",
+   "to": "S",
+   "score": 0.0006,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 492,
+   "from": "S",
+   "to": "G",
+   "score": 0.0006,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 223,
+   "from": "D",
+   "to": "E",
+   "score": 0.0005,
+   "n_carriers": 3,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 492,
+   "from": "S",
+   "to": "N",
+   "score": 0.0005,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 482,
+   "from": "Y",
+   "to": "F",
+   "score": 0.0004,
+   "n_carriers": 2,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 131,
+   "from": "N",
+   "to": "S",
+   "score": 0.0003,
+   "n_carriers": 14,
+   "rationale": "peripheral"
+  },
+  {
+   "col": 500,
+   "from": "I",
+   "to": "M",
+   "score": 0.0002,
+   "n_carriers": 1,
+   "rationale": "peripheral"
+  }
+ ]
+}
