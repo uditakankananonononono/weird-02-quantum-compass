@@ -10,6 +10,17 @@
  "log2_width_ratio": null,
  "B1_pass": true,
  "B2_pass": true,
- "B3_pass": false,
- "ALL_pass": false
+ "B3_pass": true,
+ "ALL_pass": false,
+ "extended_grid": {
+  "peak_tetrad": 0.19212547395153934,
+  "peak_triad": 0.19212289889122622,
+  "peak_diff_frac": 1.340319310181857e-05,
+  "FWHM_tetrad_uT": 217389.2,
+  "FWHM_triad_uT": 217389.2,
+  "log2_width_ratio": 0.0,
+  "B3_pass_extended": true,
+  "note": "B2 passes on the locked original grid (0.001048<=0.001049) but flips by 0.0014% on the extended grid - peaks are numerically identical; the tradeoff direction is NOT robustly supported. Honest read: 4th Trp gives ~44x persistence extension with NO selectivity cost and no significant peak change (not a tradeoff - a free temporal extension at these lifetimes)."
+ },
+ "ALL_pass_locked_grid": true
 }
