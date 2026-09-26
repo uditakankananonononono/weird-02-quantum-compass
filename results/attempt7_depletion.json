@@ -1,0 +1,24 @@
+{
+ "locked_amendment": "2026-09-26 20:56 IST attempt-7",
+ "nperm": 10000,
+ "seed": 260926,
+ "core_size": 36,
+ "n_variant_cols": 33,
+ "variant_cols_in_core": 1,
+ "D_obs": 0.0278,
+ "null_conservation_quartile": {
+  "n": 10000,
+  "p_one_sided_depletion": 1.0,
+  "median_null": 0.0278,
+  "depletion_ratio": 1.0
+ },
+ "null_strict_quartile_x_volclass": {
+  "n": 10000,
+  "p_one_sided_depletion": 1.0,
+  "median_null": 0.0278,
+  "depletion_ratio": 1.0
+ },
+ "win_rule": "p<0.05 one-sided + depletion ratio",
+ "p_primary": 1.0,
+ "win": false
+}
