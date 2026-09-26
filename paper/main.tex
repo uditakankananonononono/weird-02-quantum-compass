@@ -1,16 +1,15 @@
 \documentclass[12pt,a4paper]{article}
 \usepackage[T1]{fontenc}
-\usepackage{newtxtext,newtxmath} % Times New Roman text + math
+\usepackage{mathptmx} % Times New Roman text + math
 \usepackage[margin=1in]{geometry}
-\usepackage{amsmath,amssymb,graphicx,booktabs,hyperref,setspace}
-\setstretch{1.15}
-\title{Sequence-to-Magnetosensitivity: A Structure-Parameterized Radical-Pair Pipeline Predicts Migratory Aptitude from Cryptochrome-4 Sequence Alone}
+\usepackage{amsmath,amssymb,graphicx}
+\title{Structure cannot explain avian magnetosensitivity: pre-registered physics-constrained tests rule out tryptophan-chain geometry as the basis of the migratory Cry4 advantage}
 \author{Udita Phookan}
 \date{September 2026}
 \begin{document}
 \maketitle
 \begin{abstract}
-We present the first computational pipeline that maps cryptochrome-4 (Cry4) protein sequence to predicted magnetosensitivity, validated against three independent structure-prediction routes (ESMFold, AlphaFold DB, X-ray crystal 6PTZ) and benchmarked on the Hiscock et al.\ (2016) behavioral panel. The radical-pair mechanism is modeled by an exactly solvable Haberkorn master equation parameterized by a structure-derived back-electron-transfer lifetime (M1.2), which reproduces from first principles the experimentally observed tetrad-over-triad advantage in migratory-bird Cry4.
+The radical-pair mechanism of cryptochrome-4 (Cry4) is the leading candidate for the avian magnetic compass, and the simplest structural account - that the geometry of the protein's tryptophan chain sets magnetic sensitivity - has never been tested under pre-registered gates. We built an exactly solvable Haberkorn master-equation pipeline parameterized by predicted structure (ESMFold, validated against AlphaFold DB and the X-ray crystal 6PTZ at 1.2-1.8 \AA) and subjected the structural account to five pre-registered tests across a 116-species avian panel. Sequence features, structure-amplitude classification, and kinetic proxies all failed to separate migratory from sedentary species at locked thresholds (LOO AUC 0.21-0.40, all within permutation nulls). A physics-forward replication attempt with a distance-anchored back-electron-transfer lifetime model then \emph{anti-predicted} the experimental ordering of Xu et al.\ (2021) by $19.9\times$: the robin's shorter modeled terminal-Trp edge yields a shorter, not longer, magnetically sensitive lifetime. Pre-registering that failure as the hypothesis, we show the frozen model provably cannot recover the experimental ordering (Spearman $\rho=-1.0$, bootstrap 95\% CI $[-1.0,-0.5]$, exact permutation enumeration): terminal-Trp geometry is ruled out as a sufficient explanation of the migratory advantage, which must instead be kinetic or dynamic in origin. A final pre-registered analysis shows the fourth tryptophan extends the magnetically responsive state $\sim$44-fold at no measurable cost in peak sensitivity or field selectivity - a free temporal extension that may explain its conservation across birds.
 \end{abstract}
 
 \section{Introduction}
