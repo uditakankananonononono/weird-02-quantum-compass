@@ -149,6 +149,36 @@
    "tool": "EBI PDBe API",
    "used_for": "6PTZ metadata grounded: pigeon Cry4 Y319D+FAD, X-ray, Zoltowski et al. 2019",
    "ts": "2026-09-25T21:35+05:30"
+  },
+  {
+   "tool": "EBI MAFFT REST",
+   "used_for": "Cry4 subpanel alignment job (cross-check; FAMSA primary)",
+   "ts": "2026-09-25T21:48+05:30"
+  },
+  {
+   "tool": "InterPro REST",
+   "used_for": "domain architecture; erCry4 integrity catch Q6LML8->A0A2I4SZI9",
+   "ts": "2026-09-25T21:48+05:30"
+  },
+  {
+   "tool": "NCBI esummary (nuccore+protein) provenance",
+   "used_for": "Cry4 subpanel accession grounding",
+   "ts": "2026-09-25T21:54+05:30"
+  },
+  {
+   "tool": "RCSB data API per-entry",
+   "used_for": "34/34 Cry census details; resolutions",
+   "ts": "2026-09-25T21:59+05:30"
+  },
+  {
+   "tool": "Ensembl REST lookup",
+   "used_for": "4/4 mined subpanel proteins grounded",
+   "ts": "2026-09-25T22:59+05:30"
+  },
+  {
+   "tool": "EBI MAFFT poll/result",
+   "used_for": "queue monitored; FAMSA alignment used as primary",
+   "ts": "2026-09-25T22:59+05:30"
   }
  ],
  "accession_datasets": [
@@ -306,5 +336,6 @@
   }
  ],
  "counting_rule": "Per user 7:38 PM clarification: only genuinely-executed EXTERNAL research/data tools and science libraries count toward the 40 floor. Stdlib, pytest, git, LaTeX, pure literature lookups do NOT count. Floor not cap.",
- "dataset_total_accession_records": 13999
+ "dataset_total_accession_records": 13999,
+ "reconciliation_note": "09:31: JSON resynced from LEDGER.md 21:48-22:59 entries (ledger = running trail); CDD SPARCLE blocked NOT counted per ledger. 40/40 gate per ledger 22:59 entry."
 }
