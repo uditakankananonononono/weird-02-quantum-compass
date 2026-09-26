@@ -1,0 +1,13 @@
+{
+ "locked": "2026-09-26 21:07 IST (7b amendment: control accessions locked BEFORE evaluation)",
+ "species_n": 187,
+ "genes": {
+  "PKM": "pyruvate kinase (glycolysis core)",
+  "LDHA": "lactate dehydrogenase A (glycolysis core)",
+  "RHO": "rhodopsin (sensory comparison)",
+  "OPN4": "melanopsin (sensory comparison)",
+  "GAPDH": "housekeeping enzyme (RNG-seeded pick)"
+ },
+ "retrieval_rule": "NCBI eutils esearch <species>[orgn] AND <gene>[gene] AND refseq[filter], longest protein record, one per species; missing species logged, no substitution",
+ "sha256_ledger": "data/attempt7b_controls_ledger.json"
+}

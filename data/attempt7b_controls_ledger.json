@@ -1,0 +1,5791 @@
+{
+ "Acanthisitta chloris|PKM": {
+  "status": "miss"
+ },
+ "Acanthisitta chloris|LDHA": {
+  "status": "miss"
+ },
+ "Acanthisitta chloris|RHO": {
+  "status": "ok",
+  "acc": "XP_009078756.1",
+  "len": 335,
+  "file": "data/controls7b/Acanthisitta_chloris__RHO.fa",
+  "sha256": "2e0f9298f902ed3cd9b2cf48ba7ad2b5e11430abd94a0571b07d48a9f886c702"
+ },
+ "Acanthisitta chloris|OPN4": {
+  "status": "miss"
+ },
+ "Acanthisitta chloris|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009081181.1",
+  "len": 351,
+  "file": "data/controls7b/Acanthisitta_chloris__GAPDH.fa",
+  "sha256": "de873242a9fd69c4273837c1ae6b54e53894b35af013b12b1bd0f1df2f76ba35"
+ },
+ "Agelaius phoeniceus|PKM": {
+  "status": "ok",
+  "acc": "XP_054498167.2",
+  "len": 574,
+  "file": "data/controls7b/Agelaius_phoeniceus__PKM.fa",
+  "sha256": "cd98656d1a3cb81b5217f1a6b8609eaad442775919e52ab2dbcaf20505be4cef"
+ },
+ "Agelaius phoeniceus|LDHA": {
+  "status": "miss"
+ },
+ "Agelaius phoeniceus|RHO": {
+  "status": "ok",
+  "acc": "XP_054495923.1",
+  "len": 351,
+  "file": "data/controls7b/Agelaius_phoeniceus__RHO.fa",
+  "sha256": "94d71e9fbc592bc4dd78906bd2d0723db39d9f681b971b4c1935ff5b728410d9"
+ },
+ "Agelaius phoeniceus|OPN4": {
+  "status": "ok",
+  "acc": "XP_077039449.1",
+  "len": 525,
+  "file": "data/controls7b/Agelaius_phoeniceus__OPN4.fa",
+  "sha256": "3c56445ea73ef6ecec647b724043d343e45c231b6f5f4d346f4de6f13b476c9f"
+ },
+ "Agelaius phoeniceus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_054509757.1",
+  "len": 311,
+  "file": "data/controls7b/Agelaius_phoeniceus__GAPDH.fa",
+  "sha256": "6800f4ceea09abb3febc4954a65dbd5318515d54d78650ab677d1a4483f38bfe"
+ },
+ "Agelaius tricolor|PKM": {
+  "status": "ok",
+  "acc": "XP_071298049.1",
+  "len": 574,
+  "file": "data/controls7b/Agelaius_tricolor__PKM.fa",
+  "sha256": "25256bbe32008409c2690dcd3be6d33bfaab46ce5aa085981e6a7b96a2cbc243"
+ },
+ "Agelaius tricolor|LDHA": {
+  "status": "miss"
+ },
+ "Agelaius tricolor|RHO": {
+  "status": "ok",
+  "acc": "XP_071295304.1",
+  "len": 351,
+  "file": "data/controls7b/Agelaius_tricolor__RHO.fa",
+  "sha256": "fc28927aed76a6e4c103c86ff58b61300f9ac469a821f14396af1c6eaae8a1b5"
+ },
+ "Agelaius tricolor|OPN4": {
+  "status": "ok",
+  "acc": "XP_071294804.1",
+  "len": 562,
+  "file": "data/controls7b/Agelaius_tricolor__OPN4.fa",
+  "sha256": "f2123875e3ca4b1a74436963e79e66206b9513e14c47f0fd2b551084574bdde4"
+ },
+ "Agelaius tricolor|GAPDH": {
+  "status": "ok",
+  "acc": "XP_071289298.1",
+  "len": 311,
+  "file": "data/controls7b/Agelaius_tricolor__GAPDH.fa",
+  "sha256": "e00e88602868c8d91822587b22f388c10bd5637ab115caa069995d80576c433d"
+ },
+ "Ammospiza caudacuta|PKM": {
+  "status": "ok",
+  "acc": "XP_058667267.1",
+  "len": 548,
+  "file": "data/controls7b/Ammospiza_caudacuta__PKM.fa",
+  "sha256": "7ae18950fd05560e215533def19b057d4d2f17b127b3092be95b43f83498fc44"
+ },
+ "Ammospiza caudacuta|LDHA": {
+  "status": "miss"
+ },
+ "Ammospiza caudacuta|RHO": {
+  "status": "ok",
+  "acc": "XP_058668644.1",
+  "len": 351,
+  "file": "data/controls7b/Ammospiza_caudacuta__RHO.fa",
+  "sha256": "06c92fa87202bffd6aa647f9c65e12bb2d55618c0f9f50b000ffb467fabe11ca"
+ },
+ "Ammospiza caudacuta|OPN4": {
+  "status": "ok",
+  "acc": "XP_058666071.1",
+  "len": 525,
+  "file": "data/controls7b/Ammospiza_caudacuta__OPN4.fa",
+  "sha256": "998b81f08cabd7a76dddcedc3d8dff9a8f9afb90094b0afd97ae4dfddae46640"
+ },
+ "Ammospiza caudacuta|GAPDH": {
+  "status": "ok",
+  "acc": "XP_058681539.1",
+  "len": 560,
+  "file": "data/controls7b/Ammospiza_caudacuta__GAPDH.fa",
+  "sha256": "7d1fd39639bc6dd833b88a749d693f706a0630097a5354ca664fbe15d007108b"
+ },
+ "Ammospiza nelsoni|PKM": {
+  "status": "ok",
+  "acc": "XP_059337894.1",
+  "len": 548,
+  "file": "data/controls7b/Ammospiza_nelsoni__PKM.fa",
+  "sha256": "85345b3cd1ef321e8a203a46c225fea82de44952d3e50a39c025822482fe8160"
+ },
+ "Ammospiza nelsoni|LDHA": {
+  "status": "miss"
+ },
+ "Ammospiza nelsoni|RHO": {
+  "status": "ok",
+  "acc": "XP_059335958.1",
+  "len": 351,
+  "file": "data/controls7b/Ammospiza_nelsoni__RHO.fa",
+  "sha256": "d7767d1ba6584921b728c94c8851b4cd707e538b07e654a970d3fc2c85116801"
+ },
+ "Ammospiza nelsoni|OPN4": {
+  "status": "ok",
+  "acc": "XP_059333264.1",
+  "len": 525,
+  "file": "data/controls7b/Ammospiza_nelsoni__OPN4.fa",
+  "sha256": "74a7404e6b4b4505c60f97f290c61a0749629e0c951ae63f24b7d35b2c923a43"
+ },
+ "Ammospiza nelsoni|GAPDH": {
+  "status": "ok",
+  "acc": "XP_059349909.1",
+  "len": 560,
+  "file": "data/controls7b/Ammospiza_nelsoni__GAPDH.fa",
+  "sha256": "5296e89719590278c1523fe73918f7c15111c182cd494837d436e0daccd44939"
+ },
+ "Anas acuta|PKM": {
+  "status": "ok",
+  "acc": "XP_068551846.1",
+  "len": 550,
+  "file": "data/controls7b/Anas_acuta__PKM.fa",
+  "sha256": "9b38a22e1b9d616c17154f72b4f3973713e5b6309820fb69d42a61c552e5cd72"
+ },
+ "Anas acuta|LDHA": {
+  "status": "miss"
+ },
+ "Anas acuta|RHO": {
+  "status": "ok",
+  "acc": "XP_068550402.1",
+  "len": 351,
+  "file": "data/controls7b/Anas_acuta__RHO.fa",
+  "sha256": "e436151ba65b8f7a8cd992d80bf3f6d436cc2b43ce97490a63e725458f3397cb"
+ },
+ "Anas acuta|OPN4": {
+  "status": "ok",
+  "acc": "XP_068545001.1",
+  "len": 567,
+  "file": "data/controls7b/Anas_acuta__OPN4.fa",
+  "sha256": "aa9585e3fb3262842a1dc67d7f534127ac0a61c4d27f698044e925513d02d6ee"
+ },
+ "Anas acuta|GAPDH": {
+  "status": "ok",
+  "acc": "XP_068555581.1",
+  "len": 333,
+  "file": "data/controls7b/Anas_acuta__GAPDH.fa",
+  "sha256": "f6a7dd20de6152a43ac291d58c6fbb0119bf99be9fc32bc3aa4f64d5d164bceb"
+ },
+ "Anas platyrhynchos|PKM": {
+  "status": "ok",
+  "acc": "XP_027322322.1",
+  "len": 550,
+  "file": "data/controls7b/Anas_platyrhynchos__PKM.fa",
+  "sha256": "7670d9da78e83b3f49e51f9ad0cd33a1263b028c3a0a253a75dee09ceb559847"
+ },
+ "Anas platyrhynchos|LDHA": {
+  "status": "miss"
+ },
+ "Anas platyrhynchos|RHO": {
+  "status": "ok",
+  "acc": "XP_005012111.1",
+  "len": 351,
+  "file": "data/controls7b/Anas_platyrhynchos__RHO.fa",
+  "sha256": "9400f8c3aeb5a80559c7231228a251d999d7154479da6ffa176dbda1b0d895b3"
+ },
+ "Anas platyrhynchos|OPN4": {
+  "status": "ok",
+  "acc": "XP_021132450.1",
+  "len": 554,
+  "file": "data/controls7b/Anas_platyrhynchos__OPN4.fa",
+  "sha256": "c15467e1c58b68fb3722d0b7cce18ae46651feb9c0df10a6b415d37a61c611ff"
+ },
+ "Anas platyrhynchos|GAPDH": {
+  "status": "ok",
+  "acc": "XP_038036512.2",
+  "len": 333,
+  "file": "data/controls7b/Anas_platyrhynchos__GAPDH.fa",
+  "sha256": "601aa38d8df9bb4b9a63c0ef94e1a3d5e668f32d823651673a132887dbf07753"
+ },
+ "Anomalospiza imberbis|PKM": {
+  "status": "ok",
+  "acc": "XP_068060412.1",
+  "len": 550,
+  "file": "data/controls7b/Anomalospiza_imberbis__PKM.fa",
+  "sha256": "1c98ba07461cd39007f7553847bf37d5046b23a67a096b16f3876a964a29d99f"
+ },
+ "Anomalospiza imberbis|LDHA": {
+  "status": "miss"
+ },
+ "Anomalospiza imberbis|RHO": {
+  "status": "ok",
+  "acc": "XP_068058474.1",
+  "len": 379,
+  "file": "data/controls7b/Anomalospiza_imberbis__RHO.fa",
+  "sha256": "52570e9cb65dc3a4b0a7764e082a4fea847aef028edda8d9cf8d5438c3c5ed06"
+ },
+ "Anomalospiza imberbis|OPN4": {
+  "status": "ok",
+  "acc": "XP_068053312.1",
+  "len": 530,
+  "file": "data/controls7b/Anomalospiza_imberbis__OPN4.fa",
+  "sha256": "ecfd09419adaf527cda0ea2b59597e73b14469ed440e19aaf6c34709cf3df172"
+ },
+ "Anomalospiza imberbis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_068038976.1",
+  "len": 622,
+  "file": "data/controls7b/Anomalospiza_imberbis__GAPDH.fa",
+  "sha256": "5bb4c150344052532e3e1043348e4b964b00d63e1fa0ef17e56040e4d5fb3821"
+ },
+ "Anser anser|PKM": {
+  "status": "ok",
+  "acc": "XP_083706631.1",
+  "len": 550,
+  "file": "data/controls7b/Anser_anser__PKM.fa",
+  "sha256": "94a1e05cc8ca6c99d0b179bef48e364d09ab45fcbe22d9503cfb81595f260494"
+ },
+ "Anser anser|LDHA": {
+  "status": "miss"
+ },
+ "Anser anser|RHO": {
+  "status": "ok",
+  "acc": "XP_083651711.1",
+  "len": 351,
+  "file": "data/controls7b/Anser_anser__RHO.fa",
+  "sha256": "69cb2d5a614ca005f03bf8175cbde111902d032cb72bf18353163f0325fe210b"
+ },
+ "Anser anser|OPN4": {
+  "status": "ok",
+  "acc": "XP_083701516.1",
+  "len": 567,
+  "file": "data/controls7b/Anser_anser__OPN4.fa",
+  "sha256": "11fa4aef2f5425f30b1acd7882ed15b16a195283255c04dbbcb72890a2bb7f70"
+ },
+ "Anser anser|GAPDH": {
+  "status": "ok",
+  "acc": "XP_083654152.1",
+  "len": 333,
+  "file": "data/controls7b/Anser_anser__GAPDH.fa",
+  "sha256": "b90432fcfa5a93554056a1fd4c05cafdca48c38e6bbd05132df76797b9d5351b"
+ },
+ "Anser brachyrhynchus|PKM": {
+  "status": "ok",
+  "acc": "XP_080463448.1",
+  "len": 550,
+  "file": "data/controls7b/Anser_brachyrhynchus__PKM.fa",
+  "sha256": "b5f0b531f71c430e25cbcb44d56561614ea6e831b86be32b96f3dcdc77d0a056"
+ },
+ "Anser brachyrhynchus|LDHA": {
+  "status": "miss"
+ },
+ "Anser brachyrhynchus|RHO": {
+  "status": "ok",
+  "acc": "XP_080461663.1",
+  "len": 351,
+  "file": "data/controls7b/Anser_brachyrhynchus__RHO.fa",
+  "sha256": "7ef966568b226f70f1f392f90e12ad04038879a41bf825891d4bff8b80fa4f33"
+ },
+ "Anser brachyrhynchus|OPN4": {
+  "status": "ok",
+  "acc": "XP_080454060.1",
+  "len": 567,
+  "file": "data/controls7b/Anser_brachyrhynchus__OPN4.fa",
+  "sha256": "6d51a39d72192ee27c842caa5c7dcf1689353d068ad681003f4170e1e949b55a"
+ },
+ "Anser brachyrhynchus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_080441957.1",
+  "len": 333,
+  "file": "data/controls7b/Anser_brachyrhynchus__GAPDH.fa",
+  "sha256": "2a8c80fe227b5c31c91222025131077b5177656a5d4a08fb8b31c127a4217d03"
+ },
+ "Anser cygnoides|PKM": {
+  "status": "ok",
+  "acc": "XP_047937434.1",
+  "len": 550,
+  "file": "data/controls7b/Anser_cygnoides__PKM.fa",
+  "sha256": "c3f082ad4f96908d3dfac22140e529243c97a27a775a8c66396868aa7161df99"
+ },
+ "Anser cygnoides|LDHA": {
+  "status": "miss"
+ },
+ "Anser cygnoides|RHO": {
+  "status": "ok",
+  "acc": "XP_013037714.1",
+  "len": 351,
+  "file": "data/controls7b/Anser_cygnoides__RHO.fa",
+  "sha256": "39f17aca1d9834c669d5acbe80c8b115e871a98eea12f22da08af2e55b099cc2"
+ },
+ "Anser cygnoides|OPN4": {
+  "status": "ok",
+  "acc": "XP_013030004.3",
+  "len": 554,
+  "file": "data/controls7b/Anser_cygnoides__OPN4.fa",
+  "sha256": "ff4d6a2722d7405be96231624245b43feac2fecec0fad143934146116962b889"
+ },
+ "Anser cygnoides|GAPDH": {
+  "status": "ok",
+  "acc": "XP_066860771.1",
+  "len": 333,
+  "file": "data/controls7b/Anser_cygnoides__GAPDH.fa",
+  "sha256": "4275c989aa716c4d5bb2aaf077914b5587c9a0745fa52346a197c7495d88b946"
+ },
+ "Antrostomus carolinensis|PKM": {
+  "status": "ok",
+  "acc": "XP_010167374.1",
+  "len": 449,
+  "file": "data/controls7b/Antrostomus_carolinensis__PKM.fa",
+  "sha256": "5b113c8f95dbea0e098d490f4b3d1b7544962bb290f08ccc878d04fccc1642c2"
+ },
+ "Antrostomus carolinensis|LDHA": {
+  "status": "miss"
+ },
+ "Antrostomus carolinensis|RHO": {
+  "status": "ok",
+  "acc": "XP_010170535.1",
+  "len": 349,
+  "file": "data/controls7b/Antrostomus_carolinensis__RHO.fa",
+  "sha256": "4078e32ec22d4c61102b0c35efe1119be1a746146c237b06c8c3290f9c806b76"
+ },
+ "Antrostomus carolinensis|OPN4": {
+  "status": "miss"
+ },
+ "Antrostomus carolinensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_028942062.1",
+  "len": 290,
+  "file": "data/controls7b/Antrostomus_carolinensis__GAPDH.fa",
+  "sha256": "8d3d9ac0d7d3375458246ebdf76a13379729d5baacf882f08fe5b921dfda830c"
+ },
+ "Apaloderma vittatum|PKM": {
+  "status": "ok",
+  "acc": "XP_009877656.1",
+  "len": 550,
+  "file": "data/controls7b/Apaloderma_vittatum__PKM.fa",
+  "sha256": "ac7e60fde1e1207f813e8db3751149498c7af3d361a870a9653eeec204e11af2"
+ },
+ "Apaloderma vittatum|LDHA": {
+  "status": "miss"
+ },
+ "Apaloderma vittatum|RHO": {
+  "status": "ok",
+  "acc": "XP_009873540.1",
+  "len": 312,
+  "file": "data/controls7b/Apaloderma_vittatum__RHO.fa",
+  "sha256": "0e0b1edb685fbb06959688bc022027e40ad7afde6f91798b21a1f41e0f6dba2c"
+ },
+ "Apaloderma vittatum|OPN4": {
+  "status": "miss"
+ },
+ "Apaloderma vittatum|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009866362.1",
+  "len": 326,
+  "file": "data/controls7b/Apaloderma_vittatum__GAPDH.fa",
+  "sha256": "a597b525c8665553fac58fed739be55ffcbfb0a64b38227bfb8fced3582f4be3"
+ },
+ "Aphelocoma coerulescens|PKM": {
+  "status": "ok",
+  "acc": "XP_068882435.1",
+  "len": 550,
+  "file": "data/controls7b/Aphelocoma_coerulescens__PKM.fa",
+  "sha256": "bee5274efd3883000a650a413729a785e1c1034591cc1619774ca76bd9cc9f86"
+ },
+ "Aphelocoma coerulescens|LDHA": {
+  "status": "miss"
+ },
+ "Aphelocoma coerulescens|RHO": {
+  "status": "ok",
+  "acc": "XP_068884525.1",
+  "len": 351,
+  "file": "data/controls7b/Aphelocoma_coerulescens__RHO.fa",
+  "sha256": "92e386b683150a391edfa52e9baa68686791137f3532d934404e5dd72846f1ac"
+ },
+ "Aphelocoma coerulescens|OPN4": {
+  "status": "ok",
+  "acc": "XP_068875259.1",
+  "len": 515,
+  "file": "data/controls7b/Aphelocoma_coerulescens__OPN4.fa",
+  "sha256": "8fcdb66a1b539894eda04e3826ac2d2deefa853d0e0a27ce40c40265d45ca443"
+ },
+ "Aphelocoma coerulescens|GAPDH": {
+  "status": "ok",
+  "acc": "XP_068874930.1",
+  "len": 534,
+  "file": "data/controls7b/Aphelocoma_coerulescens__GAPDH.fa",
+  "sha256": "a1cbb10eca510b5c8a37c6b346bfefa56f557267b771f25263a18c9691218923"
+ },
+ "Aptenodytes forsteri|PKM": {
+  "status": "ok",
+  "acc": "XP_019327510.1",
+  "len": 530,
+  "file": "data/controls7b/Aptenodytes_forsteri__PKM.fa",
+  "sha256": "351bdffd79887d414afa6c9372af93dd2d60cefe7717846eee4c25229dd045a9"
+ },
+ "Aptenodytes forsteri|LDHA": {
+  "status": "ok",
+  "acc": "XP_009287036.1",
+  "len": 332,
+  "file": "data/controls7b/Aptenodytes_forsteri__LDHA.fa",
+  "sha256": "adf24fa4335e74e5627292fc07a11d64f9239ef659cc328ee7bd716529acf70d"
+ },
+ "Aptenodytes forsteri|RHO": {
+  "status": "ok",
+  "acc": "XP_009282077.1",
+  "len": 353,
+  "file": "data/controls7b/Aptenodytes_forsteri__RHO.fa",
+  "sha256": "d8a9f5d532dccc67cea0eb7c5865db8fe7867a0be78c8d730429d0d0adae127b"
+ },
+ "Aptenodytes forsteri|OPN4": {
+  "status": "ok",
+  "acc": "XP_009270661.1",
+  "len": 528,
+  "file": "data/controls7b/Aptenodytes_forsteri__OPN4.fa",
+  "sha256": "8559d7648f28ae53773fe492dbcb56534cea68ba71a22bd2a9d3ad62c2098315"
+ },
+ "Aptenodytes forsteri|GAPDH": {
+  "status": "ok",
+  "acc": "XP_019329643.1",
+  "len": 376,
+  "file": "data/controls7b/Aptenodytes_forsteri__GAPDH.fa",
+  "sha256": "0630383cf9b9681f86cb3bb32fb222e6c67eeeac34a5fc6c3b51bfc76ce661ec"
+ },
+ "Aptenodytes patagonicus|PKM": {
+  "status": "ok",
+  "acc": "XP_076204698.1",
+  "len": 530,
+  "file": "data/controls7b/Aptenodytes_patagonicus__PKM.fa",
+  "sha256": "ed6707d499a8c27583e49bd531f8ea24fc2b6c8e72a84fdebbf5e1b11489027b"
+ },
+ "Aptenodytes patagonicus|LDHA": {
+  "status": "miss"
+ },
+ "Aptenodytes patagonicus|RHO": {
+  "status": "ok",
+  "acc": "XP_076201996.1",
+  "len": 353,
+  "file": "data/controls7b/Aptenodytes_patagonicus__RHO.fa",
+  "sha256": "e7526ca08a9c6a467dd55df1372561872a3ce28b2bded479fea45ddbde6f08c3"
+ },
+ "Aptenodytes patagonicus|OPN4": {
+  "status": "ok",
+  "acc": "XP_076194164.1",
+  "len": 528,
+  "file": "data/controls7b/Aptenodytes_patagonicus__OPN4.fa",
+  "sha256": "93463f9f071ee2af09ca480eab29970cee388b6f3e4b3035787c6c0228b26763"
+ },
+ "Aptenodytes patagonicus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_076203905.1",
+  "len": 333,
+  "file": "data/controls7b/Aptenodytes_patagonicus__GAPDH.fa",
+  "sha256": "fa070336b15065387fc145364f763e54876036db08a6756366fa582a1a941027"
+ },
+ "Apteryx mantelli|PKM": {
+  "status": "ok",
+  "acc": "XP_067161322.1",
+  "len": 530,
+  "file": "data/controls7b/Apteryx_mantelli__PKM.fa",
+  "sha256": "cab050a08e295bd3e7af0d6cfb5926ed100c63bc588976b1f2870a9f5b46b10b"
+ },
+ "Apteryx mantelli|LDHA": {
+  "status": "miss"
+ },
+ "Apteryx mantelli|RHO": {
+  "status": "ok",
+  "acc": "XP_067159770.1",
+  "len": 349,
+  "file": "data/controls7b/Apteryx_mantelli__RHO.fa",
+  "sha256": "c308a47e375969a27ab39d09d858ea63ebef6c5f11c664dfabf7a0db1b2f5ed7"
+ },
+ "Apteryx mantelli|OPN4": {
+  "status": "ok",
+  "acc": "XP_067155696.1",
+  "len": 499,
+  "file": "data/controls7b/Apteryx_mantelli__OPN4.fa",
+  "sha256": "858f0c5a2a093b4a00a9b5cbaa1975b697e3c9f66ad657b3211ced7409fc7573"
+ },
+ "Apteryx mantelli|GAPDH": {
+  "status": "ok",
+  "acc": "XP_067158857.1",
+  "len": 333,
+  "file": "data/controls7b/Apteryx_mantelli__GAPDH.fa",
+  "sha256": "50a320377b2a9f248d07899cbec38bf11b93a7ee4c2af89ebf1c4439eacdb2d0"
+ },
+ "Apteryx rowi|PKM": {
+  "status": "ok",
+  "acc": "XP_025924011.1",
+  "len": 550,
+  "file": "data/controls7b/Apteryx_rowi__PKM.fa",
+  "sha256": "595b2cb27fb8142b6d8006f15a6efbd2779f7397c9ff70c60661e68a586d0b15"
+ },
+ "Apteryx rowi|LDHA": {
+  "status": "miss"
+ },
+ "Apteryx rowi|RHO": {
+  "status": "ok",
+  "acc": "XP_025930782.1",
+  "len": 329,
+  "file": "data/controls7b/Apteryx_rowi__RHO.fa",
+  "sha256": "0f1425e0cf07c0d633822c869248f1d18776f9a7ca748c4596097e698b54384d"
+ },
+ "Apteryx rowi|OPN4": {
+  "status": "ok",
+  "acc": "XP_025925730.1",
+  "len": 524,
+  "file": "data/controls7b/Apteryx_rowi__OPN4.fa",
+  "sha256": "8557f5012d0f88ac4c4d641290bf1ea2a7f7bba22fbfe10f386dd8d146a58c52"
+ },
+ "Apteryx rowi|GAPDH": {
+  "status": "ok",
+  "acc": "XP_025945970.1",
+  "len": 333,
+  "file": "data/controls7b/Apteryx_rowi__GAPDH.fa",
+  "sha256": "b8801994c2177636adf3e5ad9fee0ad44379d2f37e890329e1d6afb462aa6b7e"
+ },
+ "Apus apus|PKM": {
+  "status": "ok",
+  "acc": "XP_051484707.1",
+  "len": 550,
+  "file": "data/controls7b/Apus_apus__PKM.fa",
+  "sha256": "c7b0e788584eaffcfa5d35329d4e4cb43c54dd02434dbeb7cecfa577faae689a"
+ },
+ "Apus apus|LDHA": {
+  "status": "miss"
+ },
+ "Apus apus|RHO": {
+  "status": "ok",
+  "acc": "XP_051483776.1",
+  "len": 351,
+  "file": "data/controls7b/Apus_apus__RHO.fa",
+  "sha256": "c320681a24b08b9f5371f56ca8493528db8bff98ca0bf58cccfb5122fb931786"
+ },
+ "Apus apus|OPN4": {
+  "status": "ok",
+  "acc": "XP_051473143.1",
+  "len": 461,
+  "file": "data/controls7b/Apus_apus__OPN4.fa",
+  "sha256": "ae2a023e38205abdb553986fe629b83e60c9206b2a0a71bc96a57b9d7bc948fb"
+ },
+ "Apus apus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_051464537.1",
+  "len": 333,
+  "file": "data/controls7b/Apus_apus__GAPDH.fa",
+  "sha256": "fb60edd032e508053bc564dbf26a8ec615daf1fd891100b99320c559ec9e4ede"
+ },
+ "Aquila chrysaetos chrysaetos|PKM": {
+  "status": "ok",
+  "acc": "XP_029872304.1",
+  "len": 550,
+  "file": "data/controls7b/Aquila_chrysaetos_chrysaetos__PKM.fa",
+  "sha256": "3d8affeed3fd2d8b61e4d191ae4d981d2860e6a9873761a5f69ea870753adfec"
+ },
+ "Aquila chrysaetos chrysaetos|LDHA": {
+  "status": "miss"
+ },
+ "Aquila chrysaetos chrysaetos|RHO": {
+  "status": "ok",
+  "acc": "XP_029852078.1",
+  "len": 351,
+  "file": "data/controls7b/Aquila_chrysaetos_chrysaetos__RHO.fa",
+  "sha256": "af00742d6e4d6ccc0b2b5f1302167cc3a2f9f0cc92e55473caa6585f9ffa892d"
+ },
+ "Aquila chrysaetos chrysaetos|OPN4": {
+  "status": "ok",
+  "acc": "XP_029886894.1",
+  "len": 476,
+  "file": "data/controls7b/Aquila_chrysaetos_chrysaetos__OPN4.fa",
+  "sha256": "8d0c113a10beb1ad5c70ab93176f661c458d48193b79066fec9c9e890e249e29"
+ },
+ "Aquila chrysaetos chrysaetos|GAPDH": {
+  "status": "ok",
+  "acc": "XP_029875884.1",
+  "len": 333,
+  "file": "data/controls7b/Aquila_chrysaetos_chrysaetos__GAPDH.fa",
+  "sha256": "483da68dc54e6d68f7c47d3fd187cd8008f91cfdf727acf416e2b2394afc5998"
+ },
+ "Astur gentilis|PKM": {
+  "status": "ok",
+  "acc": "XP_049668215.1",
+  "len": 550,
+  "file": "data/controls7b/Astur_gentilis__PKM.fa",
+  "sha256": "42bc06d34be2381dc79f8aa15c711d5cab78a4b1e123a397d225962ff48ee7f5"
+ },
+ "Astur gentilis|LDHA": {
+  "status": "ok",
+  "acc": "XP_049675982.1",
+  "len": 332,
+  "file": "data/controls7b/Astur_gentilis__LDHA.fa",
+  "sha256": "c8aacd6464278e6398ed945e6eefac5a08d3cf57b86b70ddce37f2a683f25f23"
+ },
+ "Astur gentilis|RHO": {
+  "status": "ok",
+  "acc": "XP_049682763.1",
+  "len": 351,
+  "file": "data/controls7b/Astur_gentilis__RHO.fa",
+  "sha256": "f26a206c42a839700c416733f66882478a4ce8792d2a96e8cc0f5e434d479d4a"
+ },
+ "Astur gentilis|OPN4": {
+  "status": "ok",
+  "acc": "XP_049666082.1",
+  "len": 466,
+  "file": "data/controls7b/Astur_gentilis__OPN4.fa",
+  "sha256": "c3b8f61989181e7158e1c1c95655ab4cf6af7e10c030cd0f7c819ba1aac04647"
+ },
+ "Astur gentilis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_049680720.1",
+  "len": 333,
+  "file": "data/controls7b/Astur_gentilis__GAPDH.fa",
+  "sha256": "104b4f02cf5e821f86a460499f807d080688c8041bf201a6a0d0edae34f8ade9"
+ },
+ "Athene cunicularia|PKM": {
+  "status": "ok",
+  "acc": "XP_026711589.1",
+  "len": 550,
+  "file": "data/controls7b/Athene_cunicularia__PKM.fa",
+  "sha256": "644ca029c53b8ab4b2820f6abf2c913a1671830c63588567f8f4018d7fc7a84e"
+ },
+ "Athene cunicularia|LDHA": {
+  "status": "miss"
+ },
+ "Athene cunicularia|RHO": {
+  "status": "ok",
+  "acc": "XP_026712941.1",
+  "len": 357,
+  "file": "data/controls7b/Athene_cunicularia__RHO.fa",
+  "sha256": "3c45e09a33c875a398393b58a57c40cb5505f81ea3b8cee2b3666c3b4b319875"
+ },
+ "Athene cunicularia|OPN4": {
+  "status": "ok",
+  "acc": "XP_026707673.1",
+  "len": 496,
+  "file": "data/controls7b/Athene_cunicularia__OPN4.fa",
+  "sha256": "8e21d3c1d9e72179a213f8848e58e5c1b2f9c59279ab9c6d7879e66387237d26"
+ },
+ "Athene cunicularia|GAPDH": {
+  "status": "ok",
+  "acc": "XP_026703014.1",
+  "len": 361,
+  "file": "data/controls7b/Athene_cunicularia__GAPDH.fa",
+  "sha256": "8b909761fde9308f8b2a9fb78cdef7b7baee2ecfc0b8c51e15eb87d1118c8fc0"
+ },
+ "Athene noctua|PKM": {
+  "status": "ok",
+  "acc": "XP_074773705.1",
+  "len": 550,
+  "file": "data/controls7b/Athene_noctua__PKM.fa",
+  "sha256": "d232be0a68ba6445b7fb917b0af3e3aea3ec8eaa6b78b6a25606783f81461de9"
+ },
+ "Athene noctua|LDHA": {
+  "status": "miss"
+ },
+ "Athene noctua|RHO": {
+  "status": "ok",
+  "acc": "XP_074769869.1",
+  "len": 377,
+  "file": "data/controls7b/Athene_noctua__RHO.fa",
+  "sha256": "029bd0e1e9991bd21f173cd225dc40f1598d0264570399a210fb1f03e887d5b3"
+ },
+ "Athene noctua|OPN4": {
+  "status": "ok",
+  "acc": "XP_074780330.1",
+  "len": 527,
+  "file": "data/controls7b/Athene_noctua__OPN4.fa",
+  "sha256": "a7d8cc514b30d989acfff05b377e6a4cc5b4263c2c5dd0e01634fbe717331c9a"
+ },
+ "Athene noctua|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074752601.1",
+  "len": 333,
+  "file": "data/controls7b/Athene_noctua__GAPDH.fa",
+  "sha256": "431da7a0e26c14a31da3dcc73a099ab59297734098cdae735729c3089a626891"
+ },
+ "Aythya ferina|PKM": {
+  "status": "ok",
+  "acc": "XP_084388630.1",
+  "len": 550,
+  "file": "data/controls7b/Aythya_ferina__PKM.fa",
+  "sha256": "efb3eb92ec80452512fd8183a7b7c704a8912b9b5c84ac482ec0d175546d5717"
+ },
+ "Aythya ferina|LDHA": {
+  "status": "ok",
+  "acc": "XP_084378601.1",
+  "len": 332,
+  "file": "data/controls7b/Aythya_ferina__LDHA.fa",
+  "sha256": "822245729d9dfd2b35be019d32f776a5b99b71db798834da1690bf75651527cf"
+ },
+ "Aythya ferina|RHO": {
+  "status": "ok",
+  "acc": "XP_084387667.1",
+  "len": 351,
+  "file": "data/controls7b/Aythya_ferina__RHO.fa",
+  "sha256": "14c5cf4b038ce81121c763ea6c726014dee0ecfe2e138d1abd8f2b4531aced9f"
+ },
+ "Aythya ferina|OPN4": {
+  "status": "ok",
+  "acc": "XP_084381422.1",
+  "len": 554,
+  "file": "data/controls7b/Aythya_ferina__OPN4.fa",
+  "sha256": "8c38200c86479915ce6317c5d76c1a14bf06bbd7fa21ed166e9aa35f1162ef35"
+ },
+ "Aythya ferina|GAPDH": {
+  "status": "ok",
+  "acc": "XP_084357623.1",
+  "len": 333,
+  "file": "data/controls7b/Aythya_ferina__GAPDH.fa",
+  "sha256": "a58d6166b1fc58715ad1ddd64e506b710f3cc39a99a87745dea33f0a26934164"
+ },
+ "Aythya fuligula|PKM": {
+  "status": "ok",
+  "acc": "XP_032050604.1",
+  "len": 530,
+  "file": "data/controls7b/Aythya_fuligula__PKM.fa",
+  "sha256": "acda69451a07e52e56f9b7a8dbf7925de8577ae3424ba560159ac89ece5faf14"
+ },
+ "Aythya fuligula|LDHA": {
+  "status": "ok",
+  "acc": "XP_032044639.1",
+  "len": 332,
+  "file": "data/controls7b/Aythya_fuligula__LDHA.fa",
+  "sha256": "f45e6ca7ecd07a1ab216b6956ef5a36496655ccb203e4a6e6c5bf125de1b87bd"
+ },
+ "Aythya fuligula|RHO": {
+  "status": "ok",
+  "acc": "XP_032049937.1",
+  "len": 351,
+  "file": "data/controls7b/Aythya_fuligula__RHO.fa",
+  "sha256": "3507464ed8ba8f3f3ee02fa76b94cbedd348c37670d92810cca6d0325d5d7afc"
+ },
+ "Aythya fuligula|OPN4": {
+  "status": "ok",
+  "acc": "XP_032047283.1",
+  "len": 528,
+  "file": "data/controls7b/Aythya_fuligula__OPN4.fa",
+  "sha256": "7a08ed706f44fd2394cbed0d7df4cafd6e55f4b51141c19c22744321b5fb29da"
+ },
+ "Aythya fuligula|GAPDH": {
+  "status": "ok",
+  "acc": "XP_032060889.1",
+  "len": 333,
+  "file": "data/controls7b/Aythya_fuligula__GAPDH.fa",
+  "sha256": "f4d60744875111d302eb134bea9b7cfadb247e5a76160fad4e66539b548913c1"
+ },
+ "Aythya marila|PKM": {
+  "status": "ok",
+  "acc": "XP_082624839.1",
+  "len": 530,
+  "file": "data/controls7b/Aythya_marila__PKM.fa",
+  "sha256": "322d05f257d26819cce19cac6acd2e2a657fd37a06af7ae2d21b911230048c8e"
+ },
+ "Aythya marila|LDHA": {
+  "status": "miss"
+ },
+ "Aythya marila|RHO": {
+  "status": "ok",
+  "acc": "XP_082623916.1",
+  "len": 351,
+  "file": "data/controls7b/Aythya_marila__RHO.fa",
+  "sha256": "8cc048f79e2844b913a8197e61e6bca8d0e9924ec47f4f4c7cda599212411bd2"
+ },
+ "Aythya marila|OPN4": {
+  "status": "ok",
+  "acc": "XP_082621402.1",
+  "len": 567,
+  "file": "data/controls7b/Aythya_marila__OPN4.fa",
+  "sha256": "bbf2f664f8b9ad3a00c40938bf825fed4f631e81bebb0b173de56e45c76f0ebd"
+ },
+ "Aythya marila|GAPDH": {
+  "status": "ok",
+  "acc": "XP_082609570.1",
+  "len": 333,
+  "file": "data/controls7b/Aythya_marila__GAPDH.fa",
+  "sha256": "ff136dfbd5b180328ee4fa49bdae545456c7dea76ea14a5805a03c327f467241"
+ },
+ "Balearica regulorum gibbericeps|PKM": {
+  "status": "ok",
+  "acc": "XP_075621001.1",
+  "len": 550,
+  "file": "data/controls7b/Balearica_regulorum_gibbericeps__PKM.fa",
+  "sha256": "ab8a4507ad5b03fbf0212537fbe248de6e2f1edae9f5d1a867546cfe2ce7a797"
+ },
+ "Balearica regulorum gibbericeps|LDHA": {
+  "status": "miss"
+ },
+ "Balearica regulorum gibbericeps|RHO": {
+  "status": "ok",
+  "acc": "XP_075618653.1",
+  "len": 351,
+  "file": "data/controls7b/Balearica_regulorum_gibbericeps__RHO.fa",
+  "sha256": "1704fcb1115e7a04d3fbdc4dffad7c5d22cdbea67ee52f38f80ee4d7eeea407d"
+ },
+ "Balearica regulorum gibbericeps|OPN4": {
+  "status": "ok",
+  "acc": "XP_075614877.1",
+  "len": 558,
+  "file": "data/controls7b/Balearica_regulorum_gibbericeps__OPN4.fa",
+  "sha256": "327c60388d540edf869a044c36829bdf0acf64a42524d77a4690a2c8da34d1b2"
+ },
+ "Balearica regulorum gibbericeps|GAPDH": {
+  "status": "ok",
+  "acc": "XP_075620136.1",
+  "len": 333,
+  "file": "data/controls7b/Balearica_regulorum_gibbericeps__GAPDH.fa",
+  "sha256": "8dee454048fde3698e10c128845fe87969d62c0f9b56244e34f4f530affff5a6"
+ },
+ "Branta canadensis|PKM": {
+  "status": "ok",
+  "acc": "XP_081883909.1",
+  "len": 530,
+  "file": "data/controls7b/Branta_canadensis__PKM.fa",
+  "sha256": "c5647daa5d6fbc8000f2934cccf9fe807a360d4eca34e260040ef30e20717cb9"
+ },
+ "Branta canadensis|LDHA": {
+  "status": "ok",
+  "acc": "XP_081878437.1",
+  "len": 332,
+  "file": "data/controls7b/Branta_canadensis__LDHA.fa",
+  "sha256": "1909cb8828e29153a3e5e3321ddefe91c55777cf7a720105b5c510d25fd4e665"
+ },
+ "Branta canadensis|RHO": {
+  "status": "ok",
+  "acc": "XP_081886161.1",
+  "len": 351,
+  "file": "data/controls7b/Branta_canadensis__RHO.fa",
+  "sha256": "8027db9312390b9ff30ba26ee7cdb8628d6568363a927e15b7f958386d69d89c"
+ },
+ "Branta canadensis|OPN4": {
+  "status": "ok",
+  "acc": "XP_081881565.1",
+  "len": 567,
+  "file": "data/controls7b/Branta_canadensis__OPN4.fa",
+  "sha256": "b6fd62539af55eab08e6bdd0ba16a13f8edfebec7e6798bedcbc0de2b033e19f"
+ },
+ "Branta canadensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_081895954.1",
+  "len": 333,
+  "file": "data/controls7b/Branta_canadensis__GAPDH.fa",
+  "sha256": "eadc00dea34b128e52d694adefd2d239408f131a608287c5028a94b8cf6e7be0"
+ },
+ "Bucephala clangula|PKM": {
+  "status": "ok",
+  "acc": "XP_080812878.1",
+  "len": 530,
+  "file": "data/controls7b/Bucephala_clangula__PKM.fa",
+  "sha256": "ffad3144d2438095547869f51f482bdce269caef9d2ce3d265ec6e46e8d7152b"
+ },
+ "Bucephala clangula|LDHA": {
+  "status": "miss"
+ },
+ "Bucephala clangula|RHO": {
+  "status": "ok",
+  "acc": "XP_080811797.1",
+  "len": 351,
+  "file": "data/controls7b/Bucephala_clangula__RHO.fa",
+  "sha256": "2fc7ddfaa0f330b75f1e0e9939f24d7f0cb49d487e3422af133b08e1ab8c36dc"
+ },
+ "Bucephala clangula|OPN4": {
+  "status": "ok",
+  "acc": "XP_080808964.1",
+  "len": 567,
+  "file": "data/controls7b/Bucephala_clangula__OPN4.fa",
+  "sha256": "7faf6bf822b89a930fb9222a5fcc7a285878e376c9d3fc0642646a7222a22647"
+ },
+ "Bucephala clangula|GAPDH": {
+  "status": "ok",
+  "acc": "XP_080811223.1",
+  "len": 333,
+  "file": "data/controls7b/Bucephala_clangula__GAPDH.fa",
+  "sha256": "405984632a371a30b679f7aac4e8867a90e51635abea4a962594f2bffb854900"
+ },
+ "Buceros rhinoceros silvestris|PKM": {
+  "status": "miss"
+ },
+ "Buceros rhinoceros silvestris|LDHA": {
+  "status": "miss"
+ },
+ "Buceros rhinoceros silvestris|RHO": {
+  "status": "ok",
+  "acc": "XP_010143488.1",
+  "len": 355,
+  "file": "data/controls7b/Buceros_rhinoceros_silvestris__RHO.fa",
+  "sha256": "87823830632e9a24c38a42393623781d8180b2a50734643f27f0d610cae2964f"
+ },
+ "Buceros rhinoceros silvestris|OPN4": {
+  "status": "miss"
+ },
+ "Buceros rhinoceros silvestris|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010129990.1",
+  "len": 293,
+  "file": "data/controls7b/Buceros_rhinoceros_silvestris__GAPDH.fa",
+  "sha256": "5ada9b23641a0592dcb0469147d1a41ef7aed894ddcfe91ea842945fab6065be"
+ },
+ "Buteo buteo|PKM": {
+  "status": "ok",
+  "acc": "XP_074901828.1",
+  "len": 530,
+  "file": "data/controls7b/Buteo_buteo__PKM.fa",
+  "sha256": "fde1e706a5f090a9beb63b2ef4304ce161b3e63440ba069614dfab2778eb2f92"
+ },
+ "Buteo buteo|LDHA": {
+  "status": "miss"
+ },
+ "Buteo buteo|RHO": {
+  "status": "ok",
+  "acc": "XP_074909660.1",
+  "len": 351,
+  "file": "data/controls7b/Buteo_buteo__RHO.fa",
+  "sha256": "4b1e5b25fa79514f5e1bee048ead6d11e7915d82f858d8fa98cfa3ad8adeb958"
+ },
+ "Buteo buteo|OPN4": {
+  "status": "ok",
+  "acc": "XP_074881663.1",
+  "len": 454,
+  "file": "data/controls7b/Buteo_buteo__OPN4.fa",
+  "sha256": "4f629780ac5429ae13176ccc814ad2536e7274568d4ea3bf800975ccdc5b30f6"
+ },
+ "Buteo buteo|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074890606.1",
+  "len": 333,
+  "file": "data/controls7b/Buteo_buteo__GAPDH.fa",
+  "sha256": "542de59b2974de58f90b0a491115761626b1e40120770e0d7f47a53e5ce79c2f"
+ },
+ "Calidris pugnax|PKM": {
+  "status": "ok",
+  "acc": "XP_014815280.1",
+  "len": 550,
+  "file": "data/controls7b/Calidris_pugnax__PKM.fa",
+  "sha256": "c2bace38468b2ffe10068137f82c678eb042246c3cba11773dc56403c5838651"
+ },
+ "Calidris pugnax|LDHA": {
+  "status": "miss"
+ },
+ "Calidris pugnax|RHO": {
+  "status": "ok",
+  "acc": "XP_014802142.1",
+  "len": 351,
+  "file": "data/controls7b/Calidris_pugnax__RHO.fa",
+  "sha256": "224d9b17d4a9f0fd3d508ea9d89366bbe7f4f1bcd56e0a37296c122bd047bd3f"
+ },
+ "Calidris pugnax|OPN4": {
+  "status": "ok",
+  "acc": "XP_014795865.1",
+  "len": 514,
+  "file": "data/controls7b/Calidris_pugnax__OPN4.fa",
+  "sha256": "bd70897f0963bb3a30f89b11325875c12bf69893be58087696a3faadcabef7d5"
+ },
+ "Calidris pugnax|GAPDH": {
+  "status": "ok",
+  "acc": "XP_014812570.1",
+  "len": 374,
+  "file": "data/controls7b/Calidris_pugnax__GAPDH.fa",
+  "sha256": "7b8d2b6032ff4d3b3936a14f4131a8cb185ecbc1225a85a06f92ab6c6521468b"
+ },
+ "Caloenas nicobarica|PKM": {
+  "status": "ok",
+  "acc": "XP_065497503.1",
+  "len": 530,
+  "file": "data/controls7b/Caloenas_nicobarica__PKM.fa",
+  "sha256": "d58ea8d689a62f39864eb6e9870caebc84fcbaa02331ed86aaec797dbaddabe0"
+ },
+ "Caloenas nicobarica|LDHA": {
+  "status": "miss"
+ },
+ "Caloenas nicobarica|RHO": {
+  "status": "ok",
+  "acc": "XP_065498359.1",
+  "len": 351,
+  "file": "data/controls7b/Caloenas_nicobarica__RHO.fa",
+  "sha256": "f2e9a283b6268516500fa6383db7890556031116b3cc4f8640e5d34c6940eda8"
+ },
+ "Caloenas nicobarica|OPN4": {
+  "status": "ok",
+  "acc": "XP_065494947.1",
+  "len": 507,
+  "file": "data/controls7b/Caloenas_nicobarica__OPN4.fa",
+  "sha256": "767bf82e626563b9b64cd1c2b5c17e4aa56d5be9a42ec167f1d8351b2e5c882c"
+ },
+ "Caloenas nicobarica|GAPDH": {
+  "status": "ok",
+  "acc": "XP_065483155.1",
+  "len": 333,
+  "file": "data/controls7b/Caloenas_nicobarica__GAPDH.fa",
+  "sha256": "5b5214aa9fe53e453343bba2ff0e835d256f0a541b6784b56370eabdd837da7b"
+ },
+ "Calonectris borealis|PKM": {
+  "status": "ok",
+  "acc": "XP_075016689.1",
+  "len": 550,
+  "file": "data/controls7b/Calonectris_borealis__PKM.fa",
+  "sha256": "11fd40907e07cf64d1e2ffc472025f3d4f680fbe757e675596835fde7e89affb"
+ },
+ "Calonectris borealis|LDHA": {
+  "status": "miss"
+ },
+ "Calonectris borealis|RHO": {
+  "status": "ok",
+  "acc": "XP_075014538.1",
+  "len": 351,
+  "file": "data/controls7b/Calonectris_borealis__RHO.fa",
+  "sha256": "2a301874c79d8578cf4535023b8a7a58851fe3917a8de6bfd62a3da2ae368779"
+ },
+ "Calonectris borealis|OPN4": {
+  "status": "ok",
+  "acc": "XP_075010408.1",
+  "len": 518,
+  "file": "data/controls7b/Calonectris_borealis__OPN4.fa",
+  "sha256": "ad249415033cebd7f7400c8f538fd0f159c1e50c27e06551f925971226df9edd"
+ },
+ "Calonectris borealis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_075021492.1",
+  "len": 334,
+  "file": "data/controls7b/Calonectris_borealis__GAPDH.fa",
+  "sha256": "976f3820f12a290d994de251802c3509b9153bea771704af439e590c40a5c1da"
+ },
+ "Calypte anna|PKM": {
+  "status": "ok",
+  "acc": "XP_030313247.1",
+  "len": 550,
+  "file": "data/controls7b/Calypte_anna__PKM.fa",
+  "sha256": "0a60ae394474ab35ffcd1b349bb8ab535ce533d57824c81cbbf23f8e1cf191c8"
+ },
+ "Calypte anna|LDHA": {
+  "status": "miss"
+ },
+ "Calypte anna|RHO": {
+  "status": "ok",
+  "acc": "XP_008499587.1",
+  "len": 351,
+  "file": "data/controls7b/Calypte_anna__RHO.fa",
+  "sha256": "3bfeef830a33a1163c7ca7c55cf57b94620e83eddb0e310f27c5d074856bbc87"
+ },
+ "Calypte anna|OPN4": {
+  "status": "ok",
+  "acc": "XP_030309036.1",
+  "len": 662,
+  "file": "data/controls7b/Calypte_anna__OPN4.fa",
+  "sha256": "755acc0fbce2957758ef334644b4b743a331f0e3c3eac292b39ee2340a4a3186"
+ },
+ "Calypte anna|GAPDH": {
+  "status": "ok",
+  "acc": "XP_030302995.1",
+  "len": 299,
+  "file": "data/controls7b/Calypte_anna__GAPDH.fa",
+  "sha256": "c50ef6af7d6dd140b9786ec254b6135b143d5a930a8e2afa0545173722430cf0"
+ },
+ "Camarhynchus parvulus|PKM": {
+  "status": "ok",
+  "acc": "XP_030810836.1",
+  "len": 548,
+  "file": "data/controls7b/Camarhynchus_parvulus__PKM.fa",
+  "sha256": "774d19681f32af53b9cd2cdad35a715a7421a4c7b3632006b077168a53455138"
+ },
+ "Camarhynchus parvulus|LDHA": {
+  "status": "miss"
+ },
+ "Camarhynchus parvulus|RHO": {
+  "status": "ok",
+  "acc": "XP_030812390.1",
+  "len": 351,
+  "file": "data/controls7b/Camarhynchus_parvulus__RHO.fa",
+  "sha256": "63ca9bee3fd4b7f8b3123f5fc1707ca78f6aaa7174afdbcd55a6d9a774a8e65e"
+ },
+ "Camarhynchus parvulus|OPN4": {
+  "status": "ok",
+  "acc": "XP_030807182.1",
+  "len": 525,
+  "file": "data/controls7b/Camarhynchus_parvulus__OPN4.fa",
+  "sha256": "498406677edf4cb437d8786ffe6c17a83aef21f0826ac7e905b7f8bf92d22c53"
+ },
+ "Camarhynchus parvulus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_030818428.1",
+  "len": 333,
+  "file": "data/controls7b/Camarhynchus_parvulus__GAPDH.fa",
+  "sha256": "3513960ceb92dbba98c421090229a27deace61eb5c663522d78008498d0c4132"
+ },
+ "Caprimulgus europaeus|PKM": {
+  "status": "ok",
+  "acc": "XP_079048462.1",
+  "len": 557,
+  "file": "data/controls7b/Caprimulgus_europaeus__PKM.fa",
+  "sha256": "acf7910806dfb2b96baa089982899ad38041a4a19e8011afe193c2ef77ae9750"
+ },
+ "Caprimulgus europaeus|LDHA": {
+  "status": "miss"
+ },
+ "Caprimulgus europaeus|RHO": {
+  "status": "ok",
+  "acc": "XP_079056659.1",
+  "len": 351,
+  "file": "data/controls7b/Caprimulgus_europaeus__RHO.fa",
+  "sha256": "977837ce7abd1817bb713314d873e50b1fd1ba4f2cf6a35a4fb017370cd06233"
+ },
+ "Caprimulgus europaeus|OPN4": {
+  "status": "ok",
+  "acc": "XP_079049408.1",
+  "len": 548,
+  "file": "data/controls7b/Caprimulgus_europaeus__OPN4.fa",
+  "sha256": "f317ceb784123af74a4ea23f2a348966a52b6eecd1b2d014390b7141776a3b5e"
+ },
+ "Caprimulgus europaeus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_079060155.1",
+  "len": 333,
+  "file": "data/controls7b/Caprimulgus_europaeus__GAPDH.fa",
+  "sha256": "6b3de39586e8ccd2310cf9bd7af51cd39383d85f20b929aacf73fe45a512e9ee"
+ },
+ "Cariama cristata|PKM": {
+  "status": "ok",
+  "acc": "XP_009693187.1",
+  "len": 550,
+  "file": "data/controls7b/Cariama_cristata__PKM.fa",
+  "sha256": "ae948b74ac64882a36f1a23485c76c1f4e0f418d54dfbbffb43cfb6f5c8ced5b"
+ },
+ "Cariama cristata|LDHA": {
+  "status": "miss"
+ },
+ "Cariama cristata|RHO": {
+  "status": "miss"
+ },
+ "Cariama cristata|OPN4": {
+  "status": "miss"
+ },
+ "Cariama cristata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009707907.1",
+  "len": 328,
+  "file": "data/controls7b/Cariama_cristata__GAPDH.fa",
+  "sha256": "9169c031ada59557c34d3960fdc1ca5a5d5dadbfb6d2b2074c08fec355631aa3"
+ },
+ "Catharus ustulatus|PKM": {
+  "status": "ok",
+  "acc": "XP_032926337.1",
+  "len": 550,
+  "file": "data/controls7b/Catharus_ustulatus__PKM.fa",
+  "sha256": "e48710ff8f271e7076da20c44a1fe0afed9957327eec2e20d90daf76b798dd2e"
+ },
+ "Catharus ustulatus|LDHA": {
+  "status": "miss"
+ },
+ "Catharus ustulatus|RHO": {
+  "status": "ok",
+  "acc": "XP_032927489.1",
+  "len": 351,
+  "file": "data/controls7b/Catharus_ustulatus__RHO.fa",
+  "sha256": "424f2e2239fbedd6508bc3f1dfab3530aacc50bbf6d2879ec866b33d6b01ccdd"
+ },
+ "Catharus ustulatus|OPN4": {
+  "status": "ok",
+  "acc": "XP_042635415.1",
+  "len": 530,
+  "file": "data/controls7b/Catharus_ustulatus__OPN4.fa",
+  "sha256": "446b37a0765d8326816099514043574b3e6cfc0914ee7505be497a7197e7dacd"
+ },
+ "Catharus ustulatus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_032909008.1",
+  "len": 530,
+  "file": "data/controls7b/Catharus_ustulatus__GAPDH.fa",
+  "sha256": "8daecceaf27852f3917f2d755d1cbe6d8a6693a37ed4eef7585ea3f13cd66148"
+ },
+ "Centrocercus urophasianus|PKM": {
+  "status": "ok",
+  "acc": "XP_042680508.1",
+  "len": 530,
+  "file": "data/controls7b/Centrocercus_urophasianus__PKM.fa",
+  "sha256": "dfa4500e2950ea5f2a7a6c1f853bf4464aa6ddd34b5d24eb03007f44a58b0892"
+ },
+ "Centrocercus urophasianus|LDHA": {
+  "status": "miss"
+ },
+ "Centrocercus urophasianus|RHO": {
+  "status": "ok",
+  "acc": "XP_042679404.1",
+  "len": 351,
+  "file": "data/controls7b/Centrocercus_urophasianus__RHO.fa",
+  "sha256": "010f3554c3b706ef0dd69594a539a09ac0ea469d86052ddf80af38bf63a42afd"
+ },
+ "Centrocercus urophasianus|OPN4": {
+  "status": "ok",
+  "acc": "XP_042674646.1",
+  "len": 530,
+  "file": "data/controls7b/Centrocercus_urophasianus__OPN4.fa",
+  "sha256": "c4d5d09da8ceb38a929e73414562b3111acfdcfec27c5cbcf648efe538b042c7"
+ },
+ "Centrocercus urophasianus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_042665911.1",
+  "len": 333,
+  "file": "data/controls7b/Centrocercus_urophasianus__GAPDH.fa",
+  "sha256": "101f9167ae4f4894f45d3b0f8dfd38bb99b79ff72463354a681f9ef6863a9df1"
+ },
+ "Chaetura pelagica|PKM": {
+  "status": "ok",
+  "acc": "XP_010004206.1",
+  "len": 550,
+  "file": "data/controls7b/Chaetura_pelagica__PKM.fa",
+  "sha256": "412ed289dd393141fb65f30279c983617527c165312adc3db7c00831338f131c"
+ },
+ "Chaetura pelagica|LDHA": {
+  "status": "miss"
+ },
+ "Chaetura pelagica|RHO": {
+  "status": "miss"
+ },
+ "Chaetura pelagica|OPN4": {
+  "status": "ok",
+  "acc": "XP_009999448.1",
+  "len": 524,
+  "file": "data/controls7b/Chaetura_pelagica__OPN4.fa",
+  "sha256": "b18bdb00484a641748c4b6656b5a60ff5b9acb4e198533728196e4752ccead4b"
+ },
+ "Chaetura pelagica|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009996926.1",
+  "len": 290,
+  "file": "data/controls7b/Chaetura_pelagica__GAPDH.fa",
+  "sha256": "b0a4eb6b45fbb3ebe76315735a08ad3fb58e19ecbbf4d7c858e72122f724bb8a"
+ },
+ "Chamaea fasciata|PKM": {
+  "status": "ok",
+  "acc": "XP_066052087.1",
+  "len": 530,
+  "file": "data/controls7b/Chamaea_fasciata__PKM.fa",
+  "sha256": "78b61f3ca1fbc4a0cefecee1b21faff2516db201bef9697ca0fa4237f476ebc4"
+ },
+ "Chamaea fasciata|LDHA": {
+  "status": "ok",
+  "acc": "XP_066043755.1",
+  "len": 331,
+  "file": "data/controls7b/Chamaea_fasciata__LDHA.fa",
+  "sha256": "e062cba5a1f03f8daf6366c80b8b0e229b265588267173f20c655e5ab649b4d5"
+ },
+ "Chamaea fasciata|RHO": {
+  "status": "ok",
+  "acc": "XP_066051199.1",
+  "len": 351,
+  "file": "data/controls7b/Chamaea_fasciata__RHO.fa",
+  "sha256": "f788423f19e0a3a9d218f5d6d271fcefe72a1fa3e602ce6469bc6bd9ec172238"
+ },
+ "Chamaea fasciata|OPN4": {
+  "status": "ok",
+  "acc": "XP_066047707.1",
+  "len": 576,
+  "file": "data/controls7b/Chamaea_fasciata__OPN4.fa",
+  "sha256": "38bd3583ff96b9896b2bcf40915c9ba85ab879f2b7330a2dadb3b01efe9c41c6"
+ },
+ "Chamaea fasciata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_066031584.1",
+  "len": 333,
+  "file": "data/controls7b/Chamaea_fasciata__GAPDH.fa",
+  "sha256": "2c3d2f1dc86df3b751baa00c5da61f403e4b63d45ac8bf75aff3401c9f34ccbb"
+ },
+ "Charadrius vociferus|PKM": {
+  "status": "ok",
+  "acc": "XP_009893854.1",
+  "len": 550,
+  "file": "data/controls7b/Charadrius_vociferus__PKM.fa",
+  "sha256": "14cd41501437b99dd079a6fe16f208230e372bd97b791c43375661700527dc72"
+ },
+ "Charadrius vociferus|LDHA": {
+  "status": "miss"
+ },
+ "Charadrius vociferus|RHO": {
+  "status": "ok",
+  "acc": "XP_009881194.1",
+  "len": 324,
+  "file": "data/controls7b/Charadrius_vociferus__RHO.fa",
+  "sha256": "9dd6bdc68d30b681309c0442a1be43888e80e141f9c2e25eaa22fc792ad21a3e"
+ },
+ "Charadrius vociferus|OPN4": {
+  "status": "ok",
+  "acc": "XP_009891331.1",
+  "len": 528,
+  "file": "data/controls7b/Charadrius_vociferus__OPN4.fa",
+  "sha256": "db52d6c1b58f3e6c678db610073f4276b595052b6d06edede20e37a74452759c"
+ },
+ "Charadrius vociferus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009890856.1",
+  "len": 293,
+  "file": "data/controls7b/Charadrius_vociferus__GAPDH.fa",
+  "sha256": "6a9639190f0c8250da67312a83e56b812f0d5ea6ad09d1b10806999c007e451d"
+ },
+ "Chiroxiphia lanceolata|PKM": {
+  "status": "ok",
+  "acc": "XP_032555923.1",
+  "len": 550,
+  "file": "data/controls7b/Chiroxiphia_lanceolata__PKM.fa",
+  "sha256": "3d3f12479448b285a93ce7e64891fd6664df7c4e404ca396af26cd1b9c53caa6"
+ },
+ "Chiroxiphia lanceolata|LDHA": {
+  "status": "miss"
+ },
+ "Chiroxiphia lanceolata|RHO": {
+  "status": "ok",
+  "acc": "XP_032554812.1",
+  "len": 351,
+  "file": "data/controls7b/Chiroxiphia_lanceolata__RHO.fa",
+  "sha256": "357de5a102e562eb6736ab9b01546994ff17c87c4c2609da5b1f77a070016be0"
+ },
+ "Chiroxiphia lanceolata|OPN4": {
+  "status": "ok",
+  "acc": "XP_032550070.1",
+  "len": 524,
+  "file": "data/controls7b/Chiroxiphia_lanceolata__OPN4.fa",
+  "sha256": "35754922fa845909890e4085ea95bd5fa0d52c13efd1962559960b820994e8aa"
+ },
+ "Chiroxiphia lanceolata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_032536567.1",
+  "len": 333,
+  "file": "data/controls7b/Chiroxiphia_lanceolata__GAPDH.fa",
+  "sha256": "7ba55ae8258a6d79413502006d2215ff95245b2253fe51c70f919106f9b3f201"
+ },
+ "Chlamydotis macqueenii|PKM": {
+  "status": "ok",
+  "acc": "XP_010127050.1",
+  "len": 550,
+  "file": "data/controls7b/Chlamydotis_macqueenii__PKM.fa",
+  "sha256": "50f9d1b251e0775682d83cdbd4cb743ebd951028ead317022e214eb7a0f1c9f9"
+ },
+ "Chlamydotis macqueenii|LDHA": {
+  "status": "miss"
+ },
+ "Chlamydotis macqueenii|RHO": {
+  "status": "ok",
+  "acc": "XP_086611714.1",
+  "len": 351,
+  "file": "data/controls7b/Chlamydotis_macqueenii__RHO.fa",
+  "sha256": "020678f4bcc058ed7abde8b7488a51c9689123df774ea96b6b9310a91be57ebe"
+ },
+ "Chlamydotis macqueenii|OPN4": {
+  "status": "ok",
+  "acc": "XP_010115286.2",
+  "len": 528,
+  "file": "data/controls7b/Chlamydotis_macqueenii__OPN4.fa",
+  "sha256": "f888ebba22f2c8bbcc79d649d6584e28fb3e11efafbe89be76f16496a4e7f9f3"
+ },
+ "Chlamydotis macqueenii|GAPDH": {
+  "status": "ok",
+  "acc": "XP_086616386.1",
+  "len": 333,
+  "file": "data/controls7b/Chlamydotis_macqueenii__GAPDH.fa",
+  "sha256": "4e81109a2a180bf3115eefc0970c3e414db26292574efca2c626b0188e979bd6"
+ },
+ "Chroicocephalus ridibundus|PKM": {
+  "status": "ok",
+  "acc": "XP_063201546.1",
+  "len": 530,
+  "file": "data/controls7b/Chroicocephalus_ridibundus__PKM.fa",
+  "sha256": "706f7f9c08873a540ed7d8bf5f9254da6ea1db06845bd4b84f2813b9f8cb3f7a"
+ },
+ "Chroicocephalus ridibundus|LDHA": {
+  "status": "ok",
+  "acc": "XP_063187377.1",
+  "len": 332,
+  "file": "data/controls7b/Chroicocephalus_ridibundus__LDHA.fa",
+  "sha256": "823d16703723281a8df78f4ff6b95911ebe1de534847d42a3c4c9f49f6903dc9"
+ },
+ "Chroicocephalus ridibundus|RHO": {
+  "status": "ok",
+  "acc": "XP_063203889.1",
+  "len": 351,
+  "file": "data/controls7b/Chroicocephalus_ridibundus__RHO.fa",
+  "sha256": "e490342f0e53ccac7792cd15b927e2f0572b166983d0cd5938ff7d8a04bb0f07"
+ },
+ "Chroicocephalus ridibundus|OPN4": {
+  "status": "ok",
+  "acc": "XP_063195230.1",
+  "len": 515,
+  "file": "data/controls7b/Chroicocephalus_ridibundus__OPN4.fa",
+  "sha256": "3b89d1890b61bafed0973960385c0a72d0f0aa591dfe2d9cfa494c41132aa27d"
+ },
+ "Chroicocephalus ridibundus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_063209489.1",
+  "len": 333,
+  "file": "data/controls7b/Chroicocephalus_ridibundus__GAPDH.fa",
+  "sha256": "b69e2fe599b3cd2a1b47bf32715789fafac099d0379c9aa23455befda188410b"
+ },
+ "Ciconia boyciana|PKM": {
+  "status": "ok",
+  "acc": "XP_072725703.1",
+  "len": 530,
+  "file": "data/controls7b/Ciconia_boyciana__PKM.fa",
+  "sha256": "e84f14c0f9db311de6fb073a7e29849e773f7c0aa4131a7f2e5f47e5678d88a0"
+ },
+ "Ciconia boyciana|LDHA": {
+  "status": "miss"
+ },
+ "Ciconia boyciana|RHO": {
+  "status": "ok",
+  "acc": "XP_072731900.1",
+  "len": 351,
+  "file": "data/controls7b/Ciconia_boyciana__RHO.fa",
+  "sha256": "15751b648cd6845e6ff21b10043dd59fdaa8410f8f090aa73684811f97812266"
+ },
+ "Ciconia boyciana|OPN4": {
+  "status": "ok",
+  "acc": "XP_072726680.1",
+  "len": 528,
+  "file": "data/controls7b/Ciconia_boyciana__OPN4.fa",
+  "sha256": "6231e383e8a23caae495387648a8624c9b018e95148b5c1fdfb3964afcd4c282"
+ },
+ "Ciconia boyciana|GAPDH": {
+  "status": "ok",
+  "acc": "XP_072736447.1",
+  "len": 333,
+  "file": "data/controls7b/Ciconia_boyciana__GAPDH.fa",
+  "sha256": "1d4f8818f98cb6c465d7192c6a40790f1f80c5a1dcd0b8efccf80c2e5139925b"
+ },
+ "Cinclus cinclus|PKM": {
+  "status": "ok",
+  "acc": "XP_062357080.1",
+  "len": 530,
+  "file": "data/controls7b/Cinclus_cinclus__PKM.fa",
+  "sha256": "0851f2ae843a1d06c33a011099866b8fa3088a81bb961d2c10cf0f656dfac3c6"
+ },
+ "Cinclus cinclus|LDHA": {
+  "status": "miss"
+ },
+ "Cinclus cinclus|RHO": {
+  "status": "ok",
+  "acc": "XP_062357031.1",
+  "len": 351,
+  "file": "data/controls7b/Cinclus_cinclus__RHO.fa",
+  "sha256": "73e2fb31386ed87cf039786c30c804f2e5cfca3d0fbc25ac94d862224b716fe8"
+ },
+ "Cinclus cinclus|OPN4": {
+  "status": "ok",
+  "acc": "XP_062352463.1",
+  "len": 524,
+  "file": "data/controls7b/Cinclus_cinclus__OPN4.fa",
+  "sha256": "d9dbc9b418930fe54e80430d512d57a501dc5005248065405e0c87df379307b8"
+ },
+ "Cinclus cinclus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_062369286.1",
+  "len": 311,
+  "file": "data/controls7b/Cinclus_cinclus__GAPDH.fa",
+  "sha256": "c0d20e4cf8b0a4133c84aeca7991df2e5c1b67bade7c77716bd5f4066f580896"
+ },
+ "Clangula hyemalis|PKM": {
+  "status": "ok",
+  "acc": "XP_083810333.1",
+  "len": 530,
+  "file": "data/controls7b/Clangula_hyemalis__PKM.fa",
+  "sha256": "0e3ba0d68abb5c22c858abeca16138adede73033e0eb6894d37113257757c900"
+ },
+ "Clangula hyemalis|LDHA": {
+  "status": "ok",
+  "acc": "XP_083803619.1",
+  "len": 332,
+  "file": "data/controls7b/Clangula_hyemalis__LDHA.fa",
+  "sha256": "857ef1367b6bbf8ee93c8a5eb1ef44d0e44b22ee3bb7082399e7afbe899b71f9"
+ },
+ "Clangula hyemalis|RHO": {
+  "status": "ok",
+  "acc": "XP_083811006.1",
+  "len": 351,
+  "file": "data/controls7b/Clangula_hyemalis__RHO.fa",
+  "sha256": "9603c4eff874e447a341aa7e82b45c0b7af646b72b974a8cb5e7536591fb0b6e"
+ },
+ "Clangula hyemalis|OPN4": {
+  "status": "ok",
+  "acc": "XP_083807238.1",
+  "len": 567,
+  "file": "data/controls7b/Clangula_hyemalis__OPN4.fa",
+  "sha256": "a2dc87fadc523fd9a1941380e4368e8a03faf98c8a3b94746cf6ad1168162ed6"
+ },
+ "Clangula hyemalis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_083798064.1",
+  "len": 333,
+  "file": "data/controls7b/Clangula_hyemalis__GAPDH.fa",
+  "sha256": "23827e52ba46e3a6c480605c804d5cc725b400dd7788ac9930aa0da7ceccf2d1"
+ },
+ "Colius striatus|PKM": {
+  "status": "ok",
+  "acc": "XP_010204520.1",
+  "len": 550,
+  "file": "data/controls7b/Colius_striatus__PKM.fa",
+  "sha256": "c233fcfe8a24ea9339b59733fb70c878949d443f24c628f1a23b81071e85efdd"
+ },
+ "Colius striatus|LDHA": {
+  "status": "ok",
+  "acc": "XP_061856218.1",
+  "len": 332,
+  "file": "data/controls7b/Colius_striatus__LDHA.fa",
+  "sha256": "21c44e5f312253d71374dd7a27e40a49a30356c2f6db7fcc5e4ec6662d2de432"
+ },
+ "Colius striatus|RHO": {
+  "status": "ok",
+  "acc": "XP_061864085.1",
+  "len": 351,
+  "file": "data/controls7b/Colius_striatus__RHO.fa",
+  "sha256": "d16f308aa5ca1a3cf3bf9dc103d7f9d20c2363cb6cd1420f92a04ecd84d0bceb"
+ },
+ "Colius striatus|OPN4": {
+  "status": "ok",
+  "acc": "XP_010207069.2",
+  "len": 531,
+  "file": "data/controls7b/Colius_striatus__OPN4.fa",
+  "sha256": "12a17400eb79ff7428bb3bd050cf2de5717873cbc1cfdcf62ec5c1c961cf0d63"
+ },
+ "Colius striatus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_061844746.1",
+  "len": 333,
+  "file": "data/controls7b/Colius_striatus__GAPDH.fa",
+  "sha256": "90726c05cfb38f9ff62e220df14d42fdf4ac9b048b4ee15d307568a4dc12a0a0"
+ },
+ "Coloeus monedula|PKM": {
+  "status": "ok",
+  "acc": "XP_082146818.1",
+  "len": 530,
+  "file": "data/controls7b/Coloeus_monedula__PKM.fa",
+  "sha256": "18b3ae8d6ea50d010ca3c52a9f79db671a36c0cc72e65ae860db9ccd3d825d4a"
+ },
+ "Coloeus monedula|LDHA": {
+  "status": "miss"
+ },
+ "Coloeus monedula|RHO": {
+  "status": "ok",
+  "acc": "XP_082144617.1",
+  "len": 351,
+  "file": "data/controls7b/Coloeus_monedula__RHO.fa",
+  "sha256": "c41f4b5f6bcb7346be1aa2f0227bc3dfa03e5122abcce4f9b45ea97426615437"
+ },
+ "Coloeus monedula|OPN4": {
+  "status": "ok",
+  "acc": "XP_082141942.1",
+  "len": 617,
+  "file": "data/controls7b/Coloeus_monedula__OPN4.fa",
+  "sha256": "37d1aca82579624f075879995b0eb66c84c0e04ee8f902e39aa7ae12270a05a8"
+ },
+ "Coloeus monedula|GAPDH": {
+  "status": "ok",
+  "acc": "XP_082133830.1",
+  "len": 333,
+  "file": "data/controls7b/Coloeus_monedula__GAPDH.fa",
+  "sha256": "bab728c04c45bd421459176d15d44904d69418c163994048dbb8877b4f6bfb05"
+ },
+ "Columba livia|PKM": {
+  "status": "ok",
+  "acc": "XP_064932361.1",
+  "len": 550,
+  "file": "data/controls7b/Columba_livia__PKM.fa",
+  "sha256": "8d394e74a5d96e98a7d10dee8cc0603b9bc0e217428d7821614ade40951f47ec"
+ },
+ "Columba livia|LDHA": {
+  "status": "miss"
+ },
+ "Columba livia|RHO": {
+  "status": "ok",
+  "acc": "XP_064930866.1",
+  "len": 351,
+  "file": "data/controls7b/Columba_livia__RHO.fa",
+  "sha256": "ad358401298d086d1726392805fd7b8516b24d98cf66b906d44b48e1acf4bff0"
+ },
+ "Columba livia|OPN4": {
+  "status": "ok",
+  "acc": "XP_064923844.1",
+  "len": 522,
+  "file": "data/controls7b/Columba_livia__OPN4.fa",
+  "sha256": "131722d6203f28e008e92e0dff5c33bec77b41622683cee1c415b21741e7844e"
+ },
+ "Columba livia|GAPDH": {
+  "status": "ok",
+  "acc": "NP_001269764.1",
+  "len": 333,
+  "file": "data/controls7b/Columba_livia__GAPDH.fa",
+  "sha256": "c69abf5f5bef119667039bcfc4b735bf58a84714ccfd64651bed8fd6bfc5d669"
+ },
+ "Corapipo altera|PKM": {
+  "status": "ok",
+  "acc": "XP_027513580.1",
+  "len": 550,
+  "file": "data/controls7b/Corapipo_altera__PKM.fa",
+  "sha256": "ab103ef06cf08b9a8aee7bb55f67cdf90d34f43de5bfbfa730a421b33667e0c1"
+ },
+ "Corapipo altera|LDHA": {
+  "status": "miss"
+ },
+ "Corapipo altera|RHO": {
+  "status": "ok",
+  "acc": "XP_027496554.1",
+  "len": 351,
+  "file": "data/controls7b/Corapipo_altera__RHO.fa",
+  "sha256": "7ee6d59de0096ca6b217530c2aca12059adc760a2626a66da1aaff72072e2578"
+ },
+ "Corapipo altera|OPN4": {
+  "status": "ok",
+  "acc": "XP_027505148.1",
+  "len": 524,
+  "file": "data/controls7b/Corapipo_altera__OPN4.fa",
+  "sha256": "455ebe26761a30678b92c20f23877851954ddb03778a9bff16d7bfcc9d458fc3"
+ },
+ "Corapipo altera|GAPDH": {
+  "status": "ok",
+  "acc": "XP_027509325.1",
+  "len": 333,
+  "file": "data/controls7b/Corapipo_altera__GAPDH.fa",
+  "sha256": "14eb9c0adb8465280484c789285a1cbe610e16cb1cdde7190f3f860510cead68"
+ },
+ "Corvus brachyrhynchos|PKM": {
+  "status": "ok",
+  "acc": "XP_008629491.1",
+  "len": 550,
+  "file": "data/controls7b/Corvus_brachyrhynchos__PKM.fa",
+  "sha256": "ffa951ad1d9fdedf5678d1673fe9b12f440fa21196a4e834926e5fe10604268e"
+ },
+ "Corvus brachyrhynchos|LDHA": {
+  "status": "miss"
+ },
+ "Corvus brachyrhynchos|RHO": {
+  "status": "ok",
+  "acc": "XP_008632684.1",
+  "len": 351,
+  "file": "data/controls7b/Corvus_brachyrhynchos__RHO.fa",
+  "sha256": "7d7b2f7f5791b07f41d1d73f612cd02a50053ac4e9f4c35b1ae075870179386e"
+ },
+ "Corvus brachyrhynchos|OPN4": {
+  "status": "ok",
+  "acc": "XP_008641004.1",
+  "len": 525,
+  "file": "data/controls7b/Corvus_brachyrhynchos__OPN4.fa",
+  "sha256": "c202f2e144c62c73ca59e713402a46e5e93e2d308df471b77c32523130f9d9e1"
+ },
+ "Corvus brachyrhynchos|GAPDH": {
+  "status": "ok",
+  "acc": "XP_017587147.1",
+  "len": 472,
+  "file": "data/controls7b/Corvus_brachyrhynchos__GAPDH.fa",
+  "sha256": "7494fb1a0a5199c9e42a897b6c6298a5481a73ecdb9dcd8c2b57280acddd1ed1"
+ },
+ "Corvus cornix cornix|PKM": {
+  "status": "ok",
+  "acc": "XP_019149169.2",
+  "len": 550,
+  "file": "data/controls7b/Corvus_cornix_cornix__PKM.fa",
+  "sha256": "30c0fc8d624e1663efb7a7cfb7f3fea3bd4b878cb79d74a574c40e45662ebf38"
+ },
+ "Corvus cornix cornix|LDHA": {
+  "status": "miss"
+ },
+ "Corvus cornix cornix|RHO": {
+  "status": "ok",
+  "acc": "XP_010388593.1",
+  "len": 351,
+  "file": "data/controls7b/Corvus_cornix_cornix__RHO.fa",
+  "sha256": "85aec2c1cc4ac44a1ce84885b5219c3a386d43246e9e8d705f18f86c8ff2cf84"
+ },
+ "Corvus cornix cornix|OPN4": {
+  "status": "ok",
+  "acc": "XP_010399143.3",
+  "len": 525,
+  "file": "data/controls7b/Corvus_cornix_cornix__OPN4.fa",
+  "sha256": "139d8d4a7330aa7817368724e070fab84afff6ba39f0b98dcfbbaec667c7debe"
+ },
+ "Corvus cornix cornix|GAPDH": {
+  "status": "ok",
+  "acc": "XP_039415994.1",
+  "len": 333,
+  "file": "data/controls7b/Corvus_cornix_cornix__GAPDH.fa",
+  "sha256": "89ca726c90637e247434a7c8f3a26d1c84012b88f376b2efaa81d53a18b1d3ca"
+ },
+ "Corvus hawaiiensis|PKM": {
+  "status": "ok",
+  "acc": "XP_048173417.1",
+  "len": 550,
+  "file": "data/controls7b/Corvus_hawaiiensis__PKM.fa",
+  "sha256": "c84f944bd8b0374bc169e53b09218cda3c32dc662fc3dd61903eca4acc3e7677"
+ },
+ "Corvus hawaiiensis|LDHA": {
+  "status": "miss"
+ },
+ "Corvus hawaiiensis|RHO": {
+  "status": "ok",
+  "acc": "XP_048171214.1",
+  "len": 351,
+  "file": "data/controls7b/Corvus_hawaiiensis__RHO.fa",
+  "sha256": "4611b8a839a20882a42d68bf5ea4045fa613e2121a06e12c535d0ccee92e759f"
+ },
+ "Corvus hawaiiensis|OPN4": {
+  "status": "ok",
+  "acc": "XP_048167910.1",
+  "len": 525,
+  "file": "data/controls7b/Corvus_hawaiiensis__OPN4.fa",
+  "sha256": "4d1f73b7ae7b48f2bd74fc29690ec9082434e527dce3e65f259e85c793aed595"
+ },
+ "Corvus hawaiiensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_048150055.1",
+  "len": 333,
+  "file": "data/controls7b/Corvus_hawaiiensis__GAPDH.fa",
+  "sha256": "ce44a5b815518f1a2e114d5bd0e98ba141522aa810f27de020efcb6938de6973"
+ },
+ "Corvus kubaryi|PKM": {
+  "status": "ok",
+  "acc": "XP_041878660.1",
+  "len": 550,
+  "file": "data/controls7b/Corvus_kubaryi__PKM.fa",
+  "sha256": "97fa843e6c9b64b99b75c9af873ad0e78582cbf6a8a629035248ab3f586a00c5"
+ },
+ "Corvus kubaryi|LDHA": {
+  "status": "miss"
+ },
+ "Corvus kubaryi|RHO": {
+  "status": "ok",
+  "acc": "XP_041868935.1",
+  "len": 351,
+  "file": "data/controls7b/Corvus_kubaryi__RHO.fa",
+  "sha256": "0aa1bcfdad18d4c5587996c9979f727a7eeb60dcbb1928b2a947597af12566e3"
+ },
+ "Corvus kubaryi|OPN4": {
+  "status": "ok",
+  "acc": "XP_041889212.1",
+  "len": 525,
+  "file": "data/controls7b/Corvus_kubaryi__OPN4.fa",
+  "sha256": "4f5a10f21352f57d67661758057dd5a171681e3b29d77d1951cd54c80bf30a0b"
+ },
+ "Corvus kubaryi|GAPDH": {
+  "status": "ok",
+  "acc": "XP_041887175.1",
+  "len": 538,
+  "file": "data/controls7b/Corvus_kubaryi__GAPDH.fa",
+  "sha256": "a6f88e23e3faec97c8637f0e61591bb5b4f1bedda55fe1792eb9f74ecfc5efcf"
+ },
+ "Corvus moneduloides|PKM": {
+  "status": "ok",
+  "acc": "XP_031978483.1",
+  "len": 550,
+  "file": "data/controls7b/Corvus_moneduloides__PKM.fa",
+  "sha256": "308cd438fece58fc5142829cf8b27cbe4c89cc64119eec25df67ea25ce631f0d"
+ },
+ "Corvus moneduloides|LDHA": {
+  "status": "miss"
+ },
+ "Corvus moneduloides|RHO": {
+  "status": "ok",
+  "acc": "XP_031977086.1",
+  "len": 351,
+  "file": "data/controls7b/Corvus_moneduloides__RHO.fa",
+  "sha256": "4b83de8c3f814376d17d97bc34e1b3262235acc5f8207342fcf018aa28a900d2"
+ },
+ "Corvus moneduloides|OPN4": {
+  "status": "ok",
+  "acc": "XP_031973022.1",
+  "len": 525,
+  "file": "data/controls7b/Corvus_moneduloides__OPN4.fa",
+  "sha256": "96d23e5baa4bbbb62cebe1f1ad3ed2090efd425ade1f9e82d38ecd140a5975b9"
+ },
+ "Corvus moneduloides|GAPDH": {
+  "status": "ok",
+  "acc": "XP_031954605.1",
+  "len": 538,
+  "file": "data/controls7b/Corvus_moneduloides__GAPDH.fa",
+  "sha256": "93464a40facac4cb9992526594445deabc54b445e7df89461b4835b9a17ab114"
+ },
+ "Coturnix japonica|PKM": {
+  "status": "ok",
+  "acc": "XP_015727855.2",
+  "len": 611,
+  "file": "data/controls7b/Coturnix_japonica__PKM.fa",
+  "sha256": "45d4ee3767c574a0a5c2424e9cc7228d3dfd6813811ce1ae5b6e0b5e2d15f96c"
+ },
+ "Coturnix japonica|LDHA": {
+  "status": "miss"
+ },
+ "Coturnix japonica|RHO": {
+  "status": "ok",
+  "acc": "XP_015730331.1",
+  "len": 351,
+  "file": "data/controls7b/Coturnix_japonica__RHO.fa",
+  "sha256": "b1f9e30efacc220036789e3edfdaad1e4eb422f1ce0f771394bf01ce76ce8c68"
+ },
+ "Coturnix japonica|OPN4": {
+  "status": "ok",
+  "acc": "XP_085410045.1",
+  "len": 528,
+  "file": "data/controls7b/Coturnix_japonica__OPN4.fa",
+  "sha256": "3e056b4f08fc1cd9adc9bbd3a45e982c666815f7527052d356fc6fa2a63346ed"
+ },
+ "Coturnix japonica|GAPDH": {
+  "status": "ok",
+  "acc": "XP_015728898.1",
+  "len": 333,
+  "file": "data/controls7b/Coturnix_japonica__GAPDH.fa",
+  "sha256": "fa19f915c034005fc69c041bcb8902ceaebcc4e9e8b49d99c4c61962543768a8"
+ },
+ "Cuculus canorus|PKM": {
+  "status": "ok",
+  "acc": "XP_009565918.1",
+  "len": 550,
+  "file": "data/controls7b/Cuculus_canorus__PKM.fa",
+  "sha256": "cbef3dd24c3ba20f6162991ffc84c9e24a2fd0230d2d15be2afa7ab53ef42797"
+ },
+ "Cuculus canorus|LDHA": {
+  "status": "miss"
+ },
+ "Cuculus canorus|RHO": {
+  "status": "ok",
+  "acc": "XP_009564119.1",
+  "len": 351,
+  "file": "data/controls7b/Cuculus_canorus__RHO.fa",
+  "sha256": "87eed88cddf72dc0478027739e49d712480e31e4b96beb831bb56fd11dbb752b"
+ },
+ "Cuculus canorus|OPN4": {
+  "status": "ok",
+  "acc": "XP_053927312.1",
+  "len": 524,
+  "file": "data/controls7b/Cuculus_canorus__OPN4.fa",
+  "sha256": "c6488857fb5042330dd38927bd516684e3d9be14cc0b24f09f5c6a382ed9a6c7"
+ },
+ "Cuculus canorus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_053932065.1",
+  "len": 356,
+  "file": "data/controls7b/Cuculus_canorus__GAPDH.fa",
+  "sha256": "b2614d0090bc46eb6631f054a284ccf82413625b670682c9acf895513209f69a"
+ },
+ "Cyanistes caeruleus|PKM": {
+  "status": "ok",
+  "acc": "XP_086704620.1",
+  "len": 550,
+  "file": "data/controls7b/Cyanistes_caeruleus__PKM.fa",
+  "sha256": "ccb4e5a0078801358f45d92a9732d5538e3f906a78dc04f317389afa17ce951b"
+ },
+ "Cyanistes caeruleus|LDHA": {
+  "status": "miss"
+ },
+ "Cyanistes caeruleus|RHO": {
+  "status": "ok",
+  "acc": "XP_023790816.1",
+  "len": 351,
+  "file": "data/controls7b/Cyanistes_caeruleus__RHO.fa",
+  "sha256": "163daeee5a3037606834c690a29c909bd8e58fc5b76d08511fbc49a0ae226261"
+ },
+ "Cyanistes caeruleus|OPN4": {
+  "status": "ok",
+  "acc": "XP_086757034.1",
+  "len": 525,
+  "file": "data/controls7b/Cyanistes_caeruleus__OPN4.fa",
+  "sha256": "6c496a7362fd0d6079adbcd1f57a9fbd0837f262b43603e1b3d7eec4f1d98bb6"
+ },
+ "Cyanistes caeruleus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_086738916.1",
+  "len": 532,
+  "file": "data/controls7b/Cyanistes_caeruleus__GAPDH.fa",
+  "sha256": "bb951da2aedff92955a07c7c11055e319d2d537218f64c2d7ceda03b500bbff9"
+ },
+ "Cygnus atratus|PKM": {
+  "status": "ok",
+  "acc": "XP_035422560.1",
+  "len": 565,
+  "file": "data/controls7b/Cygnus_atratus__PKM.fa",
+  "sha256": "abd3ed4660c30af048b7a316d9bec151b290b886020a4606ee3920b68438c38d"
+ },
+ "Cygnus atratus|LDHA": {
+  "status": "ok",
+  "acc": "XP_035395267.1",
+  "len": 332,
+  "file": "data/controls7b/Cygnus_atratus__LDHA.fa",
+  "sha256": "1850c23b235af1edf86a60fde8e434dfe893265a69032e5e0a38c2bc0b86cf46"
+ },
+ "Cygnus atratus|RHO": {
+  "status": "ok",
+  "acc": "XP_035402583.1",
+  "len": 351,
+  "file": "data/controls7b/Cygnus_atratus__RHO.fa",
+  "sha256": "986aec4edc2230b24b91f55c400e022b3a1b9bb0742f0157b38619cebfd08dd8"
+ },
+ "Cygnus atratus|OPN4": {
+  "status": "ok",
+  "acc": "XP_035426271.1",
+  "len": 528,
+  "file": "data/controls7b/Cygnus_atratus__OPN4.fa",
+  "sha256": "2f5e02989d525d59bd7de12560bb819e034d4c325932308acd2329252793445d"
+ },
+ "Cygnus atratus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_035427433.1",
+  "len": 333,
+  "file": "data/controls7b/Cygnus_atratus__GAPDH.fa",
+  "sha256": "f526b8b34b2ec167cba8218cb2e3dd3493cd8d32998cb88c38363b02b7063a54"
+ },
+ "Cygnus columbianus|PKM": {
+  "status": "ok",
+  "acc": "XP_082674283.1",
+  "len": 565,
+  "file": "data/controls7b/Cygnus_columbianus__PKM.fa",
+  "sha256": "fc8f67c1e6cce3a13db96ef1781c075e965ee33272540617274354b58bcf7de2"
+ },
+ "Cygnus columbianus|LDHA": {
+  "status": "ok",
+  "acc": "XP_082663277.1",
+  "len": 332,
+  "file": "data/controls7b/Cygnus_columbianus__LDHA.fa",
+  "sha256": "4ed2dc6516050bfcb1e986d01368c5b1f7210793197885fdfd68f9ce9a6d1b99"
+ },
+ "Cygnus columbianus|RHO": {
+  "status": "ok",
+  "acc": "XP_082672972.1",
+  "len": 351,
+  "file": "data/controls7b/Cygnus_columbianus__RHO.fa",
+  "sha256": "3954bf8833e0dda77a5c565c90288665205604e4c56b754a648d50ecc34a3c73"
+ },
+ "Cygnus columbianus|OPN4": {
+  "status": "ok",
+  "acc": "XP_082669186.1",
+  "len": 567,
+  "file": "data/controls7b/Cygnus_columbianus__OPN4.fa",
+  "sha256": "a867a905df8783c7de4693ba03d38c17dcde976d3ae68cd5aafe3bd7ec95deeb"
+ },
+ "Cygnus columbianus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_082652429.1",
+  "len": 333,
+  "file": "data/controls7b/Cygnus_columbianus__GAPDH.fa",
+  "sha256": "a5d86c4214f7c06a7a9f575b2fc1abe90adfee0e97233958f080d5286e801231"
+ },
+ "Cygnus olor|PKM": {
+  "status": "ok",
+  "acc": "XP_040426456.1",
+  "len": 565,
+  "file": "data/controls7b/Cygnus_olor__PKM.fa",
+  "sha256": "517b973d1b1ab17d12375e54e240b26f8d38c951c1eaa7a004f1b50e6879d060"
+ },
+ "Cygnus olor|LDHA": {
+  "status": "ok",
+  "acc": "XP_040414911.1",
+  "len": 332,
+  "file": "data/controls7b/Cygnus_olor__LDHA.fa",
+  "sha256": "5583f905053ee2467dc65d47f1583a4530cfbb0effb80008131d1300ec72df0f"
+ },
+ "Cygnus olor|RHO": {
+  "status": "ok",
+  "acc": "XP_040424257.1",
+  "len": 351,
+  "file": "data/controls7b/Cygnus_olor__RHO.fa",
+  "sha256": "ba1965b1cb1c2afcd82fa9e2df2782892c1c7f1ca77e242d21d40b638f8cd68e"
+ },
+ "Cygnus olor|OPN4": {
+  "status": "ok",
+  "acc": "XP_040419301.1",
+  "len": 567,
+  "file": "data/controls7b/Cygnus_olor__OPN4.fa",
+  "sha256": "ec59b165c04908656d510aa1d18750d277a6ecde2c2ab9f7d360c5ba845c363c"
+ },
+ "Cygnus olor|GAPDH": {
+  "status": "ok",
+  "acc": "XP_040429077.1",
+  "len": 333,
+  "file": "data/controls7b/Cygnus_olor__GAPDH.fa",
+  "sha256": "2ab0b867ad6a780fcb3991536d8a047d74f5f5df74d2827c64eeeb4f262087ed"
+ },
+ "Cyrtonyx montezumae|PKM": {
+  "status": "ok",
+  "acc": "XP_065589747.1",
+  "len": 530,
+  "file": "data/controls7b/Cyrtonyx_montezumae__PKM.fa",
+  "sha256": "728feb8d8f50e1229a45086a7273bf0bcbfa164735458f17858c256da20d0510"
+ },
+ "Cyrtonyx montezumae|LDHA": {
+  "status": "ok",
+  "acc": "XP_065611309.1",
+  "len": 332,
+  "file": "data/controls7b/Cyrtonyx_montezumae__LDHA.fa",
+  "sha256": "6ad6c718bacfaf67090709fe0be846986edb64143364f326ef3869454275b77f"
+ },
+ "Cyrtonyx montezumae|RHO": {
+  "status": "ok",
+  "acc": "XP_065605410.1",
+  "len": 351,
+  "file": "data/controls7b/Cyrtonyx_montezumae__RHO.fa",
+  "sha256": "42ce75875878b6b1dfbb9524c9e00c7798e891d4f465d41b0927d682628b6656"
+ },
+ "Cyrtonyx montezumae|OPN4": {
+  "status": "ok",
+  "acc": "XP_065602215.1",
+  "len": 528,
+  "file": "data/controls7b/Cyrtonyx_montezumae__OPN4.fa",
+  "sha256": "e574f2967b64de3f47585773406469dd3c7df32f6aeb50a6a9ad1d8fdba1ae3e"
+ },
+ "Cyrtonyx montezumae|GAPDH": {
+  "status": "ok",
+  "acc": "XP_065598298.1",
+  "len": 333,
+  "file": "data/controls7b/Cyrtonyx_montezumae__GAPDH.fa",
+  "sha256": "e5513214d88b717a107712a1d79ce351891b11d36c5c29a32e0049bb00d3e997"
+ },
+ "Dromaius novaehollandiae|PKM": {
+  "status": "ok",
+  "acc": "XP_025970992.2",
+  "len": 550,
+  "file": "data/controls7b/Dromaius_novaehollandiae__PKM.fa",
+  "sha256": "7e59fdaa76130fa93dbf28c4bce0a06521ec57ab94d7ded3053aaf832b80afab"
+ },
+ "Dromaius novaehollandiae|LDHA": {
+  "status": "miss"
+ },
+ "Dromaius novaehollandiae|RHO": {
+  "status": "ok",
+  "acc": "XP_025955464.1",
+  "len": 351,
+  "file": "data/controls7b/Dromaius_novaehollandiae__RHO.fa",
+  "sha256": "2e8811085b48c702bd90d30e5db6dcd3ca9c061f274b95cbd859a5d3facaa890"
+ },
+ "Dromaius novaehollandiae|OPN4": {
+  "status": "ok",
+  "acc": "XP_064370543.1",
+  "len": 553,
+  "file": "data/controls7b/Dromaius_novaehollandiae__OPN4.fa",
+  "sha256": "5f177d11a7ba791ace022d4b425dc59711cf1a6fd9b143a4d12372d338c70c86"
+ },
+ "Dromaius novaehollandiae|GAPDH": {
+  "status": "ok",
+  "acc": "XP_025960643.1",
+  "len": 333,
+  "file": "data/controls7b/Dromaius_novaehollandiae__GAPDH.fa",
+  "sha256": "82e262995551ed3ac716a78c71b23d9c7353d1dceeec0b38f25b5ae1fa598df0"
+ },
+ "Dryobates pubescens|PKM": {
+  "status": "ok",
+  "acc": "XP_009895387.2",
+  "len": 550,
+  "file": "data/controls7b/Dryobates_pubescens__PKM.fa",
+  "sha256": "0aa3360ec678baef737266ba0d52a6ae9430c34dd3b13518a7f1bf9d2876d80b"
+ },
+ "Dryobates pubescens|LDHA": {
+  "status": "miss"
+ },
+ "Dryobates pubescens|RHO": {
+  "status": "ok",
+  "acc": "XP_054022956.1",
+  "len": 351,
+  "file": "data/controls7b/Dryobates_pubescens__RHO.fa",
+  "sha256": "ac2ff7cbb12427384ca733db9793e30026c882013d31a3f9a6cc7b769dbfb21a"
+ },
+ "Dryobates pubescens|OPN4": {
+  "status": "ok",
+  "acc": "XP_054019715.1",
+  "len": 568,
+  "file": "data/controls7b/Dryobates_pubescens__OPN4.fa",
+  "sha256": "2cfdb3bc0872c66e6f1d4f756f6500b9d00d4778a2741babd5e45d0d8c9a22d9"
+ },
+ "Dryobates pubescens|GAPDH": {
+  "status": "ok",
+  "acc": "XP_054023925.1",
+  "len": 333,
+  "file": "data/controls7b/Dryobates_pubescens__GAPDH.fa",
+  "sha256": "84dfe7c70be8c55e0c54c024f2917f129077b8c5c28b4a03a6c1f6bf43ab3aea"
+ },
+ "Egretta garzetta|PKM": {
+  "status": "ok",
+  "acc": "XP_009642193.1",
+  "len": 550,
+  "file": "data/controls7b/Egretta_garzetta__PKM.fa",
+  "sha256": "88dc5f10da7b3bc3ac47903283484d2f602a52ed8400f1d4c0526061f6cd8eab"
+ },
+ "Egretta garzetta|LDHA": {
+  "status": "ok",
+  "acc": "XP_009633736.2",
+  "len": 341,
+  "file": "data/controls7b/Egretta_garzetta__LDHA.fa",
+  "sha256": "73528429e72c89860ed0b88b7aa95448ce3949929cbcc893f5f491410f833257"
+ },
+ "Egretta garzetta|RHO": {
+  "status": "ok",
+  "acc": "XP_009632118.1",
+  "len": 328,
+  "file": "data/controls7b/Egretta_garzetta__RHO.fa",
+  "sha256": "3a2ad5ba83222a5ebd8dbf798b71cffe2a70109afe67fb3dc017c23a6f18a367"
+ },
+ "Egretta garzetta|OPN4": {
+  "status": "ok",
+  "acc": "XP_009647513.2",
+  "len": 528,
+  "file": "data/controls7b/Egretta_garzetta__OPN4.fa",
+  "sha256": "49131cf9fe10bef01aeb8a3869ebc5c382ae4ed7602f5d9acf41c085eb35256f"
+ },
+ "Egretta garzetta|GAPDH": {
+  "status": "ok",
+  "acc": "XP_035750486.1",
+  "len": 271,
+  "file": "data/controls7b/Egretta_garzetta__GAPDH.fa",
+  "sha256": "ee64e8b00743c5c2eb2755bcac4c7ee8aa2bd2962ade9e987f042141f598050e"
+ },
+ "Emberiza bruniceps|PKM": {
+  "status": "miss"
+ },
+ "Emberiza bruniceps|LDHA": {
+  "status": "miss"
+ },
+ "Emberiza bruniceps|RHO": {
+  "status": "miss"
+ },
+ "Emberiza bruniceps|OPN4": {
+  "status": "miss"
+ },
+ "Emberiza bruniceps|GAPDH": {
+  "status": "miss"
+ },
+ "Empidonax traillii|PKM": {
+  "status": "ok",
+  "acc": "XP_027745083.1",
+  "len": 550,
+  "file": "data/controls7b/Empidonax_traillii__PKM.fa",
+  "sha256": "47d9b2deb7c2e43eec0133cbe9d67226d775a8a744e2fd063058ec6768b79d42"
+ },
+ "Empidonax traillii|LDHA": {
+  "status": "miss"
+ },
+ "Empidonax traillii|RHO": {
+  "status": "ok",
+  "acc": "XP_027759087.1",
+  "len": 351,
+  "file": "data/controls7b/Empidonax_traillii__RHO.fa",
+  "sha256": "9fca6544f471864949829fc1ac66fbec012c3fda3a527803b61c8cc61449edfd"
+ },
+ "Empidonax traillii|OPN4": {
+  "status": "ok",
+  "acc": "XP_027751738.1",
+  "len": 540,
+  "file": "data/controls7b/Empidonax_traillii__OPN4.fa",
+  "sha256": "5b7837fedea19f04fa6c3fb27f5c00f7d34eaadccfa3d6ea11cea9db123c5490"
+ },
+ "Empidonax traillii|GAPDH": {
+  "status": "ok",
+  "acc": "XP_027741094.1",
+  "len": 333,
+  "file": "data/controls7b/Empidonax_traillii__GAPDH.fa",
+  "sha256": "9f0621b5fae649c48fb8398c9904b6b1c3097028f0d62db93be73d08dbd488db"
+ },
+ "Erithacus rubecula|PKM": {
+  "status": "ok",
+  "acc": "XP_079173935.1",
+  "len": 550,
+  "file": "data/controls7b/Erithacus_rubecula__PKM.fa",
+  "sha256": "d790d205d2530d5cdb509e0c78141fa238d05a3dc2ced0276187ee8ec3e78347"
+ },
+ "Erithacus rubecula|LDHA": {
+  "status": "miss"
+ },
+ "Erithacus rubecula|RHO": {
+  "status": "ok",
+  "acc": "XP_079173113.1",
+  "len": 351,
+  "file": "data/controls7b/Erithacus_rubecula__RHO.fa",
+  "sha256": "c56c19fdf4674f32913b0c4bce9f5649ca2e3eda881776e292340d2837fdfbe4"
+ },
+ "Erithacus rubecula|OPN4": {
+  "status": "ok",
+  "acc": "XP_079169379.1",
+  "len": 525,
+  "file": "data/controls7b/Erithacus_rubecula__OPN4.fa",
+  "sha256": "40306f7a06d214ef7f08a44d050ca36c058e3221931b2e49b44e9d5ea5149f06"
+ },
+ "Erithacus rubecula|GAPDH": {
+  "status": "ok",
+  "acc": "XP_079162539.1",
+  "len": 530,
+  "file": "data/controls7b/Erithacus_rubecula__GAPDH.fa",
+  "sha256": "ffd91d5aa5dc307fde8bf56383d559841aabf209805855d3ac788f2e595548bf"
+ },
+ "Eurypyga helias|PKM": {
+  "status": "miss"
+ },
+ "Eurypyga helias|LDHA": {
+  "status": "miss"
+ },
+ "Eurypyga helias|RHO": {
+  "status": "ok",
+  "acc": "XP_010150068.1",
+  "len": 338,
+  "file": "data/controls7b/Eurypyga_helias__RHO.fa",
+  "sha256": "938649955dc74cee3c3fd20fdb723fdcb0ca2b1ddccd3e7eae97f6a54380b546"
+ },
+ "Eurypyga helias|OPN4": {
+  "status": "miss"
+ },
+ "Eurypyga helias|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010158088.1",
+  "len": 325,
+  "file": "data/controls7b/Eurypyga_helias__GAPDH.fa",
+  "sha256": "273f17777d97eea9a91cd863234fd66a59aa86a66c17fce29a6c4262882ed5b0"
+ },
+ "Excalfactoria chinensis|PKM": {
+  "status": "ok",
+  "acc": "XP_072201261.1",
+  "len": 550,
+  "file": "data/controls7b/Excalfactoria_chinensis__PKM.fa",
+  "sha256": "14a565ecfdfe45c5666ad49d9b05729c9ab8fbad224bc0d9ed56caa95045e602"
+ },
+ "Excalfactoria chinensis|LDHA": {
+  "status": "ok",
+  "acc": "XP_072193536.1",
+  "len": 332,
+  "file": "data/controls7b/Excalfactoria_chinensis__LDHA.fa",
+  "sha256": "54d87ebb6846768025188b9e1435cebd1c4617e6fd3454c7f085b096c49b0fc5"
+ },
+ "Excalfactoria chinensis|RHO": {
+  "status": "ok",
+  "acc": "XP_072203206.1",
+  "len": 351,
+  "file": "data/controls7b/Excalfactoria_chinensis__RHO.fa",
+  "sha256": "19ba599b420d3606e102a4293525191d1ed692eac7041259e885da54bf8a7291"
+ },
+ "Excalfactoria chinensis|OPN4": {
+  "status": "ok",
+  "acc": "XP_072196097.1",
+  "len": 528,
+  "file": "data/controls7b/Excalfactoria_chinensis__OPN4.fa",
+  "sha256": "d42623b4346accafcec221730fbf1ac3b01562a0e2e55f5d3d3dfd12005a2017"
+ },
+ "Excalfactoria chinensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_072182851.1",
+  "len": 333,
+  "file": "data/controls7b/Excalfactoria_chinensis__GAPDH.fa",
+  "sha256": "942300a1b96a43010fe67edf916407dec1a7901ab06078d21cbc7c57633b901b"
+ },
+ "Falco biarmicus|PKM": {
+  "status": "ok",
+  "acc": "XP_056202464.1",
+  "len": 550,
+  "file": "data/controls7b/Falco_biarmicus__PKM.fa",
+  "sha256": "e2c34ea8db79f913e21543427d863e41642ee8a920d7e2f394d5a2288ea4cc75"
+ },
+ "Falco biarmicus|LDHA": {
+  "status": "miss"
+ },
+ "Falco biarmicus|RHO": {
+  "status": "ok",
+  "acc": "XP_056194222.1",
+  "len": 351,
+  "file": "data/controls7b/Falco_biarmicus__RHO.fa",
+  "sha256": "8bfc57e438cb50db079e24c1fe89232be9b7e14256adbef696ce697d3e1b31fa"
+ },
+ "Falco biarmicus|OPN4": {
+  "status": "ok",
+  "acc": "XP_056206713.1",
+  "len": 542,
+  "file": "data/controls7b/Falco_biarmicus__OPN4.fa",
+  "sha256": "edc5c17a2f0f0e50286db3959dcae6ba84c2a0d04a494b22afa563e00dc07a80"
+ },
+ "Falco biarmicus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_056197888.1",
+  "len": 628,
+  "file": "data/controls7b/Falco_biarmicus__GAPDH.fa",
+  "sha256": "dba8809d6d7b6e3b4681f52e64dd3aa00eb6e007345dd16d12d5e3a9371e07e4"
+ },
+ "Falco cherrug|PKM": {
+  "status": "ok",
+  "acc": "XP_005437525.2",
+  "len": 550,
+  "file": "data/controls7b/Falco_cherrug__PKM.fa",
+  "sha256": "d69259becf25994c5f40c84dcdf75d73de020ce270a574fd7e46e04072b7119b"
+ },
+ "Falco cherrug|LDHA": {
+  "status": "miss"
+ },
+ "Falco cherrug|RHO": {
+  "status": "ok",
+  "acc": "XP_005443660.2",
+  "len": 351,
+  "file": "data/controls7b/Falco_cherrug__RHO.fa",
+  "sha256": "115e47cae3e42a947d15f0de23ca0794cb2b4676b0f8f5fb439d8bacd9a27129"
+ },
+ "Falco cherrug|OPN4": {
+  "status": "ok",
+  "acc": "XP_027672977.2",
+  "len": 542,
+  "file": "data/controls7b/Falco_cherrug__OPN4.fa",
+  "sha256": "bd4be2409f08dcf6d81a6bf6559363be787651c43184d13d4b5e13919a95ed28"
+ },
+ "Falco cherrug|GAPDH": {
+  "status": "ok",
+  "acc": "XP_055568738.1",
+  "len": 333,
+  "file": "data/controls7b/Falco_cherrug__GAPDH.fa",
+  "sha256": "36a8d6a5c30634ff25e78e2d7127f8b00ac8a95f3612b4320abd943d54285e49"
+ },
+ "Falco naumanni|PKM": {
+  "status": "ok",
+  "acc": "XP_040457026.1",
+  "len": 550,
+  "file": "data/controls7b/Falco_naumanni__PKM.fa",
+  "sha256": "c91c962c037eb65cac5647a0efbdef906827ee1ef62803e92995ef7ea55780aa"
+ },
+ "Falco naumanni|LDHA": {
+  "status": "miss"
+ },
+ "Falco naumanni|RHO": {
+  "status": "ok",
+  "acc": "XP_040449019.1",
+  "len": 351,
+  "file": "data/controls7b/Falco_naumanni__RHO.fa",
+  "sha256": "0b5b5ec5d2b2e442ec21301dd95c730f6f351beae2b85801a5f160d573253a24"
+ },
+ "Falco naumanni|OPN4": {
+  "status": "ok",
+  "acc": "XP_040463117.1",
+  "len": 542,
+  "file": "data/controls7b/Falco_naumanni__OPN4.fa",
+  "sha256": "d81e4f0084776494a65e45777ad7960cdb150026e2bad4caf3cb8af44ac07312"
+ },
+ "Falco naumanni|GAPDH": {
+  "status": "ok",
+  "acc": "XP_040450950.1",
+  "len": 333,
+  "file": "data/controls7b/Falco_naumanni__GAPDH.fa",
+  "sha256": "bb8e4bb84a08929f81e6dba85f78edc8748a5664d095700dbf9fcd0cdd2ee026"
+ },
+ "Falco peregrinus|PKM": {
+  "status": "ok",
+  "acc": "XP_005232632.1",
+  "len": 550,
+  "file": "data/controls7b/Falco_peregrinus__PKM.fa",
+  "sha256": "d50718689e7104a982ce3e5e50d04d2ed3cc909986210410596bfedf531a7fad"
+ },
+ "Falco peregrinus|LDHA": {
+  "status": "miss"
+ },
+ "Falco peregrinus|RHO": {
+  "status": "ok",
+  "acc": "XP_005240279.2",
+  "len": 351,
+  "file": "data/controls7b/Falco_peregrinus__RHO.fa",
+  "sha256": "ef4f0e424b2d6e5c85b602fea4342d2f52293d462f08789f5f7cbdf9f5c63609"
+ },
+ "Falco peregrinus|OPN4": {
+  "status": "ok",
+  "acc": "XP_055646330.1",
+  "len": 542,
+  "file": "data/controls7b/Falco_peregrinus__OPN4.fa",
+  "sha256": "7158ca2116f1fda8da99e62aaae0cd51dd7183977d8151d4cf9aea12678166ad"
+ },
+ "Falco peregrinus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_055665240.1",
+  "len": 333,
+  "file": "data/controls7b/Falco_peregrinus__GAPDH.fa",
+  "sha256": "77b48aa6b337b516b00f833bb4c406728048801e6cb4623df8fa6c71b9255122"
+ },
+ "Falco punctatus|PKM": {
+  "status": "ok",
+  "acc": "XP_080252096.1",
+  "len": 530,
+  "file": "data/controls7b/Falco_punctatus__PKM.fa",
+  "sha256": "3a254c18156f03d4c42876a498ca1eeee2a68a59d1e8a8a5d1fe43e2162f045e"
+ },
+ "Falco punctatus|LDHA": {
+  "status": "miss"
+ },
+ "Falco punctatus|RHO": {
+  "status": "ok",
+  "acc": "XP_080243779.1",
+  "len": 351,
+  "file": "data/controls7b/Falco_punctatus__RHO.fa",
+  "sha256": "9cf061c9a3f4db8df6d3601152e251bb814f2421dc8f4b00520bb833ad63141e"
+ },
+ "Falco punctatus|OPN4": {
+  "status": "ok",
+  "acc": "XP_080258958.1",
+  "len": 507,
+  "file": "data/controls7b/Falco_punctatus__OPN4.fa",
+  "sha256": "d6af25b26343cd3e729c196960a367c3ad3530e4fd74d19883b5e63d9b362bf5"
+ },
+ "Falco punctatus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_080247219.1",
+  "len": 333,
+  "file": "data/controls7b/Falco_punctatus__GAPDH.fa",
+  "sha256": "918c67b0721098df40f89cd8825fc38eff0a1b13a675c271822e0df54ed3ed69"
+ },
+ "Falco rusticolus|PKM": {
+  "status": "ok",
+  "acc": "XP_037250682.1",
+  "len": 550,
+  "file": "data/controls7b/Falco_rusticolus__PKM.fa",
+  "sha256": "b62e7472d852d3c1a9dcea8eb86b1a56e05bc1ae5377e54720ad3a1542b81268"
+ },
+ "Falco rusticolus|LDHA": {
+  "status": "miss"
+ },
+ "Falco rusticolus|RHO": {
+  "status": "ok",
+  "acc": "XP_037242725.1",
+  "len": 351,
+  "file": "data/controls7b/Falco_rusticolus__RHO.fa",
+  "sha256": "6947f79775de3ebae49ab92e75fcfee02e3ee8a38f038977cc7e3643e9da0c4b"
+ },
+ "Falco rusticolus|OPN4": {
+  "status": "ok",
+  "acc": "XP_037256839.1",
+  "len": 542,
+  "file": "data/controls7b/Falco_rusticolus__OPN4.fa",
+  "sha256": "e3204c3194af245372f4043cd3f2e6857e2a6c9385b24c7b1d31df5901758518"
+ },
+ "Falco rusticolus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_037245982.1",
+  "len": 434,
+  "file": "data/controls7b/Falco_rusticolus__GAPDH.fa",
+  "sha256": "80cd407eb91a9b649b035db4042dfeebce08418f6f865ebe1a6e9698828ed50b"
+ },
+ "Ficedula albicollis|PKM": {
+  "status": "ok",
+  "acc": "XP_016156333.1",
+  "len": 550,
+  "file": "data/controls7b/Ficedula_albicollis__PKM.fa",
+  "sha256": "88565f53e272e0039bf0bbfe7c72c74082c616e410d93fa53a3a81d42348f2ff"
+ },
+ "Ficedula albicollis|LDHA": {
+  "status": "miss"
+ },
+ "Ficedula albicollis|RHO": {
+  "status": "ok",
+  "acc": "XP_005053379.1",
+  "len": 351,
+  "file": "data/controls7b/Ficedula_albicollis__RHO.fa",
+  "sha256": "416905c62fb50787832a2c873fc4cfd169c2a433b4a25767306a2a619786766d"
+ },
+ "Ficedula albicollis|OPN4": {
+  "status": "ok",
+  "acc": "XP_005048171.1",
+  "len": 525,
+  "file": "data/controls7b/Ficedula_albicollis__OPN4.fa",
+  "sha256": "b897ba118986892473544e54ef7a899f766e91b790058eb269a9dab2d58b0dbe"
+ },
+ "Ficedula albicollis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_005038504.1",
+  "len": 333,
+  "file": "data/controls7b/Ficedula_albicollis__GAPDH.fa",
+  "sha256": "a7e477c18a05b5b544ce7c8bf4d0a483166dce41198bfd456548cb159d51bdb4"
+ },
+ "Fringilla coelebs|PKM": {
+  "status": "ok",
+  "acc": "XP_084070078.1",
+  "len": 528,
+  "file": "data/controls7b/Fringilla_coelebs__PKM.fa",
+  "sha256": "46c79ff169679abbb9b5dbe9f5b9c73651392e817ca469f02c39186789f348c1"
+ },
+ "Fringilla coelebs|LDHA": {
+  "status": "miss"
+ },
+ "Fringilla coelebs|RHO": {
+  "status": "ok",
+  "acc": "XP_084070566.1",
+  "len": 351,
+  "file": "data/controls7b/Fringilla_coelebs__RHO.fa",
+  "sha256": "4a363d748fdab6b1b361c6c13848d64308b0da7829a4bd9fd409b232e1719e74"
+ },
+ "Fringilla coelebs|OPN4": {
+  "status": "ok",
+  "acc": "XP_084067017.1",
+  "len": 516,
+  "file": "data/controls7b/Fringilla_coelebs__OPN4.fa",
+  "sha256": "aff2f6eab6c233ca158bd3802e6a7befbe3e93ea3135c3f2f681c4a25d7515f9"
+ },
+ "Fringilla coelebs|GAPDH": {
+  "status": "ok",
+  "acc": "XP_084082803.1",
+  "len": 333,
+  "file": "data/controls7b/Fringilla_coelebs__GAPDH.fa",
+  "sha256": "3fb3ff9ac65c304582d16eea3bbcd3460b098c47b324d445a801845e0d643025"
+ },
+ "Fulmarus glacialis|PKM": {
+  "status": "miss"
+ },
+ "Fulmarus glacialis|LDHA": {
+  "status": "miss"
+ },
+ "Fulmarus glacialis|RHO": {
+  "status": "ok",
+  "acc": "XP_009584759.1",
+  "len": 289,
+  "file": "data/controls7b/Fulmarus_glacialis__RHO.fa",
+  "sha256": "637b4db5dc7d9d6d5bd7848943f66cb9019f8037a64118f8ec4c4c15a06bce07"
+ },
+ "Fulmarus glacialis|OPN4": {
+  "status": "miss"
+ },
+ "Fulmarus glacialis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009585456.1",
+  "len": 344,
+  "file": "data/controls7b/Fulmarus_glacialis__GAPDH.fa",
+  "sha256": "d12da663207555fb02a8bb7239b969a52883ad7c1dd5437336a16cde1c323968"
+ },
+ "Gallinula chloropus|PKM": {
+  "status": "ok",
+  "acc": "XP_084123975.1",
+  "len": 530,
+  "file": "data/controls7b/Gallinula_chloropus__PKM.fa",
+  "sha256": "d9cfbb48eb24b80446cc3f0f7af0796be210dd7d913f16aaed305500d8f5d979"
+ },
+ "Gallinula chloropus|LDHA": {
+  "status": "ok",
+  "acc": "XP_084119625.1",
+  "len": 332,
+  "file": "data/controls7b/Gallinula_chloropus__LDHA.fa",
+  "sha256": "f27a70b4de2d18b8ab2144c4df6bb7e9fb33d3e1ad8e452f8e3dddc572b0024e"
+ },
+ "Gallinula chloropus|RHO": {
+  "status": "ok",
+  "acc": "XP_084125721.1",
+  "len": 351,
+  "file": "data/controls7b/Gallinula_chloropus__RHO.fa",
+  "sha256": "0af6dceadcacf95fb925e461529526bd9a584cc0ddd4825f6d6d892ce09a5c51"
+ },
+ "Gallinula chloropus|OPN4": {
+  "status": "ok",
+  "acc": "XP_084120595.1",
+  "len": 558,
+  "file": "data/controls7b/Gallinula_chloropus__OPN4.fa",
+  "sha256": "f3d9e5f57e6f579fa631be7da11fcfc11fe3a0d5e0176636ffbd0cac8d7064ad"
+ },
+ "Gallinula chloropus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_084134478.1",
+  "len": 333,
+  "file": "data/controls7b/Gallinula_chloropus__GAPDH.fa",
+  "sha256": "701ac4c8c82fc7304c36bc16a5c06238efdae27fb7a48e40203b5efa10440bbc"
+ },
+ "Gallus gallus|PKM": {
+  "status": "ok",
+  "acc": "XP_046780572.1",
+  "len": 550,
+  "file": "data/controls7b/Gallus_gallus__PKM.fa",
+  "sha256": "51141936cb207ff4ba47cdd296e584bde1b07edeb89f26cddaee09b8df6865e5"
+ },
+ "Gallus gallus|LDHA": {
+  "status": "ok",
+  "acc": "XP_046773854.1",
+  "len": 332,
+  "file": "data/controls7b/Gallus_gallus__LDHA.fa",
+  "sha256": "38e6cba8e2d273448d223c427ce9eac3262fd30468cfbf042dd12b27766025fb"
+ },
+ "Gallus gallus|RHO": {
+  "status": "ok",
+  "acc": "NP_990821.1",
+  "len": 355,
+  "file": "data/controls7b/Gallus_gallus__RHO.fa",
+  "sha256": "6e2bf873e42372937a468379fa2a9696080ccc04fbb38c875405aca3d8c0617e"
+ },
+ "Gallus gallus|OPN4": {
+  "status": "ok",
+  "acc": "XP_046775951.1",
+  "len": 528,
+  "file": "data/controls7b/Gallus_gallus__OPN4.fa",
+  "sha256": "51ec79e80cf52385d64a8f540e35a4e74054b5b0fce81bf003a7dc069458a3b1"
+ },
+ "Gallus gallus|GAPDH": {
+  "status": "ok",
+  "acc": "NP_989636.1",
+  "len": 333,
+  "file": "data/controls7b/Gallus_gallus__GAPDH.fa",
+  "sha256": "501fcd290c2d833f999fe0088f880f95e12b820554f77eaafd40abbe3b21a16f"
+ },
+ "Gavia stellata|PKM": {
+  "status": "ok",
+  "acc": "XP_059680175.1",
+  "len": 530,
+  "file": "data/controls7b/Gavia_stellata__PKM.fa",
+  "sha256": "4c34c232155ae483222f40ebffde4aaf070405305f822ed63557340bb772b0bd"
+ },
+ "Gavia stellata|LDHA": {
+  "status": "ok",
+  "acc": "XP_059681717.1",
+  "len": 332,
+  "file": "data/controls7b/Gavia_stellata__LDHA.fa",
+  "sha256": "c12e3ede89b5208557754ed714021b1b3b5751a8f55bf89686b09d994e0150ff"
+ },
+ "Gavia stellata|RHO": {
+  "status": "ok",
+  "acc": "XP_059679451.1",
+  "len": 351,
+  "file": "data/controls7b/Gavia_stellata__RHO.fa",
+  "sha256": "97c2e63dc96a08d4ce0c4e7f560793e8d48b6ec9ec3e0352f54e743432724779"
+ },
+ "Gavia stellata|OPN4": {
+  "status": "ok",
+  "acc": "XP_009806083.2",
+  "len": 526,
+  "file": "data/controls7b/Gavia_stellata__OPN4.fa",
+  "sha256": "de32c99768535da988d63afb9bf82ba027a9f793cbf1efe81a31b88c159e409d"
+ },
+ "Gavia stellata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_059680777.1",
+  "len": 333,
+  "file": "data/controls7b/Gavia_stellata__GAPDH.fa",
+  "sha256": "74ee6aa2c4319cce198db1a073802dde0b80ac979e42f041a0c496210b72e5ff"
+ },
+ "Geospiza fortis|PKM": {
+  "status": "ok",
+  "acc": "XP_030916902.1",
+  "len": 548,
+  "file": "data/controls7b/Geospiza_fortis__PKM.fa",
+  "sha256": "1b9eedfa84fea3f272b9a39a51b22a9981c5c8c8d4f8b62998fc108856c0ec45"
+ },
+ "Geospiza fortis|LDHA": {
+  "status": "miss"
+ },
+ "Geospiza fortis|RHO": {
+  "status": "ok",
+  "acc": "XP_005426698.1",
+  "len": 351,
+  "file": "data/controls7b/Geospiza_fortis__RHO.fa",
+  "sha256": "f26261be36901ffb3a77578a9a6ddeb7f553f7f29ff7f7831460a6ddc5e4f73f"
+ },
+ "Geospiza fortis|OPN4": {
+  "status": "ok",
+  "acc": "XP_030917042.1",
+  "len": 525,
+  "file": "data/controls7b/Geospiza_fortis__OPN4.fa",
+  "sha256": "6061d1bac6af84a80f0f1e3ddd65fb1ec39554f2fea73225c4357906cb0741f9"
+ },
+ "Geospiza fortis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_030912574.1",
+  "len": 355,
+  "file": "data/controls7b/Geospiza_fortis__GAPDH.fa",
+  "sha256": "fbe813668049e2a00cd094cafd9e2c207d631d2b8b5d8658577a55dc218a5340"
+ },
+ "Grus americana|PKM": {
+  "status": "ok",
+  "acc": "XP_054692815.1",
+  "len": 530,
+  "file": "data/controls7b/Grus_americana__PKM.fa",
+  "sha256": "7e30437ab02a3d74abd72ef00b1dee47fc08b37b5c105652eb51462ac0a05f34"
+ },
+ "Grus americana|LDHA": {
+  "status": "ok",
+  "acc": "XP_054683541.1",
+  "len": 332,
+  "file": "data/controls7b/Grus_americana__LDHA.fa",
+  "sha256": "c4ab42edd0d5dd9df371c7ed89c7097c53c41448889f9903104766adcaed1e4a"
+ },
+ "Grus americana|RHO": {
+  "status": "ok",
+  "acc": "XP_054694089.1",
+  "len": 351,
+  "file": "data/controls7b/Grus_americana__RHO.fa",
+  "sha256": "228260febf0d872600e91d97421889be5066417263208a674ba103e9444fdc35"
+ },
+ "Grus americana|OPN4": {
+  "status": "ok",
+  "acc": "XP_054687659.1",
+  "len": 558,
+  "file": "data/controls7b/Grus_americana__OPN4.fa",
+  "sha256": "d02f98e294af09a7b1d7398afeb5113a8df6063cf6492be3528ec2d48d991eca"
+ },
+ "Grus americana|GAPDH": {
+  "status": "ok",
+  "acc": "XP_054680213.1",
+  "len": 333,
+  "file": "data/controls7b/Grus_americana__GAPDH.fa",
+  "sha256": "e0dc0207365aac0c02dc5daf71ecd70c8ac9495e98d4aae7d3f411ce5b040f08"
+ },
+ "Grus grus|PKM": {
+  "status": "ok",
+  "acc": "XP_081287212.1",
+  "len": 550,
+  "file": "data/controls7b/Grus_grus__PKM.fa",
+  "sha256": "8cb0bfa4e8ed99cc3954b1ac86cac9508556121ac8d3e691bcac9dd42c2a1893"
+ },
+ "Grus grus|LDHA": {
+  "status": "ok",
+  "acc": "XP_081275883.1",
+  "len": 332,
+  "file": "data/controls7b/Grus_grus__LDHA.fa",
+  "sha256": "f4cc59aa3ebe276954c6a62c48d7cd725ff120cc487053b2b0fb46a52804e425"
+ },
+ "Grus grus|RHO": {
+  "status": "ok",
+  "acc": "XP_081288872.1",
+  "len": 351,
+  "file": "data/controls7b/Grus_grus__RHO.fa",
+  "sha256": "c3f47906204e8f79569dd0fd0bae72b61a4b2e48a84972b7b73bc5a5fd71e1a2"
+ },
+ "Grus grus|OPN4": {
+  "status": "ok",
+  "acc": "XP_081282322.1",
+  "len": 558,
+  "file": "data/controls7b/Grus_grus__OPN4.fa",
+  "sha256": "9acba0a7ded5392296f4c23eb74af6f3042b95a99f0c16ecff0c725af71295a5"
+ },
+ "Grus grus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_081272289.1",
+  "len": 333,
+  "file": "data/controls7b/Grus_grus__GAPDH.fa",
+  "sha256": "f70fed41838028508bfa4c673ad9ed076a532f50ca5b1ebeb3bd4fd43a227375"
+ },
+ "Gymnogyps californianus|PKM": {
+  "status": "ok",
+  "acc": "XP_050759644.1",
+  "len": 530,
+  "file": "data/controls7b/Gymnogyps_californianus__PKM.fa",
+  "sha256": "187df650b0f807cbb8c3a7c34cc7522aad4b940097a79b7beff0d636ceeb5dca"
+ },
+ "Gymnogyps californianus|LDHA": {
+  "status": "miss"
+ },
+ "Gymnogyps californianus|RHO": {
+  "status": "ok",
+  "acc": "XP_050760955.1",
+  "len": 369,
+  "file": "data/controls7b/Gymnogyps_californianus__RHO.fa",
+  "sha256": "fa0d952a9b9b5089b3d52dd57a6e17419ec9f74a1521e2b30a4b4097b192f38b"
+ },
+ "Gymnogyps californianus|OPN4": {
+  "status": "ok",
+  "acc": "XP_050755354.1",
+  "len": 527,
+  "file": "data/controls7b/Gymnogyps_californianus__OPN4.fa",
+  "sha256": "1763b16e112b55b0f711ea738024b4ad97026ecae3c85377c1acca57f23fa639"
+ },
+ "Gymnogyps californianus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_050750090.1",
+  "len": 315,
+  "file": "data/controls7b/Gymnogyps_californianus__GAPDH.fa",
+  "sha256": "b50246d9b1720a242897824c89462896677f7e9aab6aa6d9fb38cdbb6e767ecb"
+ },
+ "Haemorhous mexicanus|PKM": {
+  "status": "ok",
+  "acc": "XP_059713977.1",
+  "len": 594,
+  "file": "data/controls7b/Haemorhous_mexicanus__PKM.fa",
+  "sha256": "ef694a486c6baa6449a1898875756a0f5a07383ade2fd909d483562d9d1c7cbd"
+ },
+ "Haemorhous mexicanus|LDHA": {
+  "status": "ok",
+  "acc": "XP_059704985.1",
+  "len": 331,
+  "file": "data/controls7b/Haemorhous_mexicanus__LDHA.fa",
+  "sha256": "f8138e6c7789087c55f9cc567bbb98f59b285f921c8e92c3002cfb2771c9fc22"
+ },
+ "Haemorhous mexicanus|RHO": {
+  "status": "ok",
+  "acc": "XP_059712882.1",
+  "len": 351,
+  "file": "data/controls7b/Haemorhous_mexicanus__RHO.fa",
+  "sha256": "3ba87de954d5d6d293588b9ebc5f4047211a582bc7386d9b803258762fff38ca"
+ },
+ "Haemorhous mexicanus|OPN4": {
+  "status": "ok",
+  "acc": "XP_059707178.1",
+  "len": 523,
+  "file": "data/controls7b/Haemorhous_mexicanus__OPN4.fa",
+  "sha256": "001410557b86824f3bc1430ec9af0f71adf4071262142f1bd222627d17192db7"
+ },
+ "Haemorhous mexicanus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_059696271.1",
+  "len": 596,
+  "file": "data/controls7b/Haemorhous_mexicanus__GAPDH.fa",
+  "sha256": "10a065e534617735bfccc1993b3d84c3fadce31399b3c01c43249e90fdc80665"
+ },
+ "Haliaeetus albicilla|PKM": {
+  "status": "ok",
+  "acc": "XP_069653855.1",
+  "len": 550,
+  "file": "data/controls7b/Haliaeetus_albicilla__PKM.fa",
+  "sha256": "44d595f2c0b6cf8edfc175a6ed3c614a76c20e18c13fdb31c7a6b3418b751fb6"
+ },
+ "Haliaeetus albicilla|LDHA": {
+  "status": "miss"
+ },
+ "Haliaeetus albicilla|RHO": {
+  "status": "ok",
+  "acc": "XP_069667838.1",
+  "len": 351,
+  "file": "data/controls7b/Haliaeetus_albicilla__RHO.fa",
+  "sha256": "67e61fc96be93d694b5eaa1a145339908bbaa403e856c4b57167f294d6999be9"
+ },
+ "Haliaeetus albicilla|OPN4": {
+  "status": "ok",
+  "acc": "XP_069652170.1",
+  "len": 476,
+  "file": "data/controls7b/Haliaeetus_albicilla__OPN4.fa",
+  "sha256": "cb709ebd92a54f3b4a5d812e0047fc24cde9e5fb906c9f584fcb916fe8a4eac9"
+ },
+ "Haliaeetus albicilla|GAPDH": {
+  "status": "ok",
+  "acc": "XP_069642052.1",
+  "len": 561,
+  "file": "data/controls7b/Haliaeetus_albicilla__GAPDH.fa",
+  "sha256": "d98964fe22df2dc73a5d9499d86183dc2cf28ea12e0ce2e56e664c4da92b02e4"
+ },
+ "Haliaeetus leucocephalus|PKM": {
+  "status": "ok",
+  "acc": "XP_010569873.1",
+  "len": 550,
+  "file": "data/controls7b/Haliaeetus_leucocephalus__PKM.fa",
+  "sha256": "558e9f45fe1cd1a847c95510f0d10aee1914c4ac7102fe6066199beff13725d3"
+ },
+ "Haliaeetus leucocephalus|LDHA": {
+  "status": "miss"
+ },
+ "Haliaeetus leucocephalus|RHO": {
+  "status": "ok",
+  "acc": "XP_010568459.1",
+  "len": 351,
+  "file": "data/controls7b/Haliaeetus_leucocephalus__RHO.fa",
+  "sha256": "a2220c17b846cff0336d8de8890d6e40f7a3f10638136846b38f504ef2708b81"
+ },
+ "Haliaeetus leucocephalus|OPN4": {
+  "status": "ok",
+  "acc": "XP_010566181.1",
+  "len": 528,
+  "file": "data/controls7b/Haliaeetus_leucocephalus__OPN4.fa",
+  "sha256": "be22ec6e57685674ac24dc0630dbdffede4520a1538b3182117e618501d51981"
+ },
+ "Haliaeetus leucocephalus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010565840.1",
+  "len": 293,
+  "file": "data/controls7b/Haliaeetus_leucocephalus__GAPDH.fa",
+  "sha256": "c52f0b8980dfe1d7feb879a4811050a84f3a6cfb93aa4ce85ca6a0a2c371ce01"
+ },
+ "Harpia harpyja|PKM": {
+  "status": "ok",
+  "acc": "XP_052663588.1",
+  "len": 550,
+  "file": "data/controls7b/Harpia_harpyja__PKM.fa",
+  "sha256": "46ec5523a16e22c73de6e8f1316a0566b50b3373d503bd4094f3cd6c2fb3c9df"
+ },
+ "Harpia harpyja|LDHA": {
+  "status": "miss"
+ },
+ "Harpia harpyja|RHO": {
+  "status": "ok",
+  "acc": "XP_052634526.1",
+  "len": 351,
+  "file": "data/controls7b/Harpia_harpyja__RHO.fa",
+  "sha256": "46500100d165c8ffb1467ea335f3b6f820343df89305f1fabecf42ad7d841429"
+ },
+ "Harpia harpyja|OPN4": {
+  "status": "ok",
+  "acc": "XP_052654816.1",
+  "len": 476,
+  "file": "data/controls7b/Harpia_harpyja__OPN4.fa",
+  "sha256": "6f7487ea62325ca5897143a62dfb431e37912a5410380b9b1cd1b9d95806a45e"
+ },
+ "Harpia harpyja|GAPDH": {
+  "status": "ok",
+  "acc": "XP_052650203.1",
+  "len": 333,
+  "file": "data/controls7b/Harpia_harpyja__GAPDH.fa",
+  "sha256": "a392a57f85b6d6c0ae2923ed92908d3f8ed5c011a46a6f7017f25b54537ce508"
+ },
+ "Heliangelus exortis|PKM": {
+  "status": "ok",
+  "acc": "XP_071610907.1",
+  "len": 550,
+  "file": "data/controls7b/Heliangelus_exortis__PKM.fa",
+  "sha256": "90d3ce473cf26c8614934677e2bcee7e12ae0b922aedf81d739005fb3b269559"
+ },
+ "Heliangelus exortis|LDHA": {
+  "status": "miss"
+ },
+ "Heliangelus exortis|RHO": {
+  "status": "ok",
+  "acc": "XP_071612509.1",
+  "len": 351,
+  "file": "data/controls7b/Heliangelus_exortis__RHO.fa",
+  "sha256": "8aa1537030ad3fa38e863bbdd7adde23d52a824d1a00bbd69622718c22f6280a"
+ },
+ "Heliangelus exortis|OPN4": {
+  "status": "ok",
+  "acc": "XP_071605361.1",
+  "len": 498,
+  "file": "data/controls7b/Heliangelus_exortis__OPN4.fa",
+  "sha256": "052e1ad1cb145457d86044c2664ea5396a733fae309ee635ff5974154a5f1367"
+ },
+ "Heliangelus exortis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_071620219.1",
+  "len": 333,
+  "file": "data/controls7b/Heliangelus_exortis__GAPDH.fa",
+  "sha256": "65fa7cfb04f633d67f21bf51ede4abc5362fdd83cabca825eff935421eb1c2f7"
+ },
+ "Hirundo rustica|PKM": {
+  "status": "ok",
+  "acc": "XP_039932779.1",
+  "len": 550,
+  "file": "data/controls7b/Hirundo_rustica__PKM.fa",
+  "sha256": "6733e014a766df09a9bd43c0b4352767561822eccd4c36db769bd0c88be9396b"
+ },
+ "Hirundo rustica|LDHA": {
+  "status": "miss"
+ },
+ "Hirundo rustica|RHO": {
+  "status": "ok",
+  "acc": "XP_039931920.1",
+  "len": 351,
+  "file": "data/controls7b/Hirundo_rustica__RHO.fa",
+  "sha256": "a5171b0b2b4e03169cc09d812011733ccee76cf8c28c1ccdf318329b0b6c6cf4"
+ },
+ "Hirundo rustica|OPN4": {
+  "status": "ok",
+  "acc": "XP_058277445.1",
+  "len": 516,
+  "file": "data/controls7b/Hirundo_rustica__OPN4.fa",
+  "sha256": "80797d5e23d7ab45444cb7bf59cb8caf9b396960c6583383db04afb02fec37bd"
+ },
+ "Hirundo rustica|GAPDH": {
+  "status": "ok",
+  "acc": "XP_039910839.1",
+  "len": 333,
+  "file": "data/controls7b/Hirundo_rustica__GAPDH.fa",
+  "sha256": "8d806b141e906656f6ffeeba5ce1a79ad131bf8b1ce5305b4ad81400b6b142c7"
+ },
+ "Hydrobates castro|PKM": {
+  "status": "miss"
+ },
+ "Hydrobates castro|LDHA": {
+  "status": "miss"
+ },
+ "Hydrobates castro|RHO": {
+  "status": "miss"
+ },
+ "Hydrobates castro|OPN4": {
+  "status": "miss"
+ },
+ "Hydrobates castro|GAPDH": {
+  "status": "miss"
+ },
+ "Indicator indicator|PKM": {
+  "status": "ok",
+  "acc": "XP_054244154.1",
+  "len": 530,
+  "file": "data/controls7b/Indicator_indicator__PKM.fa",
+  "sha256": "1d33f2b8d28984274c0c75321c17159700879a3eb323f532ceaa6c9f13348b59"
+ },
+ "Indicator indicator|LDHA": {
+  "status": "miss"
+ },
+ "Indicator indicator|RHO": {
+  "status": "ok",
+  "acc": "XP_054243321.1",
+  "len": 351,
+  "file": "data/controls7b/Indicator_indicator__RHO.fa",
+  "sha256": "332bb93bded9c233ecb052d35cde4cac9c993041ac0c37496652fbb45311d7e0"
+ },
+ "Indicator indicator|OPN4": {
+  "status": "ok",
+  "acc": "XP_054238683.1",
+  "len": 564,
+  "file": "data/controls7b/Indicator_indicator__OPN4.fa",
+  "sha256": "9c9c5eceef56c68da0a5be08a9764ec1ef0469f27b37fdd0afcacb0d2ffe3786"
+ },
+ "Indicator indicator|GAPDH": {
+  "status": "ok",
+  "acc": "XP_054243029.1",
+  "len": 333,
+  "file": "data/controls7b/Indicator_indicator__GAPDH.fa",
+  "sha256": "21010e8e8e31cfc01ecfe3b3586e94b4bf73e448cd67522e7887fb74b60e290a"
+ },
+ "Lagopus leucura|PKM": {
+  "status": "ok",
+  "acc": "XP_042741621.1",
+  "len": 530,
+  "file": "data/controls7b/Lagopus_leucura__PKM.fa",
+  "sha256": "75d92b8f5cd075597dc65e187382d8e27c2b81e6d25c2bcc4fe0823cb843e13b"
+ },
+ "Lagopus leucura|LDHA": {
+  "status": "miss"
+ },
+ "Lagopus leucura|RHO": {
+  "status": "ok",
+  "acc": "XP_042736787.1",
+  "len": 351,
+  "file": "data/controls7b/Lagopus_leucura__RHO.fa",
+  "sha256": "623b301822139819132ee064637daf7449ca08256a87ae3183c1c84ec47f7021"
+ },
+ "Lagopus leucura|OPN4": {
+  "status": "ok",
+  "acc": "XP_042719050.1",
+  "len": 530,
+  "file": "data/controls7b/Lagopus_leucura__OPN4.fa",
+  "sha256": "af2190277785b9dfd46b4285a6681aa745992f0345bb4fd6d626fbd0432fe77c"
+ },
+ "Lagopus leucura|GAPDH": {
+  "status": "ok",
+  "acc": "XP_042723002.1",
+  "len": 333,
+  "file": "data/controls7b/Lagopus_leucura__GAPDH.fa",
+  "sha256": "17cce2672a06db4fb44e1c91f848e262b0198d81a30b4f39e6bc64c269b03c77"
+ },
+ "Lagopus muta|PKM": {
+  "status": "ok",
+  "acc": "XP_048812096.1",
+  "len": 530,
+  "file": "data/controls7b/Lagopus_muta__PKM.fa",
+  "sha256": "713f9c691c3ab37d74ead031e626f6f82094bb5489a00e264170d678cab7d7f0"
+ },
+ "Lagopus muta|LDHA": {
+  "status": "miss"
+ },
+ "Lagopus muta|RHO": {
+  "status": "ok",
+  "acc": "XP_048813145.1",
+  "len": 351,
+  "file": "data/controls7b/Lagopus_muta__RHO.fa",
+  "sha256": "2d84f691f241d70d169a118dc43474d80f9bea125969db756f10fee4d7075c6c"
+ },
+ "Lagopus muta|OPN4": {
+  "status": "ok",
+  "acc": "XP_048800216.1",
+  "len": 530,
+  "file": "data/controls7b/Lagopus_muta__OPN4.fa",
+  "sha256": "2f71aeba4895aeaa445afc9b3a19966a0bffda07869a3bdf24056afd91d66a21"
+ },
+ "Lagopus muta|GAPDH": {
+  "status": "ok",
+  "acc": "XP_048784931.1",
+  "len": 333,
+  "file": "data/controls7b/Lagopus_muta__GAPDH.fa",
+  "sha256": "3b4660b33af42a75516cf86bee930152e1dd7c8ef6a0606cc9350e658704aa73"
+ },
+ "Larus argentatus|PKM": {
+  "status": "ok",
+  "acc": "XP_081986707.1",
+  "len": 575,
+  "file": "data/controls7b/Larus_argentatus__PKM.fa",
+  "sha256": "89460b913ab1d8e75dd22cbb7ee35b1c1a430f7fe54fb4c57434ae4178730c31"
+ },
+ "Larus argentatus|LDHA": {
+  "status": "ok",
+  "acc": "XP_081966268.1",
+  "len": 332,
+  "file": "data/controls7b/Larus_argentatus__LDHA.fa",
+  "sha256": "83f8032ee29f637deba09fc0224e52374ccd67707d28a548f4ef19006976d376"
+ },
+ "Larus argentatus|RHO": {
+  "status": "ok",
+  "acc": "XP_081989623.1",
+  "len": 351,
+  "file": "data/controls7b/Larus_argentatus__RHO.fa",
+  "sha256": "16f525baa73ac600c3db8335be01601587357e6e7e832225598c5f8ffb89ec4d"
+ },
+ "Larus argentatus|OPN4": {
+  "status": "ok",
+  "acc": "XP_081975333.1",
+  "len": 528,
+  "file": "data/controls7b/Larus_argentatus__OPN4.fa",
+  "sha256": "a532733036088241aa5d3c2275f301ae2ad5fb3ce50255f6694bc3d6b7aa6418"
+ },
+ "Larus argentatus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_081987904.1",
+  "len": 333,
+  "file": "data/controls7b/Larus_argentatus__GAPDH.fa",
+  "sha256": "994abd27abb81d327290fe7e5210a26576fef85df5cfbcbe6421437467474858"
+ },
+ "Larus michahellis|PKM": {
+  "status": "ok",
+  "acc": "XP_074456955.1",
+  "len": 575,
+  "file": "data/controls7b/Larus_michahellis__PKM.fa",
+  "sha256": "51bfebbbccec5e4ae91e27347a5ba0900f1111951b623a9063198683c594db24"
+ },
+ "Larus michahellis|LDHA": {
+  "status": "ok",
+  "acc": "XP_074441885.1",
+  "len": 332,
+  "file": "data/controls7b/Larus_michahellis__LDHA.fa",
+  "sha256": "18560d971847be2b956fbe95ca49de35844efc6895eaf1b4eaf1764bb6af4559"
+ },
+ "Larus michahellis|RHO": {
+  "status": "ok",
+  "acc": "XP_074458586.1",
+  "len": 351,
+  "file": "data/controls7b/Larus_michahellis__RHO.fa",
+  "sha256": "f8954a9e7ff3f69f9c5c222d89eeca2c7a32a31027acf1c9a1b65758f008e2f6"
+ },
+ "Larus michahellis|OPN4": {
+  "status": "ok",
+  "acc": "XP_074447149.1",
+  "len": 515,
+  "file": "data/controls7b/Larus_michahellis__OPN4.fa",
+  "sha256": "ce30d31d835f0da5906a34d073c0dbd7aa35a9f95c468a87dfd47375213ceabb"
+ },
+ "Larus michahellis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074449142.1",
+  "len": 333,
+  "file": "data/controls7b/Larus_michahellis__GAPDH.fa",
+  "sha256": "7391e03816f82eac93d757a39b0f71bcef782774e137c1d79948f9cb87e32f53"
+ },
+ "Lathamus discolor|PKM": {
+  "status": "ok",
+  "acc": "XP_065544098.1",
+  "len": 530,
+  "file": "data/controls7b/Lathamus_discolor__PKM.fa",
+  "sha256": "3e49743992f677935a888f4690d2d67bf8a9dbd56d1975de68079d27e902a26d"
+ },
+ "Lathamus discolor|LDHA": {
+  "status": "miss"
+ },
+ "Lathamus discolor|RHO": {
+  "status": "ok",
+  "acc": "XP_065543018.1",
+  "len": 448,
+  "file": "data/controls7b/Lathamus_discolor__RHO.fa",
+  "sha256": "6458f14246ba8a032f3943b917c75e70bc77087afe32e7430e71c137336d37d2"
+ },
+ "Lathamus discolor|OPN4": {
+  "status": "ok",
+  "acc": "XP_065528889.1",
+  "len": 528,
+  "file": "data/controls7b/Lathamus_discolor__OPN4.fa",
+  "sha256": "3b17b82120c41af0e67df81fb5a5352d64e6d6591c43d4770e5014d0615ad680"
+ },
+ "Lathamus discolor|GAPDH": {
+  "status": "ok",
+  "acc": "XP_065532363.1",
+  "len": 407,
+  "file": "data/controls7b/Lathamus_discolor__GAPDH.fa",
+  "sha256": "e2258a38ab9bf33755907e1c3d5ad4fd5ef4e24ac833b7a69fe34101e8ccc82d"
+ },
+ "Lepidothrix coronata|PKM": {
+  "status": "ok",
+  "acc": "XP_017672311.1",
+  "len": 550,
+  "file": "data/controls7b/Lepidothrix_coronata__PKM.fa",
+  "sha256": "3011b2eaaed84a41445ddbba3c53e67f5a42387f9069a06b4d519a2e76808cd1"
+ },
+ "Lepidothrix coronata|LDHA": {
+  "status": "miss"
+ },
+ "Lepidothrix coronata|RHO": {
+  "status": "ok",
+  "acc": "XP_017682534.1",
+  "len": 351,
+  "file": "data/controls7b/Lepidothrix_coronata__RHO.fa",
+  "sha256": "bd1a22b9bbec0c590490cb1568080bd5acbe7ec4a4cccb49fe8dda36f6835f81"
+ },
+ "Lepidothrix coronata|OPN4": {
+  "status": "ok",
+  "acc": "XP_017662574.1",
+  "len": 524,
+  "file": "data/controls7b/Lepidothrix_coronata__OPN4.fa",
+  "sha256": "0e8371f350dd02bebe07192281ac6eb712ef0b0907e0f5f5b6355bbcd510066f"
+ },
+ "Lepidothrix coronata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_017670146.1",
+  "len": 333,
+  "file": "data/controls7b/Lepidothrix_coronata__GAPDH.fa",
+  "sha256": "e7cad132251b5f7a5957e55fb6fb87d43c0ab2537f013d24ffebf063743c2f6f"
+ },
+ "Leptosomus discolor|PKM": {
+  "status": "ok",
+  "acc": "XP_086327761.1",
+  "len": 550,
+  "file": "data/controls7b/Leptosomus_discolor__PKM.fa",
+  "sha256": "8408dcc165bdf4db091dd2986c5f815e0d755ce1f11baf93c01bcdbfd2704f34"
+ },
+ "Leptosomus discolor|LDHA": {
+  "status": "miss"
+ },
+ "Leptosomus discolor|RHO": {
+  "status": "ok",
+  "acc": "XP_086326394.1",
+  "len": 351,
+  "file": "data/controls7b/Leptosomus_discolor__RHO.fa",
+  "sha256": "5d706a19e2e0191a54ddfb35c2e2c6facd1935461990857177e909a3cfaccdef"
+ },
+ "Leptosomus discolor|OPN4": {
+  "status": "ok",
+  "acc": "XP_086322537.1",
+  "len": 527,
+  "file": "data/controls7b/Leptosomus_discolor__OPN4.fa",
+  "sha256": "95b3845e485e5861bca0271885ca842ed274e36c36a7e3cd2ce8e0cc3754fa0e"
+ },
+ "Leptosomus discolor|GAPDH": {
+  "status": "ok",
+  "acc": "XP_086334623.1",
+  "len": 333,
+  "file": "data/controls7b/Leptosomus_discolor__GAPDH.fa",
+  "sha256": "71b14d023db8bd870eedd20c9825acf0afc53f449b5f3063244a6598360b88d5"
+ },
+ "Lichenostomus cassidix|PKM": {
+  "status": "ok",
+  "acc": "XP_084927210.1",
+  "len": 550,
+  "file": "data/controls7b/Lichenostomus_cassidix__PKM.fa",
+  "sha256": "ff676d17d59f9411b115317b7268bd9e0466f334b0e66076f660f62aeb034267"
+ },
+ "Lichenostomus cassidix|LDHA": {
+  "status": "miss"
+ },
+ "Lichenostomus cassidix|RHO": {
+  "status": "ok",
+  "acc": "XP_084928321.1",
+  "len": 351,
+  "file": "data/controls7b/Lichenostomus_cassidix__RHO.fa",
+  "sha256": "09cdb6545fbc32e2b5bbf3d59cee33de9386ff62faa5be695d8ac51378e8adb4"
+ },
+ "Lichenostomus cassidix|OPN4": {
+  "status": "ok",
+  "acc": "XP_084920292.1",
+  "len": 534,
+  "file": "data/controls7b/Lichenostomus_cassidix__OPN4.fa",
+  "sha256": "25912acc803728cdada65e186da96811dd3a7d28d003b73bf8ce6b325a77f157"
+ },
+ "Lichenostomus cassidix|GAPDH": {
+  "status": "ok",
+  "acc": "XP_084925401.1",
+  "len": 333,
+  "file": "data/controls7b/Lichenostomus_cassidix__GAPDH.fa",
+  "sha256": "acd0714377e015975a6b2edacb0a6b9f84aa83a3a8a9110b5ef8ef65ac18f5ac"
+ },
+ "Lonchura punctulata|PKM": {
+  "status": "miss"
+ },
+ "Lonchura punctulata|LDHA": {
+  "status": "miss"
+ },
+ "Lonchura punctulata|RHO": {
+  "status": "miss"
+ },
+ "Lonchura punctulata|OPN4": {
+  "status": "miss"
+ },
+ "Lonchura punctulata|GAPDH": {
+  "status": "miss"
+ },
+ "Lonchura striata|PKM": {
+  "status": "ok",
+  "acc": "XP_085444699.1",
+  "len": 575,
+  "file": "data/controls7b/Lonchura_striata__PKM.fa",
+  "sha256": "36a9418bcdf8207aa05394da3bf0335c5309c227a7d6eadcabe6ad644f94b7a4"
+ },
+ "Lonchura striata|LDHA": {
+  "status": "miss"
+ },
+ "Lonchura striata|RHO": {
+  "status": "ok",
+  "acc": "XP_021398204.1",
+  "len": 351,
+  "file": "data/controls7b/Lonchura_striata__RHO.fa",
+  "sha256": "b6a4c5c9bbb639f00a1181d966aae6816864fe3a42f62b7625079c7f39e5997f"
+ },
+ "Lonchura striata|OPN4": {
+  "status": "ok",
+  "acc": "XP_085439430.1",
+  "len": 511,
+  "file": "data/controls7b/Lonchura_striata__OPN4.fa",
+  "sha256": "e594a087581dc4f0bda91ee5e9d0ca5724eb039d43ace948289177a4a115a3f4"
+ },
+ "Lonchura striata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_085448117.1",
+  "len": 349,
+  "file": "data/controls7b/Lonchura_striata__GAPDH.fa",
+  "sha256": "b2363f0996ccec4cb4ff02b199c3bfca311882e524049c961fd52af3c8e23f36"
+ },
+ "Malurus melanocephalus|PKM": {
+  "status": "ok",
+  "acc": "XP_057234698.1",
+  "len": 550,
+  "file": "data/controls7b/Malurus_melanocephalus__PKM.fa",
+  "sha256": "c20ad473e27a93e04986ad31882fbf0733943e88ee3d07a6379ab3b5a69c8470"
+ },
+ "Malurus melanocephalus|LDHA": {
+  "status": "miss"
+ },
+ "Malurus melanocephalus|RHO": {
+  "status": "ok",
+  "acc": "XP_057239092.1",
+  "len": 351,
+  "file": "data/controls7b/Malurus_melanocephalus__RHO.fa",
+  "sha256": "1a2433ae7931c398b3a74031d55543789b6223ddae8ad0eec7d91df8117b1908"
+ },
+ "Malurus melanocephalus|OPN4": {
+  "status": "ok",
+  "acc": "XP_057227394.1",
+  "len": 513,
+  "file": "data/controls7b/Malurus_melanocephalus__OPN4.fa",
+  "sha256": "b1f6c9acacd7325f04a959339e96b29b7516a1d20456957e1c64a55926a657c0"
+ },
+ "Malurus melanocephalus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_057224162.1",
+  "len": 530,
+  "file": "data/controls7b/Malurus_melanocephalus__GAPDH.fa",
+  "sha256": "b7c52d04bb861eb2d4207f5507e4dfb626214d7a47ea0c15688a4d37ae726cce"
+ },
+ "Manacus candei|PKM": {
+  "status": "ok",
+  "acc": "XP_051652391.1",
+  "len": 550,
+  "file": "data/controls7b/Manacus_candei__PKM.fa",
+  "sha256": "cefa2a3dae4fe6f3f7e72210b9067b75834e9169090949c390e66d4b79d7b440"
+ },
+ "Manacus candei|LDHA": {
+  "status": "miss"
+ },
+ "Manacus candei|RHO": {
+  "status": "ok",
+  "acc": "XP_051644442.1",
+  "len": 351,
+  "file": "data/controls7b/Manacus_candei__RHO.fa",
+  "sha256": "e84afa4c3c9d1b456eeb3489684a28b370f99d809ac2f849feecebb45a0e1c37"
+ },
+ "Manacus candei|OPN4": {
+  "status": "ok",
+  "acc": "XP_051655807.1",
+  "len": 453,
+  "file": "data/controls7b/Manacus_candei__OPN4.fa",
+  "sha256": "6a046e1faf2828bb7917292ac29b58d2abe497440f7ce7c5b54da11fff0261bc"
+ },
+ "Manacus candei|GAPDH": {
+  "status": "ok",
+  "acc": "XP_051636802.1",
+  "len": 333,
+  "file": "data/controls7b/Manacus_candei__GAPDH.fa",
+  "sha256": "aa405168ca98f492ec6cf428f49a987677106a755addb19aa23fe4ee8c8983e1"
+ },
+ "Manacus vitellinus|PKM": {
+  "status": "ok",
+  "acc": "XP_017925353.2",
+  "len": 550,
+  "file": "data/controls7b/Manacus_vitellinus__PKM.fa",
+  "sha256": "6349b4254a0ddeec87ce66c4f540fb171111ecfda11da22548210c31723510ed"
+ },
+ "Manacus vitellinus|LDHA": {
+  "status": "miss"
+ },
+ "Manacus vitellinus|RHO": {
+  "status": "ok",
+  "acc": "XP_008924565.1",
+  "len": 351,
+  "file": "data/controls7b/Manacus_vitellinus__RHO.fa",
+  "sha256": "1ff9129df416d1d3e0a6452685a12878433ae10440a0c7786aeb38782bbf3a4a"
+ },
+ "Manacus vitellinus|OPN4": {
+  "status": "ok",
+  "acc": "XP_017937061.2",
+  "len": 524,
+  "file": "data/controls7b/Manacus_vitellinus__OPN4.fa",
+  "sha256": "30fb893f2892875772f4c8725c08b1428723f224088239562975efa118b17ebb"
+ },
+ "Manacus vitellinus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_025751108.2",
+  "len": 293,
+  "file": "data/controls7b/Manacus_vitellinus__GAPDH.fa",
+  "sha256": "28c3b406f05f698180c2212500a9a77a2f40a0100403cf2d87be2e6aa26d4520"
+ },
+ "Melanerpes formicivorus|PKM": {
+  "status": "ok",
+  "acc": "XP_068000421.1",
+  "len": 530,
+  "file": "data/controls7b/Melanerpes_formicivorus__PKM.fa",
+  "sha256": "ba9e6a35d18c9afaeb1f56a9a360c0aafe6fccafeac72d8686e02442921affa5"
+ },
+ "Melanerpes formicivorus|LDHA": {
+  "status": "miss"
+ },
+ "Melanerpes formicivorus|RHO": {
+  "status": "ok",
+  "acc": "XP_068013828.1",
+  "len": 351,
+  "file": "data/controls7b/Melanerpes_formicivorus__RHO.fa",
+  "sha256": "e85103d0376d465fc318cec51d183e8e53003682f21f7df3eb1bab37b749a0de"
+ },
+ "Melanerpes formicivorus|OPN4": {
+  "status": "ok",
+  "acc": "XP_067996128.1",
+  "len": 514,
+  "file": "data/controls7b/Melanerpes_formicivorus__OPN4.fa",
+  "sha256": "55eed4f21a570cc100c38791a856ea845ddd0b4af7babeadb08cbccbdbd0dfdd"
+ },
+ "Melanerpes formicivorus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_067998092.1",
+  "len": 333,
+  "file": "data/controls7b/Melanerpes_formicivorus__GAPDH.fa",
+  "sha256": "d1f7e5eef04e0548a10edac32e593af29e5eb9a4f9331f105d60ebc7d41eac7b"
+ },
+ "Meleagris gallopavo|PKM": {
+  "status": "ok",
+  "acc": "XP_085090635.1",
+  "len": 550,
+  "file": "data/controls7b/Meleagris_gallopavo__PKM.fa",
+  "sha256": "b9262aa07affb4f6ffb8f2109d8704a7e45d6a0fc603d0aa8894f0cc4f741055"
+ },
+ "Meleagris gallopavo|LDHA": {
+  "status": "ok",
+  "acc": "XP_010709371.4",
+  "len": 332,
+  "file": "data/controls7b/Meleagris_gallopavo__LDHA.fa",
+  "sha256": "36320eb17b38d205b5250c27da748d21ea2ea6e482f2f3d656cdd933c2c47bc9"
+ },
+ "Meleagris gallopavo|RHO": {
+  "status": "ok",
+  "acc": "XP_003210259.1",
+  "len": 351,
+  "file": "data/controls7b/Meleagris_gallopavo__RHO.fa",
+  "sha256": "481fa0b4ae8a229b06c974fd43659d1df3e6ae1915f9a39daa70458ee10df4e7"
+ },
+ "Meleagris gallopavo|OPN4": {
+  "status": "ok",
+  "acc": "XP_031410213.2",
+  "len": 528,
+  "file": "data/controls7b/Meleagris_gallopavo__OPN4.fa",
+  "sha256": "7c33bad9aae061399c734b9877ba9cc67fc871fa2d48d16c4ccdcb2750d3532d"
+ },
+ "Meleagris gallopavo|GAPDH": {
+  "status": "ok",
+  "acc": "NP_001290108.1",
+  "len": 333,
+  "file": "data/controls7b/Meleagris_gallopavo__GAPDH.fa",
+  "sha256": "2e28f7d4ed041400b93e209e255820168df747d426ac4aa1cf10e5ecf943df72"
+ },
+ "Melopsittacus undulatus|PKM": {
+  "status": "ok",
+  "acc": "XP_030910895.2",
+  "len": 550,
+  "file": "data/controls7b/Melopsittacus_undulatus__PKM.fa",
+  "sha256": "40d03a2aa93fc87d610fde8b2e3298fbb034e7da0e8b3020f43b38e2804dd67e"
+ },
+ "Melopsittacus undulatus|LDHA": {
+  "status": "ok",
+  "acc": "XP_030908473.1",
+  "len": 332,
+  "file": "data/controls7b/Melopsittacus_undulatus__LDHA.fa",
+  "sha256": "7cf6c4d6d6530a283a3859c1101df8bde522a4fe9a20197932d80039c182a844"
+ },
+ "Melopsittacus undulatus|RHO": {
+  "status": "ok",
+  "acc": "XP_012983668.1",
+  "len": 369,
+  "file": "data/controls7b/Melopsittacus_undulatus__RHO.fa",
+  "sha256": "9ce65ea2f88e37edb6829b5b3ebf4c1bb5567cc12e4e631100706ffe27b8e0a1"
+ },
+ "Melopsittacus undulatus|OPN4": {
+  "status": "ok",
+  "acc": "XP_033917212.1",
+  "len": 559,
+  "file": "data/controls7b/Melopsittacus_undulatus__OPN4.fa",
+  "sha256": "c032877289832517a3e076a90fcf0f6af709e0f18fab3a479cae26938528d1e3"
+ },
+ "Melopsittacus undulatus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_033928949.1",
+  "len": 333,
+  "file": "data/controls7b/Melopsittacus_undulatus__GAPDH.fa",
+  "sha256": "1d2e4d429a0ae91b17b0cdff94c01a793cc08deec6a6106bb3fde04fc8b9c78e"
+ },
+ "Melospiza georgiana|PKM": {
+  "status": "ok",
+  "acc": "XP_057889111.1",
+  "len": 548,
+  "file": "data/controls7b/Melospiza_georgiana__PKM.fa",
+  "sha256": "57a7ad1f10d3ef7eeebc64d836be96bd9252971bae325343a7285d7a15643cfe"
+ },
+ "Melospiza georgiana|LDHA": {
+  "status": "ok",
+  "acc": "XP_057882760.1",
+  "len": 331,
+  "file": "data/controls7b/Melospiza_georgiana__LDHA.fa",
+  "sha256": "91f199ff99427a96b37e466433d8092b810b00a341878049b52fed016d8c30a1"
+ },
+ "Melospiza georgiana|RHO": {
+  "status": "ok",
+  "acc": "XP_057887887.1",
+  "len": 351,
+  "file": "data/controls7b/Melospiza_georgiana__RHO.fa",
+  "sha256": "a5a883a0553f8d2f123df77a0015ca8ffbb0b55491cc48a74ed8a4ab8e21f1ea"
+ },
+ "Melospiza georgiana|OPN4": {
+  "status": "ok",
+  "acc": "XP_057884873.1",
+  "len": 525,
+  "file": "data/controls7b/Melospiza_georgiana__OPN4.fa",
+  "sha256": "b5c566eb1927ead58210682b99021dcd517cbf1c14eb2457b21496f9471ba94b"
+ },
+ "Melospiza georgiana|GAPDH": {
+  "status": "ok",
+  "acc": "XP_057901542.1",
+  "len": 632,
+  "file": "data/controls7b/Melospiza_georgiana__GAPDH.fa",
+  "sha256": "1b84802fa73e1dcd1d56331f46287a205fe43d98651ac64df0f53a4d9a22d921"
+ },
+ "Melospiza melodia melodia|PKM": {
+  "status": "ok",
+  "acc": "XP_063025432.1",
+  "len": 581,
+  "file": "data/controls7b/Melospiza_melodia_melodia__PKM.fa",
+  "sha256": "eec87af78515dc85fbad12e10f27dee943887c04d4ee88765107c68a7c27f337"
+ },
+ "Melospiza melodia melodia|LDHA": {
+  "status": "miss"
+ },
+ "Melospiza melodia melodia|RHO": {
+  "status": "ok",
+  "acc": "XP_063020390.1",
+  "len": 351,
+  "file": "data/controls7b/Melospiza_melodia_melodia__RHO.fa",
+  "sha256": "93a4d9438e1b5742c99207154740e7635590062bddd12ccab8ea353b935c2de9"
+ },
+ "Melospiza melodia melodia|OPN4": {
+  "status": "ok",
+  "acc": "XP_063020063.1",
+  "len": 525,
+  "file": "data/controls7b/Melospiza_melodia_melodia__OPN4.fa",
+  "sha256": "3c83d22b21b8fb7c8956e9182eb129efb03067eeb12abd338f9e413a752cae96"
+ },
+ "Melospiza melodia melodia|GAPDH": {
+  "status": "ok",
+  "acc": "XP_063006376.1",
+  "len": 668,
+  "file": "data/controls7b/Melospiza_melodia_melodia__GAPDH.fa",
+  "sha256": "719cfe4261d381b62f09919fdccd10e25543e4fd2c51fcaa322f955691b36d34"
+ },
+ "Melozone crissalis|PKM": {
+  "status": "ok",
+  "acc": "XP_054128443.1",
+  "len": 548,
+  "file": "data/controls7b/Melozone_crissalis__PKM.fa",
+  "sha256": "317f616c7b33df4eed72142d3c8f692b7c35ad3bd7829f17b9d76168fa06b931"
+ },
+ "Melozone crissalis|LDHA": {
+  "status": "miss"
+ },
+ "Melozone crissalis|RHO": {
+  "status": "ok",
+  "acc": "XP_054136838.1",
+  "len": 351,
+  "file": "data/controls7b/Melozone_crissalis__RHO.fa",
+  "sha256": "4f3d2475ed56ad5eb970700fb2ef5db010f39dca9c00cfe048e683516988fe8b"
+ },
+ "Melozone crissalis|OPN4": {
+  "status": "ok",
+  "acc": "XP_054132829.1",
+  "len": 525,
+  "file": "data/controls7b/Melozone_crissalis__OPN4.fa",
+  "sha256": "cce0449307aaaa6775056c6aad95d61f02d2a00c2dc8b558bc8aab5e057f7d02"
+ },
+ "Melozone crissalis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_054126136.1",
+  "len": 560,
+  "file": "data/controls7b/Melozone_crissalis__GAPDH.fa",
+  "sha256": "e639bb04fefa508089a1f88bf6c2bce1f58b00dec4359d96abf808aa34c01a1d"
+ },
+ "Merops nubicus|PKM": {
+  "status": "miss"
+ },
+ "Merops nubicus|LDHA": {
+  "status": "miss"
+ },
+ "Merops nubicus|RHO": {
+  "status": "miss"
+ },
+ "Merops nubicus|OPN4": {
+  "status": "miss"
+ },
+ "Merops nubicus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_008938975.1",
+  "len": 380,
+  "file": "data/controls7b/Merops_nubicus__GAPDH.fa",
+  "sha256": "c1502a88e59cf5b284cce58060841e5eafce46c6fc741db82ee8cf648d21cd15"
+ },
+ "Mesitornis unicolor|PKM": {
+  "status": "ok",
+  "acc": "XP_010183475.1",
+  "len": 550,
+  "file": "data/controls7b/Mesitornis_unicolor__PKM.fa",
+  "sha256": "ebfce184f5889dcb513ffc45283ea6f110c618f59a9ca3fb3f3c9e0c0b1e1994"
+ },
+ "Mesitornis unicolor|LDHA": {
+  "status": "miss"
+ },
+ "Mesitornis unicolor|RHO": {
+  "status": "ok",
+  "acc": "XP_010187222.1",
+  "len": 327,
+  "file": "data/controls7b/Mesitornis_unicolor__RHO.fa",
+  "sha256": "7ccca862953f4ea40fb34a9c11b1b045ab168915dbb0000f5ccda82e938f36d6"
+ },
+ "Mesitornis unicolor|OPN4": {
+  "status": "miss"
+ },
+ "Mesitornis unicolor|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010188430.1",
+  "len": 339,
+  "file": "data/controls7b/Mesitornis_unicolor__GAPDH.fa",
+  "sha256": "3ea8d7c417887c6cc6f8b5353279ff3bf92fc8a16227561686c8f1f295b86e3f"
+ },
+ "Molothrus aeneus|PKM": {
+  "status": "ok",
+  "acc": "XP_066415117.1",
+  "len": 528,
+  "file": "data/controls7b/Molothrus_aeneus__PKM.fa",
+  "sha256": "c4646e6e8c073b10cd1cc81a4bd5f838a4ea917be261e28afc93087d5ac4ee76"
+ },
+ "Molothrus aeneus|LDHA": {
+  "status": "miss"
+ },
+ "Molothrus aeneus|RHO": {
+  "status": "ok",
+  "acc": "XP_066414027.1",
+  "len": 351,
+  "file": "data/controls7b/Molothrus_aeneus__RHO.fa",
+  "sha256": "2a558582bcd3d64a3f5437c790858700d485cf123d5397be0672059b8e149915"
+ },
+ "Molothrus aeneus|OPN4": {
+  "status": "ok",
+  "acc": "XP_066410285.1",
+  "len": 556,
+  "file": "data/controls7b/Molothrus_aeneus__OPN4.fa",
+  "sha256": "cdd06a74ce08fe05e87811823b487402d01a27482218e74cbe11ea4367bce70d"
+ },
+ "Molothrus aeneus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_066428251.1",
+  "len": 311,
+  "file": "data/controls7b/Molothrus_aeneus__GAPDH.fa",
+  "sha256": "98892b851b315d64a53a60508bda73775fff8864f10fdd6274dfc880b5f4f951"
+ },
+ "Molothrus ater|PKM": {
+  "status": "ok",
+  "acc": "XP_036245801.2",
+  "len": 528,
+  "file": "data/controls7b/Molothrus_ater__PKM.fa",
+  "sha256": "72583a2cec192b7a4d5d216635f040ef55531dd8b3ffc3d3d7bfceba10d37436"
+ },
+ "Molothrus ater|LDHA": {
+  "status": "miss"
+ },
+ "Molothrus ater|RHO": {
+  "status": "ok",
+  "acc": "XP_036246843.1",
+  "len": 351,
+  "file": "data/controls7b/Molothrus_ater__RHO.fa",
+  "sha256": "88d0d04cc2c74b07683e261675cbb7e4db6cc8fc8b1b39eae0565385b9c8679b"
+ },
+ "Molothrus ater|OPN4": {
+  "status": "ok",
+  "acc": "XP_036241533.1",
+  "len": 556,
+  "file": "data/controls7b/Molothrus_ater__OPN4.fa",
+  "sha256": "fb7daafc752954ff6141a21eb284d9da924a2a581132d108d5eb4069346d9f5b"
+ },
+ "Molothrus ater|GAPDH": {
+  "status": "ok",
+  "acc": "XP_036246284.2",
+  "len": 311,
+  "file": "data/controls7b/Molothrus_ater__GAPDH.fa",
+  "sha256": "8f3ef4962f0ee4561e8988ac97a96fb47be7aa4d5fa3e260ec9e457447429941"
+ },
+ "Motacilla alba alba|PKM": {
+  "status": "ok",
+  "acc": "XP_038002962.1",
+  "len": 550,
+  "file": "data/controls7b/Motacilla_alba_alba__PKM.fa",
+  "sha256": "cac5dcd5c80fe2033697e5f62d7935afcb85ef55e2262336bd841d87ef505b76"
+ },
+ "Motacilla alba alba|LDHA": {
+  "status": "miss"
+ },
+ "Motacilla alba alba|RHO": {
+  "status": "ok",
+  "acc": "XP_038004954.1",
+  "len": 351,
+  "file": "data/controls7b/Motacilla_alba_alba__RHO.fa",
+  "sha256": "7c45911007b6e4c5d8bc9413e157ded02fa8d2e92b25e5ce4a8998119b7b0fad"
+ },
+ "Motacilla alba alba|OPN4": {
+  "status": "ok",
+  "acc": "XP_037997032.1",
+  "len": 523,
+  "file": "data/controls7b/Motacilla_alba_alba__OPN4.fa",
+  "sha256": "a6ed4e17a31998b8ec8d63f0cbc50e0b4348371af9609fdeabe3591f97e05b74"
+ },
+ "Motacilla alba alba|GAPDH": {
+  "status": "ok",
+  "acc": "XP_038013078.1",
+  "len": 527,
+  "file": "data/controls7b/Motacilla_alba_alba__GAPDH.fa",
+  "sha256": "42a92940d8a501b8f77624d55b2f2f15ce2cd1c5c586284760a3f0c86c2b8583"
+ },
+ "Mycteria americana|PKM": {
+  "status": "ok",
+  "acc": "XP_075361705.1",
+  "len": 550,
+  "file": "data/controls7b/Mycteria_americana__PKM.fa",
+  "sha256": "a82b7733ad7169c9222dca528669ce112ed4e47b88c4924139a021a9210a96b5"
+ },
+ "Mycteria americana|LDHA": {
+  "status": "miss"
+ },
+ "Mycteria americana|RHO": {
+  "status": "ok",
+  "acc": "XP_075369887.1",
+  "len": 351,
+  "file": "data/controls7b/Mycteria_americana__RHO.fa",
+  "sha256": "1864415357832757c0dff0628bb2c04671e263835fc079ebce3bd418bdce0dcf"
+ },
+ "Mycteria americana|OPN4": {
+  "status": "ok",
+  "acc": "XP_075360248.1",
+  "len": 528,
+  "file": "data/controls7b/Mycteria_americana__OPN4.fa",
+  "sha256": "7a85ca5c7dfe742c2db9e2bddb22b0bc362af8be30fe926b5ba63e87ab4cff38"
+ },
+ "Mycteria americana|GAPDH": {
+  "status": "ok",
+  "acc": "XP_075367408.1",
+  "len": 333,
+  "file": "data/controls7b/Mycteria_americana__GAPDH.fa",
+  "sha256": "7aa0938ff39d2fdae1ece8872b2b744b16998e4629094691ae0c4d7bebbebeb6"
+ },
+ "Myiozetetes cayanensis|PKM": {
+  "status": "ok",
+  "acc": "XP_050165173.1",
+  "len": 550,
+  "file": "data/controls7b/Myiozetetes_cayanensis__PKM.fa",
+  "sha256": "9e7150ace414fdddcce25df55e5389ec25f477b85387c8e9955318579a71d218"
+ },
+ "Myiozetetes cayanensis|LDHA": {
+  "status": "ok",
+  "acc": "XP_050190824.1",
+  "len": 332,
+  "file": "data/controls7b/Myiozetetes_cayanensis__LDHA.fa",
+  "sha256": "9ba358eeb1437db2399869e5739ad6045368e2e586187f6635b739db5a11d5a5"
+ },
+ "Myiozetetes cayanensis|RHO": {
+  "status": "ok",
+  "acc": "XP_050168689.1",
+  "len": 351,
+  "file": "data/controls7b/Myiozetetes_cayanensis__RHO.fa",
+  "sha256": "d3778bf58613da70af1f7e187de8c914f726e943d6783afb5634949e70affb81"
+ },
+ "Myiozetetes cayanensis|OPN4": {
+  "status": "ok",
+  "acc": "XP_050161498.1",
+  "len": 515,
+  "file": "data/controls7b/Myiozetetes_cayanensis__OPN4.fa",
+  "sha256": "fd863549cb0d20b4073fa64d2784f5a508b2d3713af92fce2c9c48d2a4fd023a"
+ },
+ "Myiozetetes cayanensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_050187178.1",
+  "len": 333,
+  "file": "data/controls7b/Myiozetetes_cayanensis__GAPDH.fa",
+  "sha256": "09dd803568dae3d95a18154f99dcf4677c3c1477358caa24e77f83f0c99ed84a"
+ },
+ "Neopelma chrysocephalum|PKM": {
+  "status": "ok",
+  "acc": "XP_027553742.1",
+  "len": 550,
+  "file": "data/controls7b/Neopelma_chrysocephalum__PKM.fa",
+  "sha256": "f740afbebff430bea5bbd3af1be7d19cf074e6a139edbecc55919d51e50ea905"
+ },
+ "Neopelma chrysocephalum|LDHA": {
+  "status": "miss"
+ },
+ "Neopelma chrysocephalum|RHO": {
+  "status": "ok",
+  "acc": "XP_027558435.1",
+  "len": 351,
+  "file": "data/controls7b/Neopelma_chrysocephalum__RHO.fa",
+  "sha256": "8b6132677ab508029924e020f44da719024b7c114716a0f07b83890ef9d3f2ff"
+ },
+ "Neopelma chrysocephalum|OPN4": {
+  "status": "ok",
+  "acc": "XP_027554472.1",
+  "len": 524,
+  "file": "data/controls7b/Neopelma_chrysocephalum__OPN4.fa",
+  "sha256": "cd29954c42a7be6f9ccab1f31afd812c0b50d4922275b0d8afe6d3f6f7935eaa"
+ },
+ "Neopelma chrysocephalum|GAPDH": {
+  "status": "ok",
+  "acc": "XP_027537141.1",
+  "len": 333,
+  "file": "data/controls7b/Neopelma_chrysocephalum__GAPDH.fa",
+  "sha256": "be0d614bcb730cac57f2652d72c1bc16f89d88176a11017930ed3d4935f65061"
+ },
+ "Neopsephotus bourkii|PKM": {
+  "status": "ok",
+  "acc": "XP_061205925.1",
+  "len": 550,
+  "file": "data/controls7b/Neopsephotus_bourkii__PKM.fa",
+  "sha256": "39b83387084332519b8e6a07ec3747ea7deca88ae2f01a84bee0528570f30bd9"
+ },
+ "Neopsephotus bourkii|LDHA": {
+  "status": "ok",
+  "acc": "XP_061198536.1",
+  "len": 332,
+  "file": "data/controls7b/Neopsephotus_bourkii__LDHA.fa",
+  "sha256": "7bf87847080148526b4e0b2cb8ad74121811efed5f83ca0aeba00d6e5188c982"
+ },
+ "Neopsephotus bourkii|RHO": {
+  "status": "ok",
+  "acc": "XP_061218516.1",
+  "len": 351,
+  "file": "data/controls7b/Neopsephotus_bourkii__RHO.fa",
+  "sha256": "2d1172655a38963ca24f754f4bc9a6b36be21113aa52f9d722c89c9f421c52a4"
+ },
+ "Neopsephotus bourkii|OPN4": {
+  "status": "ok",
+  "acc": "XP_061229780.1",
+  "len": 596,
+  "file": "data/controls7b/Neopsephotus_bourkii__OPN4.fa",
+  "sha256": "7e44c5f733b981c9940d0f5049eefbd5b5d159a3739721a57dd3ffa3d9d9acdd"
+ },
+ "Neopsephotus bourkii|GAPDH": {
+  "status": "ok",
+  "acc": "XP_061221598.1",
+  "len": 333,
+  "file": "data/controls7b/Neopsephotus_bourkii__GAPDH.fa",
+  "sha256": "73e68b138d037eab50afe071b46d0c812af684f5f5ad0faa67d7ae09719465d9"
+ },
+ "Nesoenas mayeri|PKM": {
+  "status": "ok",
+  "acc": "XP_080207549.1",
+  "len": 530,
+  "file": "data/controls7b/Nesoenas_mayeri__PKM.fa",
+  "sha256": "3f2c85dea321b40d0c9d82fb30131aa16e6d6a2d30a2b1fc486f2500bafae1c1"
+ },
+ "Nesoenas mayeri|LDHA": {
+  "status": "ok",
+  "acc": "XP_080201978.1",
+  "len": 332,
+  "file": "data/controls7b/Nesoenas_mayeri__LDHA.fa",
+  "sha256": "08e743138de098bcdcf4f6a26533b2b716d6e1dad6797fa912ef379236a3337e"
+ },
+ "Nesoenas mayeri|RHO": {
+  "status": "ok",
+  "acc": "XP_080206581.1",
+  "len": 351,
+  "file": "data/controls7b/Nesoenas_mayeri__RHO.fa",
+  "sha256": "08efd15f666c757f7c80f1ab3556e5beb9c11f10e56639837fc067ecf50ec687"
+ },
+ "Nesoenas mayeri|OPN4": {
+  "status": "ok",
+  "acc": "XP_080203888.1",
+  "len": 505,
+  "file": "data/controls7b/Nesoenas_mayeri__OPN4.fa",
+  "sha256": "21746ae2d3d931fcb95552889f38e66549d73a2cb9c9c8503a1ad7d057c534a1"
+ },
+ "Nesoenas mayeri|GAPDH": {
+  "status": "ok",
+  "acc": "XP_080213394.1",
+  "len": 333,
+  "file": "data/controls7b/Nesoenas_mayeri__GAPDH.fa",
+  "sha256": "c75efbb04729d559f74338405dcbfeeb7df229a134f2f3b4d2d710e5ff1ecdc9"
+ },
+ "Nestor notabilis|PKM": {
+  "status": "ok",
+  "acc": "XP_010019477.1",
+  "len": 550,
+  "file": "data/controls7b/Nestor_notabilis__PKM.fa",
+  "sha256": "dcc377bfc57ffaced3d37b6804d7d455bffc41aa6582526b2fcd9a33e1efbf45"
+ },
+ "Nestor notabilis|LDHA": {
+  "status": "miss"
+ },
+ "Nestor notabilis|RHO": {
+  "status": "miss"
+ },
+ "Nestor notabilis|OPN4": {
+  "status": "miss"
+ },
+ "Nestor notabilis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010009957.1",
+  "len": 325,
+  "file": "data/controls7b/Nestor_notabilis__GAPDH.fa",
+  "sha256": "f736f45c8d4c5f1a78880e12adb47e8fb09c401ff9762cac0d1863de37886cdd"
+ },
+ "Netta rufina|PKM": {
+  "status": "ok",
+  "acc": "XP_084149628.1",
+  "len": 530,
+  "file": "data/controls7b/Netta_rufina__PKM.fa",
+  "sha256": "7da5a8dc4783ebd9eff25b015cd93f8cf7d4a07e686d0abe9ed4fd1c008ed423"
+ },
+ "Netta rufina|LDHA": {
+  "status": "ok",
+  "acc": "XP_084144484.1",
+  "len": 332,
+  "file": "data/controls7b/Netta_rufina__LDHA.fa",
+  "sha256": "75f5c22d697ed480c879b6e55d563582e87cab611323b9ed6307d0beaf7d1acb"
+ },
+ "Netta rufina|RHO": {
+  "status": "ok",
+  "acc": "XP_084148582.1",
+  "len": 351,
+  "file": "data/controls7b/Netta_rufina__RHO.fa",
+  "sha256": "a6d432f68bfe8d2b845169b74a1c9d8e7db4b7adc758e58aeecc031ef898637f"
+ },
+ "Netta rufina|OPN4": {
+  "status": "ok",
+  "acc": "XP_084146691.1",
+  "len": 567,
+  "file": "data/controls7b/Netta_rufina__OPN4.fa",
+  "sha256": "cfcefe300812bb813fce38a067007a306d13f3fa1dc867b142067ee07928437c"
+ },
+ "Netta rufina|GAPDH": {
+  "status": "ok",
+  "acc": "XP_084140898.1",
+  "len": 333,
+  "file": "data/controls7b/Netta_rufina__GAPDH.fa",
+  "sha256": "cc5bcd24db3d188aefd60b64ef916fd1727ef3f27c9b61460bd1da4e7cede729"
+ },
+ "Nipponia nippon|PKM": {
+  "status": "ok",
+  "acc": "XP_087599818.1",
+  "len": 530,
+  "file": "data/controls7b/Nipponia_nippon__PKM.fa",
+  "sha256": "7eee510ea3aca6bfbe3609e8d686ebc7ab034a5e9bd66253145778c913f9fae2"
+ },
+ "Nipponia nippon|LDHA": {
+  "status": "miss"
+ },
+ "Nipponia nippon|RHO": {
+  "status": "ok",
+  "acc": "XP_009468207.1",
+  "len": 351,
+  "file": "data/controls7b/Nipponia_nippon__RHO.fa",
+  "sha256": "76bac5e444dd0d52f652f77e94fa3c9533046788daa97ec6c7a62123baa62184"
+ },
+ "Nipponia nippon|OPN4": {
+  "status": "ok",
+  "acc": "XP_087623738.1",
+  "len": 528,
+  "file": "data/controls7b/Nipponia_nippon__OPN4.fa",
+  "sha256": "045d12d06bfbf3cb9a2e5b91e8452cee9ae0bd94e378919a853550a7f2a11f48"
+ },
+ "Nipponia nippon|GAPDH": {
+  "status": "ok",
+  "acc": "XP_087614476.1",
+  "len": 333,
+  "file": "data/controls7b/Nipponia_nippon__GAPDH.fa",
+  "sha256": "89ab94933f01a07e36805c9d7b05e3e4990486a4fae00975667bbc488b427cd0"
+ },
+ "Nothoprocta perdicaria|PKM": {
+  "status": "ok",
+  "acc": "XP_025900893.1",
+  "len": 550,
+  "file": "data/controls7b/Nothoprocta_perdicaria__PKM.fa",
+  "sha256": "c0e0e09bbd0afb2408d4696b52b9d0b1e621a6ec473e11e6b3cbcad956b773be"
+ },
+ "Nothoprocta perdicaria|LDHA": {
+  "status": "ok",
+  "acc": "XP_025899942.1",
+  "len": 332,
+  "file": "data/controls7b/Nothoprocta_perdicaria__LDHA.fa",
+  "sha256": "77f3d0d80f4d6756fad20fccdbddd1c1b645383dce31fc3e72de3342d884199a"
+ },
+ "Nothoprocta perdicaria|RHO": {
+  "status": "ok",
+  "acc": "XP_025908305.1",
+  "len": 351,
+  "file": "data/controls7b/Nothoprocta_perdicaria__RHO.fa",
+  "sha256": "197b6d583be848f2d96e01b2c6804f1da3efb8f056eed05415a594758ea7e367"
+ },
+ "Nothoprocta perdicaria|OPN4": {
+  "status": "ok",
+  "acc": "XP_025898861.1",
+  "len": 505,
+  "file": "data/controls7b/Nothoprocta_perdicaria__OPN4.fa",
+  "sha256": "4fd9eea1933338b514145f0c94c0b8fe9b6d3d89428444756a4e6c40d5bb5d86"
+ },
+ "Nothoprocta perdicaria|GAPDH": {
+  "status": "ok",
+  "acc": "XP_025910063.1",
+  "len": 381,
+  "file": "data/controls7b/Nothoprocta_perdicaria__GAPDH.fa",
+  "sha256": "87dd7eb996445e8ca495615630ed509ce59c4d81c3413c42f04c268c92537de7"
+ },
+ "Numenius arquata|PKM": {
+  "status": "ok",
+  "acc": "XP_074011928.1",
+  "len": 550,
+  "file": "data/controls7b/Numenius_arquata__PKM.fa",
+  "sha256": "47b29c55a4e2738abae6b39589b92328653f30618add03309232191b140a9c1e"
+ },
+ "Numenius arquata|LDHA": {
+  "status": "miss"
+ },
+ "Numenius arquata|RHO": {
+  "status": "ok",
+  "acc": "XP_074007462.1",
+  "len": 369,
+  "file": "data/controls7b/Numenius_arquata__RHO.fa",
+  "sha256": "99322b8c4939159f06540fadd73b08c7c87aacf283acbce7ddd1be9038c86971"
+ },
+ "Numenius arquata|OPN4": {
+  "status": "ok",
+  "acc": "XP_074010940.1",
+  "len": 528,
+  "file": "data/controls7b/Numenius_arquata__OPN4.fa",
+  "sha256": "8a5ab7e18a081abfaef3c4531663bd21619cef27d46be973bb9b36743ca16cc4"
+ },
+ "Numenius arquata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074013660.1",
+  "len": 344,
+  "file": "data/controls7b/Numenius_arquata__GAPDH.fa",
+  "sha256": "d80b820a3c872819a7acd42b548d5ef47415931fe786bf6d11e0bdb842c7f783"
+ },
+ "Numida meleagris|PKM": {
+  "status": "ok",
+  "acc": "XP_021262711.1",
+  "len": 530,
+  "file": "data/controls7b/Numida_meleagris__PKM.fa",
+  "sha256": "9571ac159da536b3d07f88d522e09119b0dc3ce3f55811192d5fac91075c6202"
+ },
+ "Numida meleagris|LDHA": {
+  "status": "miss"
+ },
+ "Numida meleagris|RHO": {
+  "status": "ok",
+  "acc": "XP_021265618.1",
+  "len": 351,
+  "file": "data/controls7b/Numida_meleagris__RHO.fa",
+  "sha256": "75e9419240dc3b2be48df957257bf1e65d80f7718015146842d8c1cf77a70a20"
+ },
+ "Numida meleagris|OPN4": {
+  "status": "ok",
+  "acc": "XP_021255335.1",
+  "len": 528,
+  "file": "data/controls7b/Numida_meleagris__OPN4.fa",
+  "sha256": "da159a59da523163654220d919a40e9a1122b8e68c5a5bc8212eba1cf2d211f3"
+ },
+ "Numida meleagris|GAPDH": {
+  "status": "ok",
+  "acc": "XP_021252245.1",
+  "len": 333,
+  "file": "data/controls7b/Numida_meleagris__GAPDH.fa",
+  "sha256": "ea2cad276c801701cdb03cb0d69914a5c7e143041c3022043b3ee2fdb1a02c26"
+ },
+ "Nyctibius grandis|PKM": {
+  "status": "ok",
+  "acc": "XP_068266147.1",
+  "len": 550,
+  "file": "data/controls7b/Nyctibius_grandis__PKM.fa",
+  "sha256": "35c76c5bd19da73dc430bb6949882914f8dab0b9e50e73452bbea28a9e26d8fd"
+ },
+ "Nyctibius grandis|LDHA": {
+  "status": "miss"
+ },
+ "Nyctibius grandis|RHO": {
+  "status": "ok",
+  "acc": "XP_068264457.1",
+  "len": 351,
+  "file": "data/controls7b/Nyctibius_grandis__RHO.fa",
+  "sha256": "8651082c8e1fb67ed34eba68614a3ebee3d7cdfa47461ebfb54199e9fde02377"
+ },
+ "Nyctibius grandis|OPN4": {
+  "status": "ok",
+  "acc": "XP_068255496.1",
+  "len": 528,
+  "file": "data/controls7b/Nyctibius_grandis__OPN4.fa",
+  "sha256": "d9d322b5b32817482d60f4cdb10d74d1afdc9733baac478987fd8651847e8089"
+ },
+ "Nyctibius grandis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_068258600.1",
+  "len": 333,
+  "file": "data/controls7b/Nyctibius_grandis__GAPDH.fa",
+  "sha256": "26885ad6aa3b3ca7569ff667c7ca672acb8ad6b7b748c88c67eaeccde68e1508"
+ },
+ "Oceanodroma leucorhoa|PKM": {
+  "status": "miss"
+ },
+ "Oceanodroma leucorhoa|LDHA": {
+  "status": "miss"
+ },
+ "Oceanodroma leucorhoa|RHO": {
+  "status": "miss"
+ },
+ "Oceanodroma leucorhoa|OPN4": {
+  "status": "miss"
+ },
+ "Oceanodroma leucorhoa|GAPDH": {
+  "status": "miss"
+ },
+ "Oenanthe melanoleuca|PKM": {
+  "status": "ok",
+  "acc": "XP_056355501.1",
+  "len": 550,
+  "file": "data/controls7b/Oenanthe_melanoleuca__PKM.fa",
+  "sha256": "b8e89bb0ad38fbbd1242003a26628cd165c6af74e9a92ef407ee8065ebe56a5b"
+ },
+ "Oenanthe melanoleuca|LDHA": {
+  "status": "miss"
+ },
+ "Oenanthe melanoleuca|RHO": {
+  "status": "ok",
+  "acc": "XP_056357271.1",
+  "len": 351,
+  "file": "data/controls7b/Oenanthe_melanoleuca__RHO.fa",
+  "sha256": "cd8cd51fd2ac97429f1ff46df585414a2ff95b8ccb94c16f5d2df256373d8264"
+ },
+ "Oenanthe melanoleuca|OPN4": {
+  "status": "ok",
+  "acc": "XP_056351616.1",
+  "len": 525,
+  "file": "data/controls7b/Oenanthe_melanoleuca__OPN4.fa",
+  "sha256": "32bfb1baff12dd6b20c5523a0334858d1ae878be2a1ec414d615fbab2125ae95"
+ },
+ "Oenanthe melanoleuca|GAPDH": {
+  "status": "ok",
+  "acc": "XP_056337753.1",
+  "len": 530,
+  "file": "data/controls7b/Oenanthe_melanoleuca__GAPDH.fa",
+  "sha256": "65c2033defdbb232e24958c5ba7fcf489d8ff1fab6aae63bb0a2098d680554ec"
+ },
+ "Onychostruthus taczanowskii|PKM": {
+  "status": "ok",
+  "acc": "XP_041274863.1",
+  "len": 575,
+  "file": "data/controls7b/Onychostruthus_taczanowskii__PKM.fa",
+  "sha256": "7dcbd4605d0c95e96736711c7bd368820dd2f434cebc56321a60898250f68db2"
+ },
+ "Onychostruthus taczanowskii|LDHA": {
+  "status": "miss"
+ },
+ "Onychostruthus taczanowskii|RHO": {
+  "status": "ok",
+  "acc": "XP_041281567.1",
+  "len": 351,
+  "file": "data/controls7b/Onychostruthus_taczanowskii__RHO.fa",
+  "sha256": "321d0a312e6e6e7ccb18ae3c0b1a6a574ce73145152a68ccb2f224e7abc4f4c0"
+ },
+ "Onychostruthus taczanowskii|OPN4": {
+  "status": "ok",
+  "acc": "XP_041260896.1",
+  "len": 525,
+  "file": "data/controls7b/Onychostruthus_taczanowskii__OPN4.fa",
+  "sha256": "e3e58f0c6373e1a535e881aabb857f26c6d6d905c40e429541c427600ab6bf86"
+ },
+ "Onychostruthus taczanowskii|GAPDH": {
+  "status": "ok",
+  "acc": "XP_041266819.1",
+  "len": 580,
+  "file": "data/controls7b/Onychostruthus_taczanowskii__GAPDH.fa",
+  "sha256": "8c8aeadf2505f82e71fe23abfa4b5204d22c03d4e9f39679d932229d08912194"
+ },
+ "Opisthocomus hoazin|PKM": {
+  "status": "ok",
+  "acc": "XP_075287542.1",
+  "len": 530,
+  "file": "data/controls7b/Opisthocomus_hoazin__PKM.fa",
+  "sha256": "27ef76ca9a82ce0abe2d831d4b6547fb271aede1cc482c83dd28934579dc3daa"
+ },
+ "Opisthocomus hoazin|LDHA": {
+  "status": "miss"
+ },
+ "Opisthocomus hoazin|RHO": {
+  "status": "ok",
+  "acc": "XP_075288614.1",
+  "len": 351,
+  "file": "data/controls7b/Opisthocomus_hoazin__RHO.fa",
+  "sha256": "a0d4fdb9781be390f796406754dc037ad06320ac234f7894dbd72edf97996f4b"
+ },
+ "Opisthocomus hoazin|OPN4": {
+  "status": "ok",
+  "acc": "XP_075279146.1",
+  "len": 560,
+  "file": "data/controls7b/Opisthocomus_hoazin__OPN4.fa",
+  "sha256": "18d58f0326487c01770af76b514f62b18781f0badf39e9745ca65a49f0829624"
+ },
+ "Opisthocomus hoazin|GAPDH": {
+  "status": "ok",
+  "acc": "XP_075294123.1",
+  "len": 333,
+  "file": "data/controls7b/Opisthocomus_hoazin__GAPDH.fa",
+  "sha256": "2ea906231b1571cd69cc807102bba42be553a33def667a91b4bf9dcd512ba222"
+ },
+ "Oxyura jamaicensis|PKM": {
+  "status": "ok",
+  "acc": "XP_035191536.1",
+  "len": 550,
+  "file": "data/controls7b/Oxyura_jamaicensis__PKM.fa",
+  "sha256": "3d1bd97d04ce95340b3367cc0045be78bcf4bb0f817354008ff96c9647b3576f"
+ },
+ "Oxyura jamaicensis|LDHA": {
+  "status": "miss"
+ },
+ "Oxyura jamaicensis|RHO": {
+  "status": "ok",
+  "acc": "XP_035193629.1",
+  "len": 351,
+  "file": "data/controls7b/Oxyura_jamaicensis__RHO.fa",
+  "sha256": "bb563fa8436a5995b2eedfa4a2c8284ec767417947dab1ea216fbf21aba09c7d"
+ },
+ "Oxyura jamaicensis|OPN4": {
+  "status": "ok",
+  "acc": "XP_035185509.1",
+  "len": 553,
+  "file": "data/controls7b/Oxyura_jamaicensis__OPN4.fa",
+  "sha256": "6363af91d45bb28ca2ec004deb3a267064252917976007050b84569c0c987e40"
+ },
+ "Oxyura jamaicensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_035170096.1",
+  "len": 333,
+  "file": "data/controls7b/Oxyura_jamaicensis__GAPDH.fa",
+  "sha256": "eb974c9b037d212946c60363a1a05ab6c6c34d295254a4dadc024eb94f6ac2aa"
+ },
+ "Parus major|PKM": {
+  "status": "ok",
+  "acc": "XP_015494513.1",
+  "len": 550,
+  "file": "data/controls7b/Parus_major__PKM.fa",
+  "sha256": "546223ad0ae2a1a28abd1c031c9f3fed164571b5fe0d0cf69e1aa2af71e4c376"
+ },
+ "Parus major|LDHA": {
+  "status": "miss"
+ },
+ "Parus major|RHO": {
+  "status": "ok",
+  "acc": "XP_015496276.1",
+  "len": 394,
+  "file": "data/controls7b/Parus_major__RHO.fa",
+  "sha256": "2ccce4604c17f2f807fce0d7da2318ac93d548da572c5aea5e5634e261047542"
+ },
+ "Parus major|OPN4": {
+  "status": "ok",
+  "acc": "XP_015488142.1",
+  "len": 561,
+  "file": "data/controls7b/Parus_major__OPN4.fa",
+  "sha256": "0e78d3b9202c6d8c4b6a9e4b542e6117c52baa91f0767a8aae14634bde0bf67e"
+ },
+ "Parus major|GAPDH": {
+  "status": "ok",
+  "acc": "XP_033372984.1",
+  "len": 271,
+  "file": "data/controls7b/Parus_major__GAPDH.fa",
+  "sha256": "5ada3cda994858eca945cd3aa048452890ff490b5e9e0f161534f9292099e3a8"
+ },
+ "Passer domesticus|PKM": {
+  "status": "ok",
+  "acc": "XP_064245092.1",
+  "len": 550,
+  "file": "data/controls7b/Passer_domesticus__PKM.fa",
+  "sha256": "697cf9abf24afe1201d9189fc2b1d04e17251eadb74245190add80b441a62948"
+ },
+ "Passer domesticus|LDHA": {
+  "status": "miss"
+ },
+ "Passer domesticus|RHO": {
+  "status": "ok",
+  "acc": "XP_064289254.1",
+  "len": 351,
+  "file": "data/controls7b/Passer_domesticus__RHO.fa",
+  "sha256": "8d74badff752a2baa28e1442e25e788fc975cf308360db6d1e28b0b3a3e8f857"
+ },
+ "Passer domesticus|OPN4": {
+  "status": "ok",
+  "acc": "XP_064286200.1",
+  "len": 525,
+  "file": "data/controls7b/Passer_domesticus__OPN4.fa",
+  "sha256": "7d1903047ea86268bf3dee6ae8e3391970ff4f5365c018c27ae07798b582d160"
+ },
+ "Passer domesticus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_064266475.1",
+  "len": 536,
+  "file": "data/controls7b/Passer_domesticus__GAPDH.fa",
+  "sha256": "d3bb0d2db358aaf2307c5c95e191bc68dbf1b276d10e88eeede9d6d19939fe81"
+ },
+ "Passer montanus|PKM": {
+  "status": "ok",
+  "acc": "XP_039578710.1",
+  "len": 575,
+  "file": "data/controls7b/Passer_montanus__PKM.fa",
+  "sha256": "5cd987b06f8212081540c883751b4f9d9e1c9b365153a449bb6246504d507b52"
+ },
+ "Passer montanus|LDHA": {
+  "status": "miss"
+ },
+ "Passer montanus|RHO": {
+  "status": "ok",
+  "acc": "XP_039551477.1",
+  "len": 351,
+  "file": "data/controls7b/Passer_montanus__RHO.fa",
+  "sha256": "f51072d52153de2ed4f401dda1e8eff9487cdd6969c9c12c7223ff604b070559"
+ },
+ "Passer montanus|OPN4": {
+  "status": "ok",
+  "acc": "XP_039575713.1",
+  "len": 503,
+  "file": "data/controls7b/Passer_montanus__OPN4.fa",
+  "sha256": "7fc0cc1945235b0b3d261ffea6566ac2e6d0fdb9880f1de517968c148f504aad"
+ },
+ "Passer montanus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_039574083.1",
+  "len": 525,
+  "file": "data/controls7b/Passer_montanus__GAPDH.fa",
+  "sha256": "48e07e604a7efb44a4e2707c7bc3f56765691a9281902bfb561c4f902b14bd44"
+ },
+ "Patagioenas fasciata|PKM": {
+  "status": "ok",
+  "acc": "XP_065703122.1",
+  "len": 530,
+  "file": "data/controls7b/Patagioenas_fasciata__PKM.fa",
+  "sha256": "1be528683146fc7e9ac24871a1297e4494dce4f6fb92e3be04137ff5ab69ab12"
+ },
+ "Patagioenas fasciata|LDHA": {
+  "status": "miss"
+ },
+ "Patagioenas fasciata|RHO": {
+  "status": "ok",
+  "acc": "XP_065701581.1",
+  "len": 351,
+  "file": "data/controls7b/Patagioenas_fasciata__RHO.fa",
+  "sha256": "54c1f69b7cdfae1104520c6386a059a48a961f3451e2812ed98628212faeacdf"
+ },
+ "Patagioenas fasciata|OPN4": {
+  "status": "ok",
+  "acc": "XP_071667659.1",
+  "len": 575,
+  "file": "data/controls7b/Patagioenas_fasciata__OPN4.fa",
+  "sha256": "eec2db6e1745542100ef5f3252d316ae2361efe0f54d11bef343e111d79c7213"
+ },
+ "Patagioenas fasciata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_065712009.1",
+  "len": 333,
+  "file": "data/controls7b/Patagioenas_fasciata__GAPDH.fa",
+  "sha256": "7d802cda481dc02ce246ee3515360ebb8b142178489e4129d4241e662bc4ff4f"
+ },
+ "Pelecanus crispus|PKM": {
+  "status": "ok",
+  "acc": "XP_009491553.2",
+  "len": 530,
+  "file": "data/controls7b/Pelecanus_crispus__PKM.fa",
+  "sha256": "6496628329cf8bd672abde5480002b5d837eb90db2390698d3c95581f2d1be9a"
+ },
+ "Pelecanus crispus|LDHA": {
+  "status": "ok",
+  "acc": "XP_075568459.1",
+  "len": 332,
+  "file": "data/controls7b/Pelecanus_crispus__LDHA.fa",
+  "sha256": "90253f143d4f98a970008f35030823ec9456ba15f371b089ed557038b4de5558"
+ },
+ "Pelecanus crispus|RHO": {
+  "status": "ok",
+  "acc": "XP_075570743.1",
+  "len": 351,
+  "file": "data/controls7b/Pelecanus_crispus__RHO.fa",
+  "sha256": "2af3b3a4e168fa1f8ce3bf8e60d75e45ed09edc1a69d4ed04162e3fbd8ac2fb4"
+ },
+ "Pelecanus crispus|OPN4": {
+  "status": "ok",
+  "acc": "XP_009480296.2",
+  "len": 560,
+  "file": "data/controls7b/Pelecanus_crispus__OPN4.fa",
+  "sha256": "905ec23d018c588fa501b63cae0909f37a0b9eca9380cfffee736444fa2424f3"
+ },
+ "Pelecanus crispus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_075560708.1",
+  "len": 333,
+  "file": "data/controls7b/Pelecanus_crispus__GAPDH.fa",
+  "sha256": "c6c51eb8150868ac618a2834a8cefeebd2f9246708a9144ae1eda48f2af3e5ce"
+ },
+ "Pezoporus flaviventris|PKM": {
+  "status": "ok",
+  "acc": "XP_061303357.1",
+  "len": 550,
+  "file": "data/controls7b/Pezoporus_flaviventris__PKM.fa",
+  "sha256": "a777721b2ec9874a59ffe8af1f0ab5a1c10e83413e0a021b4636d2fa629bb9ce"
+ },
+ "Pezoporus flaviventris|LDHA": {
+  "status": "miss"
+ },
+ "Pezoporus flaviventris|RHO": {
+  "status": "ok",
+  "acc": "XP_061311959.1",
+  "len": 351,
+  "file": "data/controls7b/Pezoporus_flaviventris__RHO.fa",
+  "sha256": "d4ef7fd5f6355f1f454ee96e7e31df5a5c2e3f32e946949f973b165910156597"
+ },
+ "Pezoporus flaviventris|OPN4": {
+  "status": "ok",
+  "acc": "XP_061304108.1",
+  "len": 644,
+  "file": "data/controls7b/Pezoporus_flaviventris__OPN4.fa",
+  "sha256": "5f9592d15931145843a1a4982d32cb14a048fdce14429a099d4d729256cf48c9"
+ },
+ "Pezoporus flaviventris|GAPDH": {
+  "status": "ok",
+  "acc": "XP_061310043.1",
+  "len": 333,
+  "file": "data/controls7b/Pezoporus_flaviventris__GAPDH.fa",
+  "sha256": "a197292d51e0b44092079cf52d723e8233fbad2fec0d2edf65e73096f5e0f078"
+ },
+ "Pezoporus occidentalis|PKM": {
+  "status": "ok",
+  "acc": "XP_062468105.1",
+  "len": 550,
+  "file": "data/controls7b/Pezoporus_occidentalis__PKM.fa",
+  "sha256": "9b4dd9e0ba95898bfb84bfcfd8109737fa9e6137a328b7c8e5fe070124cbd397"
+ },
+ "Pezoporus occidentalis|LDHA": {
+  "status": "miss"
+ },
+ "Pezoporus occidentalis|RHO": {
+  "status": "ok",
+  "acc": "XP_062492161.1",
+  "len": 351,
+  "file": "data/controls7b/Pezoporus_occidentalis__RHO.fa",
+  "sha256": "58cc4a914515290dc53a675cf0f711d803a1f829eec603ed4c39c0d6786f9f89"
+ },
+ "Pezoporus occidentalis|OPN4": {
+  "status": "ok",
+  "acc": "XP_062474848.1",
+  "len": 609,
+  "file": "data/controls7b/Pezoporus_occidentalis__OPN4.fa",
+  "sha256": "d92ada3dea77ac40be4b7dff203ad529756808e1540e333428aceb7cd72c48f1"
+ },
+ "Pezoporus occidentalis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_062473185.1",
+  "len": 376,
+  "file": "data/controls7b/Pezoporus_occidentalis__GAPDH.fa",
+  "sha256": "5b7234e853c62297b13745f4335447e5ee150a828cedc53984e0cd7b8e5d8f51"
+ },
+ "Pezoporus wallicus|PKM": {
+  "status": "ok",
+  "acc": "XP_057276734.1",
+  "len": 550,
+  "file": "data/controls7b/Pezoporus_wallicus__PKM.fa",
+  "sha256": "fa3607a5733c52ab659bee81ad79067eae90204299fbecd780f2aeb6a12d0fbf"
+ },
+ "Pezoporus wallicus|LDHA": {
+  "status": "ok",
+  "acc": "XP_057268784.1",
+  "len": 332,
+  "file": "data/controls7b/Pezoporus_wallicus__LDHA.fa",
+  "sha256": "3707143806c9fc07fc6223e779ca9044a5cea3060a61259975915d77f989fc8a"
+ },
+ "Pezoporus wallicus|RHO": {
+  "status": "ok",
+  "acc": "XP_057273555.1",
+  "len": 351,
+  "file": "data/controls7b/Pezoporus_wallicus__RHO.fa",
+  "sha256": "7164c4d3e0bbec1962d11472d8db55e46f5b82dab0c8eed7fe43d50e4231444a"
+ },
+ "Pezoporus wallicus|OPN4": {
+  "status": "ok",
+  "acc": "XP_057277503.1",
+  "len": 644,
+  "file": "data/controls7b/Pezoporus_wallicus__OPN4.fa",
+  "sha256": "fcf122b233bf4f166c586f2d326993b7947c135c0f7889a92b439a51f6f53390"
+ },
+ "Pezoporus wallicus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_057260099.1",
+  "len": 333,
+  "file": "data/controls7b/Pezoporus_wallicus__GAPDH.fa",
+  "sha256": "bfeb7ca15124603bdb18b49a277cf1a336c37ab0728d2769703c207bc4cf20fa"
+ },
+ "Phaenicophaeus curvirostris|PKM": {
+  "status": "ok",
+  "acc": "XP_069722733.1",
+  "len": 550,
+  "file": "data/controls7b/Phaenicophaeus_curvirostris__PKM.fa",
+  "sha256": "c41e390a7cc9a6711b8f06dc9af09355fcecf3243ab66ac98e779147d572ae6a"
+ },
+ "Phaenicophaeus curvirostris|LDHA": {
+  "status": "miss"
+ },
+ "Phaenicophaeus curvirostris|RHO": {
+  "status": "ok",
+  "acc": "XP_069721863.1",
+  "len": 351,
+  "file": "data/controls7b/Phaenicophaeus_curvirostris__RHO.fa",
+  "sha256": "03dec80e74f273d94378ad05728cc1328b0ed41c4909cfbc2e8ec64c8a0568b3"
+ },
+ "Phaenicophaeus curvirostris|OPN4": {
+  "status": "ok",
+  "acc": "XP_069719607.1",
+  "len": 505,
+  "file": "data/controls7b/Phaenicophaeus_curvirostris__OPN4.fa",
+  "sha256": "c329dbdcf2930c79b053745efc8f14838462b91162d8fe051a017111d137d30a"
+ },
+ "Phaenicophaeus curvirostris|GAPDH": {
+  "status": "ok",
+  "acc": "XP_069721717.1",
+  "len": 333,
+  "file": "data/controls7b/Phaenicophaeus_curvirostris__GAPDH.fa",
+  "sha256": "fe77cab5818083c844161086c634fc7c351dfa17c791a128901f4408b894c143"
+ },
+ "Phaethon aethereus|PKM": {
+  "status": "ok",
+  "acc": "XP_081861495.1",
+  "len": 530,
+  "file": "data/controls7b/Phaethon_aethereus__PKM.fa",
+  "sha256": "843cb09c43d51903cf0742b20a5f5d50d6c7d3e3d4f1c4c89c53af3dc03c1e55"
+ },
+ "Phaethon aethereus|LDHA": {
+  "status": "miss"
+ },
+ "Phaethon aethereus|RHO": {
+  "status": "ok",
+  "acc": "XP_081860645.1",
+  "len": 351,
+  "file": "data/controls7b/Phaethon_aethereus__RHO.fa",
+  "sha256": "ed00eb5ea6032fe9484a58f2032a56191427b7bb93c306fd97d0d0761c266b8b"
+ },
+ "Phaethon aethereus|OPN4": {
+  "status": "ok",
+  "acc": "XP_081858584.1",
+  "len": 528,
+  "file": "data/controls7b/Phaethon_aethereus__OPN4.fa",
+  "sha256": "2d9323066339869f29059a11745fb964398ad82ea6d4195bec85591866ee6638"
+ },
+ "Phaethon aethereus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_081870161.1",
+  "len": 333,
+  "file": "data/controls7b/Phaethon_aethereus__GAPDH.fa",
+  "sha256": "77fa44448380470d17bca57981b6872f4eab37364d3eb4f246a408a42263e584"
+ },
+ "Phaethon lepturus|PKM": {
+  "status": "miss"
+ },
+ "Phaethon lepturus|LDHA": {
+  "status": "miss"
+ },
+ "Phaethon lepturus|RHO": {
+  "status": "ok",
+  "acc": "XP_010293840.1",
+  "len": 156,
+  "file": "data/controls7b/Phaethon_lepturus__RHO.fa",
+  "sha256": "ecbe433526ae7c10b74843d3011102da23e469eecb0b48e3787ffe8eabea7c43"
+ },
+ "Phaethon lepturus|OPN4": {
+  "status": "miss"
+ },
+ "Phaethon lepturus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010295801.1",
+  "len": 290,
+  "file": "data/controls7b/Phaethon_lepturus__GAPDH.fa",
+  "sha256": "bf5027d9506f41f54ebcf70dcbf30c6a3255f05dea8f214ddcd3c7e51947b0cf"
+ },
+ "Phalacrocorax aristotelis|PKM": {
+  "status": "ok",
+  "acc": "XP_074955880.1",
+  "len": 550,
+  "file": "data/controls7b/Phalacrocorax_aristotelis__PKM.fa",
+  "sha256": "2430f30bb15d86b16e997d743ed58d9a812160599753a9849d1c9fd4df8a4d85"
+ },
+ "Phalacrocorax aristotelis|LDHA": {
+  "status": "miss"
+ },
+ "Phalacrocorax aristotelis|RHO": {
+  "status": "ok",
+  "acc": "XP_074951562.1",
+  "len": 351,
+  "file": "data/controls7b/Phalacrocorax_aristotelis__RHO.fa",
+  "sha256": "cfe067b65b676e9d740859a18130f6b6e690d34f0daf4336cd870e97b8d3b2ed"
+ },
+ "Phalacrocorax aristotelis|OPN4": {
+  "status": "ok",
+  "acc": "XP_074965778.1",
+  "len": 565,
+  "file": "data/controls7b/Phalacrocorax_aristotelis__OPN4.fa",
+  "sha256": "93e0ec9574e47606ec78e814c2f44623ed5cc562aa533cca1872d109614531e4"
+ },
+ "Phalacrocorax aristotelis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074964482.1",
+  "len": 333,
+  "file": "data/controls7b/Phalacrocorax_aristotelis__GAPDH.fa",
+  "sha256": "4656c165121d80eb3c8899aa079dbf528fefc567e0ef4b9cd3eef3b2c9d5f276"
+ },
+ "Phalacrocorax carbo|PKM": {
+  "status": "ok",
+  "acc": "XP_064312969.1",
+  "len": 530,
+  "file": "data/controls7b/Phalacrocorax_carbo__PKM.fa",
+  "sha256": "bfecf17d2a0158dba1797f0e485a1f1af2a316f0825ea6a6ccceca43021e59d1"
+ },
+ "Phalacrocorax carbo|LDHA": {
+  "status": "miss"
+ },
+ "Phalacrocorax carbo|RHO": {
+  "status": "ok",
+  "acc": "XP_064311779.1",
+  "len": 351,
+  "file": "data/controls7b/Phalacrocorax_carbo__RHO.fa",
+  "sha256": "749fdcfa4aafd007ad14639451dabfc47a27268efee1554896e96f02259b0711"
+ },
+ "Phalacrocorax carbo|OPN4": {
+  "status": "ok",
+  "acc": "XP_064321059.1",
+  "len": 563,
+  "file": "data/controls7b/Phalacrocorax_carbo__OPN4.fa",
+  "sha256": "dc2286765aed4ba14151796244442f6e32c5d46e9b26b1b5d0b7cdffa2ba45ef"
+ },
+ "Phalacrocorax carbo|GAPDH": {
+  "status": "ok",
+  "acc": "XP_064321169.1",
+  "len": 333,
+  "file": "data/controls7b/Phalacrocorax_carbo__GAPDH.fa",
+  "sha256": "14aa1df74c409170b7a9db50bf288092f113c7bf88d3ea954a11da1b48b695cc"
+ },
+ "Phasianus colchicus|PKM": {
+  "status": "ok",
+  "acc": "XP_031472102.1",
+  "len": 563,
+  "file": "data/controls7b/Phasianus_colchicus__PKM.fa",
+  "sha256": "565c5053e4f8f1a5972438106d7f7e6da1dcb8a35afe81a8c76b3efc95a03386"
+ },
+ "Phasianus colchicus|LDHA": {
+  "status": "miss"
+ },
+ "Phasianus colchicus|RHO": {
+  "status": "ok",
+  "acc": "XP_031465289.1",
+  "len": 351,
+  "file": "data/controls7b/Phasianus_colchicus__RHO.fa",
+  "sha256": "c284d9de5d77997718ea127f67ca6815a37aadf2d822738a3f40e8be22dd61be"
+ },
+ "Phasianus colchicus|OPN4": {
+  "status": "ok",
+  "acc": "XP_031458315.1",
+  "len": 517,
+  "file": "data/controls7b/Phasianus_colchicus__OPN4.fa",
+  "sha256": "807220fc9ec1fc79e2c2081ad2d1ae6f449db1e4b809a6e4590471e53dcfe9ed"
+ },
+ "Phasianus colchicus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_031466095.1",
+  "len": 333,
+  "file": "data/controls7b/Phasianus_colchicus__GAPDH.fa",
+  "sha256": "bc0b94b0db7cb4073dee2131b0e16e4b0bb300b1688738de93765ddee4c0ca03"
+ },
+ "Pipra filicauda|PKM": {
+  "status": "ok",
+  "acc": "XP_027579835.1",
+  "len": 550,
+  "file": "data/controls7b/Pipra_filicauda__PKM.fa",
+  "sha256": "b3802cc5e8b0a62ab2d0f166d59334a9a7f94db3625079a64c0938cc491d7007"
+ },
+ "Pipra filicauda|LDHA": {
+  "status": "miss"
+ },
+ "Pipra filicauda|RHO": {
+  "status": "ok",
+  "acc": "XP_027602243.1",
+  "len": 351,
+  "file": "data/controls7b/Pipra_filicauda__RHO.fa",
+  "sha256": "3aa17886c6eb7c1f1996767c1625142435a5a2908527d3eabfc7e64283965724"
+ },
+ "Pipra filicauda|OPN4": {
+  "status": "ok",
+  "acc": "XP_027590423.2",
+  "len": 524,
+  "file": "data/controls7b/Pipra_filicauda__OPN4.fa",
+  "sha256": "63a6612f5118ed89a2486946690a91912f70ee9bf0f108ddb224053ab99a1731"
+ },
+ "Pipra filicauda|GAPDH": {
+  "status": "ok",
+  "acc": "XP_027586216.1",
+  "len": 333,
+  "file": "data/controls7b/Pipra_filicauda__GAPDH.fa",
+  "sha256": "728a6adff7672d1fbd0a04a10e6f919d0b9e32698d7720a2aab66cfbcf8ada6d"
+ },
+ "Pithys albifrons albifrons|PKM": {
+  "status": "ok",
+  "acc": "XP_071424619.1",
+  "len": 550,
+  "file": "data/controls7b/Pithys_albifrons_albifrons__PKM.fa",
+  "sha256": "3dd78dba8aa0d2ecee8d70997ae911ebdb548d4ef1f13ffb3e8fb5f72701ea3f"
+ },
+ "Pithys albifrons albifrons|LDHA": {
+  "status": "miss"
+ },
+ "Pithys albifrons albifrons|RHO": {
+  "status": "ok",
+  "acc": "XP_071405759.1",
+  "len": 351,
+  "file": "data/controls7b/Pithys_albifrons_albifrons__RHO.fa",
+  "sha256": "b28251f58850aed49d9198200173edf9ef7e1b8b31041a9108b0dc7b8c1d3a7d"
+ },
+ "Pithys albifrons albifrons|OPN4": {
+  "status": "ok",
+  "acc": "XP_071420018.1",
+  "len": 515,
+  "file": "data/controls7b/Pithys_albifrons_albifrons__OPN4.fa",
+  "sha256": "101055ef701d593dd097248deb9a8271e11809ce5cea63b8899cf243fde899a9"
+ },
+ "Pithys albifrons albifrons|GAPDH": {
+  "status": "ok",
+  "acc": "XP_071415399.1",
+  "len": 333,
+  "file": "data/controls7b/Pithys_albifrons_albifrons__GAPDH.fa",
+  "sha256": "5ea38aa40615c333c49223c343a0dc9ba11913e886e2cda205efc29333d88afc"
+ },
+ "Platalea leucorodia|PKM": {
+  "status": "ok",
+  "acc": "XP_082178318.1",
+  "len": 530,
+  "file": "data/controls7b/Platalea_leucorodia__PKM.fa",
+  "sha256": "41e4b9761ec31f24e7cb1194352e709e1f9313908c9ea17a1c214110916593f5"
+ },
+ "Platalea leucorodia|LDHA": {
+  "status": "ok",
+  "acc": "XP_082173135.1",
+  "len": 332,
+  "file": "data/controls7b/Platalea_leucorodia__LDHA.fa",
+  "sha256": "1dd8813c5938b6418c38350d6260e2404b230bf44aea569ea96a4463021f4d2c"
+ },
+ "Platalea leucorodia|RHO": {
+  "status": "ok",
+  "acc": "XP_082178503.1",
+  "len": 351,
+  "file": "data/controls7b/Platalea_leucorodia__RHO.fa",
+  "sha256": "77d6ce228a70d6f1ac6ea0d7fba281fa04a996df38a532bc87bbd785ef1a4280"
+ },
+ "Platalea leucorodia|OPN4": {
+  "status": "ok",
+  "acc": "XP_082165346.1",
+  "len": 557,
+  "file": "data/controls7b/Platalea_leucorodia__OPN4.fa",
+  "sha256": "225adc55549b26911feb3296aee99eebd41e982e91516ea54e71ee10273645b8"
+ },
+ "Platalea leucorodia|GAPDH": {
+  "status": "ok",
+  "acc": "XP_082193775.1",
+  "len": 333,
+  "file": "data/controls7b/Platalea_leucorodia__GAPDH.fa",
+  "sha256": "d8e69865278f4ee66b31de667f60523ea3cf2ae92bf915b5a5b64e9ccf61337c"
+ },
+ "Poecile atricapillus|PKM": {
+  "status": "ok",
+  "acc": "XP_058702498.1",
+  "len": 550,
+  "file": "data/controls7b/Poecile_atricapillus__PKM.fa",
+  "sha256": "d7a55ba40859890b9877389a641d6efa4e8abd64bd3583645ccc93b5ff07f7c8"
+ },
+ "Poecile atricapillus|LDHA": {
+  "status": "miss"
+ },
+ "Poecile atricapillus|RHO": {
+  "status": "ok",
+  "acc": "XP_058700681.1",
+  "len": 351,
+  "file": "data/controls7b/Poecile_atricapillus__RHO.fa",
+  "sha256": "76cd86ab1445be8e7a0f5365c22ac2e41be36eef013368401869b9cae247b703"
+ },
+ "Poecile atricapillus|OPN4": {
+  "status": "ok",
+  "acc": "XP_058696691.1",
+  "len": 518,
+  "file": "data/controls7b/Poecile_atricapillus__OPN4.fa",
+  "sha256": "87f62636ee8f18cd9e37978ed99101ea24d9db398e3fe78b5cdd0cdd3bee3af2"
+ },
+ "Poecile atricapillus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_058718107.1",
+  "len": 532,
+  "file": "data/controls7b/Poecile_atricapillus__GAPDH.fa",
+  "sha256": "4b6ebde496527579577820128e5ff0c5fb02d8aea30dd69af1d2506f1f02d3d9"
+ },
+ "Pogoniulus pusillus|PKM": {
+  "status": "ok",
+  "acc": "XP_064013271.1",
+  "len": 530,
+  "file": "data/controls7b/Pogoniulus_pusillus__PKM.fa",
+  "sha256": "bc8c95e828c75687f2b8e010b37895bf267e174b7ddec13d70596ef1cf07e980"
+ },
+ "Pogoniulus pusillus|LDHA": {
+  "status": "miss"
+ },
+ "Pogoniulus pusillus|RHO": {
+  "status": "ok",
+  "acc": "XP_064012102.1",
+  "len": 351,
+  "file": "data/controls7b/Pogoniulus_pusillus__RHO.fa",
+  "sha256": "d3da747ad4ad5f5cfb1be4410ff03a96270f56f1cc2f74320ae4b124bf23d807"
+ },
+ "Pogoniulus pusillus|OPN4": {
+  "status": "ok",
+  "acc": "XP_064001742.1",
+  "len": 528,
+  "file": "data/controls7b/Pogoniulus_pusillus__OPN4.fa",
+  "sha256": "f989321f850e6b10d8b99ecfa60c6ba5009db104d095d7383adbeaca1a91c16d"
+ },
+ "Pogoniulus pusillus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_064011979.1",
+  "len": 506,
+  "file": "data/controls7b/Pogoniulus_pusillus__GAPDH.fa",
+  "sha256": "91659da8188fa95edb636640a00f0d70ad13d49d48a3237dfa16beb638ea1658"
+ },
+ "Prinia subflava|PKM": {
+  "status": "ok",
+  "acc": "XP_063268160.1",
+  "len": 530,
+  "file": "data/controls7b/Prinia_subflava__PKM.fa",
+  "sha256": "93c557bdce8d7b334e7f0af3f1be549c0dfecbc8364e81d6d40922d7dea36afc"
+ },
+ "Prinia subflava|LDHA": {
+  "status": "miss"
+ },
+ "Prinia subflava|RHO": {
+  "status": "ok",
+  "acc": "XP_063267525.1",
+  "len": 351,
+  "file": "data/controls7b/Prinia_subflava__RHO.fa",
+  "sha256": "ce13ba18bcc6dfab9623eb85126b4bcb3e84c5f98a71985a3bc31e41b661be58"
+ },
+ "Prinia subflava|OPN4": {
+  "status": "ok",
+  "acc": "XP_063262559.1",
+  "len": 526,
+  "file": "data/controls7b/Prinia_subflava__OPN4.fa",
+  "sha256": "857aeec8bbb113ba089b5b99ba32427cb0e9b986c8d7dc4de6d6813f9d04dd77"
+ },
+ "Prinia subflava|GAPDH": {
+  "status": "ok",
+  "acc": "XP_063250316.1",
+  "len": 535,
+  "file": "data/controls7b/Prinia_subflava__GAPDH.fa",
+  "sha256": "a65a93381ae507c3da105519016adc868f67aaafc10f7a8bb1aa4a62830d93b3"
+ },
+ "Pseudopipra pipra|PKM": {
+  "status": "ok",
+  "acc": "XP_064524681.1",
+  "len": 550,
+  "file": "data/controls7b/Pseudopipra_pipra__PKM.fa",
+  "sha256": "2feaa9ea9192635901d435eb705b42d03787e2a724ba656e2d3cb80a2acab231"
+ },
+ "Pseudopipra pipra|LDHA": {
+  "status": "miss"
+ },
+ "Pseudopipra pipra|RHO": {
+  "status": "ok",
+  "acc": "XP_064523176.1",
+  "len": 351,
+  "file": "data/controls7b/Pseudopipra_pipra__RHO.fa",
+  "sha256": "4ea6e44ae6ce87dc9b55980cb0759bdbb37e41433fd971bef15f9a7612556abc"
+ },
+ "Pseudopipra pipra|OPN4": {
+  "status": "ok",
+  "acc": "XP_064518536.1",
+  "len": 524,
+  "file": "data/controls7b/Pseudopipra_pipra__OPN4.fa",
+  "sha256": "fba85a4aea9f2b4cd447e3b25874faf53cd2a16dd1ec5e52a50a209b3e39d7ea"
+ },
+ "Pseudopipra pipra|GAPDH": {
+  "status": "ok",
+  "acc": "XP_064500658.1",
+  "len": 333,
+  "file": "data/controls7b/Pseudopipra_pipra__GAPDH.fa",
+  "sha256": "d5b030c6e285f7173737e7e5f95e4275136c77263e5d715296edd9968b338f9d"
+ },
+ "Pseudopodoces humilis|PKM": {
+  "status": "ok",
+  "acc": "XP_087919463.1",
+  "len": 550,
+  "file": "data/controls7b/Pseudopodoces_humilis__PKM.fa",
+  "sha256": "6f2785cfb5b94c83b7e9163847a056198fdc1426c769999e0c8791717905af62"
+ },
+ "Pseudopodoces humilis|LDHA": {
+  "status": "ok",
+  "acc": "XP_087914464.1",
+  "len": 331,
+  "file": "data/controls7b/Pseudopodoces_humilis__LDHA.fa",
+  "sha256": "47d98d0821f195756fbc0c34586df25da0ccab633ccbe38c2a306355b14f1614"
+ },
+ "Pseudopodoces humilis|RHO": {
+  "status": "ok",
+  "acc": "XP_005522004.2",
+  "len": 351,
+  "file": "data/controls7b/Pseudopodoces_humilis__RHO.fa",
+  "sha256": "f77f52f1414efd54c5b7a30b269e9f5888fc9e6658236cb21685b3ce1b46ba91"
+ },
+ "Pseudopodoces humilis|OPN4": {
+  "status": "ok",
+  "acc": "XP_087916199.1",
+  "len": 551,
+  "file": "data/controls7b/Pseudopodoces_humilis__OPN4.fa",
+  "sha256": "112c0ef5abf57bb1c4bbdaaf14c1a5dec22c80652e330b656c06b4b35377ba1d"
+ },
+ "Pseudopodoces humilis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_005523906.1",
+  "len": 333,
+  "file": "data/controls7b/Pseudopodoces_humilis__GAPDH.fa",
+  "sha256": "982a6a0ea5f1b78340ec0186ba50c2ae825a13bdd08db0b2c30040e96c2f5596"
+ },
+ "Psittacula echo|PKM": {
+  "status": "ok",
+  "acc": "XP_080482679.1",
+  "len": 530,
+  "file": "data/controls7b/Psittacula_echo__PKM.fa",
+  "sha256": "6f5ed7b741a53ce0631fe2b454dc8c288715281961536ba6950f7a6d7832623f"
+ },
+ "Psittacula echo|LDHA": {
+  "status": "ok",
+  "acc": "XP_080474043.1",
+  "len": 332,
+  "file": "data/controls7b/Psittacula_echo__LDHA.fa",
+  "sha256": "9c55a7ec2eab2e2e503836a22071acb7366f5a4181679aa0e2587c1b0c2372d5"
+ },
+ "Psittacula echo|RHO": {
+  "status": "ok",
+  "acc": "XP_080481818.1",
+  "len": 351,
+  "file": "data/controls7b/Psittacula_echo__RHO.fa",
+  "sha256": "f1b9e73a99eaef0ba0de3f7ff38470ea6cc85d2c5047e5fe4c5e20b6133e8de4"
+ },
+ "Psittacula echo|OPN4": {
+  "status": "ok",
+  "acc": "XP_080478140.1",
+  "len": 646,
+  "file": "data/controls7b/Psittacula_echo__OPN4.fa",
+  "sha256": "bb061cf28c8918c1042426dab398f868b26587ad01c41e32bdf39b1915cb3459"
+ },
+ "Psittacula echo|GAPDH": {
+  "status": "ok",
+  "acc": "XP_080468411.1",
+  "len": 333,
+  "file": "data/controls7b/Psittacula_echo__GAPDH.fa",
+  "sha256": "9c2d043b00d513a78c40eb169736051a70a5ff41901d71f56ab6f57336a6fdc4"
+ },
+ "Pterocles gutturalis|PKM": {
+  "status": "ok",
+  "acc": "XP_010082070.1",
+  "len": 550,
+  "file": "data/controls7b/Pterocles_gutturalis__PKM.fa",
+  "sha256": "1e62f2687e07474a3516848d1af62fc8f96784baccf5bb9ae872f8e35ed8782f"
+ },
+ "Pterocles gutturalis|LDHA": {
+  "status": "miss"
+ },
+ "Pterocles gutturalis|RHO": {
+  "status": "miss"
+ },
+ "Pterocles gutturalis|OPN4": {
+  "status": "miss"
+ },
+ "Pterocles gutturalis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_010070828.1",
+  "len": 339,
+  "file": "data/controls7b/Pterocles_gutturalis__GAPDH.fa",
+  "sha256": "c40186fa9068ea057adba019681bb550288e0719fb1619872dc7344083b822be"
+ },
+ "Pygoscelis adeliae|PKM": {
+  "status": "ok",
+  "acc": "XP_009318184.1",
+  "len": 550,
+  "file": "data/controls7b/Pygoscelis_adeliae__PKM.fa",
+  "sha256": "a75a39a0e18eaba441ee89e1d10d7213d752384d639d5d5ed8313656d4548924"
+ },
+ "Pygoscelis adeliae|LDHA": {
+  "status": "miss"
+ },
+ "Pygoscelis adeliae|RHO": {
+  "status": "ok",
+  "acc": "XP_009318377.1",
+  "len": 351,
+  "file": "data/controls7b/Pygoscelis_adeliae__RHO.fa",
+  "sha256": "1b67485af67e0f7a2a7d250e7687c93aa68033802f02cea407c52553b007398d"
+ },
+ "Pygoscelis adeliae|OPN4": {
+  "status": "ok",
+  "acc": "XP_009332919.1",
+  "len": 528,
+  "file": "data/controls7b/Pygoscelis_adeliae__OPN4.fa",
+  "sha256": "3b78783b6f033eeee81d8bbe6ca0a86cfc79b76e24483661f67c84a767fef459"
+ },
+ "Pygoscelis adeliae|GAPDH": {
+  "status": "ok",
+  "acc": "XP_009327286.1",
+  "len": 231,
+  "file": "data/controls7b/Pygoscelis_adeliae__GAPDH.fa",
+  "sha256": "226aabd0076c0c4f6f248b2cd15969592088e16b2dfd81ab0f0d597952e0ba94"
+ },
+ "Pyrgilauda ruficollis|PKM": {
+  "status": "ok",
+  "acc": "XP_041324969.1",
+  "len": 575,
+  "file": "data/controls7b/Pyrgilauda_ruficollis__PKM.fa",
+  "sha256": "81a469cdbdd2863c4989fb29f6a936604b65a83df211c4583f6bc1a1f7afcbeb"
+ },
+ "Pyrgilauda ruficollis|LDHA": {
+  "status": "miss"
+ },
+ "Pyrgilauda ruficollis|RHO": {
+  "status": "ok",
+  "acc": "XP_041317734.1",
+  "len": 351,
+  "file": "data/controls7b/Pyrgilauda_ruficollis__RHO.fa",
+  "sha256": "154140a2c2e4babb15aa1ce710afc1b11c357690653dee88b76ade7c10e3b3d6"
+ },
+ "Pyrgilauda ruficollis|OPN4": {
+  "status": "ok",
+  "acc": "XP_041331530.1",
+  "len": 525,
+  "file": "data/controls7b/Pyrgilauda_ruficollis__OPN4.fa",
+  "sha256": "7b810ce477cfbb2837c34a2f7ca85334163c2f6d75e037611152b644dd967a99"
+ },
+ "Pyrgilauda ruficollis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_041319766.1",
+  "len": 535,
+  "file": "data/controls7b/Pyrgilauda_ruficollis__GAPDH.fa",
+  "sha256": "7d730d8f3815d583ed6c22c8b2f0855daf56b40baea3d1aad0d20453607f74d2"
+ },
+ "Rhea americana|PKM": {
+  "status": "ok",
+  "acc": "XP_085156859.1",
+  "len": 550,
+  "file": "data/controls7b/Rhea_americana__PKM.fa",
+  "sha256": "95fc0f71f6b2aad34460b20841994e2c977413eb04fe5d477dc68cf3943afa08"
+ },
+ "Rhea americana|LDHA": {
+  "status": "miss"
+ },
+ "Rhea americana|RHO": {
+  "status": "ok",
+  "acc": "XP_085165041.1",
+  "len": 262,
+  "file": "data/controls7b/Rhea_americana__RHO.fa",
+  "sha256": "f394b12a9902044d651240ae2a598ccdb958a9be6b31446889441a460e547ba4"
+ },
+ "Rhea americana|OPN4": {
+  "status": "ok",
+  "acc": "XP_085179856.1",
+  "len": 554,
+  "file": "data/controls7b/Rhea_americana__OPN4.fa",
+  "sha256": "a2d2a7e3bf8858fe785fc33b7390e6b398bc5c379524918e225070a138d49dc2"
+ },
+ "Rhea americana|GAPDH": {
+  "status": "ok",
+  "acc": "XP_085180712.1",
+  "len": 293,
+  "file": "data/controls7b/Rhea_americana__GAPDH.fa",
+  "sha256": "f6f279a7d3ac339c33f485955e766b4ace59b904c7ea4ff64ac9633501c09b4b"
+ },
+ "Rhea pennata|PKM": {
+  "status": "ok",
+  "acc": "XP_062439300.1",
+  "len": 530,
+  "file": "data/controls7b/Rhea_pennata__PKM.fa",
+  "sha256": "be53369c5f0dd8a2e2020773f12b0776a9888fb7f5ddf4b2473623c8a2fceeec"
+ },
+ "Rhea pennata|LDHA": {
+  "status": "miss"
+ },
+ "Rhea pennata|RHO": {
+  "status": "ok",
+  "acc": "XP_062441143.1",
+  "len": 351,
+  "file": "data/controls7b/Rhea_pennata__RHO.fa",
+  "sha256": "a7c43c9a3bc95376863e9ef7ef45a2ea0bf96560628952b2bd5e09c684787cad"
+ },
+ "Rhea pennata|OPN4": {
+  "status": "ok",
+  "acc": "XP_062436231.1",
+  "len": 553,
+  "file": "data/controls7b/Rhea_pennata__OPN4.fa",
+  "sha256": "b4dc18f3ff2a9359e0bbf9051334afc832bbe84734138d8536dcbdd75c6a2d08"
+ },
+ "Rhea pennata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_062450682.1",
+  "len": 333,
+  "file": "data/controls7b/Rhea_pennata__GAPDH.fa",
+  "sha256": "4dfce14e060fcde6a91cc2c5c13289b0ceb77c88d54de2e6a44f780b8bc5080a"
+ },
+ "Rissa tridactyla|PKM": {
+  "status": "ok",
+  "acc": "XP_054070755.1",
+  "len": 550,
+  "file": "data/controls7b/Rissa_tridactyla__PKM.fa",
+  "sha256": "878dd8ded3fb9127bff8c339a9f4fdd98eddd55cd03cf157d14a86d5f1516828"
+ },
+ "Rissa tridactyla|LDHA": {
+  "status": "ok",
+  "acc": "XP_054054331.1",
+  "len": 332,
+  "file": "data/controls7b/Rissa_tridactyla__LDHA.fa",
+  "sha256": "b068c1934a7b7458281000ae94c7d4fbbea5a0b9d8fb673d37f7e06a9bf87d89"
+ },
+ "Rissa tridactyla|RHO": {
+  "status": "ok",
+  "acc": "XP_054072062.1",
+  "len": 351,
+  "file": "data/controls7b/Rissa_tridactyla__RHO.fa",
+  "sha256": "9ec0b28a32e29701a737a8665c2100b1dd830c7cbd49289bb8d63efce9425335"
+ },
+ "Rissa tridactyla|OPN4": {
+  "status": "ok",
+  "acc": "XP_054062913.1",
+  "len": 515,
+  "file": "data/controls7b/Rissa_tridactyla__OPN4.fa",
+  "sha256": "34d547f6f09c47202f11aa703f04add215ed4b201198c70128267c9f13ed6c5a"
+ },
+ "Rissa tridactyla|GAPDH": {
+  "status": "ok",
+  "acc": "XP_054044684.1",
+  "len": 333,
+  "file": "data/controls7b/Rissa_tridactyla__GAPDH.fa",
+  "sha256": "b511a65a9ce41f27623b3ae01a2500feab52fcfe97ca811e76c7970d76215746"
+ },
+ "Serinus canaria|PKM": {
+  "status": "ok",
+  "acc": "XP_030084496.1",
+  "len": 594,
+  "file": "data/controls7b/Serinus_canaria__PKM.fa",
+  "sha256": "4bcb7602356bc99d19fac6174c1171ef61fa847a79d563d543de1de606f2739f"
+ },
+ "Serinus canaria|LDHA": {
+  "status": "miss"
+ },
+ "Serinus canaria|RHO": {
+  "status": "ok",
+  "acc": "XP_018779998.1",
+  "len": 374,
+  "file": "data/controls7b/Serinus_canaria__RHO.fa",
+  "sha256": "e579737de4340a7dd46df2e0572e8f06ea8c8205bc7af73b24921b2cf1010e31"
+ },
+ "Serinus canaria|OPN4": {
+  "status": "ok",
+  "acc": "XP_009085792.2",
+  "len": 523,
+  "file": "data/controls7b/Serinus_canaria__OPN4.fa",
+  "sha256": "045f4a715ce34ca6e1ba37f728124d1f24317be905ae5ecd17c03809c57b46d1"
+ },
+ "Serinus canaria|GAPDH": {
+  "status": "ok",
+  "acc": "XP_030090836.2",
+  "len": 681,
+  "file": "data/controls7b/Serinus_canaria__GAPDH.fa",
+  "sha256": "237f78a0546481b556eed2c1b3b9004e8ad49e8cb9cdcde8817ab0810858a7d4"
+ },
+ "Streptopelia decaocto|PKM": {
+  "status": "ok",
+  "acc": "XP_081917148.1",
+  "len": 530,
+  "file": "data/controls7b/Streptopelia_decaocto__PKM.fa",
+  "sha256": "31ecd0cbc9ca569f0112e04e5fc098921c03cfc68c7b5854b5e7eb4a03eacbbb"
+ },
+ "Streptopelia decaocto|LDHA": {
+  "status": "miss"
+ },
+ "Streptopelia decaocto|RHO": {
+  "status": "ok",
+  "acc": "XP_081915804.1",
+  "len": 351,
+  "file": "data/controls7b/Streptopelia_decaocto__RHO.fa",
+  "sha256": "c3f3d15b1910f4b680517535f901d75ddcf2a8f73d7881e2bf2b3141d151bdf9"
+ },
+ "Streptopelia decaocto|OPN4": {
+  "status": "ok",
+  "acc": "XP_081908462.1",
+  "len": 535,
+  "file": "data/controls7b/Streptopelia_decaocto__OPN4.fa",
+  "sha256": "9499cf06a60efcd48f1cdbc9cb2b1ae76c4c4a1f918e4a645af25d74fc2cc058"
+ },
+ "Streptopelia decaocto|GAPDH": {
+  "status": "ok",
+  "acc": "XP_081913356.1",
+  "len": 333,
+  "file": "data/controls7b/Streptopelia_decaocto__GAPDH.fa",
+  "sha256": "c12a6ea76e407cd643e0afab39edbcff8d6de0b06f6cecb1fe3df87ebf0935a7"
+ },
+ "Strigops habroptila|PKM": {
+  "status": "ok",
+  "acc": "XP_030352474.1",
+  "len": 550,
+  "file": "data/controls7b/Strigops_habroptila__PKM.fa",
+  "sha256": "272648c8c8ac4046ceffdd2bcc83649d36e36480e07609de387697c12bd1190d"
+ },
+ "Strigops habroptila|LDHA": {
+  "status": "miss"
+ },
+ "Strigops habroptila|RHO": {
+  "status": "ok",
+  "acc": "XP_030356598.1",
+  "len": 370,
+  "file": "data/controls7b/Strigops_habroptila__RHO.fa",
+  "sha256": "a0cd7acc0a1aa067f93269b7ac5be64f42badcbc3f1a5fa9e1d758a8202fa334"
+ },
+ "Strigops habroptila|OPN4": {
+  "status": "ok",
+  "acc": "XP_030344714.1",
+  "len": 528,
+  "file": "data/controls7b/Strigops_habroptila__OPN4.fa",
+  "sha256": "b764c471f8326be50444e91b4faa8b27d52b1e37794b65b7be6318dd21538bc7"
+ },
+ "Strigops habroptila|GAPDH": {
+  "status": "ok",
+  "acc": "XP_030327502.1",
+  "len": 333,
+  "file": "data/controls7b/Strigops_habroptila__GAPDH.fa",
+  "sha256": "dcab0911276e051a32edff69524c604943fb067ddfb27a56c7acac424152a38f"
+ },
+ "Strix aluco|PKM": {
+  "status": "ok",
+  "acc": "XP_074694093.1",
+  "len": 530,
+  "file": "data/controls7b/Strix_aluco__PKM.fa",
+  "sha256": "4221509614f7d62302b17798cf69fa5a31303af08bbe8d16f0ed8888e98ce531"
+ },
+ "Strix aluco|LDHA": {
+  "status": "miss"
+ },
+ "Strix aluco|RHO": {
+  "status": "ok",
+  "acc": "XP_074692878.1",
+  "len": 351,
+  "file": "data/controls7b/Strix_aluco__RHO.fa",
+  "sha256": "4586b1e684aaf1c364ada271c761a0dad619105c4a2321ea74a45edb3fcb66b7"
+ },
+ "Strix aluco|OPN4": {
+  "status": "ok",
+  "acc": "XP_074686529.1",
+  "len": 496,
+  "file": "data/controls7b/Strix_aluco__OPN4.fa",
+  "sha256": "16bc9ebed2a4438072f284c90b273ea3ca1e07d77a8b6e03625fc48ce3edea0e"
+ },
+ "Strix aluco|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074665915.1",
+  "len": 333,
+  "file": "data/controls7b/Strix_aluco__GAPDH.fa",
+  "sha256": "52446d0bd8dbe193b0a3a6d9188e5a2f327fef6bd894c0711c86ed9a17fbca88"
+ },
+ "Strix uralensis|PKM": {
+  "status": "ok",
+  "acc": "XP_074736091.1",
+  "len": 530,
+  "file": "data/controls7b/Strix_uralensis__PKM.fa",
+  "sha256": "b3385ccfb05139ca40ec705238f12d8be0d64b2e715c8c097aba001a6b802e5d"
+ },
+ "Strix uralensis|LDHA": {
+  "status": "miss"
+ },
+ "Strix uralensis|RHO": {
+  "status": "ok",
+  "acc": "XP_074734873.1",
+  "len": 351,
+  "file": "data/controls7b/Strix_uralensis__RHO.fa",
+  "sha256": "ea7d1bb7076a5c6542345db72b08b4ef09b32126a6cf87f44b7d357dc5ce6a3f"
+ },
+ "Strix uralensis|OPN4": {
+  "status": "ok",
+  "acc": "XP_074730523.1",
+  "len": 496,
+  "file": "data/controls7b/Strix_uralensis__OPN4.fa",
+  "sha256": "8bb3f7f57e2b621af61b494775c03b52a6a5f257ff48cccee404236622a9e9c1"
+ },
+ "Strix uralensis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074710363.1",
+  "len": 333,
+  "file": "data/controls7b/Strix_uralensis__GAPDH.fa",
+  "sha256": "cdb1d1531cb6b47c47d84d26d34c602fb6afcda1ade2dc1a2a9db77d74a1d971"
+ },
+ "Struthio camelus|PKM": {
+  "status": "ok",
+  "acc": "XP_068814803.1",
+  "len": 550,
+  "file": "data/controls7b/Struthio_camelus__PKM.fa",
+  "sha256": "713b576e7693543259cdfd1fc20c1acb31c133e09a49d4dd0d3b9571093b68dc"
+ },
+ "Struthio camelus|LDHA": {
+  "status": "ok",
+  "acc": "XP_068800995.1",
+  "len": 332,
+  "file": "data/controls7b/Struthio_camelus__LDHA.fa",
+  "sha256": "ac9798a758bd3eed14df42d0914e8b723691c764a1baa6b543fb0ca953b0211b"
+ },
+ "Struthio camelus|RHO": {
+  "status": "ok",
+  "acc": "XP_068763062.1",
+  "len": 351,
+  "file": "data/controls7b/Struthio_camelus__RHO.fa",
+  "sha256": "2c2a31ec98d5690c78a4026648917814942cb9bf2f96f4a4edaeb93f4669b4b5"
+ },
+ "Struthio camelus|OPN4": {
+  "status": "ok",
+  "acc": "XP_068806802.1",
+  "len": 531,
+  "file": "data/controls7b/Struthio_camelus__OPN4.fa",
+  "sha256": "6cd82b2530b98e90ababaec9b2c1b65789b2d98f0853ba4470102f083f5d595a"
+ },
+ "Struthio camelus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_068787175.1",
+  "len": 333,
+  "file": "data/controls7b/Struthio_camelus__GAPDH.fa",
+  "sha256": "b49c036778d1a89ce24e448822d7ce22a59f4033f8daf035d36cc169b6585d1b"
+ },
+ "Sturnus vulgaris|PKM": {
+  "status": "ok",
+  "acc": "XP_088028971.1",
+  "len": 550,
+  "file": "data/controls7b/Sturnus_vulgaris__PKM.fa",
+  "sha256": "d7dce3b65d4f4550c856009eab0c1a00a637cd1cbd13ed481b16b654e5475998"
+ },
+ "Sturnus vulgaris|LDHA": {
+  "status": "miss"
+ },
+ "Sturnus vulgaris|RHO": {
+  "status": "ok",
+  "acc": "XP_014729568.1",
+  "len": 351,
+  "file": "data/controls7b/Sturnus_vulgaris__RHO.fa",
+  "sha256": "4f3049afc6eabdc2972384014f99c673a47f2bbd72e23ebe9c7738e56fefa9c8"
+ },
+ "Sturnus vulgaris|OPN4": {
+  "status": "ok",
+  "acc": "XP_014733433.2",
+  "len": 525,
+  "file": "data/controls7b/Sturnus_vulgaris__OPN4.fa",
+  "sha256": "143784eeda97a8d010407bf8777a0a693359abfcf3623b40f37ca7b4f3a59c00"
+ },
+ "Sturnus vulgaris|GAPDH": {
+  "status": "ok",
+  "acc": "XP_014739659.1",
+  "len": 333,
+  "file": "data/controls7b/Sturnus_vulgaris__GAPDH.fa",
+  "sha256": "c7eecb121e00ce15349e1d93c1f74d76a6db6551a68f7ca5e31de562f2bf50c7"
+ },
+ "Sylvia atricapilla|PKM": {
+  "status": "ok",
+  "acc": "XP_066184755.1",
+  "len": 550,
+  "file": "data/controls7b/Sylvia_atricapilla__PKM.fa",
+  "sha256": "7552b8d0335fb47602c15ef69ce199340101db60be4bccbd3024233e7c7039d7"
+ },
+ "Sylvia atricapilla|LDHA": {
+  "status": "miss"
+ },
+ "Sylvia atricapilla|RHO": {
+  "status": "ok",
+  "acc": "XP_066183215.1",
+  "len": 351,
+  "file": "data/controls7b/Sylvia_atricapilla__RHO.fa",
+  "sha256": "51b87fb4ee4319665ad53ee08f0d04c41a9f1a962883c385b089dd7d6977de4f"
+ },
+ "Sylvia atricapilla|OPN4": {
+  "status": "ok",
+  "acc": "XP_066180280.1",
+  "len": 526,
+  "file": "data/controls7b/Sylvia_atricapilla__OPN4.fa",
+  "sha256": "45ad8f1c7ba921720ddd0ef7319bc2d09ad117356aa44310c6adb8e19ec090cb"
+ },
+ "Sylvia atricapilla|GAPDH": {
+  "status": "ok",
+  "acc": "XP_066197266.1",
+  "len": 582,
+  "file": "data/controls7b/Sylvia_atricapilla__GAPDH.fa",
+  "sha256": "4b99c467ac184ecfba3c886e0f05d76b4fde698428c42ff43ccc11a9f2625801"
+ },
+ "Sylvia borin|PKM": {
+  "status": "miss"
+ },
+ "Sylvia borin|LDHA": {
+  "status": "miss"
+ },
+ "Sylvia borin|RHO": {
+  "status": "miss"
+ },
+ "Sylvia borin|OPN4": {
+  "status": "miss"
+ },
+ "Sylvia borin|GAPDH": {
+  "status": "miss"
+ },
+ "Taeniopygia guttata|PKM": {
+  "status": "ok",
+  "acc": "XP_072790227.1",
+  "len": 550,
+  "file": "data/controls7b/Taeniopygia_guttata__PKM.fa",
+  "sha256": "f81b31c71ea98575121ff7efe0589e893cfdf1b14d710667e150070b34b87a51"
+ },
+ "Taeniopygia guttata|LDHA": {
+  "status": "miss"
+ },
+ "Taeniopygia guttata|RHO": {
+  "status": "ok",
+  "acc": "NP_001070163.1",
+  "len": 351,
+  "file": "data/controls7b/Taeniopygia_guttata__RHO.fa",
+  "sha256": "e856955fdf72eb1add02e832183ecb0f8d8a058bae4c4da7f4c311353e86a343"
+ },
+ "Taeniopygia guttata|OPN4": {
+  "status": "ok",
+  "acc": "XP_072787555.1",
+  "len": 514,
+  "file": "data/controls7b/Taeniopygia_guttata__OPN4.fa",
+  "sha256": "f2ab81fec5a700fe6f1c712c122f19d31d47459d8dbc7bb3b15630c42bb4f1f7"
+ },
+ "Taeniopygia guttata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_030122329.1",
+  "len": 333,
+  "file": "data/controls7b/Taeniopygia_guttata__GAPDH.fa",
+  "sha256": "fd57c8af6559eb75a8491ebe726bcb3b4b13af3029c7fb72aa5007588bd75a25"
+ },
+ "Tauraco erythrolophus|PKM": {
+  "status": "ok",
+  "acc": "XP_086476105.1",
+  "len": 550,
+  "file": "data/controls7b/Tauraco_erythrolophus__PKM.fa",
+  "sha256": "0d3641065e10e82c2701e39fdae578801823e64824d2b2e214091825bbbf7ee2"
+ },
+ "Tauraco erythrolophus|LDHA": {
+  "status": "miss"
+ },
+ "Tauraco erythrolophus|RHO": {
+  "status": "ok",
+  "acc": "XP_086475327.1",
+  "len": 351,
+  "file": "data/controls7b/Tauraco_erythrolophus__RHO.fa",
+  "sha256": "f46b8708f77648c4aea24fe37d0ee3625c70a3cfce046a25e97613b8af83cba0"
+ },
+ "Tauraco erythrolophus|OPN4": {
+  "status": "ok",
+  "acc": "XP_086472439.1",
+  "len": 528,
+  "file": "data/controls7b/Tauraco_erythrolophus__OPN4.fa",
+  "sha256": "962158cf4218261c13cef9ba250504ab1b8306798533ecccb5603fb78e5b3f3b"
+ },
+ "Tauraco erythrolophus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_086465724.1",
+  "len": 333,
+  "file": "data/controls7b/Tauraco_erythrolophus__GAPDH.fa",
+  "sha256": "94d97112d27be6e6b33c082c0fae60513d57f15a9d3046370aff25fafec2e106"
+ },
+ "Tetrao urogallus|PKM": {
+  "status": "ok",
+  "acc": "XP_079397286.1",
+  "len": 530,
+  "file": "data/controls7b/Tetrao_urogallus__PKM.fa",
+  "sha256": "c77179e8511a0abf671c1f6726f57b24861ad54e00c5fe913152a48e58dd3fcb"
+ },
+ "Tetrao urogallus|LDHA": {
+  "status": "ok",
+  "acc": "XP_079393340.1",
+  "len": 332,
+  "file": "data/controls7b/Tetrao_urogallus__LDHA.fa",
+  "sha256": "7b46312aa1536d4b4172d94843d82f52287971b81e418bc92ff17c76a7373408"
+ },
+ "Tetrao urogallus|RHO": {
+  "status": "ok",
+  "acc": "XP_079396715.1",
+  "len": 351,
+  "file": "data/controls7b/Tetrao_urogallus__RHO.fa",
+  "sha256": "117fcb9107d3c3ada0c18d8c2692fe68960f41e1839e80fb76e96bdc8ce6bfe6"
+ },
+ "Tetrao urogallus|OPN4": {
+  "status": "ok",
+  "acc": "XP_079391385.1",
+  "len": 530,
+  "file": "data/controls7b/Tetrao_urogallus__OPN4.fa",
+  "sha256": "6c3139f73c5bbc9d0e90b3616bad772945a4e244f26fc1abd36568b5c5c941f6"
+ },
+ "Tetrao urogallus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_079390989.1",
+  "len": 333,
+  "file": "data/controls7b/Tetrao_urogallus__GAPDH.fa",
+  "sha256": "05057ad13970b3f1f7de32b9cf871b2aa2d525bbbcb962de20ac863da678443c"
+ },
+ "Tinamus guttatus|PKM": {
+  "status": "ok",
+  "acc": "XP_010217099.2",
+  "len": 550,
+  "file": "data/controls7b/Tinamus_guttatus__PKM.fa",
+  "sha256": "0364c6f12ceced7ba9694b22158e7df79af121cd51b570058750b007e3c2133f"
+ },
+ "Tinamus guttatus|LDHA": {
+  "status": "ok",
+  "acc": "XP_088381993.1",
+  "len": 332,
+  "file": "data/controls7b/Tinamus_guttatus__LDHA.fa",
+  "sha256": "8efb24a6244ea8ee23af960825859fd5490d69836e983ae1e6e29ec060eb8274"
+ },
+ "Tinamus guttatus|RHO": {
+  "status": "ok",
+  "acc": "XP_088390739.1",
+  "len": 351,
+  "file": "data/controls7b/Tinamus_guttatus__RHO.fa",
+  "sha256": "53c2e299145344eb8eae9d1d41c67ebc0acf09f2bbda7e150b4f7944c6b9ffcf"
+ },
+ "Tinamus guttatus|OPN4": {
+  "status": "ok",
+  "acc": "XP_010210598.2",
+  "len": 504,
+  "file": "data/controls7b/Tinamus_guttatus__OPN4.fa",
+  "sha256": "743b7f61db8791e49694e147c97293ec6015cc6acc9cf8b46899ae5d97681856"
+ },
+ "Tinamus guttatus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_088376910.1",
+  "len": 333,
+  "file": "data/controls7b/Tinamus_guttatus__GAPDH.fa",
+  "sha256": "d97a2a6c92e5217ae0fd0a9aa5a6a1b26461957e6eaed479c87081ca59d0eb74"
+ },
+ "Tympanuchus pallidicinctus|PKM": {
+  "status": "ok",
+  "acc": "XP_052528063.1",
+  "len": 530,
+  "file": "data/controls7b/Tympanuchus_pallidicinctus__PKM.fa",
+  "sha256": "98891b2e229a098480455407e6f9e81d949b3b490eea648b6e618317d1f6b789"
+ },
+ "Tympanuchus pallidicinctus|LDHA": {
+  "status": "miss"
+ },
+ "Tympanuchus pallidicinctus|RHO": {
+  "status": "ok",
+  "acc": "XP_052534646.1",
+  "len": 351,
+  "file": "data/controls7b/Tympanuchus_pallidicinctus__RHO.fa",
+  "sha256": "e9fc8a2f03e89248e7c08990acc00200877abef376eba7c50ec917e1845bf1eb"
+ },
+ "Tympanuchus pallidicinctus|OPN4": {
+  "status": "ok",
+  "acc": "XP_052532665.1",
+  "len": 530,
+  "file": "data/controls7b/Tympanuchus_pallidicinctus__OPN4.fa",
+  "sha256": "91c734275d708f842193d873cf9231e3a9d17d05d1830ad9363f9d5ed641b2b2"
+ },
+ "Tympanuchus pallidicinctus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_052557628.1",
+  "len": 333,
+  "file": "data/controls7b/Tympanuchus_pallidicinctus__GAPDH.fa",
+  "sha256": "be1650c51a8592a92c079aa64d85384f3051975dcf59ed219bdfb2935b5e32e3"
+ },
+ "Tyto alba|PKM": {
+  "status": "ok",
+  "acc": "XP_042659722.1",
+  "len": 530,
+  "file": "data/controls7b/Tyto_alba__PKM.fa",
+  "sha256": "c54c704ed53a9cbbec7a683095a2ba6d6b18298e49d30ba78a7cd8848ff98e96"
+ },
+ "Tyto alba|LDHA": {
+  "status": "ok",
+  "acc": "XP_032840765.1",
+  "len": 332,
+  "file": "data/controls7b/Tyto_alba__LDHA.fa",
+  "sha256": "1b0881b573929c04b4fcd6437717bf0c82dc574702e6586acd3adbf95d1dc0ad"
+ },
+ "Tyto alba|RHO": {
+  "status": "ok",
+  "acc": "XP_042655511.1",
+  "len": 351,
+  "file": "data/controls7b/Tyto_alba__RHO.fa",
+  "sha256": "fa169724dca3bafcf65c1e9c98efbd23447c59682769c8133c973843b8cba113"
+ },
+ "Tyto alba|OPN4": {
+  "status": "ok",
+  "acc": "XP_032850011.2",
+  "len": 445,
+  "file": "data/controls7b/Tyto_alba__OPN4.fa",
+  "sha256": "1e279adf1a2a1559938510dc206dedf492cb8a70c685a95ea91bb839bb0c5aca"
+ },
+ "Tyto alba|GAPDH": {
+  "status": "ok",
+  "acc": "XP_032851554.2",
+  "len": 333,
+  "file": "data/controls7b/Tyto_alba__GAPDH.fa",
+  "sha256": "615125c11f563914b3549b425763c1bb037365c5193a0dac5f28949120074418"
+ },
+ "Vanellus vanellus|PKM": {
+  "status": "ok",
+  "acc": "XP_082344689.1",
+  "len": 530,
+  "file": "data/controls7b/Vanellus_vanellus__PKM.fa",
+  "sha256": "0a1edbf32042df7e03f67d50b63cb72de366f5cb09d037f9a34d0efb423f9350"
+ },
+ "Vanellus vanellus|LDHA": {
+  "status": "miss"
+ },
+ "Vanellus vanellus|RHO": {
+  "status": "ok",
+  "acc": "XP_082344003.1",
+  "len": 351,
+  "file": "data/controls7b/Vanellus_vanellus__RHO.fa",
+  "sha256": "304ad794893ddf5731bc57347891975e4a9dbe5748a148c63cd4664a0e1f7c1f"
+ },
+ "Vanellus vanellus|OPN4": {
+  "status": "ok",
+  "acc": "XP_082342374.1",
+  "len": 528,
+  "file": "data/controls7b/Vanellus_vanellus__OPN4.fa",
+  "sha256": "b4cdf9e205c9d80385ac8604226e098ae49edbd0260f4785fcc5aa54371ff9dd"
+ },
+ "Vanellus vanellus|GAPDH": {
+  "status": "ok",
+  "acc": "XP_082335528.1",
+  "len": 333,
+  "file": "data/controls7b/Vanellus_vanellus__GAPDH.fa",
+  "sha256": "23c716e2de60b4ecb4c4044264df3e87dd1b4201ddd027d46109cf05f5cca770"
+ },
+ "Vidua chalybeata|PKM": {
+  "status": "ok",
+  "acc": "XP_053811086.1",
+  "len": 550,
+  "file": "data/controls7b/Vidua_chalybeata__PKM.fa",
+  "sha256": "226fd12476af95a800d9650b397d4ff4b5f05fe3d52908b7bbe2f5e0eb842d07"
+ },
+ "Vidua chalybeata|LDHA": {
+  "status": "miss"
+ },
+ "Vidua chalybeata|RHO": {
+  "status": "ok",
+  "acc": "XP_053809593.1",
+  "len": 351,
+  "file": "data/controls7b/Vidua_chalybeata__RHO.fa",
+  "sha256": "8d9dbbf988880ced333fed193fdc6f6decf4f093491b05955f34b94346d2f465"
+ },
+ "Vidua chalybeata|OPN4": {
+  "status": "ok",
+  "acc": "XP_053805688.1",
+  "len": 522,
+  "file": "data/controls7b/Vidua_chalybeata__OPN4.fa",
+  "sha256": "324eaafe10024629905518a7116097aae6b62b9704b2323f8d4d0bd4d8b4f97d"
+ },
+ "Vidua chalybeata|GAPDH": {
+  "status": "ok",
+  "acc": "XP_053788923.1",
+  "len": 537,
+  "file": "data/controls7b/Vidua_chalybeata__GAPDH.fa",
+  "sha256": "ed0ee7434dda51e7fca505eaec906ef055542b602dd94bfcb60974271d83c651"
+ },
+ "Vidua macroura|PKM": {
+  "status": "ok",
+  "acc": "XP_053844884.1",
+  "len": 550,
+  "file": "data/controls7b/Vidua_macroura__PKM.fa",
+  "sha256": "72693356abff92bcfb84d954e0a755d826e708d2d9cfe84e466f6b16b2d49d1a"
+ },
+ "Vidua macroura|LDHA": {
+  "status": "miss"
+ },
+ "Vidua macroura|RHO": {
+  "status": "ok",
+  "acc": "XP_053845221.1",
+  "len": 351,
+  "file": "data/controls7b/Vidua_macroura__RHO.fa",
+  "sha256": "8b6831e848ecdfc239c35816b09d2f154875c1b747e784b3c735b63c519c5081"
+ },
+ "Vidua macroura|OPN4": {
+  "status": "ok",
+  "acc": "XP_053840335.1",
+  "len": 462,
+  "file": "data/controls7b/Vidua_macroura__OPN4.fa",
+  "sha256": "c74cfd6e6f4a0a4628aef2612e77760d3c89011c3f813b58273d55444fab6094"
+ },
+ "Vidua macroura|GAPDH": {
+  "status": "ok",
+  "acc": "XP_053825150.1",
+  "len": 537,
+  "file": "data/controls7b/Vidua_macroura__GAPDH.fa",
+  "sha256": "a85f061f4705ef9fd01f1e5ef89b6e36bf73b88bfa3c188d441ed4930578645f"
+ },
+ "Zonotrichia albicollis|PKM": {
+  "status": "ok",
+  "acc": "XP_074405767.1",
+  "len": 594,
+  "file": "data/controls7b/Zonotrichia_albicollis__PKM.fa",
+  "sha256": "aaa13d28d8555ba5ed26084875060005a408facd8a96e20a26fed4b8d97d5acf"
+ },
+ "Zonotrichia albicollis|LDHA": {
+  "status": "miss"
+ },
+ "Zonotrichia albicollis|RHO": {
+  "status": "ok",
+  "acc": "XP_005490211.1",
+  "len": 351,
+  "file": "data/controls7b/Zonotrichia_albicollis__RHO.fa",
+  "sha256": "36c9a4c3f207f6a485f34c021e9ae68c1d3d162d4adafce84f03cefc8785d94e"
+ },
+ "Zonotrichia albicollis|OPN4": {
+  "status": "ok",
+  "acc": "XP_005481624.2",
+  "len": 525,
+  "file": "data/controls7b/Zonotrichia_albicollis__OPN4.fa",
+  "sha256": "16ff21806afaa842c06904adfe9bac646a90ba5222a1b3e06eadcf3d1d70ede0"
+ },
+ "Zonotrichia albicollis|GAPDH": {
+  "status": "ok",
+  "acc": "XP_074390917.1",
+  "len": 524,
+  "file": "data/controls7b/Zonotrichia_albicollis__GAPDH.fa",
+  "sha256": "9ed86d3fcb286e2906b7d0d99fb5c938951b8bee46511b0680fdc3d00b244671"
+ },
+ "Zonotrichia leucophrys gambelii|PKM": {
+  "status": "ok",
+  "acc": "XP_064578693.1",
+  "len": 574,
+  "file": "data/controls7b/Zonotrichia_leucophrys_gambelii__PKM.fa",
+  "sha256": "6720b7a1a859c0c885ac46e8fc4fca574a39b524538c9283a5178fdb3aa506be"
+ },
+ "Zonotrichia leucophrys gambelii|LDHA": {
+  "status": "miss"
+ },
+ "Zonotrichia leucophrys gambelii|RHO": {
+  "status": "ok",
+  "acc": "XP_064579868.1",
+  "len": 351,
+  "file": "data/controls7b/Zonotrichia_leucophrys_gambelii__RHO.fa",
+  "sha256": "5dddab94a641abd432db5f6779ad09c17ab416ff418b53b092fa4cbb8de2effc"
+ },
+ "Zonotrichia leucophrys gambelii|OPN4": {
+  "status": "ok",
+  "acc": "XP_064573041.1",
+  "len": 525,
+  "file": "data/controls7b/Zonotrichia_leucophrys_gambelii__OPN4.fa",
+  "sha256": "95f42f97f4c7282a85868b9364a2bce659684b547a8f62f8431f616d43c1e38d"
+ },
+ "Zonotrichia leucophrys gambelii|GAPDH": {
+  "status": "ok",
+  "acc": "XP_064579284.1",
+  "len": 524,
+  "file": "data/controls7b/Zonotrichia_leucophrys_gambelii__GAPDH.fa",
+  "sha256": "17feecf129bc4782bcb546dd8563d50cf78b2b0c7de426d069226802489faeea"
+ }
+}

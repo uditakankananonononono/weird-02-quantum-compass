@@ -1,0 +1,359 @@
+{
+ "locked": "2026-09-26 21:24 IST - UniProt canonical references + FT core definition, BEFORE evaluation",
+ "refs": {
+  "PKM": {
+   "uniprot": "P14618",
+   "len": 531,
+   "seq": "MSKPHSEAGTAFIQTQQLHAAMADTFLEHMCRLDIDSPPITARNTGIICTIGPASRSVETLKEMIKSGMNVARLNFSHGTHEYHAETIKNVRTATESFASDPILYRPVAVALDTKGPEIRTGLIKGSGTAEVELKKGATLKITLDNAYMEKCDENILWLDYKNICKVVEVGSKIYVDDGLISLQVKQKGADFLVTEVENGGSLGSKKGVNLPGAAVDLPAVSEKDIQDLKFGVEQDVDMVFASFIRKASDVHEVRKVLGEKGKNIKIISKIENHEGVRRFDEILEASDGIMVARGDLGIEIPAEKVFLAQKMMIGRCNRAGKPVICATQMLESMIKKPRPTRAEGSDVANAVLDGADCIMLSGETAKGDYPLEAVRMQHLIAREAEAAIYHLQLFEELRRLAPITSDPTEATAVGAVEASFKCCSGAIIVLTKSGRSAHQVARYRPRAPIIAVTRNPQTARQAHLYRGIFPVLCKDPVQEAWAEDVDLRVNFAMNVGKARGFFKKGDVVIVLTGWRPGSGFTNTMRVVPVP",
+   "features": [
+    {
+     "type": "Binding site",
+     "start": 70,
+     "end": 70,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 73,
+     "end": 73,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 75,
+     "end": 78,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 75,
+     "end": 75,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 77,
+     "end": 77,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 106,
+     "end": 106,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 113,
+     "end": 113,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 114,
+     "end": 114,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 120,
+     "end": 120,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 207,
+     "end": 207,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 270,
+     "end": 270,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 272,
+     "end": 272,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 295,
+     "end": 295,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 296,
+     "end": 296,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 296,
+     "end": 296,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 328,
+     "end": 328,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 432,
+     "end": 437,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 464,
+     "end": 464,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 482,
+     "end": 482,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 489,
+     "end": 489,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 516,
+     "end": 521,
+     "desc": ""
+    },
+    {
+     "type": "Site",
+     "start": 270,
+     "end": 270,
+     "desc": "Transition state stabilizer"
+    },
+    {
+     "type": "Site",
+     "start": 433,
+     "end": 433,
+     "desc": "Crucial for phosphotyrosine binding"
+    }
+   ]
+  },
+  "LDHA": {
+   "uniprot": "P00338",
+   "len": 332,
+   "seq": "MATLKDQLIYNLLKEEQTPQNKITVVGVGAVGMACAISILMKDLADELALVDVIEDKLKGEMMDLQHGSLFLRTPKIVSGKDYNVTANSKLVIITAGARQQEGESRLNLVQRNVNIFKFIIPNVVKYSPNCKLLIVSNPVDILTYVAWKISGFPKNRVIGSGCNLDSARFRYLMGERLGVHPLSCHGWVLGEHGDSSVPVWSGMNVAGVSLKTLHPDLGTDKDKEQWKEVHKQVVESAYEVIKLKGYTSWAIGLSVADLAESIMKNLRRVHPVSTMIKGLYGIKDDVFLSVPCILGQNGISDLVKVTLTSEEEARLKKSADTLWGIQKELQF",
+   "features": [
+    {
+     "type": "Active site",
+     "start": 193,
+     "end": 193,
+     "desc": "Proton acceptor"
+    },
+    {
+     "type": "Binding site",
+     "start": 29,
+     "end": 57,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 99,
+     "end": 99,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 106,
+     "end": 106,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 138,
+     "end": 138,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 138,
+     "end": 138,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 169,
+     "end": 169,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 248,
+     "end": 248,
+     "desc": ""
+    }
+   ]
+  },
+  "RHO": {
+   "uniprot": "P08100",
+   "len": 348,
+   "seq": "MNGTEGPNFYVPFSNATGVVRSPFEYPQYYLAEPWQFSMLAAYMFLLIVLGFPINFLTLYVTVQHKKLRTPLNYILLNLAVADLFMVLGGFTSTLYTSLHGYFVFGPTGCNLEGFFATLGGEIALWSLVVLAIERYVVVCKPMSNFRFGENHAIMGVAFTWVMALACAAPPLAGWSRYIPEGLQCSCGIDYYTLKPEVNNESFVIYMFVVHFTIPMIIIFFCYGQLVFTVKEAAAQQQESATTQKAEKEVTRMVIIMVIAFLICWVPYASVAFYIFTHQGSNFGPIFMTIPAFFAKSAAIYNPVIYIMMNKQFRNCMLTTICCGKNPLGDDEASATVSKTETSQVAPA",
+   "features": [
+    {
+     "type": "Binding site",
+     "start": 201,
+     "end": 201,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 279,
+     "end": 279,
+     "desc": ""
+    },
+    {
+     "type": "Site",
+     "start": 113,
+     "end": 113,
+     "desc": "Plays an important role in the conformation switch to the active conformation"
+    }
+   ]
+  },
+  "OPN4": {
+   "uniprot": "Q9UHM6",
+   "len": 478,
+   "seq": "MNPPSGPRVPPSPTQEPSCMATPAPPSWWDSSQSSISSLGRLPSISPTAPGTWAAAWVPLPTVDVPDHAHYTLGTVILLVGLTGMLGNLTVIYTFCRSRSLRTPANMFIINLAVSDFLMSFTQAPVFFTSSLYKQWLFGETGCEFYAFCGALFGISSMITLTAIALDRYLVITRPLATFGVASKRRAAFVLLGVWLYALAWSLPPFFGWSAYVPEGLLTSCSWDYMSFTPAVRAYTMLLCCFVFFLPLLIIIYCYIFIFRAIRETGRALQTFGACKGNGESLWQRQRLQSECKMAKIMLLVILLFVLSWAPYSAVALVAFAGYAHVLTPYMSSVPAVIAKASAIHNPIIYAITHPKYRVAIAQHLPCLGVLLGVSRRHSRPYPSYRSTHRSTLTSHTSNLSWISIRRRQESLGSESEVGWTHMEAAAVWGAAQQANGRSLYGQGLEDLEAKAPPRPQGHEAETPGKTKGLIPSQDPRM",
+   "features": [
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 73,
+     "end": 93,
+     "desc": "Helical; Name=1"
+    },
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 108,
+     "end": 128,
+     "desc": "Helical; Name=2"
+    },
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 145,
+     "end": 165,
+     "desc": "Helical; Name=3"
+    },
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 189,
+     "end": 209,
+     "desc": "Helical; Name=4"
+    },
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 239,
+     "end": 259,
+     "desc": "Helical; Name=5"
+    },
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 297,
+     "end": 317,
+     "desc": "Helical; Name=6"
+    },
+    {
+     "type": "Transmembrane (functional scaffold for opsin)",
+     "start": 333,
+     "end": 353,
+     "desc": "Helical; Name=7"
+    },
+    {
+     "type": "Modified residue (retinal Schiff-base lysine)",
+     "start": 340,
+     "end": 340,
+     "desc": "N6-(retinylidene)lysine"
+    }
+   ]
+  },
+  "GAPDH": {
+   "uniprot": "P04406",
+   "len": 335,
+   "seq": "MGKVKVGVNGFGRIGRLVTRAAFNSGKVDIVAINDPFIDLNYMVYMFQYDSTHGKFHGTVKAENGKLVINGNPITIFQERDPSKIKWGDAGAEYVVESTGVFTTMEKAGAHLQGGAKRVIISAPSADAPMFVMGVNHEKYDNSLKIISNASCTTNCLAPLAKVIHDNFGIVEGLMTTVHAITATQKTVDGPSGKLWRDGRGALQNIIPASTGAAKAVGKVIPELNGKLTGMAFRVPTANVSVVDLTCRLEKPAKYDDIKKVVKQASEGPLKGILGYTEHQVVSSDFNSDTHSSTFDAGAGIALNDHFVKLISWYDNEFGYSNRVVDLMAHMASKE",
+   "features": [
+    {
+     "type": "Active site",
+     "start": 152,
+     "end": 152,
+     "desc": "Nucleophile"
+    },
+    {
+     "type": "Binding site",
+     "start": 13,
+     "end": 14,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 35,
+     "end": 35,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 80,
+     "end": 80,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 122,
+     "end": 122,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 151,
+     "end": 153,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 182,
+     "end": 182,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 211,
+     "end": 212,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 234,
+     "end": 234,
+     "desc": ""
+    },
+    {
+     "type": "Binding site",
+     "start": 316,
+     "end": 316,
+     "desc": ""
+    },
+    {
+     "type": "Site",
+     "start": 179,
+     "end": 179,
+     "desc": "Activates thiol group during catalysis"
+    }
+   ]
+  }
+ },
+ "opn4_fallback": "Q9UHM6 has no Active/Binding/Site features; core = retinal Schiff-base lysine (Modified residue) + 7 TM helices (functional scaffold), locked 21:25 IST BEFORE evaluation"
+}

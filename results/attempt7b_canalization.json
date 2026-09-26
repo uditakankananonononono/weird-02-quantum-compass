@@ -1,0 +1,69 @@
+{
+ "amendment": "2026-09-26 20:58 IST 7b",
+ "nperm": 10000,
+ "seed": 260926,
+ "results": {
+  "PKM": {
+   "gene": "PKM",
+   "n_seqs": 176,
+   "n_core_cols": 31,
+   "core_mean_cons": 0.9848,
+   "rest_mean_cons": 0.9345,
+   "C": 0.0503,
+   "null_median": 0.0022,
+   "p_within": 0.0191
+  },
+  "LDHA": {
+   "gene": "LDHA",
+   "n_seqs": 41,
+   "n_core_cols": 35,
+   "core_mean_cons": 0.9868,
+   "rest_mean_cons": 0.9726,
+   "C": 0.0142,
+   "null_median": 0.0017,
+   "p_within": 0.16078
+  },
+  "RHO": {
+   "gene": "RHO",
+   "n_seqs": 177,
+   "n_core_cols": 3,
+   "core_mean_cons": 0.9924,
+   "rest_mean_cons": 0.9511,
+   "C": 0.0413,
+   "null_median": 0.0356,
+   "p_within": 0.36026
+  },
+  "OPN4": {
+   "gene": "OPN4",
+   "n_seqs": 170,
+   "n_core_cols": 147,
+   "core_mean_cons": 0.9708,
+   "rest_mean_cons": 0.8672,
+   "C": 0.1036,
+   "null_median": 0.0001,
+   "p_within": 0.0001
+  },
+  "GAPDH": {
+   "gene": "GAPDH",
+   "n_seqs": 182,
+   "n_core_cols": 14,
+   "core_mean_cons": 1.0,
+   "rest_mean_cons": 0.8615,
+   "C": 0.1385,
+   "null_median": 0.0031,
+   "p_within": 0.0003
+  },
+  "CRY1": {
+   "gene": "CRY1",
+   "n_seqs": 116,
+   "n_core_cols": 36,
+   "core_mean_cons": 0.9995,
+   "rest_mean_cons": 0.9955,
+   "C": 0.004,
+   "null_median": 0.0026,
+   "p_within": 0.15068
+  }
+ },
+ "cry1_rank_of_6": 6,
+ "win": false
+}
