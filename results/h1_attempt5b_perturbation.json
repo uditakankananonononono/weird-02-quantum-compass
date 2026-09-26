@@ -1,0 +1,35 @@
+{
+ "label": "EXPLORATORY post-hoc (judge round-6); locked 5b gates unchanged",
+ "locked_ratio": 43.971177581579035,
+ "T_us": 10.0,
+ "lognormal_sigma_0.05": {
+  "ratio_median": 44.0,
+  "ratio_p5": 39.3,
+  "ratio_p95": 49.3,
+  "frac_ratio_above_1": 1.0,
+  "frac_ratio_above_locked_gate_1.25": 1.0
+ },
+ "lognormal_sigma_0.1": {
+  "ratio_median": 44.1,
+  "ratio_p5": 34.8,
+  "ratio_p95": 55.6,
+  "frac_ratio_above_1": 1.0,
+  "frac_ratio_above_locked_gate_1.25": 1.0
+ },
+ "lognormal_sigma_0.2": {
+  "ratio_median": 44.0,
+  "ratio_p5": 27.5,
+  "ratio_p95": 70.0,
+  "frac_ratio_above_1": 1.0,
+  "frac_ratio_above_locked_gate_1.25": 1.0
+ },
+ "lognormal_sigma_0.3": {
+  "ratio_median": 43.9,
+  "ratio_p5": 21.9,
+  "ratio_p95": 88.3,
+  "frac_ratio_above_1": 1.0,
+  "frac_ratio_above_locked_gate_1.25": 1.0
+ },
+ "worst_case_30pct_opposed": 23.7,
+ "conclusion": "persistence extension is structurally robust: ratio stays far above the locked 1.25 gate at all perturbation levels (extension is ~tau-ratio driven; selectivity preservation is the knife-edge, already disclosed)"
+}
