@@ -1,0 +1,129 @@
+{
+ "label": "EXPLORATORY negative control (judge round-6); locked results unchanged",
+ "species": {
+  "erCry4": {
+   "chain_sp": [
+    424,
+    401,
+    347,
+    398
+   ],
+   "hop34": 6.09,
+   "d_term": 13.76,
+   "d_triad": 11.06,
+   "d_term_cent": 20.21,
+   "d_term_locked": 13.76,
+   "d_triad_locked": 11.06
+  },
+  "ClCry4": {
+   "chain_sp": [
+    395,
+    372,
+    318,
+    369
+   ],
+   "hop34": 7.44,
+   "d_term": 16.18,
+   "d_triad": 11.74,
+   "d_term_cent": 21.85,
+   "d_term_locked": 16.18,
+   "d_triad_locked": 11.74
+  },
+  "GgCry4": {
+   "chain_sp": [
+    395,
+    372,
+    318,
+    369
+   ],
+   "hop34": 7.49,
+   "d_term": 16.15,
+   "d_triad": 11.71,
+   "d_term_cent": 21.81,
+   "d_term_locked": 16.15,
+   "d_triad_locked": 11.71
+  }
+ },
+ "ordering_tests": {
+  "d_term": {
+   "per_species": {
+    "erCry4": {
+     "coord": 13.76,
+     "tau": 0.1505,
+     "S": 1.8993514422288757e-10
+    },
+    "ClCry4": {
+     "coord": 16.18,
+     "tau": 4.4545,
+     "S": 3.756553836320579e-09
+    },
+    "GgCry4": {
+     "coord": 16.15,
+     "tau": 4.2712,
+     "S": 3.742054620986108e-09
+    }
+   },
+   "xu_ordering_recovered": false
+  },
+  "d_term_cent": {
+   "per_species": {
+    "erCry4": {
+     "coord": 20.21,
+     "tau": 1256.2726,
+     "S": 3.9186347220591545e-09
+    },
+    "ClCry4": {
+     "coord": 21.85,
+     "tau": 12480.2709,
+     "S": 3.9186347220591545e-09
+    },
+    "GgCry4": {
+     "coord": 21.81,
+     "tau": 11800.5846,
+     "S": 3.9186347220591545e-09
+    }
+   },
+   "xu_ordering_recovered": false
+  },
+  "d_triad": {
+   "per_species": {
+    "erCry4": {
+     "coord": 11.06,
+     "tau": 0.0034,
+     "S": 9.339609267342953e-11
+    },
+    "ClCry4": {
+     "coord": 11.74,
+     "tau": 0.0089,
+     "S": 9.339609267342953e-11
+    },
+    "GgCry4": {
+     "coord": 11.71,
+     "tau": 0.0085,
+     "S": 9.339609267342953e-11
+    }
+   },
+   "xu_ordering_recovered": false
+  },
+  "hop34": {
+   "per_species": {
+    "erCry4": {
+     "coord": 6.09,
+     "tau": 0.0,
+     "S": 9.339609267342953e-11
+    },
+    "ClCry4": {
+     "coord": 7.44,
+     "tau": 0.0,
+     "S": 9.339609267342953e-11
+    },
+    "GgCry4": {
+     "coord": 7.49,
+     "tau": 0.0,
+     "S": 9.339609267342953e-11
+    }
+   },
+   "xu_ordering_recovered": false
+  }
+ }
+}

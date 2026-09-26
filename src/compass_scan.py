@@ -166,3 +166,24 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+def d_term_centroid(species_pdb, chain_residx_terminal, pairs):
+    """Exploratory variant: ring-centroid -> FAD isoalloxazine-centroid distance."""
+    cas6, ring6, fad6 = _load_6ptz()
+    casS, ringS = {}, {}
+    for line in open(species_pdb):
+        if line.startswith('ATOM'):
+            r = int(line[22:26]); atom = line[12:16].strip()
+            xyz = np.array([float(line[30:38]), float(line[38:46]), float(line[46:54])])
+            if atom == 'CA': casS[r] = xyz
+            if line[17:20].strip() == 'TRP' and atom in TRP_RING: ringS.setdefault(r, []).append(xyz)
+    pairs = [(vs, u6) for vs, u6 in pairs if vs in casS and u6 in cas6]
+    A = np.array([casS[vs] for vs, _ in pairs]); B = np.array([cas6[u6] for _, u6 in pairs])
+    Ac, Bc = A.mean(0), B.mean(0)
+    H = (A - Ac).T @ (B - Bc)
+    U, _, Vt = np.linalg.svd(H)
+    R = Vt.T @ U.T
+    if np.linalg.det(R) < 0: Vt[-1] *= -1; R = Vt.T @ U.T
+    cent = np.array(ringS[chain_residx_terminal]).mean(0)
+    cent6 = (R @ (cent - Ac)) + Bc
+    return float(np.linalg.norm(cent6 - fad6.mean(0)))
