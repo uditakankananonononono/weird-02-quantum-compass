@@ -1,0 +1,65 @@
+{
+ "P1": {
+  "S_er": 1.8802275907496013e-10,
+  "S_cl": 3.756517958611834e-09,
+  "S_gg": 3.742043485509741e-09,
+  "pass": false
+ },
+ "P2": {
+  "Apeak_triad": 0.001049,
+  "Apeak_WT": 0.001048,
+  "S_triad": 9.339609267342953e-11,
+  "S_WT": 1.8802275907496013e-10,
+  "pass": false
+ },
+ "P3i": {
+  "d_mean": 15.36,
+  "shrink_frac": 1.0,
+  "pass": true
+ },
+ "P3ii": {
+  "anchors_ok": 0,
+  "of": 7,
+  "details": [
+   {
+    "tau0": 1.0,
+    "order_ok": false
+   },
+   {
+    "tau0": 1.05,
+    "order_ok": false
+   },
+   {
+    "tau0": 1.1,
+    "order_ok": false
+   },
+   {
+    "tau0": 1.15,
+    "order_ok": false
+   },
+   {
+    "tau0": 1.2,
+    "order_ok": false
+   },
+   {
+    "tau0": 1.25,
+    "order_ok": false
+   },
+   {
+    "tau0": 1.3,
+    "order_ok": false
+   }
+  ],
+  "pass": false
+ },
+ "P4": {
+  "ordering_kept": 0,
+  "of": 100,
+  "pass": false
+ },
+ "P5": {
+  "wide_curve_reported": true,
+  "pass": true
+ },
+ "ALL": false
+}
