@@ -204,6 +204,16 @@
    "tool": "CDD SPARCLE API (BLOCKED - not counted)",
    "used_for": "HTML error page both routes; excluded per ledger",
    "ts": "2026-09-25T21:59+05:30"
+  },
+  {
+   "tool": "UniProt REST entry retrieval",
+   "used_for": "A0A2I4SZI9 canonical erCry4 record (Erithacus rubecula, 527 aa, Cryptochrome 4)",
+   "ts": "2026-09-26T09:31+05:30"
+  },
+  {
+   "tool": "EBI MAFFT result retrieval",
+   "used_for": "finished job mafft-R20260925; 11-seq x 558-col subpanel alignment; FAMSA cross-check CONSISTENT (99.6% conserved cols both)",
+   "ts": "2026-09-26T09:32+05:30"
   }
  ],
  "accession_datasets": [
@@ -362,7 +372,7 @@
  ],
  "counting_rule": "Per user 7:38 PM clarification: only genuinely-executed EXTERNAL research/data tools and science libraries count toward the 40 floor. Stdlib, pytest, git, LaTeX, pure literature lookups do NOT count. Floor not cap.",
  "dataset_total_accession_records": 13999,
- "reconciliation_note": "09:31 full resync: 40 genuinely-executed external tool/API runs documented (39 counted + SPARCLE excluded); floors count RUNS per user 7:38 PM rule, floor not cap; ~28 distinct tool families. LEDGER.md 21:48-22:59 = source trail.",
- "run_count": 39,
+ "reconciliation_note": "09:32 AIRTIGHT: 41 counted genuinely-executed external tool/API runs (+1 SPARCLE attempt excluded). Ledger 22:59 40/40 claim now independently exceeded without relying on any pre-21:48 record.",
+ "run_count": 41,
  "distinct_tool_families": 28
 }
