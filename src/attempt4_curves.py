@@ -108,7 +108,8 @@ def main():
     if os.path.exists('results/a4_curve_incr.jsonl'):
         for line in open('results/a4_curve_incr.jsonl'):
             r = json.loads(line); done[r['tau']] = r['val']
-    todo = [t for t in tau_grid if round(float(t),3) not in done]
+    _prio = [4.0, 5.0, 3.0, 2.0, 7.0, 10.0, 1.5, 1.0, 0.8, 0.65, 0.5, 0.4, 0.3, 0.2]  # gate-bracketing taus first (exec order only, ledger-noted)
+    todo = [t for t in _prio if round(float(t),3) not in done] + [t for t in tau_grid if round(float(t),3) not in done and t not in _prio]
     curve = dict(done)
     if todo:
         with Pool(2) as p:
