@@ -1,0 +1,27 @@
+{
+ "attempt": "5a",
+ "scores": {
+  "erCry4": "1.880e-10",
+  "ClCry4": "3.757e-09",
+  "GgCry4": "3.742e-09"
+ },
+ "model_order_most_to_least": [
+  "ClCry4",
+  "GgCry4",
+  "erCry4"
+ ],
+ "rho": -1.0,
+ "boot_CI95": [
+  -1.0,
+  -0.5
+ ],
+ "A1_pass": true,
+ "A2_robin_below_both": true,
+ "A3_exact_enumeration": {
+  "agree_obs": 0.0,
+  "perm_agree_rate": 0.3333333333333333,
+  "pass": true
+ },
+ "A4_ratio_controls_over_robin": 19.9,
+ "ALL_pass": true
+}
