@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  26 SEP 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 03:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -346,29 +346,60 @@ Overfull \hbox (0.38257pt too wide) in paragraph at lines 146--146
 -registered) 
  []
 
-[6] [7] [8] (./main.aux) ) 
+
+Overfull \hbox (8.35155pt too wide) in paragraph at lines 147--148
+\T1/ptm/m/n/12 gates the at-tempt passes (B1--B3; re-sults/h1_attempt5b_tradeof
+f.json, \T1/cmtt/m/n/12 ALL_pass_locked_grid:
+ []
+
+
+Overfull \hbox (0.45747pt too wide) in paragraph at lines 147--148
+\T1/cmtt/m/n/12 true\T1/ptm/m/n/12 ): the tetrad's mag-net-i-cally responsive-s
+tate per-sis-tence proxy ex-ceeds the triad's by $\OT1/ztmcm/m/n/12 43\OML/ztmc
+m/m/it/12 :\OT1/ztmcm/m/n/12 9\OMS/ztmcm/m/n/12 ^^B$
+ []
+
+[6]
+Overfull \hbox (14.76309pt too wide) in paragraph at lines 151--151
+[]\T1/ptm/b/n/17.28 Attempt 7: evo-lu-tion-ary con-straint map-ping (pre-regist
+ered;
+ []
+
+
+Overfull \hbox (3.06401pt too wide) in paragraph at lines 153--154
+\T1/ptm/m/n/12 vari-a-tion is com-pletely purged from ev-ery an-no-tated func-t
+ional po-si-tion: 0 of 33 vari-ant columns
+ []
+
+[7] [8]
+Overfull \hbox (5.39151pt too wide) in paragraph at lines 167--168
+\T1/ptm/m/n/12 The staged judge ques-tion for this arc asks whether whole-prote
+in canal-iza-tion is magnetosensor-
+ []
+
+[9] [10] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3521 strings out of 480247
- 50899 string characters out of 5896151
- 348588 words of memory out of 5000000
- 21401 multiletter control sequences out of 15000+600000
- 530244 words of font info for 133 fonts, out of 8000000 for 9000
+ 3522 strings out of 480247
+ 50912 string characters out of 5896151
+ 348590 words of memory out of 5000000
+ 21402 multiletter control sequences out of 15000+600000
+ 531940 words of font info for 134 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,9n,62p,3636b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/sandbox/.texlive2021/texmf-var/fonts/pk/ljfou
-r/jknappen/ec/ectt1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/bas
-e/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 124610 bytes).
+ 55i,9n,62p,3703b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/sandbox/.texlive2021/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ectt1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8
+r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (10 pages, 135462 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

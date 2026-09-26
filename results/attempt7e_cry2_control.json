@@ -1,0 +1,32 @@
+{
+ "amendment": "2026-09-27 03:08 IST 7e",
+ "seed": 260927,
+ "nboot": 10000,
+ "panel_species_ok": 112,
+ "cry2_ref": "XP_064920712.1 Columba_livia (ESMFold, first 400aa, same crop convention)",
+ "aligned_pairs": 369,
+ "superposition_rmsd": 6.03,
+ "triad_map_6ptz_to_cry2": {
+  "395": null,
+  "372": 384,
+  "318": 330,
+  "369": 381
+ },
+ "n_core_residues": 28,
+ "n_geometry_cols": 400,
+ "n_qualified_cols": 203,
+ "W_cry2": 0.99411,
+ "ci95_cry2": [
+  0.98905,
+  0.99789
+ ],
+ "W_cry1": 0.99547,
+ "ci95_cry1": [
+  0.99151,
+  0.99838
+ ],
+ "cond_a_CI1lower_gt_W2": false,
+ "cond_b_W1_gt_CI2upper": false,
+ "win": false,
+ "falsification_branch": "if not win: canalization = generic photoreceptor purifying-selection pattern; downgrade 7c novelty claim; judge redirect for next discriminator"
+}
