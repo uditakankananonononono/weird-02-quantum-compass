@@ -1,0 +1,692 @@
+{
+ "Acanthisitta_chloris": {
+  "status": "ok",
+  "accession": "XP_009071042.1",
+  "sha256": "9925d0821b47a067c3b16309a47d4fcb90d6ce8870f6e77f0b2dbdf9cc7bcb95",
+  "bytes": 486
+ },
+ "Agelaius_phoeniceus": {
+  "status": "ok",
+  "accession": "XP_077036279.1",
+  "sha256": "551368bdab6747c54a505e1f06d1a5d84c88dc1d8c47c998c14ddb87d9164ce0",
+  "bytes": 520
+ },
+ "Ammospiza_caudacuta": {
+  "status": "ok",
+  "accession": "XP_058662175.1",
+  "sha256": "43cd518aee99effe057d7bb029c604e73ca5df6834eb0a2b0bb780720a2b0560",
+  "bytes": 485
+ },
+ "Ammospiza_nelsoni": {
+  "status": "ok",
+  "accession": "XP_059329595.1",
+  "sha256": "52cac533047abf082becabdddc3711939dcdc0d622a02b3e07e3e64a8e0f477d",
+  "bytes": 483
+ },
+ "Anas_acuta": {
+  "status": "ok",
+  "accession": "XP_068539924.1",
+  "sha256": "d362d0f5bc27fe61a8c2fff59504ca2279b91806a3210b1d598afc9ec87bf80b",
+  "bytes": 476
+ },
+ "Antrostomus_carolinensis": {
+  "status": "miss"
+ },
+ "Apaloderma_vittatum": {
+  "status": "miss"
+ },
+ "Aphelocoma_coerulescens": {
+  "status": "ok",
+  "accession": "XP_068873447.1",
+  "sha256": "53df2bd5183e99a2d15a6074d7c685acf9fd3cd7b9fa1f529c314dc7a32ccf1c",
+  "bytes": 663
+ },
+ "Apteryx_mantelli": {
+  "status": "ok",
+  "accession": "XP_067152525.1",
+  "sha256": "b65d5ad49f9c629b658a614bc11d6dcbe35949887d5cd24b0787dd20ac6080c9",
+  "bytes": 663
+ },
+ "Apteryx_rowi": {
+  "status": "ok",
+  "accession": "XP_025921632.1",
+  "sha256": "b660ce7bea6a0c9d8bc4bf8056b94929fe49e1acbe18447e7b5feb4ee284c623",
+  "bytes": 477
+ },
+ "Apus_apus": {
+  "status": "ok",
+  "accession": "XP_051477460.1",
+  "sha256": "2d6830f2f24194abbf445bf058377e4538b886e65cfa4d34b3a4f29529286fa5",
+  "bytes": 643
+ },
+ "Athene_cunicularia": {
+  "status": "ok",
+  "accession": "XP_026705138.1",
+  "sha256": "c50002e572fd940b27b7ad095a00543a620cce3b078fbab75e343ff3a6aa3cb4",
+  "bytes": 649
+ },
+ "Athene_noctua": {
+  "status": "ok",
+  "accession": "XP_074765630.1",
+  "sha256": "cd3ac93fed97ab6b570fc8e5209cfa07e2dbd17faf675cff28b72d90455606cb",
+  "bytes": 644
+ },
+ "Balearica_regulorum_gibbericeps": {
+  "status": "ok",
+  "accession": "XP_075610611.1",
+  "sha256": "f952fdd98e1b16396739042da60612a166634a5fd3a80f382a4e3731de72c809",
+  "bytes": 608
+ },
+ "Buceros_rhinoceros_silvestris": {
+  "status": "ok",
+  "accession": "XP_010140049.1",
+  "sha256": "1167501352b4c400daeb9dc0945cefe8c057a96bb9662d623ff6021f7dafff83",
+  "bytes": 527
+ },
+ "Calidris_pugnax": {
+  "status": "ok",
+  "accession": "XP_014805817.1",
+  "sha256": "ebdd22e1a7fa828725e47e10c61fc50ae7e9f6ff10337b99be0766813af752a9",
+  "bytes": 659
+ },
+ "Calonectris_borealis": {
+  "status": "ok",
+  "accession": "XP_075008278.1",
+  "sha256": "8f29188607218340537258d854e9d7736eac8ca011aa6f4259cadbadc2a3b2ce",
+  "bytes": 649
+ },
+ "Cariama_cristata": {
+  "status": "ok",
+  "accession": "KAM9289621.1",
+  "sha256": "6bf124561afc58f5e85e1281a68972b3d1f32f6cf56c46677e51f45b0b297a15",
+  "bytes": 641
+ },
+ "Catharus_ustulatus": {
+  "status": "ok",
+  "accession": "XP_032917795.1",
+  "sha256": "be058c0dfd412ffb58850c691b726d47e2eaaaa3e1dcdd2c3ecb4c354d52e84b",
+  "bytes": 657
+ },
+ "Centrocercus_urophasianus": {
+  "status": "ok",
+  "accession": "XP_042670011.1",
+  "sha256": "60d3a52b39ffcc721256b690065245f7d7797714f369a39b076cd57c7c9b5902",
+  "bytes": 602
+ },
+ "Chaetura_pelagica": {
+  "status": "ok",
+  "accession": "XP_009997901.1",
+  "sha256": "0613b8de5d2ea6840a8c540ead43821059cc1fcb97df110bd84ea3a643d74828",
+  "bytes": 601
+ },
+ "Chamaea_fasciata": {
+  "status": "ok",
+  "accession": "XP_066044140.1",
+  "sha256": "236d630b28c8db3399da7e3f88344a5fde4405efba8d296edd9ce5e55f142f69",
+  "bytes": 654
+ },
+ "Charadrius_vociferus": {
+  "status": "ok",
+  "accession": "XP_009894015.1",
+  "sha256": "4979b8b4500a6cf711ef9887d26f8bbe4c930427dcf10fa6d8a3717949d8ff82",
+  "bytes": 596
+ },
+ "Chiroxiphia_lanceolata": {
+  "status": "ok",
+  "accession": "XP_032546289.1",
+  "sha256": "1a9b8ccbb83fbe49201eda257d1200fc39689a9ad19d151775a558f62c19b213",
+  "bytes": 599
+ },
+ "Chlamydotis_macqueenii": {
+  "status": "ok",
+  "accession": "XP_086604348.1",
+  "sha256": "77835406e0b1503d1c34d7f082391af22ab6c61729fc3d2c48530c96dbde60d7",
+  "bytes": 621
+ },
+ "Ciconia_boyciana": {
+  "status": "ok",
+  "accession": "XP_072720718.1",
+  "sha256": "8d1f2cb87ba58aedc1d5686111d08aa057b197a9e59c4178afe9553a730a3027",
+  "bytes": 651
+ },
+ "Cinclus_cinclus": {
+  "status": "ok",
+  "accession": "XP_062351899.1",
+  "sha256": "7e3069a201cd4d8ad1f7a3d3858ac792560cfc7ea680502a3b65db37506cafad",
+  "bytes": 592
+ },
+ "Colius_striatus": {
+  "status": "ok",
+  "accession": "XP_061853813.1",
+  "sha256": "9865af3c81ecb5e5c220c26e2b096108b09896e854d639fe97c1f228995acdc7",
+  "bytes": 656
+ },
+ "Columba_livia": {
+  "status": "ok",
+  "accession": "XP_064920712.1",
+  "sha256": "def82c72a156ca7b14c765ce431d9ad50067c9fd6966d414617ff98face2a94a",
+  "bytes": 651
+ },
+ "Corvus_hawaiiensis": {
+  "status": "ok",
+  "accession": "XP_048164141.1",
+  "sha256": "c8354e9a94dd32865e5efb831ef57bfeddd1e3bb03a499b1a5034b8e26fae0b3",
+  "bytes": 657
+ },
+ "Corvus_kubaryi": {
+  "status": "ok",
+  "accession": "XP_041894090.1",
+  "sha256": "eeb796fd1000e7107f0eb8d516c32498d04aaed9ae665129791584e639a48116",
+  "bytes": 652
+ },
+ "Corvus_moneduloides": {
+  "status": "ok",
+  "accession": "XP_031966985.1",
+  "sha256": "fc5bc17e50c03048500e14e10a14122c511e13ef37be38260c7029e4903d0ca6",
+  "bytes": 658
+ },
+ "Coturnix_japonica": {
+  "status": "ok",
+  "accession": "XP_085406392.1",
+  "sha256": "e17bcea8fd120bb9f34f61b544413acfee8211897a8deadf14a1e5512da5a64c",
+  "bytes": 483
+ },
+ "Cuculus_canorus": {
+  "status": "ok",
+  "accession": "XP_009568372.2",
+  "sha256": "cd1ed609b57ad67b74b417dc1449c4f69aa9e3fe5ae5d84ad8043c09c78618a4",
+  "bytes": 657
+ },
+ "Cyanistes_caeruleus": {
+  "status": "ok",
+  "accession": "XP_086751319.1",
+  "sha256": "4ef504f6da26ae6fd287cb42a6f419793b68aefac8745fb55e29ffc402120a9e",
+  "bytes": 657
+ },
+ "Cygnus_olor": {
+  "status": "ok",
+  "accession": "XP_040414341.1",
+  "sha256": "c6380a6821e990fdcb01c5261227a60f9d384cb764c2f7a7d79dd9a2c1c1d9ce",
+  "bytes": 643
+ },
+ "Cyrtonyx_montezumae": {
+  "status": "ok",
+  "accession": "XP_065610886.1",
+  "sha256": "d51f343aca2d3fe5183b381c43786cb2bb098eab6800db538b6f94c03ca5029d",
+  "bytes": 485
+ },
+ "Dromaius_novaehollandiae": {
+  "status": "ok",
+  "accession": "XP_025963309.1",
+  "sha256": "fefb1ceda33c2fa66198632c5161192d22a84f8c2aba82ebe31ceceb8d0813a3",
+  "bytes": 650
+ },
+ "Dryobates_pubescens": {
+  "status": "ok",
+  "accession": "XP_054017466.1",
+  "sha256": "76484fe9e5af0041e48a62ea62f98c6914ee852bfcbb9f2c9c5d27323ecc4322",
+  "bytes": 516
+ },
+ "Empidonax_traillii": {
+  "status": "ok",
+  "accession": "XP_027743232.1",
+  "sha256": "69d6955b7c125181ab10e5deb7e3faf241ff560a92cbcf216f1f19f3ffab77e5",
+  "bytes": 595
+ },
+ "Erithacus_rubecula": {
+  "status": "ok",
+  "accession": "XP_079163908.1",
+  "sha256": "49cb4716306ede99f071d0c4345dacc8bdd2458ba322d837a451d9467f2da1dd",
+  "bytes": 655
+ },
+ "Eurypyga_helias": {
+  "status": "ok",
+  "accession": "XP_010154061.1",
+  "sha256": "8bdddc6cdbf12684364e0d71b8390f4ed1a79833015e8608ea333ecef33e72c8",
+  "bytes": 511
+ },
+ "Falco_cherrug": {
+  "status": "ok",
+  "accession": "XP_055571974.1",
+  "sha256": "6a0d37bcdc160b41d1ae445d1a424e119f288e92fbe6151180e827bd0c6d6c89",
+  "bytes": 644
+ },
+ "Falco_naumanni": {
+  "status": "ok",
+  "accession": "XP_040456452.1",
+  "sha256": "dae074edc99686be99dd6e4b010941be3bc0eec51bae0b1675aa1c5b36f69ea9",
+  "bytes": 644
+ },
+ "Falco_rusticolus": {
+  "status": "ok",
+  "accession": "XP_037249990.1",
+  "sha256": "9f4ca648f4ed81a05affc661b37be4d04b3000920efe95f69bd80fd87d067a46",
+  "bytes": 647
+ },
+ "Ficedula_albicollis": {
+  "status": "ok",
+  "accession": "XP_005047216.1",
+  "sha256": "c03d42d6b3a4b9664cf1a2b2375bdafd5501feed4aeced0e357f0c50d4c695ef",
+  "bytes": 662
+ },
+ "Fulmarus_glacialis": {
+  "status": "ok",
+  "accession": "XP_009583412.1",
+  "sha256": "60ea62a9918dc7866d475911fec3ca62c36597686a2d82fdd72b0e90bd4e7823",
+  "bytes": 509
+ },
+ "Gallus_gallus": {
+  "status": "ok",
+  "accession": "sp|Q8QG60.2|CRY2_CHICK",
+  "sha256": "318c25913225e3585cb663bf778a03300b06f1054a242113dc06d73d7db43fb6",
+  "bytes": 645
+ },
+ "Gavia_stellata": {
+  "status": "ok",
+  "accession": "XP_059675978.1",
+  "sha256": "0178eb94f58826cec16b25cbe0e7cada65ba8e7494c750f9cff69431cdfe3b83",
+  "bytes": 643
+ },
+ "Geospiza_fortis": {
+  "status": "ok",
+  "accession": "XP_030911665.1",
+  "sha256": "a1ca251a760689ef61021c3fdb8a20c9d03831eda1df2f777727c77948620f05",
+  "bytes": 599
+ },
+ "Grus_americana": {
+  "status": "ok",
+  "accession": "XP_054683042.1",
+  "sha256": "61c35936cc068fa599c2d6353ebb162730f891f04b4648c72c36d02220b75d81",
+  "bytes": 591
+ },
+ "Gymnogyps_californianus": {
+  "status": "ok",
+  "accession": "XP_050753213.1",
+  "sha256": "8ad9f96a1faee493d1e8d8c9cf5c7013436388c95d11e8776cc35b241779bf30",
+  "bytes": 652
+ },
+ "Haliaeetus_leucocephalus": {
+  "status": "ok",
+  "accession": "XP_010578512.1",
+  "sha256": "e3dcdf2e2992de215f0379b15cf938c88992e341b26f2bf822772f4dc473c2e2",
+  "bytes": 681
+ },
+ "Harpia_harpyja": {
+  "status": "ok",
+  "accession": "XP_052638060.1",
+  "sha256": "1ade221654dc141d1e7dea3a7743ddf8f1d30a01abdc0756c3b6f8a46fe74a3b",
+  "bytes": 480
+ },
+ "Heliangelus_exortis": {
+  "status": "ok",
+  "accession": "XP_071600865.1",
+  "sha256": "9b844cfaa1b12a6bd4cf6fff741187dcd845cea462cfd80821b5a71d0e68100c",
+  "bytes": 485
+ },
+ "Hirundo_rustica": {
+  "status": "ok",
+  "accession": "XP_039924519.1",
+  "sha256": "348d91b64bf07280f982b4f162d3cb6eed1a8718c61fd693388dcd2a2c2071f8",
+  "bytes": 653
+ },
+ "Indicator_indicator": {
+  "status": "ok",
+  "accession": "XP_054256772.1",
+  "sha256": "3b1b9f28cc9faa83796a79a0f1f638dfe52bce015a3e24a98714da8d984b7f34",
+  "bytes": 649
+ },
+ "Lagopus_leucura": {
+  "status": "ok",
+  "accession": "XP_042722072.1",
+  "sha256": "1f8498146d007917a7b0f21d2ae01c3f57e2163f32f02a0ca5b8294c7c575302",
+  "bytes": 641
+ },
+ "Lagopus_muta": {
+  "status": "ok",
+  "accession": "XP_048804587.1",
+  "sha256": "d01fc701b7041411841499fd0514f46c00fb8a620436758932af24f5faab6904",
+  "bytes": 638
+ },
+ "Lathamus_discolor": {
+  "status": "ok",
+  "accession": "XP_065541023.1",
+  "sha256": "010aee1baef71f22f5ff75559a177bb4ae0594b04beda16d194ff67feb5be71d",
+  "bytes": 654
+ },
+ "Lepidothrix_coronata": {
+  "status": "ok",
+  "accession": "XP_017663444.1",
+  "sha256": "b3aca2f65c3282a4405be00e7015d06bef80e8e041e295fad81b761d5ba0abfa",
+  "bytes": 658
+ },
+ "Leptosomus_discolor": {
+  "status": "ok",
+  "accession": "XP_086318465.1",
+  "sha256": "096efb493225a225f1b64a39839640ea9ed30f56637aed3c6f0f91c46f29e8a4",
+  "bytes": 646
+ },
+ "Lonchura_striata": {
+  "status": "ok",
+  "accession": "XP_085437982.1",
+  "sha256": "b4f798b494d978afcd94279f1dee9b71849dd51759834b1dd027f225e9363b25",
+  "bytes": 593
+ },
+ "Malurus_melanocephalus": {
+  "status": "ok",
+  "accession": "XP_057221330.1",
+  "sha256": "e73503064fc2191339f9be586c6454e8fd59f44c9ef8017a45101e73bc839d0e",
+  "bytes": 476
+ },
+ "Manacus_candei": {
+  "status": "ok",
+  "accession": "XP_051647606.1",
+  "sha256": "b887e21c56093f83353da20f044cd5adc546096fe47e822e018907e7844926d7",
+  "bytes": 641
+ },
+ "Manacus_vitellinus": {
+  "status": "ok",
+  "accession": "XP_029820112.1",
+  "sha256": "ca861993d9eaa35de2903175c846f685b4e7bc33f1c84e1782698cc2cde6c818",
+  "bytes": 575
+ },
+ "Melanerpes_formicivorus": {
+  "status": "ok",
+  "accession": "XP_068017565.1",
+  "sha256": "e2253032a9d5f0db053083664007e84290796f871e731a99a607815ee515aa5c",
+  "bytes": 489
+ },
+ "Meleagris_gallopavo": {
+  "status": "ok",
+  "accession": "XP_085080888.1",
+  "sha256": "cf523155c0cc8dc3ec4db155e2b2d2a410dfa5868a2efc68bf054d253ab96954",
+  "bytes": 565
+ },
+ "Melospiza_georgiana": {
+  "status": "ok",
+  "accession": "XP_057881492.1",
+  "sha256": "be8888abb891207892ca5c0bc572368666b1926ae99a6ee0f55cf1d2a516af39",
+  "bytes": 473
+ },
+ "Melozone_crissalis": {
+  "status": "ok",
+  "accession": "XP_054131159.1",
+  "sha256": "8699483515b3c04aa7449816db1d1ebe868bac5edd4ffe351016d9d6d14b90ba",
+  "bytes": 483
+ },
+ "Mesitornis_unicolor": {
+  "status": "ok",
+  "accession": "XP_010183954.1",
+  "sha256": "50e6b2d8522afafbf07038836bdc775349c5943cec714950e82eb3b5f7f457e8",
+  "bytes": 530
+ },
+ "Molothrus_aeneus": {
+  "status": "ok",
+  "accession": "XP_066407279.1",
+  "sha256": "493ec352eac630018ab8733de7db9def00b3d4de7fb14d7c0e49244366ebdf3d",
+  "bytes": 481
+ },
+ "Molothrus_ater": {
+  "status": "ok",
+  "accession": "XP_036240046.1",
+  "sha256": "c84a5b9eedd989ebf29e14890dc4a95eebee01479b439038df4a16b3ddc5a253",
+  "bytes": 468
+ },
+ "Motacilla_alba_alba": {
+  "status": "ok",
+  "accession": "XP_037993804.1",
+  "sha256": "b388ddd583883591093b2f78c59fed0a42ba13fabfceaefaafab77cf8202e289",
+  "bytes": 657
+ },
+ "Myiozetetes_cayanensis": {
+  "status": "ok",
+  "accession": "XP_050192549.1",
+  "sha256": "42bc6dcb5e34192516e99c5550082566f759d4291a08575223d5a59a8393d541",
+  "bytes": 648
+ },
+ "Neopelma_chrysocephalum": {
+  "status": "ok",
+  "accession": "XP_027561927.1",
+  "sha256": "e75188e7073eaaf7bb9014fb148cb9b2e0373e701c283d91c3596491430faaa7",
+  "bytes": 600
+ },
+ "Neopsephotus_bourkii": {
+  "status": "ok",
+  "accession": "XP_061199424.1",
+  "sha256": "858fd7207a251fab84cc0d8095655d314a8c553eff284dcc1a11e43df45b96ed",
+  "bytes": 657
+ },
+ "Nestor_notabilis": {
+  "status": "miss"
+ },
+ "Nipponia_nippon": {
+  "status": "ok",
+  "accession": "XP_087602337.1",
+  "sha256": "e8735114435cdadcb49140f40e90ca08696b514a7ece9333d8f1e8862320967a",
+  "bytes": 481
+ },
+ "Nothoprocta_perdicaria": {
+  "status": "ok",
+  "accession": "XP_025901622.1",
+  "sha256": "927d3cced052fed33529e539d2fdc5c658de7f1bda525a40607bb10c2fca01b8",
+  "bytes": 476
+ },
+ "Numenius_arquata": {
+  "status": "ok",
+  "accession": "XP_074006137.1",
+  "sha256": "08cdc156a3ea2845fb39c810e1d94a5006c14f610793499d76ee9de64fe4cb66",
+  "bytes": 646
+ },
+ "Numida_meleagris": {
+  "status": "ok",
+  "accession": "XP_021257410.1",
+  "sha256": "d13f7313816b3d0102bcc6f6bff8f67a547185c3c23befe6215089e93567e8b5",
+  "bytes": 593
+ },
+ "Nyctibius_grandis": {
+  "status": "ok",
+  "accession": "XP_068254322.1",
+  "sha256": "f81be93a90bb3714b75935dbf1953e42f35fe16390f567aa3924fc9e9d2c7e66",
+  "bytes": 648
+ },
+ "Opisthocomus_hoazin": {
+  "status": "ok",
+  "accession": "XP_075281457.1",
+  "sha256": "22112b13ef024e00603ab3f816b56c9036381850786f6f0d2845963cb058ec42",
+  "bytes": 485
+ },
+ "Oxyura_jamaicensis": {
+  "status": "ok",
+  "accession": "XP_035182888.1",
+  "sha256": "ddae2fd7fd6fcef9c85b6aa1a0b83aad859eb76cf268697209db402b3e8bf617",
+  "bytes": 651
+ },
+ "Parus_major": {
+  "status": "ok",
+  "accession": "XP_033370825.1",
+  "sha256": "1b060d2d3e7f46711edf10e72749571abdf64a40ef7519fe2c69831a67f99cc8",
+  "bytes": 622
+ },
+ "Passer_domesticus": {
+  "status": "ok",
+  "accession": "XP_064280800.1",
+  "sha256": "f26f94da40fdb438fa0f91c04da9674340186c46ebf91f0511ea600f33b9cd8e",
+  "bytes": 483
+ },
+ "Passer_montanus": {
+  "status": "ok",
+  "accession": "XP_039560822.1",
+  "sha256": "45b44d1b0b759b6d62fdcaf28301da0993037e43e5d5fc3628ca450aef77560a",
+  "bytes": 653
+ },
+ "Patagioenas_fasciata": {
+  "status": "ok",
+  "accession": "XP_071665258.1",
+  "sha256": "534e4ec779f83a5dcf41b65cc3c2b78a6f6485001638fd4634791aa1e8f574fb",
+  "bytes": 673
+ },
+ "Pezoporus_occidentalis": {
+  "status": "ok",
+  "accession": "XP_062491764.1",
+  "sha256": "743196f9c773ae772aba4b27c357705d4d0c1e5f7e680b6ea3a4d0b6094e9e1f",
+  "bytes": 659
+ },
+ "Pezoporus_wallicus": {
+  "status": "ok",
+  "accession": "XP_057259999.1",
+  "sha256": "010d53ffa30066aeed8b773a7f248abb776b0647312449dd029a9f89626392d3",
+  "bytes": 655
+ },
+ "Phaenicophaeus_curvirostris": {
+  "status": "ok",
+  "accession": "XP_069714171.1",
+  "sha256": "da0abea2442ea8d8ad3ad7f7cd6dedbbeb176964d1d3a086458dd0f495d7bf71",
+  "bytes": 658
+ },
+ "Phaethon_lepturus": {
+  "status": "ok",
+  "accession": "XP_010289339.1",
+  "sha256": "fc35055e4a394da2ce35de428c1bb300a0e8084faf2ff456e9d28f1da62ed1b7",
+  "bytes": 600
+ },
+ "Phasianus_colchicus": {
+  "status": "ok",
+  "accession": "XP_031449354.1",
+  "sha256": "e0feb158a76f65085ac4d0e45c22e9dc3c5fe351d05277c20511111aec9310e5",
+  "bytes": 596
+ },
+ "Pipra_filicauda": {
+  "status": "ok",
+  "accession": "XP_039244966.1",
+  "sha256": "5566764c2da7f4133de0774639e417676adb1122c77b0884fef06fb504aebde5",
+  "bytes": 592
+ },
+ "Pithys_albifrons_albifrons": {
+  "status": "ok",
+  "accession": "XP_071414549.1",
+  "sha256": "d424d4d96bfb01e1705d8634086f51a9facd375b3c5997b77922876038452941",
+  "bytes": 603
+ },
+ "Pogoniulus_pusillus": {
+  "status": "ok",
+  "accession": "XP_064001698.1",
+  "sha256": "69766a5a6de1d479cd80ebba4891dedb9a6df9ead151062a1d2fbf00ca9fbb01",
+  "bytes": 625
+ },
+ "Prinia_subflava": {
+  "status": "ok",
+  "accession": "XP_063254575.1",
+  "sha256": "a55e1edf46c7ab9c1ead9e92f770b730464e8b57d219eada8d1d2ae1fad09e99",
+  "bytes": 653
+ },
+ "Pseudopipra_pipra": {
+  "status": "ok",
+  "accession": "XP_064514098.1",
+  "sha256": "14d94e0ac0ce01e876099dee68a7fb02a6be250d3f71ac1dbcf70e5be478e71c",
+  "bytes": 594
+ },
+ "Rhea_americana": {
+  "status": "miss"
+ },
+ "Rhea_pennata": {
+  "status": "ok",
+  "accession": "XP_062432379.1",
+  "sha256": "ebe92eb9d4039c918f1a62ad5c1c095269b0a44c3f3c9c99e5d4a081affddbd8",
+  "bytes": 645
+ },
+ "Serinus_canaria": {
+  "status": "ok",
+  "accession": "XP_018763230.2",
+  "sha256": "6dc917d274b9727df60fa386ad7f353d260334664f06eb21086a859e9ad50565",
+  "bytes": 655
+ },
+ "Strigops_habroptila": {
+  "status": "ok",
+  "accession": "XP_030337555.1",
+  "sha256": "699241cedac5cf640ad0461d1f721db7e8e5e125b7eab4b3a001d4a4c15381e4",
+  "bytes": 626
+ },
+ "Strix_aluco": {
+  "status": "ok",
+  "accession": "XP_074680212.1",
+  "sha256": "a196a9d39c0dd8ac69a587c6cd05c0a56256ff59e7025c5a530548da52eb77ef",
+  "bytes": 628
+ },
+ "Strix_uralensis": {
+  "status": "ok",
+  "accession": "XP_074723880.1",
+  "sha256": "12afcfbafbbc38264581fda4197f642f3e59cf5e69d635f85bb132d586f91a95",
+  "bytes": 632
+ },
+ "Struthio_camelus": {
+  "status": "ok",
+  "accession": "XP_068801970.1",
+  "sha256": "e01627efdf2b497501cd2ce3a831f4d9612a444d40a7a3cae0ff17fb54a669ef",
+  "bytes": 644
+ },
+ "Sylvia_atricapilla": {
+  "status": "ok",
+  "accession": "XP_066177291.1",
+  "sha256": "a930e0732498c0547cbc7338d8e3712a08a81bcad868ae8a6df7863a732b99ca",
+  "bytes": 656
+ },
+ "Sylvia_borin": {
+  "status": "ok",
+  "accession": "KAM4898655.1",
+  "sha256": "7b01f541bc33ff769225c63a1db01c71a470873486ccc624f6b69d8b06f73b15",
+  "bytes": 650
+ },
+ "Tauraco_erythrolophus": {
+  "status": "ok",
+  "accession": "XP_086468882.1",
+  "sha256": "ac766fa2ee71b3176319d491873c17139661df94516b22c5038ef2db1c8ca40c",
+  "bytes": 650
+ },
+ "Tinamus_guttatus": {
+  "status": "ok",
+  "accession": "XP_088376630.1",
+  "sha256": "e23127d95cfbfaf1b249fceb087a2844d7c1f453182de07df80c216b2d718c98",
+  "bytes": 470
+ },
+ "Tympanuchus_pallidicinctus": {
+  "status": "ok",
+  "accession": "XP_052549978.1",
+  "sha256": "c99f29ca1b8d864abee210ddd0b74f99906b5b86b5030cd302b2bbb2e4de1eba",
+  "bytes": 652
+ },
+ "Tyto_alba": {
+  "status": "ok",
+  "accession": "XP_042646499.1",
+  "sha256": "ac44d66a9c55c21dfdd3eee06e10f41e3654ba00bf47a2bd66653f1051877dfb",
+  "bytes": 636
+ },
+ "Vidua_chalybeata": {
+  "status": "ok",
+  "accession": "XP_053801426.1",
+  "sha256": "0e5ba799c183a478bf6fbf9cbc880166624f30e20f5ef78c5e814dbf943c0e62",
+  "bytes": 653
+ },
+ "Vidua_macroura": {
+  "status": "ok",
+  "accession": "XP_053836186.1",
+  "sha256": "522894ade282920f0c2d5f3ac7c345595f4e2cae63f6bc1f62cac391c7202e34",
+  "bytes": 651
+ },
+ "Zonotrichia_albicollis": {
+  "status": "ok",
+  "accession": "XP_074399151.1",
+  "sha256": "cf0fc21f5489b550824111f92647d446faee67f6df10e673d8f47d9c304ee381",
+  "bytes": 661
+ },
+ "Zonotrichia_leucophrys_gambelii": {
+  "status": "ok",
+  "accession": "XP_064570166.1",
+  "sha256": "ea722f65228d71c7dfe85bb99a512cf1ac708fafe99b254ab1485420427ecab2",
+  "bytes": 670
+ },
+ "sp": {
+  "status": "miss"
+ },
+ "tr": {
+  "status": "miss"
+ }
+}
