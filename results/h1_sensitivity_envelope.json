@@ -1,0 +1,68 @@
+{
+ "label": "SENSITIVITY ANALYSIS (post-hoc, frozen-model results already seen; judge round-5 weakness 2)",
+ "grid": {
+  "beta_per_A": [
+   0.3,
+   2.5,
+   45
+  ],
+  "tau0_us": [
+   0.5,
+   3.0,
+   51
+  ],
+  "structure_jitter_A": [
+   0.0,
+   0.25,
+   0.5,
+   1.0,
+   1.5
+  ],
+  "structure_samples": 40,
+  "D0_A": 13.0,
+  "S_tau_curve": "locked attempt-4 16-point curve (kS/kT variation subsumed: curve spans all lifetimes)"
+ },
+ "total_parameter_points": 369495,
+ "xu_ordering_fraction": 0.006406040677140421,
+ "max_robin_advantage": 0.0,
+ "max_robin_deficit": -0.0,
+ "per_jitter": {
+  "0.0A": {
+   "n": 2295,
+   "xu_ordering_frac": 0.0
+  },
+  "0.25A": {
+   "n": 91800,
+   "xu_ordering_frac": 0.0
+  },
+  "0.5A": {
+   "n": 91800,
+   "xu_ordering_frac": 0.0
+  },
+  "1.0A": {
+   "n": 91800,
+   "xu_ordering_frac": 0.005958605664488017
+  },
+  "1.5A": {
+   "n": 91800,
+   "xu_ordering_frac": 0.01982570806100218
+  }
+ },
+ "conclusion": "Xu ordering recovered at 0.6406% of 369495 parameter points, exclusively at structure jitter >=1.0 A; 0/53703 in the physical subspace (beta 1.0-1.6/A, jitter <=0.5 A). Max robin advantage anywhere 1.11e-09 (28.4% of curve peak) vs anti-prediction deficit -2.77e-09.",
+ "max_robin_advantage_abs": 1.113941230040243e-09,
+ "max_robin_deficit_abs": -2.774490277365659e-09,
+ "S_curve_scale": [
+  9.339609267342953e-11,
+  3.9186347220591545e-09
+ ],
+ "max_advantage_as_frac_of_curve_peak": 0.2842676873579306,
+ "physical_subspace": {
+  "beta_range": [
+   1.0,
+   1.6
+  ],
+  "jitter_max_A": 0.5,
+  "n": 53703,
+  "xu_ordering_frac": 0.0
+ }
+}
