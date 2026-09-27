@@ -1,0 +1,1091 @@
+{
+ "amendment": "2026-09-27 12:31 IST queue #6 (delegated executor, report-only)",
+ "executor_note": "computed by delegated executor at ref 4845c5e; uncommitted, returned to lane-29 for review",
+ "plddt_source": "11 committed Cry4 folds in data/folds (scale detection per file: median B<=1.5 -> 0-1 x100, else 0-100; 11:28 clarification)",
+ "mapping": "KX168611 pairwise-aligned to 6PTZ CA sequence (PairwiseAligner, same as 8/8b); per-fold residue = non-gap walk of its MSA row to the mapped column",
+ "n_residues": 37,
+ "coverage_counts": {
+  "solved_6ptz": 37,
+  "not_solved_6ptz": 0,
+  "in_fad_trp_8A_shell": 1,
+  "position_319": 1,
+  "functional_members": 1,
+  "with_plddt": 37,
+  "census_entries_context": 34
+ },
+ "census_limitation": "data/rcsb_cry_census_details.json carries method/resolution/title only, no per-structure residue ranges; per-residue solved coverage is therefore computed against 6PTZ (the numbering anchor, Y319D) only. Census is context (34 solved CRY structures), not per-residue coverage.",
+ "ss_method": "6PTZ HELIX/SHEET records vs pigeon fold (KX168611) CA d(i,i+3) heuristic (<=7.0A helix-call, >=10.0A sheet-call); DSSP unavailable in executor env (pydssp pulls multi-GB torch, barred by protocol) - coarse agreement only",
+ "ss_agreement": {
+  "n_compared": 28,
+  "agree": 17,
+  "disagree": 11,
+  "detail": {
+   "161": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 7.97,
+    "agree": false
+   },
+   "162": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 9.07,
+    "agree": false
+   },
+   "176": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.01,
+    "agree": true
+   },
+   "194": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.42,
+    "agree": true
+   },
+   "195": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.33,
+    "agree": true
+   },
+   "197": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 7.66,
+    "agree": false
+   },
+   "199": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 9.03,
+    "agree": false
+   },
+   "215": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.18,
+    "agree": true
+   },
+   "225": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.55,
+    "agree": true
+   },
+   "226": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 4.96,
+    "agree": true
+   },
+   "253": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 4.79,
+    "agree": true
+   },
+   "254": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 7.76,
+    "agree": false
+   },
+   "260": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 4.97,
+    "agree": true
+   },
+   "264": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.21,
+    "agree": true
+   },
+   "270": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.29,
+    "agree": true
+   },
+   "272": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 8.04,
+    "agree": false
+   },
+   "273": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 8.84,
+    "agree": false
+   },
+   "274": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 6.32,
+    "agree": true
+   },
+   "282": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 7.91,
+    "agree": false
+   },
+   "285": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.14,
+    "agree": true
+   },
+   "297": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.55,
+    "agree": true
+   },
+   "299": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 7.64,
+    "agree": false
+   },
+   "300": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 9.27,
+    "agree": false
+   },
+   "321": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.63,
+    "agree": true
+   },
+   "322": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 4.99,
+    "agree": true
+   },
+   "324": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 4.96,
+    "agree": true
+   },
+   "326": {
+    "crystal": "H",
+    "fold_call": "H",
+    "d_i_i3": 5.04,
+    "agree": true
+   },
+   "329": {
+    "crystal": "H",
+    "fold_call": "C",
+    "d_i_i3": 7.76,
+    "agree": false
+   }
+  }
+ },
+ "point_biserial": {
+  "r": 0.0925,
+  "p_two_sided": 0.586091,
+  "n": 37,
+  "x": "plddt_median across folds (0-100)",
+  "y": "functional-region membership (8A shell or position 319)"
+ },
+ "per_residue": [
+  {
+   "residue_6ptz": 161,
+   "msa_col": 160,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 91.0,
+    "ENSFALP00000002532.1": 91.0,
+    "XP_039941661.1": 90.0,
+    "ENSPSTP00000009578.1": 89.0,
+    "ENSSCAP00000009299.1": 90.0,
+    "XP_068774195.1": 91.0,
+    "ENSZALP00000018676.1": 90.0,
+    "KX168611": 90.0,
+    "MN709784": 92.0,
+    "NM_001039596": 89.0,
+    "AY494987": 93.0
+   },
+   "plddt_median": 90.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 162,
+   "msa_col": 161,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 89.0,
+    "ENSFALP00000002532.1": 89.0,
+    "XP_039941661.1": 88.0,
+    "ENSPSTP00000009578.1": 83.0,
+    "ENSSCAP00000009299.1": 88.0,
+    "XP_068774195.1": 90.0,
+    "ENSZALP00000018676.1": 89.0,
+    "KX168611": 89.0,
+    "MN709784": 89.0,
+    "NM_001039596": 88.0,
+    "AY494987": 91.0
+   },
+   "plddt_median": 89.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 176,
+   "msa_col": 175,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 87.0,
+    "ENSFALP00000002532.1": 91.0,
+    "XP_039941661.1": 91.0,
+    "ENSPSTP00000009578.1": 76.0,
+    "ENSSCAP00000009299.1": 88.0,
+    "XP_068774195.1": 92.0,
+    "ENSZALP00000018676.1": 88.0,
+    "KX168611": 88.0,
+    "MN709784": 84.0,
+    "NM_001039596": 89.0,
+    "AY494987": 92.0
+   },
+   "plddt_median": 88.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 194,
+   "msa_col": 222,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 86.0,
+    "ENSFALP00000002532.1": 87.0,
+    "XP_039941661.1": 87.0,
+    "ENSPSTP00000009578.1": 63.0,
+    "ENSSCAP00000009299.1": 86.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 83.0,
+    "KX168611": 87.0,
+    "MN709784": 76.0,
+    "NM_001039596": 88.0,
+    "AY494987": 86.0
+   },
+   "plddt_median": 86.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 195,
+   "msa_col": 223,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 84.0,
+    "ENSFALP00000002532.1": 86.0,
+    "XP_039941661.1": 85.0,
+    "ENSPSTP00000009578.1": 64.0,
+    "ENSSCAP00000009299.1": 84.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 80.0,
+    "KX168611": 85.0,
+    "MN709784": 74.0,
+    "NM_001039596": 87.0,
+    "AY494987": 83.0
+   },
+   "plddt_median": 84.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 197,
+   "msa_col": 225,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 82.0,
+    "ENSFALP00000002532.1": 85.0,
+    "XP_039941661.1": 84.0,
+    "ENSPSTP00000009578.1": 69.0,
+    "ENSSCAP00000009299.1": 83.0,
+    "XP_068774195.1": 86.0,
+    "ENSZALP00000018676.1": 79.0,
+    "KX168611": 84.0,
+    "MN709784": 72.0,
+    "NM_001039596": 86.0,
+    "AY494987": 83.0
+   },
+   "plddt_median": 83.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 199,
+   "msa_col": 227,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 80.0,
+    "ENSFALP00000002532.1": 83.0,
+    "XP_039941661.1": 80.0,
+    "ENSPSTP00000009578.1": 67.0,
+    "ENSSCAP00000009299.1": 81.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 75.0,
+    "KX168611": 81.0,
+    "MN709784": 73.0,
+    "NM_001039596": 85.0,
+    "AY494987": 79.0
+   },
+   "plddt_median": 80.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 200,
+   "msa_col": 228,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 79.0,
+    "ENSFALP00000002532.1": 83.0,
+    "XP_039941661.1": 81.0,
+    "ENSPSTP00000009578.1": 67.0,
+    "ENSSCAP00000009299.1": 79.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 74.0,
+    "KX168611": 83.0,
+    "MN709784": 73.0,
+    "NM_001039596": 86.0,
+    "AY494987": 79.0
+   },
+   "plddt_median": 79.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 202,
+   "msa_col": 230,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 63.0,
+    "ENSFALP00000002532.1": 60.0,
+    "XP_039941661.1": 74.0,
+    "ENSPSTP00000009578.1": 68.0,
+    "ENSSCAP00000009299.1": 58.0,
+    "XP_068774195.1": 78.0,
+    "ENSZALP00000018676.1": 65.0,
+    "KX168611": 78.0,
+    "MN709784": 61.0,
+    "NM_001039596": 74.0,
+    "AY494987": 68.0
+   },
+   "plddt_median": 68.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 203,
+   "msa_col": 231,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 56.0,
+    "ENSFALP00000002532.1": 57.0,
+    "XP_039941661.1": 78.0,
+    "ENSPSTP00000009578.1": 64.0,
+    "ENSSCAP00000009299.1": 58.0,
+    "XP_068774195.1": 70.0,
+    "ENSZALP00000018676.1": 59.0,
+    "KX168611": 75.0,
+    "MN709784": 61.0,
+    "NM_001039596": 68.0,
+    "AY494987": 60.0
+   },
+   "plddt_median": 61.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 215,
+   "msa_col": 243,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 92.0,
+    "ENSFALP00000002532.1": 92.0,
+    "XP_039941661.1": 92.0,
+    "ENSPSTP00000009578.1": 90.0,
+    "ENSSCAP00000009299.1": 92.0,
+    "XP_068774195.1": 93.0,
+    "ENSZALP00000018676.1": 92.0,
+    "KX168611": 93.0,
+    "MN709784": 91.0,
+    "NM_001039596": 93.0,
+    "AY494987": 93.0
+   },
+   "plddt_median": 92.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 225,
+   "msa_col": 253,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 81.0,
+    "ENSFALP00000002532.1": 81.0,
+    "XP_039941661.1": 77.0,
+    "ENSPSTP00000009578.1": 86.0,
+    "ENSSCAP00000009299.1": 77.0,
+    "XP_068774195.1": 82.0,
+    "ENSZALP00000018676.1": 80.0,
+    "KX168611": 78.0,
+    "MN709784": 78.0,
+    "NM_001039596": 83.0,
+    "AY494987": 82.0
+   },
+   "plddt_median": 81.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 226,
+   "msa_col": 254,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 81.0,
+    "ENSFALP00000002532.1": 81.0,
+    "XP_039941661.1": 73.0,
+    "ENSPSTP00000009578.1": 82.0,
+    "ENSSCAP00000009299.1": 73.0,
+    "XP_068774195.1": 82.0,
+    "ENSZALP00000018676.1": 77.0,
+    "KX168611": 75.0,
+    "MN709784": 70.0,
+    "NM_001039596": 83.0,
+    "AY494987": 79.0
+   },
+   "plddt_median": 79.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 253,
+   "msa_col": 281,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 90.0,
+    "ENSFALP00000002532.1": 90.0,
+    "XP_039941661.1": 90.0,
+    "ENSPSTP00000009578.1": 83.0,
+    "ENSSCAP00000009299.1": 90.0,
+    "XP_068774195.1": 91.0,
+    "ENSZALP00000018676.1": 90.0,
+    "KX168611": 90.0,
+    "MN709784": 89.0,
+    "NM_001039596": 90.0,
+    "AY494987": 90.0
+   },
+   "plddt_median": 90.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 254,
+   "msa_col": 282,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 88.0,
+    "ENSFALP00000002532.1": 89.0,
+    "XP_039941661.1": 88.0,
+    "ENSPSTP00000009578.1": 75.0,
+    "ENSSCAP00000009299.1": 89.0,
+    "XP_068774195.1": 90.0,
+    "ENSZALP00000018676.1": 88.0,
+    "KX168611": 88.0,
+    "MN709784": 86.0,
+    "NM_001039596": 88.0,
+    "AY494987": 87.0
+   },
+   "plddt_median": 88.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 260,
+   "msa_col": 288,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 91.0,
+    "ENSFALP00000002532.1": 91.0,
+    "XP_039941661.1": 91.0,
+    "ENSPSTP00000009578.1": 86.0,
+    "ENSSCAP00000009299.1": 90.0,
+    "XP_068774195.1": 92.0,
+    "ENSZALP00000018676.1": 90.0,
+    "KX168611": 91.0,
+    "MN709784": 90.0,
+    "NM_001039596": 91.0,
+    "AY494987": 92.0
+   },
+   "plddt_median": 91.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 264,
+   "msa_col": 292,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 91.0,
+    "ENSFALP00000002532.1": 91.0,
+    "XP_039941661.1": 90.0,
+    "ENSPSTP00000009578.1": 88.0,
+    "ENSSCAP00000009299.1": 88.0,
+    "XP_068774195.1": 92.0,
+    "ENSZALP00000018676.1": 90.0,
+    "KX168611": 91.0,
+    "MN709784": 87.0,
+    "NM_001039596": 91.0,
+    "AY494987": 92.0
+   },
+   "plddt_median": 91.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 270,
+   "msa_col": 298,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 88.0,
+    "ENSFALP00000002532.1": 88.0,
+    "XP_039941661.1": 83.0,
+    "ENSPSTP00000009578.1": 87.0,
+    "ENSSCAP00000009299.1": 82.0,
+    "XP_068774195.1": 88.0,
+    "ENSZALP00000018676.1": 86.0,
+    "KX168611": 85.0,
+    "MN709784": 78.0,
+    "NM_001039596": 89.0,
+    "AY494987": 86.0
+   },
+   "plddt_median": 86.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 272,
+   "msa_col": 300,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 87.0,
+    "ENSFALP00000002532.1": 88.0,
+    "XP_039941661.1": 81.0,
+    "ENSPSTP00000009578.1": 86.0,
+    "ENSSCAP00000009299.1": 79.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 85.0,
+    "KX168611": 84.0,
+    "MN709784": 75.0,
+    "NM_001039596": 88.0,
+    "AY494987": 84.0
+   },
+   "plddt_median": 85.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 273,
+   "msa_col": 301,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 86.0,
+    "ENSFALP00000002532.1": 86.0,
+    "XP_039941661.1": 80.0,
+    "ENSPSTP00000009578.1": 86.0,
+    "ENSSCAP00000009299.1": 78.0,
+    "XP_068774195.1": 85.0,
+    "ENSZALP00000018676.1": 84.0,
+    "KX168611": 82.0,
+    "MN709784": 74.0,
+    "NM_001039596": 87.0,
+    "AY494987": 83.0
+   },
+   "plddt_median": 84.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 274,
+   "msa_col": 302,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 84.0,
+    "ENSFALP00000002532.1": 84.0,
+    "XP_039941661.1": 76.0,
+    "ENSPSTP00000009578.1": 85.0,
+    "ENSSCAP00000009299.1": 71.0,
+    "XP_068774195.1": 84.0,
+    "ENSZALP00000018676.1": 81.0,
+    "KX168611": 79.0,
+    "MN709784": 68.0,
+    "NM_001039596": 85.0,
+    "AY494987": 80.0
+   },
+   "plddt_median": 81.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 277,
+   "msa_col": 305,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 77.0,
+    "ENSFALP00000002532.1": 77.0,
+    "XP_039941661.1": 64.0,
+    "ENSPSTP00000009578.1": 76.0,
+    "ENSSCAP00000009299.1": 51.0,
+    "XP_068774195.1": 76.0,
+    "ENSZALP00000018676.1": 72.0,
+    "KX168611": 71.0,
+    "MN709784": 51.0,
+    "NM_001039596": 78.0,
+    "AY494987": 69.0
+   },
+   "plddt_median": 72.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 282,
+   "msa_col": 310,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 72.0,
+    "ENSFALP00000002532.1": 73.0,
+    "XP_039941661.1": 61.0,
+    "ENSPSTP00000009578.1": 74.0,
+    "ENSSCAP00000009299.1": 58.0,
+    "XP_068774195.1": 74.0,
+    "ENSZALP00000018676.1": 67.0,
+    "KX168611": 67.0,
+    "MN709784": 55.0,
+    "NM_001039596": 73.0,
+    "AY494987": 67.0
+   },
+   "plddt_median": 67.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 285,
+   "msa_col": 313,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 84.0,
+    "ENSFALP00000002532.1": 84.0,
+    "XP_039941661.1": 80.0,
+    "ENSPSTP00000009578.1": 85.0,
+    "ENSSCAP00000009299.1": 78.0,
+    "XP_068774195.1": 85.0,
+    "ENSZALP00000018676.1": 81.0,
+    "KX168611": 83.0,
+    "MN709784": 74.0,
+    "NM_001039596": 84.0,
+    "AY494987": 83.0
+   },
+   "plddt_median": 83.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 297,
+   "msa_col": 325,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 88.0,
+    "ENSFALP00000002532.1": 88.0,
+    "XP_039941661.1": 88.0,
+    "ENSPSTP00000009578.1": 80.0,
+    "ENSSCAP00000009299.1": 89.0,
+    "XP_068774195.1": 90.0,
+    "ENSZALP00000018676.1": 88.0,
+    "KX168611": 89.0,
+    "MN709784": 88.0,
+    "NM_001039596": 89.0,
+    "AY494987": 88.0
+   },
+   "plddt_median": 88.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 299,
+   "msa_col": 327,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 85.0,
+    "ENSFALP00000002532.1": 86.0,
+    "XP_039941661.1": 85.0,
+    "ENSPSTP00000009578.1": 79.0,
+    "ENSSCAP00000009299.1": 86.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 85.0,
+    "KX168611": 86.0,
+    "MN709784": 83.0,
+    "NM_001039596": 85.0,
+    "AY494987": 85.0
+   },
+   "plddt_median": 85.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 300,
+   "msa_col": 328,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 84.0,
+    "ENSFALP00000002532.1": 85.0,
+    "XP_039941661.1": 85.0,
+    "ENSPSTP00000009578.1": 82.0,
+    "ENSSCAP00000009299.1": 86.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 85.0,
+    "KX168611": 85.0,
+    "MN709784": 84.0,
+    "NM_001039596": 85.0,
+    "AY494987": 85.0
+   },
+   "plddt_median": 85.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 301,
+   "msa_col": 329,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 83.0,
+    "ENSFALP00000002532.1": 84.0,
+    "XP_039941661.1": 84.0,
+    "ENSPSTP00000009578.1": 77.0,
+    "ENSSCAP00000009299.1": 84.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 84.0,
+    "KX168611": 83.0,
+    "MN709784": 82.0,
+    "NM_001039596": 84.0,
+    "AY494987": 82.0
+   },
+   "plddt_median": 84.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 305,
+   "msa_col": 333,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 85.0,
+    "ENSFALP00000002532.1": 86.0,
+    "XP_039941661.1": 85.0,
+    "ENSPSTP00000009578.1": 71.0,
+    "ENSSCAP00000009299.1": 87.0,
+    "XP_068774195.1": 86.0,
+    "ENSZALP00000018676.1": 86.0,
+    "KX168611": 85.0,
+    "MN709784": 71.0,
+    "NM_001039596": 86.0,
+    "AY494987": 70.0
+   },
+   "plddt_median": 85.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 308,
+   "msa_col": 336,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 81.0,
+    "ENSFALP00000002532.1": 82.0,
+    "XP_039941661.1": 82.0,
+    "ENSPSTP00000009578.1": 76.0,
+    "ENSSCAP00000009299.1": 83.0,
+    "XP_068774195.1": 87.0,
+    "ENSZALP00000018676.1": 83.0,
+    "KX168611": 82.0,
+    "MN709784": 70.0,
+    "NM_001039596": 83.0,
+    "AY494987": 68.0
+   },
+   "plddt_median": 82.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 319,
+   "msa_col": 347,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": true,
+   "is_position_319": true,
+   "functional_member": true,
+   "plddt_per_fold": {
+    "XP_032936297.1": 88.0,
+    "ENSFALP00000002532.1": 88.0,
+    "XP_039941661.1": 89.0,
+    "ENSPSTP00000009578.1": 89.0,
+    "ENSSCAP00000009299.1": 89.0,
+    "XP_068774195.1": 89.0,
+    "ENSZALP00000018676.1": 88.0,
+    "KX168611": 89.0,
+    "MN709784": 80.0,
+    "NM_001039596": 89.0,
+    "AY494987": 79.0
+   },
+   "plddt_median": 89.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 321,
+   "msa_col": 349,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 91.0,
+    "ENSFALP00000002532.1": 91.0,
+    "XP_039941661.1": 92.0,
+    "ENSPSTP00000009578.1": 93.0,
+    "ENSSCAP00000009299.1": 91.0,
+    "XP_068774195.1": 91.0,
+    "ENSZALP00000018676.1": 91.0,
+    "KX168611": 91.0,
+    "MN709784": 83.0,
+    "NM_001039596": 91.0,
+    "AY494987": 83.0
+   },
+   "plddt_median": 91.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 322,
+   "msa_col": 350,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 92.0,
+    "ENSFALP00000002532.1": 93.0,
+    "XP_039941661.1": 93.0,
+    "ENSPSTP00000009578.1": 93.0,
+    "ENSSCAP00000009299.1": 93.0,
+    "XP_068774195.1": 93.0,
+    "ENSZALP00000018676.1": 92.0,
+    "KX168611": 92.0,
+    "MN709784": 84.0,
+    "NM_001039596": 93.0,
+    "AY494987": 85.0
+   },
+   "plddt_median": 93.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 324,
+   "msa_col": 352,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 93.0,
+    "ENSFALP00000002532.1": 93.0,
+    "XP_039941661.1": 94.0,
+    "ENSPSTP00000009578.1": 93.0,
+    "ENSSCAP00000009299.1": 93.0,
+    "XP_068774195.1": 93.0,
+    "ENSZALP00000018676.1": 93.0,
+    "KX168611": 94.0,
+    "MN709784": 85.0,
+    "NM_001039596": 93.0,
+    "AY494987": 85.0
+   },
+   "plddt_median": 93.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 326,
+   "msa_col": 354,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 95.0,
+    "ENSFALP00000002532.1": 95.0,
+    "XP_039941661.1": 95.0,
+    "ENSPSTP00000009578.1": 91.0,
+    "ENSSCAP00000009299.1": 95.0,
+    "XP_068774195.1": 95.0,
+    "ENSZALP00000018676.1": 95.0,
+    "KX168611": 95.0,
+    "MN709784": 87.0,
+    "NM_001039596": 95.0,
+    "AY494987": 89.0
+   },
+   "plddt_median": 95.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 329,
+   "msa_col": 357,
+   "solved_6ptz": true,
+   "crystal_ss": "H",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 94.0,
+    "ENSFALP00000002532.1": 95.0,
+    "XP_039941661.1": 94.0,
+    "ENSPSTP00000009578.1": 86.0,
+    "ENSSCAP00000009299.1": 95.0,
+    "XP_068774195.1": 94.0,
+    "ENSZALP00000018676.1": 94.0,
+    "KX168611": 94.0,
+    "MN709784": 87.0,
+    "NM_001039596": 94.0,
+    "AY494987": 88.0
+   },
+   "plddt_median": 94.0,
+   "n_folds_mapped": 11
+  },
+  {
+   "residue_6ptz": 331,
+   "msa_col": 359,
+   "solved_6ptz": true,
+   "crystal_ss": "C",
+   "in_fad_trp_8A_shell": false,
+   "is_position_319": false,
+   "functional_member": false,
+   "plddt_per_fold": {
+    "XP_032936297.1": 94.0,
+    "ENSFALP00000002532.1": 94.0,
+    "XP_039941661.1": 94.0,
+    "ENSPSTP00000009578.1": 90.0,
+    "ENSSCAP00000009299.1": 94.0,
+    "XP_068774195.1": 94.0,
+    "ENSZALP00000018676.1": 94.0,
+    "KX168611": 94.0,
+    "MN709784": 90.0,
+    "NM_001039596": 94.0,
+    "AY494987": 92.0
+   },
+   "plddt_median": 94.0,
+   "n_folds_mapped": 11
+  }
+ ],
+ "interpretation_lock": "REPORT-ONLY. High agreement/confidence does NOT imply function; this amendment can only LIMIT interpretation, never upgrade a residue to functional. No causal-residue claims (locked anti-goal)."
+}

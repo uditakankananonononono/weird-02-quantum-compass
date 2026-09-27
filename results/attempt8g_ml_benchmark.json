@@ -1,0 +1,42 @@
+{
+ "amendment": "2026-09-27 12:31 IST queue #8 (delegated executor, report-only)",
+ "executor_note": "computed by delegated executor at ref 4845c5e; uncommitted, returned to lane-29 for review",
+ "features": [
+  "tail_after_ref",
+  "charge_pH7",
+  "pI",
+  "aromatic_frac",
+  "kd_mean",
+  "length",
+  "ident_erCry1",
+  "trp_total"
+ ],
+ "feature_source": "data/cry1_features_v1.json (frozen v1 physics descriptor matrix; the attempt-3a feature set the attempt8c classifier_auc MDE is calibrated on)",
+ "panel": {
+  "n": 116,
+  "n_migratory": 36,
+  "n_sedentary": 80,
+  "note": "116-species locked Cry1 panel, labels from locked panel list (same n_mig=36/n_sed=80 as 7f-b/8c)"
+ },
+ "seed": 260927,
+ "evaluation": "leave-one-out CV, held-out probabilities pooled, single AUC",
+ "mde_floor": 0.6424,
+ "mde_source": "results/attempt8c_power.json classifier_auc.MDE_AUC (attempt 3a LOO AUC vs 0.5, observed_best_auc 0.402)",
+ "reference_committed_result": {
+  "attempt_3a_logistic_loo_auc": 0.402
+ },
+ "results": {
+  "logistic_regression": {
+   "loo_auc": 0.4021,
+   "vs_mde_floor_0.6424": "BELOW detectable-effect bound",
+   "delta_vs_floor": -0.2403
+  },
+  "random_forest": {
+   "loo_auc": 0.6234,
+   "vs_mde_floor_0.6424": "BELOW detectable-effect bound",
+   "delta_vs_floor": -0.019
+  }
+ },
+ "plm_embedding_arm": "UNAVAILABLE - no local PLM embeddings tool in executor env (no esm/torch local weights); multi-GB model downloads barred by protocol. Arm disclosed, not run.",
+ "interpretation_lock": "REPORT-ONLY. This benchmark bounds descriptor information content only. Any AUC below 0.6424 is below the panel detectable-effect bound. LOCKED ANTI-GOAL: no migratory-vs-sedentary prediction is claimed as a project result."
+}
