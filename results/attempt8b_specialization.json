@@ -1,0 +1,291 @@
+{
+ "amendments": [
+  "2026-09-27 11:13 IST attempt8b",
+  "2026-09-27 11:14 IST clarification"
+ ],
+ "seed": 260927,
+ "nperm": 10000,
+ "null": "joint shuffle of (cry4 tight, symbol) over mapped residues",
+ "n_mapped": 203,
+ "n_candidates": 37,
+ "enrichment_p_one_sided": 1.0,
+ "candidates": [
+  161,
+  162,
+  176,
+  194,
+  195,
+  197,
+  199,
+  200,
+  202,
+  203,
+  215,
+  225,
+  226,
+  253,
+  254,
+  260,
+  264,
+  270,
+  272,
+  273,
+  274,
+  277,
+  282,
+  285,
+  297,
+  299,
+  300,
+  301,
+  305,
+  308,
+  319,
+  321,
+  322,
+  324,
+  326,
+  329,
+  331
+ ],
+ "detail": {
+  "161": {
+   "paralog_consensus": "M",
+   "cry4": "L",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "162": {
+   "paralog_consensus": "E",
+   "cry4": "G",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "176": {
+   "paralog_consensus": "M",
+   "cry4": "F",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "194": {
+   "paralog_consensus": "S",
+   "cry4": "L",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "195": {
+   "paralog_consensus": "L",
+   "cry4": "P",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "197": {
+   "paralog_consensus": "E",
+   "cry4": "D",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "199": {
+   "paralog_consensus": "G",
+   "cry4": "K",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "200": {
+   "paralog_consensus": "F",
+   "cry4": "I",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "202": {
+   "paralog_consensus": "T",
+   "cry4": "P",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "203": {
+   "paralog_consensus": "D",
+   "cry4": "E",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "215": {
+   "paralog_consensus": "A",
+   "cry4": "G",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "225": {
+   "paralog_consensus": "R",
+   "cry4": "D",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "226": {
+   "paralog_consensus": "K",
+   "cry4": "Q",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "253": {
+   "paralog_consensus": "L",
+   "cry4": "F",
+   "cry4_dom_frac": 1.0,
+   "loc": "core"
+  },
+  "254": {
+   "paralog_consensus": "R",
+   "cry4": "S",
+   "cry4_dom_frac": 1.0,
+   "loc": "core"
+  },
+  "260": {
+   "paralog_consensus": "C",
+   "cry4": "V",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "264": {
+   "paralog_consensus": "Y",
+   "cry4": "F",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "270": {
+   "paralog_consensus": "L",
+   "cry4": "I",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "272": {
+   "paralog_consensus": "K",
+   "cry4": "A",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "273": {
+   "paralog_consensus": "K",
+   "cry4": "Q",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "274": {
+   "paralog_consensus": "V",
+   "cry4": "A",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "277": {
+   "paralog_consensus": "N",
+   "cry4": "H",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "282": {
+   "paralog_consensus": "L",
+   "cry4": "V",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "285": {
+   "paralog_consensus": "Y",
+   "cry4": "Q",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "297": {
+   "paralog_consensus": "A",
+   "cry4": "V",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "299": {
+   "paralog_consensus": "T",
+   "cry4": "S",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "300": {
+   "paralog_consensus": "N",
+   "cry4": "A",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "301": {
+   "paralog_consensus": "N",
+   "cry4": "T",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "305": {
+   "paralog_consensus": "D",
+   "cry4": "T",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "308": {
+   "paralog_consensus": "E",
+   "cry4": "A",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "319": {
+   "paralog_consensus": "D",
+   "cry4": "Y",
+   "cry4_dom_frac": 1.0,
+   "loc": "near-site"
+  },
+  "321": {
+   "paralog_consensus": "N",
+   "cry4": "D",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "322": {
+   "paralog_consensus": "P",
+   "cry4": "A",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "324": {
+   "paralog_consensus": "A",
+   "cry4": "R",
+   "cry4_dom_frac": 0.909,
+   "loc": "surface"
+  },
+  "326": {
+   "paralog_consensus": "A",
+   "cry4": "H",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "329": {
+   "paralog_consensus": "A",
+   "cry4": "K",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  },
+  "331": {
+   "paralog_consensus": "G",
+   "cry4": "A",
+   "cry4_dom_frac": 1.0,
+   "loc": "surface"
+  }
+ },
+ "framing": "Cry4-distinguishing residues - family distinction, NOT magnetoreception causes",
+ "descriptive_context": {
+  "surface_fraction_mapped": 0.773,
+  "near_site_mapped": 23,
+  "candidate_319": {
+   "change": "D->Y",
+   "cry4_dom_frac": 1.0,
+   "d_to_fad_centroid_A": 26.8,
+   "d_to_nearest_trp_CA_A": 7.0
+  },
+  "candidates_by_loc": {
+   "surface": 34,
+   "core": 2,
+   "near-site": 1
+  }
+ }
+}

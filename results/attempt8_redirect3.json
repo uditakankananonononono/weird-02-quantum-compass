@@ -1,0 +1,25 @@
+{
+ "amendment": "2026-09-27 11:12 IST attempt8 redirect3",
+ "seed": 260927,
+ "nperm": 10000,
+ "diagnostics": {
+  "near_site": 23,
+  "var_cry1": 1,
+  "var_cry2": 5,
+  "var_both": 0,
+  "near_and_var1": 0,
+  "near_and_var2": 1,
+  "near_and_var_either": 1,
+  "cry4_nonconserved": 27
+ },
+ "n_mapped_residues": 203,
+ "n_cry4_conserved": 176,
+ "candidates_both": [],
+ "candidates_either_sensitivity": [],
+ "enrichment": {
+  "obs": 0,
+  "p_one_sided": 1.0
+ },
+ "detail": {},
+ "framing": "magnetoreception-COMPATIBLE constraint residues - no causality claim (verdict anti-goal)"
+}
