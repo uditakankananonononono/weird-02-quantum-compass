@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 12:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,7 +395,7 @@ Package pdftex.def Info: causal_diagram.pdf  used on input line 196.
 Here is how much of TeX's memory you used:
  3534 strings out of 480247
  51118 string characters out of 5896151
- 344629 words of memory out of 5000000
+ 344570 words of memory out of 5000000
  21408 multiletter control sequences out of 15000+600000
  532514 words of font info for 138 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -411,7 +411,7 @@ share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on main.pdf (14 pages, 187286 bytes).
+Output written on main.pdf (14 pages, 187273 bytes).
 PDF statistics:
  261 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
