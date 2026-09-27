@@ -1,0 +1,360 @@
+{
+ "amendment": "2026-09-27 14:16 IST",
+ "query": "(cryptochrome circadian regulator 4|cryptochrome 4|cryptochrome-4)[Title] AND birds[Organism]",
+ "n_fetched": 30,
+ "n_hmm_pass": 27,
+ "records": [
+  {
+   "id": "NP_001034685.1",
+   "species": "Gallus gallus",
+   "len": 529,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "88c44e99dbff7286e2d58bd1753af6702e1c6b8b58b271de6181e5709e6221bb"
+  },
+  {
+   "id": "LAI44969.1",
+   "species": "Grus monacha",
+   "len": 357,
+   "hmm_pass": true,
+   "evalue": 4.007184525237438e-222,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "b56749cfab40e933fa26e71096a03a63d48c798ba81b065755c3061d73407059"
+  },
+  {
+   "id": "LAI44974.1",
+   "species": "Grus monacha",
+   "len": 428,
+   "hmm_pass": true,
+   "evalue": 3.664947392870042e-299,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "e7307ee3b9b98fb4fe216f320e764ca67f29530a34fd787ace0a705d03c029ef"
+  },
+  {
+   "id": "LAI44990.1",
+   "species": "Grus monacha",
+   "len": 245,
+   "hmm_pass": true,
+   "evalue": 5.29747299948749e-157,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "3fb5d3f5dc97adc5c7b19cff22d7daaa32fec1398a807ee0bae01d207f253c26"
+  },
+  {
+   "id": "LAI44998.1",
+   "species": "Grus monacha",
+   "len": 551,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "a800873cd2a9ddf3618dfa45af9389f75768d674b9b7129ca709b941d3c708ff"
+  },
+  {
+   "id": "LAH60642.1",
+   "species": "Antigone vipio",
+   "len": 564,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "129a1dfe2285f1a948c442cd89d781a74e190c67f641f17c7cc0b8875b24d99b"
+  },
+  {
+   "id": "LAH04693.1",
+   "species": "Falco peregrinus",
+   "len": 137,
+   "hmm_pass": true,
+   "evalue": 3.408977511767253e-86,
+   "avonet_migration": "partial",
+   "in_subpanel": false,
+   "sha256": "ffe9a007090727976fa9fdd4538fb516ea3f9e119492258f968aa283f76eb7d5"
+  },
+  {
+   "id": "LAH06478.1",
+   "species": "Falco peregrinus",
+   "len": 204,
+   "hmm_pass": false,
+   "evalue": null,
+   "avonet_migration": "partial",
+   "in_subpanel": false,
+   "sha256": "3142ae5d1254260f63a196f47d1fd766319044fab7ba5d60653b3f83e3c2ed09"
+  },
+  {
+   "id": "LAH06492.1",
+   "species": "Falco peregrinus",
+   "len": 160,
+   "hmm_pass": false,
+   "evalue": null,
+   "avonet_migration": "partial",
+   "in_subpanel": false,
+   "sha256": "1c8620f8ecb0d8cef8c4711b8ec477c53b89fa3bad846e9864ba7d6fafa9a8b6"
+  },
+  {
+   "id": "LAH29612.1",
+   "species": "Falco peregrinus",
+   "len": 87,
+   "hmm_pass": true,
+   "evalue": 2.4682291845782877e-52,
+   "avonet_migration": "partial",
+   "in_subpanel": false,
+   "sha256": "2081341c3e12b8eb9f2e40bad2c460fbce4c75e190fceec96ad81fd7f5528f18"
+  },
+  {
+   "id": "LAI64652.1",
+   "species": "Astur gentilis",
+   "len": 297,
+   "hmm_pass": true,
+   "evalue": 7.661570567283814e-198,
+   "avonet_migration": "UNMATCHED",
+   "in_subpanel": false,
+   "sha256": "4f64e628f0bdc8b270b021cfcf40f076c483625f3e3c6307484fb07df59c2942"
+  },
+  {
+   "id": "LAI64662.1",
+   "species": "Astur gentilis",
+   "len": 283,
+   "hmm_pass": true,
+   "evalue": 6.743942971489e-179,
+   "avonet_migration": "UNMATCHED",
+   "in_subpanel": false,
+   "sha256": "a7ae0f276e6bbce88785b62329e9fb30f0e59b03968cf2d063ebe382b8994dc7"
+  },
+  {
+   "id": "LAG84638.1",
+   "species": "Ciconia boyciana",
+   "len": 510,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "cb061235942a4f175eb5a897516bc2ee5abadfd8fde9f3ad6b31b0aa9333ab09"
+  },
+  {
+   "id": "XP_046788798.1",
+   "species": "Gallus gallus",
+   "len": 502,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "b1e13d1db30b3799fbdf5b60cad078c0cc5feef45426a617db43a08df10338c1"
+  },
+  {
+   "id": "XP_046788797.1",
+   "species": "Gallus gallus",
+   "len": 529,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "88c44e99dbff7286e2d58bd1753af6702e1c6b8b58b271de6181e5709e6221bb"
+  },
+  {
+   "id": "XP_046788796.1",
+   "species": "Gallus gallus",
+   "len": 529,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "88c44e99dbff7286e2d58bd1753af6702e1c6b8b58b271de6181e5709e6221bb"
+  },
+  {
+   "id": "XP_040508605.1",
+   "species": "Gallus gallus",
+   "len": 502,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "dd75fe0249ff4d48514d4363bff88e381e5c98ad40563c1f5f440b26c552e63f"
+  },
+  {
+   "id": "XP_015154168.2",
+   "species": "Gallus gallus",
+   "len": 529,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "93d402f5dcc8f043e9316d7968b8b3ee94da37cc328b5fd3f5384c9bc398058e"
+  },
+  {
+   "id": "XP_015154167.2",
+   "species": "Gallus gallus",
+   "len": 529,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "93d402f5dcc8f043e9316d7968b8b3ee94da37cc328b5fd3f5384c9bc398058e"
+  },
+  {
+   "id": "LAC33417.1",
+   "species": "Hypotaenidia okinawae",
+   "len": 122,
+   "hmm_pass": false,
+   "evalue": null,
+   "avonet_migration": "sedentary",
+   "in_subpanel": false,
+   "sha256": "7dd52ab575471393f5f239020e4ceddda6eedbd95a11f95e62e29d553801c020"
+  },
+  {
+   "id": "LAC35629.1",
+   "species": "Hypotaenidia okinawae",
+   "len": 449,
+   "hmm_pass": true,
+   "evalue": 2.166649349506088e-258,
+   "avonet_migration": "sedentary",
+   "in_subpanel": false,
+   "sha256": "d2357b00cfd5d58b6b87cf1c492975b5b0cfa04f0cd8045e6d76aab95779ae82"
+  },
+  {
+   "id": "LAF53908.1",
+   "species": "Grus japonensis",
+   "len": 177,
+   "hmm_pass": true,
+   "evalue": 2.226171957577452e-113,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "d3a8d2160f9a0498e1d338d6a4490cbcdfb40fb0459ff9f0cf75d2b07d7ed328"
+  },
+  {
+   "id": "LAF65388.1",
+   "species": "Grus japonensis",
+   "len": 245,
+   "hmm_pass": true,
+   "evalue": 5.29747299948749e-157,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "3fb5d3f5dc97adc5c7b19cff22d7daaa32fec1398a807ee0bae01d207f253c26"
+  },
+  {
+   "id": "QBP33517.1",
+   "species": "Emberiza bruniceps",
+   "len": 210,
+   "hmm_pass": true,
+   "evalue": 3.077082727299077e-138,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "e18bb1f1f73aa663bc3d73dc8844e31c0ed088c140574a8bad96ac9246e6d241"
+  },
+  {
+   "id": "AYE53930.1",
+   "species": "Columba livia",
+   "len": 525,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "f00336ed2960c419fa22e0592d723bc978678b073bc697f693a90df3df54dd50"
+  },
+  {
+   "id": "ATE87950.1",
+   "species": "Erithacus rubecula",
+   "len": 527,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": true,
+   "sha256": "bcb08f83797ee118aa936fa437d9f42704717970ae1807d5d4e4f2a336b098ec"
+  },
+  {
+   "id": "ANT47196.1",
+   "species": "Columba livia",
+   "len": 525,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "ed13b0e8898a49874a82e0f024462d26dc4004162b16b745d580cf18debd6316"
+  },
+  {
+   "id": "AAS72903.1",
+   "species": "Passer domesticus",
+   "len": 359,
+   "hmm_pass": true,
+   "evalue": 7.241124277743485e-251,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "8a60be80481750dbec0225c666871611fa9a6b0405dd03157eea3b198ba805a2"
+  },
+  {
+   "id": "AAM50087.1",
+   "species": "Gallus gallus",
+   "len": 140,
+   "hmm_pass": true,
+   "evalue": 2.1249155746601267e-104,
+   "avonet_migration": "sedentary",
+   "in_subpanel": true,
+   "sha256": "67cc12ea9649a95b125d7d751f2f24288d2e305ce4c1441007cab706d9df5ca7"
+  },
+  {
+   "id": "ACX46123.1",
+   "species": "Sylvia borin",
+   "len": 78,
+   "hmm_pass": true,
+   "evalue": 7.229407565052595e-55,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "d709fcfbb9f8129c6fd4c91e53ca02a6c5fabecdd254d1adbe9dd963a155a58a"
+  }
+ ],
+ "new_labeled_full": [
+  {
+   "id": "LAI44974.1",
+   "species": "Grus monacha",
+   "len": 428,
+   "hmm_pass": true,
+   "evalue": 3.664947392870042e-299,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "e7307ee3b9b98fb4fe216f320e764ca67f29530a34fd787ace0a705d03c029ef"
+  },
+  {
+   "id": "LAI44998.1",
+   "species": "Grus monacha",
+   "len": 551,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "a800873cd2a9ddf3618dfa45af9389f75768d674b9b7129ca709b941d3c708ff"
+  },
+  {
+   "id": "LAH60642.1",
+   "species": "Antigone vipio",
+   "len": 564,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "129a1dfe2285f1a948c442cd89d781a74e190c67f641f17c7cc0b8875b24d99b"
+  },
+  {
+   "id": "LAG84638.1",
+   "species": "Ciconia boyciana",
+   "len": 510,
+   "hmm_pass": true,
+   "evalue": 0.0,
+   "avonet_migration": "migratory",
+   "in_subpanel": false,
+   "sha256": "cb061235942a4f175eb5a897516bc2ee5abadfd8fde9f3ad6b31b0aa9333ab09"
+  },
+  {
+   "id": "LAC35629.1",
+   "species": "Hypotaenidia okinawae",
+   "len": 449,
+   "hmm_pass": true,
+   "evalue": 2.166649349506088e-258,
+   "avonet_migration": "sedentary",
+   "in_subpanel": false,
+   "sha256": "d2357b00cfd5d58b6b87cf1c492975b5b0cfa04f0cd8045e6d76aab95779ae82"
+  }
+ ]
+}
