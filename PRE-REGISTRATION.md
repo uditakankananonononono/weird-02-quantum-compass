@@ -245,3 +245,14 @@ ARM 5b (flexibility): ProDy (PyPI genuine external tool; exact version recorded)
 DEFERRED per queue: full molecular dynamics (compute-bound) - deferred, not dropped.
 ANTI-GOALS (locked, verdict-carried): NO migratory-vs-sedentary prediction; NO causal-residue claims - output is "magnetoreception-COMPATIBLE dynamics descriptors"; no adding or swapping sequences or models based on outcomes.
 HONEST-NEGATIVE RULE: every arm outcome recorded verbatim, including null group differences and failed model downloads (failed downloads recorded, not retried past NCBI/EBI transient errors; missing models reduce n and are named).
+
+## AMENDMENT 2026-09-27 16:22 IST (provided-verdict queue #7: hyperfine-tensor sweep - locked BEFORE computation; lock = this amendment's commit hash, stamped into results)
+Queue state (verbatim): "PARTIAL - 369,495-point envelope done; hyperfine-tensor sweep QUEUED (was deferred follow-up)". The completed envelope swept the lifetime/geometry parameter class over the LOCKED S(tau) curve; it did NOT vary the spin Hamiltonian's hyperfine tensors (N5 diag(-0.087,-0.100,1.757), N10 diag(-0.014,-0.024,0.605), Y45 rot_y_45(diag(0,0,1.0812)) mT, committed src/bench_common.py). This arm varies them.
+QUESTION: does the completed attempt-4 result (universal S(tau) curve evaluated at the three species' locked structure-derived taus; Xu-ordering statistic erCry4 > max(ClCry4, GgCry4)) survive plausible hyperfine-tensor uncertainty?
+SWEEP (23 tensor sets, all computed at the three species' LOCKED taus from results/h1_attempt4_stage1.json; B grid + geomagnetic window + 9-theta sphere family identical to attempt-4's amended 08:02 spec; no re-derivation of taus):
+- GLOBAL isotropic scaling s_iso in {0.70, 0.85, 1.00, 1.15, 1.30} applied to the isotropic part (tr/3) of all three tensors x GLOBAL anisotropy scaling s_an in {0.70, 1.00, 1.30} applied to the anisotropic remainder: 15 sets.
+- PER-TENSOR one-at-a-time full-tensor scaling in {0.70, 1.30} for each of N5, N10, Y45, others locked: 6 sets.
+- CONTROLS: pure-isotropic limit (s_an = 0; anisotropy MUST vanish - sanity check recorded verbatim) and s_iso = 0 boundary: 2 sets.
+DELIVERABLES (report-only, no re-gating of the completed attempt-4 gates): per-set Xu-ordering boolean + (S_er - max(S_Cl, S_gg)); sweep Xu-ordering fraction over the 23 sets; per-species S shift vs the locked tensor set; control outcomes verbatim. Sensitivity metrics mirror the completed envelope's (xu_ordering_fraction, max advantage/deficit) for direct comparison.
+ANTI-GOALS (verdict-carried, locked): NO refitting of any completed gate; NO tensor-set selection based on which sets recover the ordering (all 23 reported); NO causal claims - this is an assumption-sensitivity analysis of the frozen model.
+HONEST-NEGATIVE RULE: if the ordering is tensor-fragile, that fragility is the reported result.
