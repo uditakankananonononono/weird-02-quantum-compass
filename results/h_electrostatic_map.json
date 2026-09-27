@@ -1,0 +1,168 @@
+{
+ "cry4": {
+  "migratory": [
+   {
+    "id": "REFSEQ|Erithacus_rubecula|MN709784",
+    "len": 556,
+    "profile_sd": 2.0581252079982226,
+    "frac_abs3": 0.1828358208955224,
+    "n_third": -0.038378378378378375,
+    "m_third": 0.01891891891891892,
+    "c_third": -0.006451612903225805
+   },
+   {
+    "id": "MINED|Catharus_ustulatus|XP_032936297.1",
+    "len": 527,
+    "profile_sd": 1.9999156952303618,
+    "frac_abs3": 0.1814595660749507,
+    "n_third": -0.03485714285714286,
+    "m_third": 0.03085714285714285,
+    "c_third": -0.007344632768361581
+   },
+   {
+    "id": "MINED|Ficedula_albicollis|ENSFALP00000002532.1",
+    "len": 527,
+    "profile_sd": 2.08313973401083,
+    "frac_abs3": 0.22287968441814596,
+    "n_third": -0.03485714285714286,
+    "m_third": 0.007999999999999997,
+    "c_third": -0.012429378531073442
+   },
+   {
+    "id": "MINED|Hirundo_rustica|XP_039941661.1",
+    "len": 527,
+    "profile_sd": 1.979714945982354,
+    "frac_abs3": 0.1755424063116371,
+    "n_third": -0.046285714285714284,
+    "m_third": 0.03657142857142856,
+    "c_third": -0.005649717514124291
+   },
+   {
+    "id": "MINED|Zonotrichia_albicollis|ENSZALP00000018676.1",
+    "len": 527,
+    "profile_sd": 1.9393578961211413,
+    "frac_abs3": 0.1814595660749507,
+    "n_third": -0.01828571428571428,
+    "m_third": 0.025142857142857144,
+    "c_third": -0.018079096045197737
+   }
+  ],
+  "sedentary": [
+   {
+    "id": "REFSEQ|Columba_livia|KX168611",
+    "len": 525,
+    "profile_sd": 1.9986571710043564,
+    "frac_abs3": 0.1801980198019802,
+    "n_third": -0.0005714285714285719,
+    "m_third": 0.009142857142857145,
+    "c_third": -0.002285714285714285
+   },
+   {
+    "id": "REFSEQ|Gallus_gallus|NM_001039596",
+    "len": 529,
+    "profile_sd": 2.004128134514443,
+    "frac_abs3": 0.18467583497053044,
+    "n_third": -0.007386363636363635,
+    "m_third": 0.014204545454545458,
+    "c_third": -0.018079096045197737
+   },
+   {
+    "id": "REFSEQ|Passer_domesticus|AY494987",
+    "len": 359,
+    "profile_sd": 1.571080866687102,
+    "frac_abs3": 0.07079646017699115,
+    "n_third": -0.05546218487394958,
+    "m_third": 0.002521008403361347,
+    "c_third": 0.04628099173553719
+   },
+   {
+    "id": "MINED|Serinus_canaria|ENSSCAP00000009299.1",
+    "len": 527,
+    "profile_sd": 2.0917225509429875,
+    "frac_abs3": 0.20315581854043394,
+    "n_third": -0.03542857142857143,
+    "m_third": 0.01942857142857143,
+    "c_third": -0.018079096045197737
+   },
+   {
+    "id": "MINED|Struthio_camelus|XP_068774195.1",
+    "len": 529,
+    "profile_sd": 2.0211707723461214,
+    "frac_abs3": 0.206286836935167,
+    "n_third": -0.03522727272727273,
+    "m_third": 0.02556818181818181,
+    "c_third": -0.013559322033898306
+   }
+  ]
+ },
+ "cry1_ref_counts": {
+  "migratory": 36,
+  "sedentary": 80
+ },
+ "cry1_ref_means": {
+  "migratory": {
+   "profile_sd": 2.1440612224621782,
+   "frac_abs3": 0.21514279893064345,
+   "n_third": -0.02921539500097805,
+   "m_third": 0.011560763817252996,
+   "c_third": 0.030454201390129918
+  },
+  "sedentary": {
+   "profile_sd": 2.132820630542883,
+   "frac_abs3": 0.21188357777647598,
+   "n_third": -0.027379558519653756,
+   "m_third": 0.012131477691218674,
+   "c_third": 0.03121493800459863
+  }
+ },
+ "mwu_tests": [
+  {
+   "feature": "profile_sd",
+   "mig_median": 1.9999156952303618,
+   "sed_median": 2.004128134514443,
+   "U": 12.0,
+   "p": 1.0,
+   "p_BH": 1.0,
+   "sig_0.05": false
+  },
+  {
+   "feature": "frac_abs3",
+   "mig_median": 0.1814595660749507,
+   "sed_median": 0.18467583497053044,
+   "U": 12.0,
+   "p": 1.0,
+   "p_BH": 1.0,
+   "sig_0.05": false
+  },
+  {
+   "feature": "n_third",
+   "mig_median": -0.03485714285714286,
+   "sed_median": -0.03522727272727273,
+   "U": 11.0,
+   "p": 0.834035229790992,
+   "p_BH": 1.0,
+   "sig_0.05": false
+  },
+  {
+   "feature": "m_third",
+   "mig_median": 0.025142857142857144,
+   "sed_median": 0.014204545454545458,
+   "U": 18.0,
+   "p": 0.30952380952380953,
+   "p_BH": 1.0,
+   "sig_0.05": false
+  },
+  {
+   "feature": "c_third",
+   "mig_median": -0.007344632768361581,
+   "sed_median": -0.013559322033898306,
+   "U": 13.0,
+   "p": 1.0,
+   "p_BH": 1.0,
+   "sig_0.05": false
+  }
+ ],
+ "amendment": "13:14 IST + 13:16 addendum: w=21, K,R=+1,D,E=-1,H=+0.1; ungapped windows; labels committed; Pavo excluded",
+ "pavo_disclosure": "Pavo cristatus excluded: no committed migration label (see 13:15 addendum)",
+ "min_p_at_5v5": 0.00794
+}
