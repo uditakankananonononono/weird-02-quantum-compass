@@ -1,0 +1,42 @@
+{
+ "amendment": "2026-09-27 09:03 IST 7f-b",
+ "seed": 260927,
+ "nperm": 10000,
+ "CRY1": {
+  "n_mig": 36,
+  "n_sed": 80,
+  "W_mig": 0.99589,
+  "W_sed": 0.99446,
+  "DeltaW": 0.00142,
+  "p_one_sided": 0.29097
+ },
+ "CRY2": {
+  "n_mig": 35,
+  "n_sed": 77,
+  "W_mig": 0.99437,
+  "W_sed": 0.99399,
+  "DeltaW": 0.00038,
+  "p_one_sided": 0.39316
+ },
+ "intersection": {
+  "CRY1": {
+   "n_mig": 35,
+   "n_sed": 77,
+   "W_mig": 0.99488,
+   "W_sed": 0.99425,
+   "DeltaW": 0.00063,
+   "p_one_sided": 0.42606
+  },
+  "CRY2": {
+   "n_mig": 35,
+   "n_sed": 77,
+   "W_mig": 0.99437,
+   "W_sed": 0.99399,
+   "DeltaW": 0.00038,
+   "p_one_sided": 0.39316
+  },
+  "n_species": 112
+ },
+ "win": false,
+ "falsification": "DeltaW_Cry1 n.s. OR DeltaW_Cry2 also significant same direction"
+}
