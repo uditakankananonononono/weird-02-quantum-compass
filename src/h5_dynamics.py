@@ -5,6 +5,7 @@ ARM 5b: ProDy GNM flexibility on committed AFDB models. Report-only; MD deferred
 import sys, os, json, glob, hashlib, subprocess, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
+import re
 from Bio import SeqIO
 
 def load_seqs():
@@ -22,16 +23,21 @@ def arm5a():
     ver = subprocess.run(['pip', 'show', 'metapredict'], capture_output=True, text=True).stdout
     ver = [l.split(':')[1].strip() for l in ver.splitlines() if l.startswith('Version')][0]
     panels = load_seqs()
-    out = {'tool': f'metapredict {ver}', 'per_sequence': {}, 'summaries': {}}
+    out = {'tool': f'metapredict {ver}', 'x_handling': 'clarification 16:29 IST: X-free segments >=10aa, X=NaN, affected: sedentary|Nothoprocta_perdicaria', 'per_sequence': {}, 'summaries': {}}
     for pan, recs in panels.items():
         rows = []
         for rid, seq in recs:
-            s = meta.predict_disorder(seq)
-            s = np.asarray(s, dtype=float)
+            # clarification 16:29 IST: X-free segments, X -> NaN, segments <10 skipped
+            full = np.full(len(seq), np.nan)
+            for m in re.finditer(r'[^Xx]+', seq):
+                seg = m.group(0)
+                if len(seg) >= 10:
+                    full[m.start():m.end()] = meta.predict_disorder(seg)
+            s = full
             tail = s[-60:] if len(s) >= 60 else s
-            row = {'id': rid, 'len': len(s), 'disordered_fraction': round(float((s > 0.5).mean()), 4),
-                   'longest_stretch': int(max((len(list(g)) for k, g in __import__('itertools').groupby(s > 0.5) if k), default=0)),
-                   'tail60_disorder_fraction': round(float((tail > 0.5).mean()), 4)}
+            row = {'id': rid, 'len': len(s), 'disordered_fraction': round(float(np.nanmean((s > 0.5).astype(float))), 4),
+                   'longest_stretch': int(max((len(list(g)) for k, g in __import__('itertools').groupby(np.nan_to_num(s, nan=0) > 0.5) if k), default=0)),
+                   'tail60_disorder_fraction': round(float(np.nanmean((tail > 0.5).astype(float))), 4)}
             out['per_sequence'][f'{pan}|{rid}'] = row
             rows.append(row)
         out['summaries'][pan] = {
