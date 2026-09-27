@@ -1,0 +1,12 @@
+{
+ "n_mig": 35,
+ "n_sed": 80,
+ "observed_AUC": 0.3414,
+ "MDA_full_panel": 0.6453029127942085,
+ "MDA_subpanel_5v5": 0.9042438802653711,
+ "MDA_10v10": 0.8028880216430593,
+ "MDA_50v50": 0.6418543236778781,
+ "se_observed": 0.05271644933606671,
+ "formula": "Hanley-McNeil 1971: SE^2=[A(1-A)+(n1-1)(Q1-A^2)+(n0-1)(Q2-A^2)]/(n1*n0), Q1=A/(2-A), Q2=2A^2/(1+A)",
+ "amendment": "2026-09-27 13:17 IST locked: one-sided alpha 0.05, power 0.80, H1 AUC>0.5, committed counts only"
+}
