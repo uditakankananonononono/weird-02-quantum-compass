@@ -1,0 +1,359 @@
+{
+ "amendment_commit": "feb831f",
+ "n_sets": 23,
+ "xu_ordering_fraction": 0.0,
+ "max_advantage": 0.0,
+ "max_deficit": -2e-06,
+ "taus_locked": {
+  "erCry4": 0.1495,
+  "ClCry4": 4.454,
+  "GgCry4": 4.2711
+ },
+ "rows": [
+  {
+   "set": "global_iso0.7_an0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 4.3e-05,
+    "ClCry4": 9.7e-05,
+    "GgCry4": 9.7e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso0.7_an1.0",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.003005,
+    "ClCry4": 0.00823,
+    "GgCry4": 0.008238
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso0.7_an1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 1e-06,
+    "GgCry4": 1e-06
+   },
+   "aniso_span": {
+    "erCry4": 0.008512,
+    "ClCry4": 0.022432,
+    "GgCry4": 0.022458
+   },
+   "xu_ordering": false,
+   "advantage": -1e-06
+  },
+  {
+   "set": "global_iso0.85_an0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 4e-06,
+    "ClCry4": 6e-06,
+    "GgCry4": 6e-06
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso0.85_an1.0",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.000631,
+    "ClCry4": 0.001568,
+    "GgCry4": 0.00157
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso0.85_an1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.004237,
+    "ClCry4": 0.011712,
+    "GgCry4": 0.011724
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.0_an0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.000477,
+    "ClCry4": 0.001096,
+    "GgCry4": 0.001098
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.0_an1.0",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 4.3e-05,
+    "ClCry4": 9.7e-05,
+    "GgCry4": 9.7e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.0_an1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.00162,
+    "ClCry4": 0.00428,
+    "GgCry4": 0.004285
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.15_an0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.002551,
+    "ClCry4": 0.006404,
+    "GgCry4": 0.006412
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.15_an1.0",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 3e-06,
+    "ClCry4": 3e-06,
+    "GgCry4": 3e-06
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.15_an1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.000378,
+    "ClCry4": 0.000913,
+    "GgCry4": 0.000915
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.3_an0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.006041,
+    "ClCry4": 0.015668,
+    "GgCry4": 0.015685
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.3_an1.0",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 5.8e-05,
+    "ClCry4": 0.000126,
+    "GgCry4": 0.000126
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "global_iso1.3_an1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 4.3e-05,
+    "ClCry4": 9.7e-05,
+    "GgCry4": 9.7e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "N5_x0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 8.2e-05,
+    "ClCry4": 0.00018,
+    "GgCry4": 0.00018
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "N5_x1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 3.1e-05,
+    "ClCry4": 7.2e-05,
+    "GgCry4": 7.2e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "N10_x0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 2.8e-05,
+    "ClCry4": 6.6e-05,
+    "GgCry4": 6.6e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "N10_x1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 6.7e-05,
+    "ClCry4": 0.000147,
+    "GgCry4": 0.000147
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "Y45_x0.7",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 4.3e-05,
+    "ClCry4": 9.7e-05,
+    "GgCry4": 9.7e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "Y45_x1.3",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 4.3e-05,
+    "ClCry4": 9.7e-05,
+    "GgCry4": 9.7e-05
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "control_isotropic",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "aniso_span": {
+    "erCry4": 0.0,
+    "ClCry4": 0.0,
+    "GgCry4": 0.0
+   },
+   "xu_ordering": false,
+   "advantage": 0.0
+  },
+  {
+   "set": "control_iso0",
+   "S": {
+    "erCry4": 0.0,
+    "ClCry4": 2e-06,
+    "GgCry4": 2e-06
+   },
+   "aniso_span": {
+    "erCry4": 0.052192,
+    "ClCry4": 0.063683,
+    "GgCry4": 0.064145
+   },
+   "xu_ordering": false,
+   "advantage": -2e-06
+  }
+ ]
+}

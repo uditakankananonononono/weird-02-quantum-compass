@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.9.27)  27 SEP 2026 16:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.9.27)  28 SEP 2026 05:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,13 +398,13 @@ nd-
  []
 
 
-Overfull \hbox (2.0684pt too wide) in paragraph at lines 218--219
+Overfull \hbox (2.0684pt too wide) in paragraph at lines 221--222
 \T1/ptm/m/n/12 Sliding-window (w=21) net-charge pro-files were com-pared be-twe
 en mi-gra-tory (n=5) and seden-
  []
 
 
-Overfull \hbox (3.36067pt too wide) in paragraph at lines 218--219
+Overfull \hbox (3.36067pt too wide) in paragraph at lines 221--222
 \T1/ptm/m/n/12 ture. Equa-tion: win-dow net charge $\OML/ztmcm/m/it/12 q[] \OT1
 /ztmcm/m/n/12 = [][] \OML/ztmcm/m/it/12 c\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 
 a[]\OT1/ztmcm/m/n/12 )$ \T1/ptm/m/n/12 with $\OML/ztmcm/m/it/12 c \OMS/ztmcm/m/
@@ -416,19 +416,22 @@ OT1/ztmcm/m/n/12 1(\OML/ztmcm/m/it/12 H\OT1/ztmcm/m/n/12 )\OML/ztmcm/m/it/12 ;
  []
 
 [15]
-Overfull \hbox (57.20786pt too wide) in paragraph at lines 229--241
+Overfull \hbox (57.20786pt too wide) in paragraph at lines 232--244
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [16]
-Overfull \hbox (40.72023pt too wide) in paragraph at lines 253--254
+Overfull \hbox (40.72023pt too wide) in paragraph at lines 256--257
 \T1/ptm/b/n/12 pres-sion and lo-cal-iza-tion: \T1/ptm/m/n/12 Gün-ther et al. (2
 018, \T1/ptm/m/it/12 Cur-rent Bi-ol-ogy\T1/ptm/m/n/12 ; pubmed.ncbi.nlm.nih.gov
 /29307554)
  []
 
 
-Overfull \hbox (34.9349pt too wide) in paragraph at lines 253--254
+Overfull \hbox (34.9349pt too wide) in paragraph at lines 256--257
 \T1/ptm/m/n/12 radical-pair be-havioural link re-mains dis-puted (Mar-ley et al
 . 2023, \T1/ptm/m/it/12 Na-ture\T1/ptm/m/n/12 ; nature.com/articles/s41586-
  []
@@ -448,14 +451,15 @@ jknappen/ec/ectt1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
-es/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 203236 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (18 pages, 213953 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 278 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
