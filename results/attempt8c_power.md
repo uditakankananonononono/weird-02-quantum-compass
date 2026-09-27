@@ -7,7 +7,7 @@ Amendment 2026-09-27 11:17 IST locked BEFORE computation. Retrospective MDE at p
 | 7f-b gxp Cry1 DeltaW | 36/80 | +0.00142 | 0.0055 |
 | 7f-b gxp Cry2 DeltaW | 35/77 | +0.00038 | 0.0042 |
 | 7f-b intersection Cry1 | 35/77 | +0.00063 | 0.0061 |
-| 7f-b intersection Cry2 | 35/77 | +0.00038 | 0.0049 |
+| 7f-b intersection Cry2 | 35/77 | +0.00038 | 0.0042 |
 | 7g-b tail net charge Cry1 | 36/80 | -0.00000 | 1.1e-05 |
 | 7g-b tail net charge Cry2 | 35/73 | -0.00170 | 0.0022 |
 | 7g-b charged density Cry1 | 36/80 | -0.00002 | 9.7e-05 |
