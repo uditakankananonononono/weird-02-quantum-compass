@@ -1,0 +1,154 @@
+To separate a magnetosensor-specific selective signature from the broader background of cryptochrome/photoreceptor purifying selection, the metric must move past overall sequence conservation/canalization and focus directly on functional divergence, phenotype interactions, or localized structural constraints.
+
+Here is an analysis and ranking of your candidate discriminators, followed by an additional high-value candidate (d).
+
+1. Candidate Evaluation & Ranking
+Rank 1: Candidate (b) — Migratory vs. Sedentary Contrast Within Genes (Gene × Phenotype Interaction)
+
+Why it ranks highest: Whole-protein conservation (W) measures background evolutionary constraint, which is shared across cryptochromes due to structural and functional requirements. A magnetosensor-specific signal should track the ecological demand for magnetoreception (migratory navigation) relative to non-migratory baselines, whereas circadian repressors (Cry2) should remain under baseline purifying selection regardless of migratory phenotype.
+
+Why it survives the 7e falsification: 7e proved that baseline sequence conservation alone (W) cannot distinguish Cry1 from Cry2. A contrast model (W
+migratory
+	​
+
+−W
+sedentary
+	​
+
+) controls for baseline family constraint by looking for differential evolutionary pressure correlated strictly with navigation.
+
+Falsifiable Win/Loss Conditions:
+
+Win: ΔW
+Cry1
+	​
+
+=(W
+Cry1, mig
+	​
+
+−W
+Cry1, sed
+	​
+
+)>0 with p<0.05 (permutation test), AND ΔW
+Cry2
+	​
+
+=(W
+Cry2, mig
+	​
+
+−W
+Cry2, sed
+	​
+
+)≈0 (or non-significant).
+
+Falsification/Loss: ΔW
+Cry1
+	​
+
+≈ΔW
+Cry2
+	​
+
+, or no significant difference between migratory and sedentary panels in either gene.
+
+Rank 2: Candidate (a) — Selection-Regime Shift (RELAX / Codeml Branch-Site)
+
+Why it ranks second: dN/dS ratios assess codon-level selection regimes rather than amino acid physical/structural canalization. RELAX (HyPhy) specifically tests for selection intensification (k>1) or relaxation (k<1) along specified target branches (e.g., Cry1 avian clade vs. Cry2 avian clade, or migratory lineages within Cry1).
+
+Falsifiable Win/Loss Conditions:
+
+Win: RELAX indicates significant selection intensification (k>1, p<0.05) exclusively on the Cry1 avian lineage relative to Cry2 background trees, or specifically on migratory avian lineages within Cry1.
+
+Falsification/Loss: Selection intensity parameter k≈1 (no shift) or k<1 (relaxed selection relative to Cry2 background).
+
+Rank 3: Candidate (c) — Paralog-Specific Conserved Column Decomposition
+
+Why it ranks third: Partitioning columns into family-conserved (Cry1 ∩ Cry2) vs. Cry1-paralog-specific (conserved in Cry1, divergent or variable in Cry2) isolates the residues unique to Cry1's functional divergence.
+
+Limitations: While computationally simple, it can be noisy if paralog-specific residues simply reflect general circadian functional divergence (e.g., distinct partner-binding interfaces) rather than magnetoreception specifically.
+
+Falsifiable Win/Loss Conditions:
+
+Win: Canalization statistic W
+paralog-spec
+	​
+
+ for Cry1-unique residues remains near 1.0 (W>0.98) and significantly exceeds the same site partition in Cry2 or random background site partitions of matched size (p<0.01).
+
+Falsification/Loss: W
+paralog-spec
+	​
+
+ drops to background control levels, indicating that high W in 7c/7e was driven primarily by family-shared ancestral sites.
+
+2. Candidate (d) — Electron Transfer & Radical Pair Pathway Localized Canalization
+
+Rationale: Magnetoreception via cryptochromes depends specifically on electron transfer along the conserved tryptophan triad/tetrad pathway to the FAD cofactor, alongside key surrounding electrostatic/solvent-accessible pocket residues that stabilize the radical pair state ([FAD
+∙−
+,Trp
+∙+
+]). A global average (W) dilutes signal across 400+ amino acids. By restricting the structural/canalization analysis strictly to the radical pair functional sphere (the 4 Trp positions + residues within 5 Å of the FAD-Trp chain), we isolate magnetosensor constraint from general scaffolding constraint.
+
+Implementation & Falsifiable Conditions:
+
+Define Site Partition (S
+RP
+	​
+
+): Identify the 4 canonical Trp residues (e.g., Trp400, Trp377, Trp354, Trp321 equivalents in Columba livia Cry1a/Cry1) plus all residues with any heavy atom within 5.0 Å of the FAD or Trp chain in the 6PTZ/ESMFold models.
+
+Compute Localized Statistic (W
+RP
+	​
+
+): Run the exact same canalization statistic W and column bootstrap strictly on S
+RP
+	​
+
+ for Cry1 vs. Cry2 across the 116-species panel.
+
+Pre-Registered Win/Loss Clauses:
+
+Win: W
+RP, Cry1
+	​
+
+ point estimate exceeds W
+RP, Cry2
+	​
+
+ upper 95% CI, OR W
+RP, Cry1
+	​
+
+−W
+RP, Cry2
+	​
+
+ at S
+RP
+	​
+
+ is significantly larger than at background control site partitions (p<0.01, 10k permutations).
+
+Falsification/Loss: W
+RP, Cry1
+	​
+
+ CI95 overlaps W
+RP, Cry2
+	​
+
+, demonstrating that even the radical-pair functional core exhibits no differential constraint beyond generic cryptochrome FAD-binding architecture.
+
+Recommended Protocol Path
+
+To maintain locked pre-registration rigor and leverage existing alignment/phenotype data on your panel:
+
+Execute Candidate (b) [Migratory vs. Sedentary Contrast] as the primary ecological/phenotypic test on the existing 116-species panel.
+
+Execute Candidate (d) [Radical Pair Sphere Localized Canalization] as the primary structural/mechanistic test using existing 6PTZ superpositions.
