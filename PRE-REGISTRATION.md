@@ -162,3 +162,18 @@ Retrospective MDE (NOT observed power) for the three migration-specific-signatur
 3. Classifier (attempt 3a, n=36/80, one-sided vs 0.5): MDE_AUC solving (A-0.5)/SE_HanleyMcNeil(A) = z.95+z.80 by bisection.
 SANITY LOCKS: recomputed observed statistics must reproduce the committed JSONs (attempt7f_b_gxp.json, attempt7g_ab.json g7b) within permutation-rounding; any mismatch aborts and is reported, no MDE is claimed.
 Framing locked: "at the locked panel sizes the nulls exclude migration-specific effects >= X in each test's native units; smaller effects cannot be excluded." No retuning of any gate; this is interpretive context for existing negatives.
+
+## AMENDMENT 2026-09-27 11:27 IST (provided-verdict queue #6: predicted confidence vs solved census vs functional regions - locked BEFORE computation)
+DESCRIPTIVE, no gate. Question: do the conclusions rest on well-confidence-modeled regions?
+1. Per-residue confidence = PDB B-factor column for every file in data/folds/ (137). Scale detection locked: median B <= 1.5 -> 0-1 scale, high-confidence threshold 0.70; else 0-100 scale, threshold 70.
+2. Regions (all from previously locked definitions): CORE = the 7f-b core set (6PTZ-numbered: Trp chain {395,372,318,369} or FAD <=4.5A or Trp <=6.0A via data/attempt6_column_geometry.json); TAIL = C-terminal 25% of each fold's own length (7g-b def); REST = the remainder.
+3. Column-to-fold-residue mapping: walk the owning MSA row (cry1_panel_msa.fasta for the 116 panel + 5 REF folds, matched by species/accession; mafft_ebi_crosscheck.fasta for the 11 Cry4 folds, matched by accession); residue index = count of non-gap symbols up to the mapped column. Cry2 REF fold: m6to2 map imported from attempt8_redirect3 (locked 11:12 def). AFDB files: no MSA row - matched to their REF__tr/sp partner by UniProt ID and compared on the partner's core indices ONLY IF sequence lengths match exactly, else overall-only.
+4. Statistics (descriptive): per-fold mean confidence overall + per region (CORE/TAIL/REST), fraction of CORE residues >= high-confidence threshold; panel-level summaries (median, IQR, min) per fold class (116 Cry1 panel, 5 REF, 11 Cry4, Cry2 REF, 4 AFDB); paired REF-vs-AFDB core comparison.
+5. Census context (descriptive): the 34 solved entries in data/rcsb_cry_census_details.json - method, resolution distribution, 6PTZ (our numbering anchor) resolution; no new fetching.
+6. Framing locked: confidence is model self-report, not functional validation; any conclusion resting on a region with median fold-class confidence below the high-confidence threshold gets explicitly caveated in the summary. No existing gate or result changes.
+
+## AMENDMENT CLARIFICATION 2026-09-27 11:28 IST (queue #6 - locked BEFORE corrected computation)
+Two implementation fixes to the 11:27 amendment, locked before the corrected run:
+1. Scale detection is PER FILE (median of that file's B-factors <= 1.5 -> 0-1 scale, thr 0.70; else 0-100, thr 70). The 11:27 text's detection rule was implemented globally, which misclassified the 4 AFDB files (0-100 scale) against the 0.70 threshold.
+2. Cry4 accession extraction: fold names CRY4__<SOURCE>__<Species>__<ACC> take the accession at field index 3 (the first run used index 2 and left all 11 Cry4 folds unmatched).
+DESCRIPTIVE ADDITION (no gate): the census lookup surfaced that 6PTZ is the engineered Y319D mutant of pigeon Cry4; the summary will note descriptively that residue 319 is also attempt 8's sole near-site Cry4-distinguishing residue (natural Cry4 = Y319, crystal = D319 = paralog consensus), with no causal claim.

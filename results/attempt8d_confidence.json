@@ -1,0 +1,554 @@
+{
+ "amendments": [
+  "2026-09-27 11:27 IST queue #6",
+  "2026-09-27 11:28 IST clarification"
+ ],
+ "scale_note": "per-file detection; ESMFold 0-1 (thr 0.70), AFDB 0-100 (thr 70)",
+ "n_folds": 137,
+ "classes": {
+  "afdb": {
+   "n_folds": 4,
+   "overall_mean_median": 86.556,
+   "overall_mean_min": 80.502,
+   "core_mean_median": 96.722,
+   "core_mean_min": 96.581,
+   "core_frac_ge_thr_median": 1.0,
+   "tail_mean_median": 62.719,
+   "per_fold": {
+    "AFDB__A0A2I4SZI9": {
+     "len": 527,
+     "thr": 70.0,
+     "overall_mean": 91.655,
+     "CORE": {
+      "n": 36,
+      "mean": 97.201,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 129,
+      "mean": 83.609,
+      "frac_ge_thr": 0.775
+     },
+     "REST": {
+      "n": 362,
+      "mean": 93.97,
+      "frac_ge_thr": 0.992
+     },
+     "core_mapped_residues": 36
+    },
+    "AFDB__A0A386QUR4": {
+     "len": 525,
+     "thr": 70.0,
+     "overall_mean": 91.948,
+     "CORE": {
+      "n": 36,
+      "mean": 96.766,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 127,
+      "mean": 83.746,
+      "frac_ge_thr": 0.787
+     },
+     "REST": {
+      "n": 362,
+      "mean": 94.346,
+      "frac_ge_thr": 0.967
+     },
+     "core_mapped_residues": 36
+    },
+    "AFDB__Q5IZC5": {
+     "len": 620,
+     "thr": 70.0,
+     "overall_mean": 81.458,
+     "CORE": {
+      "n": 36,
+      "mean": 96.679,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 155,
+      "mean": 41.829,
+      "frac_ge_thr": 0.168
+     },
+     "REST": {
+      "n": 429,
+      "mean": 94.499,
+      "frac_ge_thr": 0.963
+     },
+     "core_mapped_residues": 36
+    },
+    "AFDB__X5D0Q5": {
+     "len": 620,
+     "thr": 70.0,
+     "overall_mean": 80.502,
+     "CORE": {
+      "n": 36,
+      "mean": 96.581,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 155,
+      "mean": 39.539,
+      "frac_ge_thr": 0.168
+     },
+     "REST": {
+      "n": 429,
+      "mean": 93.952,
+      "frac_ge_thr": 0.958
+     },
+     "core_mapped_residues": 36
+    }
+   }
+  },
+  "cry2_ref": {
+   "n_folds": 1,
+   "overall_mean_median": 0.852,
+   "overall_mean_min": 0.852,
+   "core_mean_median": 0.85,
+   "core_mean_min": 0.85,
+   "core_frac_ge_thr_median": 0.958,
+   "tail_mean_median": 0.876,
+   "per_fold": {
+    "CRY2__REF__Columba_livia__XP_064920712.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.852,
+     "CORE": {
+      "n": 24,
+      "mean": 0.85,
+      "frac_ge_thr": 0.958
+     },
+     "TAIL": {
+      "n": 83,
+      "mean": 0.876,
+      "frac_ge_thr": 0.988
+     },
+     "REST": {
+      "n": 293,
+      "mean": 0.846,
+      "frac_ge_thr": 0.898
+     },
+     "core_mapped_residues": 24
+    }
+   }
+  },
+  "cry4": {
+   "n_folds": 11,
+   "overall_mean_median": 0.851,
+   "overall_mean_min": 0.722,
+   "core_mean_median": 0.872,
+   "core_mean_min": 0.732,
+   "core_frac_ge_thr_median": 1.0,
+   "tail_mean_median": 0.881,
+   "per_fold": {
+    "CRY4__MINED__Catharus_ustulatus__XP_032936297.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.851,
+     "CORE": {
+      "n": 28,
+      "mean": 0.871,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.878,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.843,
+      "frac_ge_thr": 0.884
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__MINED__Ficedula_albicollis__ENSFALP00000002532.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.868,
+     "CORE": {
+      "n": 28,
+      "mean": 0.881,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.881,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.864,
+      "frac_ge_thr": 0.939
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__MINED__Hirundo_rustica__XP_039941661.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.855,
+     "CORE": {
+      "n": 28,
+      "mean": 0.873,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.886,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.846,
+      "frac_ge_thr": 0.895
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__MINED__Pavo_cristatus__ENSPSTP00000009578.1": {
+     "len": 280,
+     "thr": 0.7,
+     "overall_mean": 0.722,
+     "CORE": {
+      "n": 19,
+      "mean": 0.732,
+      "frac_ge_thr": 0.789
+     },
+     "TAIL": {
+      "n": 63,
+      "mean": 0.567,
+      "frac_ge_thr": 0.476
+     },
+     "REST": {
+      "n": 198,
+      "mean": 0.77,
+      "frac_ge_thr": 0.727
+     },
+     "core_mapped_residues": 19
+    },
+    "CRY4__MINED__Serinus_canaria__ENSSCAP00000009299.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.853,
+     "CORE": {
+      "n": 28,
+      "mean": 0.878,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.885,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.843,
+      "frac_ge_thr": 0.895
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__MINED__Struthio_camelus__XP_068774195.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.87,
+     "CORE": {
+      "n": 28,
+      "mean": 0.884,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.893,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.863,
+      "frac_ge_thr": 0.922
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__MINED__Zonotrichia_albicollis__ENSZALP00000018676.1": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.847,
+     "CORE": {
+      "n": 28,
+      "mean": 0.871,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.88,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.836,
+      "frac_ge_thr": 0.881
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__REFSEQ__Columba_livia__KX168611": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.849,
+     "CORE": {
+      "n": 28,
+      "mean": 0.871,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.884,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.837,
+      "frac_ge_thr": 0.888
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__REFSEQ__Erithacus_rubecula__MN709784": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.785,
+     "CORE": {
+      "n": 13,
+      "mean": 0.853,
+      "frac_ge_thr": 0.923
+     },
+     "TAIL": {
+      "n": 92,
+      "mean": 0.775,
+      "frac_ge_thr": 0.826
+     },
+     "REST": {
+      "n": 295,
+      "mean": 0.785,
+      "frac_ge_thr": 0.769
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__REFSEQ__Gallus_gallus__NM_001039596": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.861,
+     "CORE": {
+      "n": 28,
+      "mean": 0.88,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 78,
+      "mean": 0.883,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 294,
+      "mean": 0.854,
+      "frac_ge_thr": 0.915
+     },
+     "core_mapped_residues": 36
+    },
+    "CRY4__REFSEQ__Passer_domesticus__AY494987": {
+     "len": 359,
+     "thr": 0.7,
+     "overall_mean": 0.844,
+     "CORE": {
+      "n": 13,
+      "mean": 0.872,
+      "frac_ge_thr": 0.923
+     },
+     "TAIL": {
+      "n": 82,
+      "mean": 0.805,
+      "frac_ge_thr": 0.854
+     },
+     "REST": {
+      "n": 264,
+      "mean": 0.854,
+      "frac_ge_thr": 0.902
+     },
+     "core_mapped_residues": 13
+    }
+   }
+  },
+  "ref_rows": {
+   "n_folds": 5,
+   "overall_mean_median": 0.849,
+   "overall_mean_min": 0.843,
+   "core_mean_median": 0.865,
+   "core_mean_min": 0.861,
+   "core_frac_ge_thr_median": 0.972,
+   "tail_mean_median": 0.882,
+   "per_fold": {
+    "REF__sp__Q5IZC5__CRY1_ERIRU": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.843,
+     "CORE": {
+      "n": 36,
+      "mean": 0.862,
+      "frac_ge_thr": 0.972
+     },
+     "TAIL": {
+      "n": 72,
+      "mean": 0.895,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 292,
+      "mean": 0.829,
+      "frac_ge_thr": 0.846
+     },
+     "core_mapped_residues": 36
+    },
+    "REF__tr__A0A219TAG4__A0A219TAG4_COLLI": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.849,
+     "CORE": {
+      "n": 36,
+      "mean": 0.865,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 72,
+      "mean": 0.88,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 292,
+      "mean": 0.839,
+      "frac_ge_thr": 0.887
+     },
+     "core_mapped_residues": 36
+    },
+    "REF__tr__A0A2I4SZI9__A0A2I4SZI9_ERIRU": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.865,
+     "CORE": {
+      "n": 36,
+      "mean": 0.866,
+      "frac_ge_thr": 0.972
+     },
+     "TAIL": {
+      "n": 72,
+      "mean": 0.882,
+      "frac_ge_thr": 0.986
+     },
+     "REST": {
+      "n": 292,
+      "mean": 0.86,
+      "frac_ge_thr": 0.925
+     },
+     "core_mapped_residues": 36
+    },
+    "REF__tr__A0A386QUR4__A0A386QUR4_COLLI": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.849,
+     "CORE": {
+      "n": 36,
+      "mean": 0.865,
+      "frac_ge_thr": 1.0
+     },
+     "TAIL": {
+      "n": 72,
+      "mean": 0.881,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 292,
+      "mean": 0.84,
+      "frac_ge_thr": 0.89
+     },
+     "core_mapped_residues": 36
+    },
+    "REF__tr__X5D0Q5__X5D0Q5_COLLI": {
+     "len": 400,
+     "thr": 0.7,
+     "overall_mean": 0.851,
+     "CORE": {
+      "n": 36,
+      "mean": 0.861,
+      "frac_ge_thr": 0.972
+     },
+     "TAIL": {
+      "n": 72,
+      "mean": 0.893,
+      "frac_ge_thr": 1.0
+     },
+     "REST": {
+      "n": 292,
+      "mean": 0.84,
+      "frac_ge_thr": 0.887
+     },
+     "core_mapped_residues": 36
+    }
+   }
+  },
+  "cry1_panel": {
+   "n_folds": 116,
+   "overall_mean_median": 0.853,
+   "overall_mean_min": 0.669,
+   "core_mean_median": 0.863,
+   "core_mean_min": 0.772,
+   "core_frac_ge_thr_median": 0.972,
+   "tail_mean_median": 0.894,
+   "per_fold": {}
+  }
+ },
+ "ref_vs_afdb_pairs": [
+  {
+   "uid": "A0A2I4SZI9",
+   "ref_core_mean": 0.866,
+   "afdb_core_mean": 97.201,
+   "ref_overall": 0.865,
+   "afdb_overall": 91.655
+  },
+  {
+   "uid": "A0A386QUR4",
+   "ref_core_mean": 0.865,
+   "afdb_core_mean": 96.766,
+   "ref_overall": 0.849,
+   "afdb_overall": 91.948
+  },
+  {
+   "uid": "Q5IZC5",
+   "ref_core_mean": 0.862,
+   "afdb_core_mean": 96.679,
+   "ref_overall": 0.843,
+   "afdb_overall": 81.458
+  },
+  {
+   "uid": "X5D0Q5",
+   "ref_core_mean": 0.861,
+   "afdb_core_mean": 96.581,
+   "ref_overall": 0.851,
+   "afdb_overall": 80.502
+  }
+ ],
+ "census": {
+  "n_solved": 34,
+  "methods": [
+   "ELECTRON MICROSCOPY",
+   "X-RAY DIFFRACTION"
+  ],
+  "resolution_median": 2.23,
+  "resolution_range": [
+   1.6,
+   3.5
+  ],
+  "6ptz": {
+   "resolution": [
+    1.793
+   ],
+   "method": "X-RAY DIFFRACTION",
+   "title": "Crystal structure of pigeon Cryptochrome 4 mutant Y319D in complex with flavin adenine din"
+  }
+ }
+}
