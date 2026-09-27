@@ -210,3 +210,6 @@ The amendment named data/cry1_features_v1.json as the Cry1 reference sequence so
 
 ## AMENDMENT 2026-09-27 13:17 IST (provided-verdict queue #15: power analysis - locked BEFORE computation)
 QUESTION: what effect size is detectable for a migration-specific Cry4 signature at our committed n? Locked method: Hanley-McNeil standard error of AUC (1971 formula, numbered in paper) using ONLY committed counts n_mig=35, n_sed=80 from results/h1_scoring.json; minimum detectable AUC (MDA) at one-sided alpha=0.05, power=0.80, testing H1: AUC>0.5 (locked direction); also MDA for the subpanel arms at n=5v5. REPORT-ONLY: numbers verbatim; no retrospective redesign; no species additions (anti-goal).
+
+## AMENDMENT 2026-09-27 13:18 IST (provided-verdict queue #14: unified causal diagram - paper artifact, locked BEFORE drafting)
+ARTIFACT: one paper section + TikZ/pgf diagram mapping the four-level chain sequence -> structure -> spin -> phenotype, with every tested arrow annotated by its committed result status (supported / null-with-power / untestable-at-n / not-tested), citing the attempt numbers verbatim. NO new computation; every annotation must trace to an already-committed result file; no arrow may be drawn as supported unless its committed result says so. Where the chain breaks, the break is drawn, not smoothed over.
