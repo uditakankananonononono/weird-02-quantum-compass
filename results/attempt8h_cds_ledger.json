@@ -1,0 +1,67 @@
+{
+ "arm": "ARM1 CDS ledger",
+ "accessions": {
+  "KX168611": {
+   "species": "Columba_livia",
+   "source_db": "REFSEQ",
+   "sha256": "2103028c6034e888d82d6674683c2656cb5e73bb5b208eaf13318b97694b4c3a",
+   "n_nt": 1578
+  },
+  "MN709784": {
+   "species": "Erithacus_rubecula",
+   "source_db": "REFSEQ",
+   "sha256": "b926e9c6ca05a6ec9c618a617e2a64569264b7aae9ee78c0f814baa6e031eb60",
+   "n_nt": 1671
+  },
+  "NM_001039596": {
+   "species": "Gallus_gallus",
+   "source_db": "REFSEQ",
+   "sha256": "4594a6b87df01f810d8037b189a0abcdf9e41b486ed9db4a059194799b4aed5d",
+   "n_nt": 1590
+  },
+  "AY494987": {
+   "species": "Passer_domesticus",
+   "source_db": "REFSEQ",
+   "sha256": "57a02ead99c75cb535f0536102a291b71362706e899994e5b67ad82b7fe97664",
+   "n_nt": 1077
+  },
+  "XP_032936297.1": {
+   "species": "Catharus_ustulatus",
+   "source_db": "MINED",
+   "sha256": "1a76baaa2495c598a2886870155c0053a6b1122ee6fbbf3d9d1be99ec84031e5",
+   "n_nt": 1584
+  },
+  "ENSFALP00000002532.1": {
+   "species": "Ficedula_albicollis",
+   "source_db": "MINED",
+   "sha256": "608b14372e52469b2022f73defbf976ce47e32f3ac29808978048ef9147ab083",
+   "n_nt": 1584
+  },
+  "XP_039941661.1": {
+   "species": "Hirundo_rustica",
+   "source_db": "MINED",
+   "sha256": "19e3da5e29d9202bb33cafc6798ec2db4af5e7d95daad98363d26d798932bf0c",
+   "n_nt": 1584
+  },
+  "ENSSCAP00000009299.1": {
+   "species": "Serinus_canaria",
+   "source_db": "MINED",
+   "sha256": "65121acafd6efbf3073a1f3b81fb949387ef9649c6f1df1eb690444be651692b",
+   "n_nt": 1584
+  },
+  "XP_068774195.1": {
+   "species": "Struthio_camelus",
+   "source_db": "MINED",
+   "sha256": "78cd9de15080f0f154e7d1e77660d446e84b49dedfe803bd273d98f001634b05",
+   "n_nt": 1590
+  },
+  "ENSZALP00000018676.1": {
+   "species": "Zonotrichia_albicollis",
+   "source_db": "MINED",
+   "sha256": "20ea0d48a52cf76ea384b1f661ec6f7f213de8109c27d95c8313f84ff728bbdd",
+   "n_nt": 1584
+  }
+ },
+ "failed": [],
+ "n_ok": 10
+}

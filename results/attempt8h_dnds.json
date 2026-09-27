@@ -1,0 +1,544 @@
+{
+ "amendment": "2026-09-27 13:12 IST queue #11 + 13:15 IST addendum 37010e4 (10-species 5v5; delegated executor, report-only)",
+ "executor_note": "computed by delegated executor at ref 8c424cb; uncommitted, returned to lane-29 for review",
+ "pavo_exclusion": "Pavo cristatus excluded: no committed label exists anywhere in the repo (h1_scoring.json, n_partial=0) and no protein-MSA row in cry1_panel_msa.fasta; exclusion disclosed verbatim per addendum",
+ "tool_availability_verbatim": "which yn00 codeml paml hyphy HYPHYMP -> all empty; PAML/HyPhy NOT present. Locked fallback used: pairwise Nei-Gojobori (Biopython 1.88 Bio.codonalign codonseq.cal_dn_ds method='NG') + Mann-Whitney. Disclosed heuristic screen, not a branch-site test.",
+ "arm1": {
+  "accessions_ok": 10,
+  "failed": 0,
+  "ledger_file": "results/attempt8h_cds_ledger.json",
+  "routes": "4 REFSEQ nuccore efetch fasta_cds_na (KX168611, MN709784, NM_001039596, AY494987); 3 XP protein efetch fasta_cds_na (XP_032936297.1, XP_039941661.1, XP_068774195.1); 3 ENS via Ensembl REST: lookup/id on Translation id to resolve Parent transcript, then sequence/id(transcript)?type=cds (direct sequence/id on the Translation id silently returns PROTEIN - alphabet-verified during retrieval)"
+ },
+ "arm2": {
+  "backmap_target": "data/mafft_ebi_crosscheck.fasta (committed Cry4 subpanel protein MSA, accession-keyed)",
+  "deviation_disclosure": "Amendment text named cry1_panel_msa.fasta; identity check (below) shows CDS translations match the Cry4 subpanel MSA (>0.95) and NOT the Cry1 panel rows (different accessions, Cry1-family proteins). The committed Cry4 subpanel MSA was used; executing against Cry1 rows would back-map Cry4 CDS onto Cry1 protein (invalid).",
+  "identity_check": {
+   "Columba_livia": {
+    "vs_cry4_subpanel_msa": 0.9943,
+    "vs_cry1_panel_row": 0.0984,
+    "cds_aa": 526,
+    "msa_row_aa": 525
+   },
+   "Erithacus_rubecula": {
+    "vs_cry4_subpanel_msa": 0.9982,
+    "vs_cry1_panel_row": 0.0774,
+    "cds_aa": 557,
+    "msa_row_aa": 556
+   },
+   "Gallus_gallus": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.1014,
+    "cds_aa": 530,
+    "msa_row_aa": 529
+   },
+   "Passer_domesticus": {
+    "vs_cry4_subpanel_msa": 1.0,
+    "vs_cry1_panel_row": 0.0274,
+    "cds_aa": 359,
+    "msa_row_aa": 359
+   },
+   "Catharus_ustulatus": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.0952,
+    "cds_aa": 528,
+    "msa_row_aa": 527
+   },
+   "Ficedula_albicollis": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.1032,
+    "cds_aa": 528,
+    "msa_row_aa": 527
+   },
+   "Hirundo_rustica": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.0968,
+    "cds_aa": 528,
+    "msa_row_aa": 527
+   },
+   "Serinus_canaria": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.0987,
+    "cds_aa": 528,
+    "msa_row_aa": 527
+   },
+   "Struthio_camelus": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.1047,
+    "cds_aa": 530,
+    "msa_row_aa": 529
+   },
+   "Zonotrichia_albicollis": {
+    "vs_cry4_subpanel_msa": 0.9981,
+    "vs_cry1_panel_row": 0.0952,
+    "cds_aa": 528,
+    "msa_row_aa": 527
+   }
+  },
+  "alignment_columns": 1674
+ },
+ "arm3": {
+  "n_pairs": 45,
+  "n_cross": 25,
+  "n_within": 20,
+  "omega_cross_median": 0.111674,
+  "omega_within_median": 0.136581,
+  "omega_cross_mean": 0.121736,
+  "omega_within_mean": 0.130531,
+  "mwu_U": 211.0,
+  "mwu_p_two_sided": 0.37918336397400576,
+  "mwu_power_note": "5v5 classes; minimum attainable two-sided MWU p at 25-vs-20 pairs is limited (lane-29: 0.00794 at label level) - weakly powered, reported as such",
+  "pairs": [
+   {
+    "a": "Columba_livia",
+    "b": "Erithacus_rubecula",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.062482,
+    "dS": 0.582701,
+    "omega": 0.107229
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Gallus_gallus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.080722,
+    "dS": 0.601189,
+    "omega": 0.134271
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Passer_domesticus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.062563,
+    "dS": 0.668533,
+    "omega": 0.093582
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Catharus_ustulatus",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.065165,
+    "dS": 0.583526,
+    "omega": 0.111674
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Ficedula_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.062024,
+    "dS": 0.550272,
+    "omega": 0.112715
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Hirundo_rustica",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.059791,
+    "dS": 0.680241,
+    "omega": 0.087897
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Serinus_canaria",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.066557,
+    "dS": 0.603486,
+    "omega": 0.110287
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Struthio_camelus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.069536,
+    "dS": 0.565373,
+    "omega": 0.122992
+   },
+   {
+    "a": "Columba_livia",
+    "b": "Zonotrichia_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.067904,
+    "dS": 0.613383,
+    "omega": 0.110704
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Gallus_gallus",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.063034,
+    "dS": 0.622514,
+    "omega": 0.101257
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Passer_domesticus",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.024683,
+    "dS": 0.172308,
+    "omega": 0.143252
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Catharus_ustulatus",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.019819,
+    "dS": 0.142697,
+    "omega": 0.138892
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Ficedula_albicollis",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.00737,
+    "dS": 0.093166,
+    "omega": 0.079107
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Hirundo_rustica",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.022754,
+    "dS": 0.158233,
+    "omega": 0.143802
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Serinus_canaria",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.020662,
+    "dS": 0.149406,
+    "omega": 0.138297
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Struthio_camelus",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.057721,
+    "dS": 0.598116,
+    "omega": 0.096504
+   },
+   {
+    "a": "Erithacus_rubecula",
+    "b": "Zonotrichia_albicollis",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.024019,
+    "dS": 0.156409,
+    "omega": 0.153563
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Passer_domesticus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.065591,
+    "dS": 0.695532,
+    "omega": 0.094304
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Catharus_ustulatus",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.067937,
+    "dS": 0.594149,
+    "omega": 0.114343
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Ficedula_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.063469,
+    "dS": 0.588406,
+    "omega": 0.107866
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Hirundo_rustica",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.064368,
+    "dS": 0.651994,
+    "omega": 0.098725
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Serinus_canaria",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.068404,
+    "dS": 0.634541,
+    "omega": 0.107801
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Struthio_camelus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.060715,
+    "dS": 0.654634,
+    "omega": 0.092746
+   },
+   {
+    "a": "Gallus_gallus",
+    "b": "Zonotrichia_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.065714,
+    "dS": 0.628506,
+    "omega": 0.104555
+   },
+   {
+    "a": "Passer_domesticus",
+    "b": "Catharus_ustulatus",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.022206,
+    "dS": 0.166621,
+    "omega": 0.13327
+   },
+   {
+    "a": "Passer_domesticus",
+    "b": "Ficedula_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.025955,
+    "dS": 0.157208,
+    "omega": 0.165101
+   },
+   {
+    "a": "Passer_domesticus",
+    "b": "Hirundo_rustica",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.020972,
+    "dS": 0.185969,
+    "omega": 0.11277
+   },
+   {
+    "a": "Passer_domesticus",
+    "b": "Serinus_canaria",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.018478,
+    "dS": 0.127878,
+    "omega": 0.144494
+   },
+   {
+    "a": "Passer_domesticus",
+    "b": "Struthio_camelus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.063549,
+    "dS": 0.627413,
+    "omega": 0.101287
+   },
+   {
+    "a": "Passer_domesticus",
+    "b": "Zonotrichia_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.015971,
+    "dS": 0.123684,
+    "omega": 0.129129
+   },
+   {
+    "a": "Catharus_ustulatus",
+    "b": "Ficedula_albicollis",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.018981,
+    "dS": 0.102828,
+    "omega": 0.184585
+   },
+   {
+    "a": "Catharus_ustulatus",
+    "b": "Hirundo_rustica",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.024015,
+    "dS": 0.146122,
+    "omega": 0.164351
+   },
+   {
+    "a": "Catharus_ustulatus",
+    "b": "Serinus_canaria",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.025707,
+    "dS": 0.135754,
+    "omega": 0.189367
+   },
+   {
+    "a": "Catharus_ustulatus",
+    "b": "Struthio_camelus",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.055821,
+    "dS": 0.592864,
+    "omega": 0.094154
+   },
+   {
+    "a": "Catharus_ustulatus",
+    "b": "Zonotrichia_albicollis",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.024861,
+    "dS": 0.152938,
+    "omega": 0.162554
+   },
+   {
+    "a": "Ficedula_albicollis",
+    "b": "Hirundo_rustica",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.020235,
+    "dS": 0.141064,
+    "omega": 0.143448
+   },
+   {
+    "a": "Ficedula_albicollis",
+    "b": "Serinus_canaria",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.019822,
+    "dS": 0.12574,
+    "omega": 0.157645
+   },
+   {
+    "a": "Ficedula_albicollis",
+    "b": "Struthio_camelus",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.057274,
+    "dS": 0.576712,
+    "omega": 0.099311
+   },
+   {
+    "a": "Ficedula_albicollis",
+    "b": "Zonotrichia_albicollis",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.023174,
+    "dS": 0.129153,
+    "omega": 0.179433
+   },
+   {
+    "a": "Hirundo_rustica",
+    "b": "Serinus_canaria",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.026129,
+    "dS": 0.137447,
+    "omega": 0.190104
+   },
+   {
+    "a": "Hirundo_rustica",
+    "b": "Struthio_camelus",
+    "class": "cross",
+    "la": "migratory",
+    "lb": "sedentary",
+    "dN": 0.058892,
+    "dS": 0.648244,
+    "omega": 0.090849
+   },
+   {
+    "a": "Hirundo_rustica",
+    "b": "Zonotrichia_albicollis",
+    "class": "within",
+    "la": "migratory",
+    "lb": "migratory",
+    "dN": 0.02444,
+    "dS": 0.154671,
+    "omega": 0.158009
+   },
+   {
+    "a": "Serinus_canaria",
+    "b": "Struthio_camelus",
+    "class": "within",
+    "la": "sedentary",
+    "lb": "sedentary",
+    "dN": 0.058909,
+    "dS": 0.582665,
+    "omega": 0.101103
+   },
+   {
+    "a": "Serinus_canaria",
+    "b": "Zonotrichia_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.016486,
+    "dS": 0.109118,
+    "omega": 0.151088
+   },
+   {
+    "a": "Struthio_camelus",
+    "b": "Zonotrichia_albicollis",
+    "class": "cross",
+    "la": "sedentary",
+    "lb": "migratory",
+    "dN": 0.058461,
+    "dS": 0.611498,
+    "omega": 0.095603
+   }
+  ]
+ },
+ "interpretation_lock": "REPORT-ONLY screen. A significant elevation is a SCREEN signal for discussion, never an adaptive-evolution claim; no causal residues, no migratory-prediction claim."
+}
