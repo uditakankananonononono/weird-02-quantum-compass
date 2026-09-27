@@ -1,0 +1,21 @@
+{
+ "tool": "prody 2.6.1",
+ "per_model": {
+  "A0A2I4SZI9": {
+   "name": "erCry4",
+   "n_ca": 527,
+   "tail60_msf_mean": 0.0992,
+   "core_msf_mean": 0.0146,
+   "tail_core_ratio": 6.7891
+  },
+  "A0A386QUR4": {
+   "name": "ClCry4",
+   "n_ca": 525,
+   "tail60_msf_mean": 0.141,
+   "core_msf_mean": 0.0148,
+   "tail_core_ratio": 9.5197
+  }
+ },
+ "failed_downloads": [],
+ "amendment_commit": "e81f26b"
+}

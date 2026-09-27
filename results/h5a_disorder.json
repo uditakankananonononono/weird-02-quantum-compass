@@ -1,0 +1,1761 @@
+{
+ "tool": "metapredict 3.0.2",
+ "x_handling": "clarification 16:29 IST: X-free segments >=10aa, X=NaN, affected: sedentary|Nothoprocta_perdicaria",
+ "per_sequence": {
+  "Cry4|REFSEQ|Columba_livia|KX168611": {
+   "id": "REFSEQ|Columba_livia|KX168611",
+   "len": 525,
+   "disordered_fraction": 0.0781,
+   "longest_stretch": 41,
+   "tail60_disorder_fraction": 0.6833
+  },
+  "Cry4|REFSEQ|Erithacus_rubecula|MN709784": {
+   "id": "REFSEQ|Erithacus_rubecula|MN709784",
+   "len": 556,
+   "disordered_fraction": 0.0701,
+   "longest_stretch": 39,
+   "tail60_disorder_fraction": 0.65
+  },
+  "Cry4|REFSEQ|Gallus_gallus|NM_001039596": {
+   "id": "REFSEQ|Gallus_gallus|NM_001039596",
+   "len": 529,
+   "disordered_fraction": 0.0699,
+   "longest_stretch": 37,
+   "tail60_disorder_fraction": 0.6167
+  },
+  "Cry4|REFSEQ|Passer_domesticus|AY494987": {
+   "id": "REFSEQ|Passer_domesticus|AY494987",
+   "len": 359,
+   "disordered_fraction": 0.0,
+   "longest_stretch": 0,
+   "tail60_disorder_fraction": 0.0
+  },
+  "Cry4|MINED|Catharus_ustulatus|XP_032936297.1": {
+   "id": "MINED|Catharus_ustulatus|XP_032936297.1",
+   "len": 527,
+   "disordered_fraction": 0.074,
+   "longest_stretch": 39,
+   "tail60_disorder_fraction": 0.65
+  },
+  "Cry4|MINED|Ficedula_albicollis|ENSFALP00000002532.1": {
+   "id": "MINED|Ficedula_albicollis|ENSFALP00000002532.1",
+   "len": 527,
+   "disordered_fraction": 0.074,
+   "longest_stretch": 39,
+   "tail60_disorder_fraction": 0.65
+  },
+  "Cry4|MINED|Hirundo_rustica|XP_039941661.1": {
+   "id": "MINED|Hirundo_rustica|XP_039941661.1",
+   "len": 527,
+   "disordered_fraction": 0.0759,
+   "longest_stretch": 40,
+   "tail60_disorder_fraction": 0.6667
+  },
+  "Cry4|MINED|Pavo_cristatus|ENSPSTP00000009578.1": {
+   "id": "MINED|Pavo_cristatus|ENSPSTP00000009578.1",
+   "len": 280,
+   "disordered_fraction": 0.0,
+   "longest_stretch": 0,
+   "tail60_disorder_fraction": 0.0
+  },
+  "Cry4|MINED|Serinus_canaria|ENSSCAP00000009299.1": {
+   "id": "MINED|Serinus_canaria|ENSSCAP00000009299.1",
+   "len": 527,
+   "disordered_fraction": 0.074,
+   "longest_stretch": 39,
+   "tail60_disorder_fraction": 0.65
+  },
+  "Cry4|MINED|Struthio_camelus|XP_068774195.1": {
+   "id": "MINED|Struthio_camelus|XP_068774195.1",
+   "len": 529,
+   "disordered_fraction": 0.0718,
+   "longest_stretch": 38,
+   "tail60_disorder_fraction": 0.6333
+  },
+  "Cry4|MINED|Zonotrichia_albicollis|ENSZALP00000018676.1": {
+   "id": "MINED|Zonotrichia_albicollis|ENSZALP00000018676.1",
+   "len": 527,
+   "disordered_fraction": 0.0721,
+   "longest_stretch": 38,
+   "tail60_disorder_fraction": 0.6333
+  },
+  "Cry1|migratory|Apus_apus|XM_051636888": {
+   "id": "migratory|Apus_apus|XM_051636888",
+   "len": 620,
+   "disordered_fraction": 0.2371,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Chaetura_pelagica|XM_010005852": {
+   "id": "migratory|Chaetura_pelagica|XM_010005852",
+   "len": 570,
+   "disordered_fraction": 0.2667,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Gavia_stellata|XM_059817274": {
+   "id": "migratory|Gavia_stellata|XM_059817274",
+   "len": 622,
+   "disordered_fraction": 0.2428,
+   "longest_stretch": 126,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Antrostomus_carolinensis|XM_010175277": {
+   "id": "migratory|Antrostomus_carolinensis|XM_010175277",
+   "len": 567,
+   "disordered_fraction": 0.2804,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Calidris_pugnax|XM_014963979": {
+   "id": "migratory|Calidris_pugnax|XM_014963979",
+   "len": 461,
+   "disordered_fraction": 0.3688,
+   "longest_stretch": 122,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Charadrius_vociferus|XM_009881988": {
+   "id": "migratory|Charadrius_vociferus|XM_009881988",
+   "len": 573,
+   "disordered_fraction": 0.2461,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Fulmarus_glacialis|XM_009586717": {
+   "id": "migratory|Fulmarus_glacialis|XM_009586717",
+   "len": 585,
+   "disordered_fraction": 0.2444,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Phaethon_lepturus|XM_010290738": {
+   "id": "migratory|Phaethon_lepturus|XM_010290738",
+   "len": 584,
+   "disordered_fraction": 0.2603,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Lathamus_discolor|XM_065679551": {
+   "id": "migratory|Lathamus_discolor|XM_065679551",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Ficedula_albicollis|XM_005039848": {
+   "id": "migratory|Ficedula_albicollis|XM_005039848",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Erithacus_rubecula|KT380948": {
+   "id": "migratory|Erithacus_rubecula|KT380948",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Empidonax_traillii|XM_027886629": {
+   "id": "migratory|Empidonax_traillii|XM_027886629",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Agelaius_phoeniceus|XM_054631870": {
+   "id": "migratory|Agelaius_phoeniceus|XM_054631870",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Sylvia_atricapilla|KC691287": {
+   "id": "migratory|Sylvia_atricapilla|KC691287",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Sylvia_borin|AJ632120": {
+   "id": "migratory|Sylvia_borin|AJ632120",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Zonotrichia_albicollis|XM_005491170": {
+   "id": "migratory|Zonotrichia_albicollis|XM_005491170",
+   "len": 620,
+   "disordered_fraction": 0.2355,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Zonotrichia_leucophrys_gambelii|XM_064702516": {
+   "id": "migratory|Zonotrichia_leucophrys_gambelii|XM_064702516",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Ammospiza_nelsoni|XM_059471837": {
+   "id": "migratory|Ammospiza_nelsoni|XM_059471837",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Ammospiza_caudacuta|XM_058805008": {
+   "id": "migratory|Ammospiza_caudacuta|XM_058805008",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Molothrus_ater|XM_036400416": {
+   "id": "migratory|Molothrus_ater|XM_036400416",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Catharus_ustulatus|XM_033058092": {
+   "id": "migratory|Catharus_ustulatus|XM_033058092",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Motacilla_alba_alba|XM_038155640": {
+   "id": "migratory|Motacilla_alba_alba|XM_038155640",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Melospiza_georgiana|XM_058022374": {
+   "id": "migratory|Melospiza_georgiana|XM_058022374",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Hirundo_rustica|XM_040061678": {
+   "id": "migratory|Hirundo_rustica|XM_040061678",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Falco_naumanni|XM_040593916": {
+   "id": "migratory|Falco_naumanni|XM_040593916",
+   "len": 620,
+   "disordered_fraction": 0.2371,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Falco_cherrug|XM_055710683": {
+   "id": "migratory|Falco_cherrug|XM_055710683",
+   "len": 620,
+   "disordered_fraction": 0.2371,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Falco_rusticolus|XM_037387508": {
+   "id": "migratory|Falco_rusticolus|XM_037387508",
+   "len": 620,
+   "disordered_fraction": 0.2371,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Numenius_arquata|XM_074169129": {
+   "id": "migratory|Numenius_arquata|XM_074169129",
+   "len": 620,
+   "disordered_fraction": 0.2403,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Calonectris_borealis|XM_075156645": {
+   "id": "migratory|Calonectris_borealis|XM_075156645",
+   "len": 639,
+   "disordered_fraction": 0.1502,
+   "longest_stretch": 78,
+   "tail60_disorder_fraction": 0.0
+  },
+  "Cry1|migratory|Coturnix_japonica|XM_085539342": {
+   "id": "migratory|Coturnix_japonica|XM_085539342",
+   "len": 661,
+   "disordered_fraction": 0.2315,
+   "longest_stretch": 126,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Cygnus_olor|XM_040559753": {
+   "id": "migratory|Cygnus_olor|XM_040559753",
+   "len": 621,
+   "disordered_fraction": 0.2319,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Anas_acuta|XM_068664613": {
+   "id": "migratory|Anas_acuta|XM_068664613",
+   "len": 621,
+   "disordered_fraction": 0.2432,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Cuculus_canorus|XM_009557610": {
+   "id": "migratory|Cuculus_canorus|XM_009557610",
+   "len": 619,
+   "disordered_fraction": 0.2278,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Ciconia_boyciana|XM_072870405": {
+   "id": "migratory|Ciconia_boyciana|XM_072870405",
+   "len": 620,
+   "disordered_fraction": 0.2435,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Grus_americana|XM_054813766": {
+   "id": "migratory|Grus_americana|XM_054813766",
+   "len": 620,
+   "disordered_fraction": 0.2435,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|migratory|Haliaeetus_leucocephalus|XM_010585455": {
+   "id": "migratory|Haliaeetus_leucocephalus|XM_010585455",
+   "len": 557,
+   "disordered_fraction": 0.1885,
+   "longest_stretch": 100,
+   "tail60_disorder_fraction": 0.9
+  },
+  "Cry1|sedentary|Chlamydotis_macqueenii|XM_086753885": {
+   "id": "sedentary|Chlamydotis_macqueenii|XM_086753885",
+   "len": 639,
+   "disordered_fraction": 0.1487,
+   "longest_stretch": 77,
+   "tail60_disorder_fraction": 0.0
+  },
+  "Cry1|sedentary|Heliangelus_exortis|XM_071729106": {
+   "id": "sedentary|Heliangelus_exortis|XM_071729106",
+   "len": 620,
+   "disordered_fraction": 0.2387,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Opisthocomus_hoazin|XM_075428041": {
+   "id": "sedentary|Opisthocomus_hoazin|XM_075428041",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Apteryx_mantelli|XM_067308814": {
+   "id": "sedentary|Apteryx_mantelli|XM_067308814",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Apteryx_rowi|XM_026056817": {
+   "id": "sedentary|Apteryx_rowi|XM_026056817",
+   "len": 578,
+   "disordered_fraction": 0.2751,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Eurypyga_helias|XM_010160904": {
+   "id": "sedentary|Eurypyga_helias|XM_010160904",
+   "len": 567,
+   "disordered_fraction": 0.2787,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Buceros_rhinoceros_silvestris|XM_010136611": {
+   "id": "sedentary|Buceros_rhinoceros_silvestris|XM_010136611",
+   "len": 632,
+   "disordered_fraction": 0.2247,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Manacus_vitellinus|XM_029963404": {
+   "id": "sedentary|Manacus_vitellinus|XM_029963404",
+   "len": 578,
+   "disordered_fraction": 0.2111,
+   "longest_stretch": 122,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Geospiza_fortis|XM_014307378": {
+   "id": "sedentary|Geospiza_fortis|XM_014307378",
+   "len": 569,
+   "disordered_fraction": 0.2162,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Parus_major|XM_019006761": {
+   "id": "sedentary|Parus_major|XM_019006761",
+   "len": 461,
+   "disordered_fraction": 0.3709,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Acanthisitta_chloris|XM_009070505": {
+   "id": "sedentary|Acanthisitta_chloris|XM_009070505",
+   "len": 578,
+   "disordered_fraction": 0.2111,
+   "longest_stretch": 122,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Pithys_albifrons_albifrons|XM_071551007": {
+   "id": "sedentary|Pithys_albifrons_albifrons|XM_071551007",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Strix_uralensis|XM_074871926": {
+   "id": "sedentary|Strix_uralensis|XM_074871926",
+   "len": 620,
+   "disordered_fraction": 0.2419,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Strix_aluco|XM_074825824": {
+   "id": "sedentary|Strix_aluco|XM_074825824",
+   "len": 620,
+   "disordered_fraction": 0.2403,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Athene_cunicularia|XM_026865634": {
+   "id": "sedentary|Athene_cunicularia|XM_026865634",
+   "len": 462,
+   "disordered_fraction": 0.3701,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Cariama_cristata|XM_009705171": {
+   "id": "sedentary|Cariama_cristata|XM_009705171",
+   "len": 570,
+   "disordered_fraction": 0.2947,
+   "longest_stretch": 127,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Neopelma_chrysocephalum|XM_027680404": {
+   "id": "sedentary|Neopelma_chrysocephalum|XM_027680404",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Myiozetetes_cayanensis|XM_050323703": {
+   "id": "sedentary|Myiozetetes_cayanensis|XM_050323703",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Pseudopipra_pipra|XM_064654879": {
+   "id": "sedentary|Pseudopipra_pipra|XM_064654879",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Manacus_candei|XM_051784588": {
+   "id": "sedentary|Manacus_candei|XM_051784588",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Pipra_filicauda|XM_027715127": {
+   "id": "sedentary|Pipra_filicauda|XM_027715127",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Chiroxiphia_lanceolata|XM_032687872": {
+   "id": "sedentary|Chiroxiphia_lanceolata|XM_032687872",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Lepidothrix_coronata|XM_017804782": {
+   "id": "sedentary|Lepidothrix_coronata|XM_017804782",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Aphelocoma_coerulescens|XM_069002938": {
+   "id": "sedentary|Aphelocoma_coerulescens|XM_069002938",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Corvus_hawaiiensis|XM_048300261": {
+   "id": "sedentary|Corvus_hawaiiensis|XM_048300261",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Corvus_kubaryi|XM_042051121": {
+   "id": "sedentary|Corvus_kubaryi|XM_042051121",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Corvus_moneduloides|XM_032107635": {
+   "id": "sedentary|Corvus_moneduloides|XM_032107635",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Vidua_macroura|XM_053979095": {
+   "id": "sedentary|Vidua_macroura|XM_053979095",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Vidua_chalybeata|XM_053944176": {
+   "id": "sedentary|Vidua_chalybeata|XM_053944176",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Malurus_melanocephalus|XM_057381074": {
+   "id": "sedentary|Malurus_melanocephalus|XM_057381074",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Lonchura_striata|XM_021535870": {
+   "id": "sedentary|Lonchura_striata|XM_021535870",
+   "len": 620,
+   "disordered_fraction": 0.2419,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Molothrus_aeneus|XM_066549801": {
+   "id": "sedentary|Molothrus_aeneus|XM_066549801",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Chamaea_fasciata|XM_066183980": {
+   "id": "sedentary|Chamaea_fasciata|XM_066183980",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Passer_domesticus|XM_064420417": {
+   "id": "sedentary|Passer_domesticus|XM_064420417",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Passer_montanus|XM_039725572": {
+   "id": "sedentary|Passer_montanus|XM_039725572",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Cinclus_cinclus|XM_062492123": {
+   "id": "sedentary|Cinclus_cinclus|XM_062492123",
+   "len": 620,
+   "disordered_fraction": 0.2032,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Serinus_canaria|XM_030238000": {
+   "id": "sedentary|Serinus_canaria|XM_030238000",
+   "len": 618,
+   "disordered_fraction": 0.1974,
+   "longest_stretch": 122,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Cyanistes_caeruleus|XM_086887242": {
+   "id": "sedentary|Cyanistes_caeruleus|XM_086887242",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Melozone_crissalis|XM_054273453": {
+   "id": "sedentary|Melozone_crissalis|XM_054273453",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Prinia_subflava|XM_063395753": {
+   "id": "sedentary|Prinia_subflava|XM_063395753",
+   "len": 620,
+   "disordered_fraction": 0.2,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Patagioenas_fasciata|XM_065838886": {
+   "id": "sedentary|Patagioenas_fasciata|XM_065838886",
+   "len": 620,
+   "disordered_fraction": 0.2452,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Columba_livia|KX168607": {
+   "id": "sedentary|Columba_livia|KX168607",
+   "len": 620,
+   "disordered_fraction": 0.2468,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Tyto_alba|XM_042792549": {
+   "id": "sedentary|Tyto_alba|XM_042792549",
+   "len": 621,
+   "disordered_fraction": 0.2383,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Athene_noctua|XM_074901909": {
+   "id": "sedentary|Athene_noctua|XM_074901909",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Neopsephotus_bourkii|XM_061371821": {
+   "id": "sedentary|Neopsephotus_bourkii|XM_061371821",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Pezoporus_wallicus|XM_057420483": {
+   "id": "sedentary|Pezoporus_wallicus|XM_057420483",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Pezoporus_occidentalis|XM_062602741": {
+   "id": "sedentary|Pezoporus_occidentalis|XM_062602741",
+   "len": 627,
+   "disordered_fraction": 0.2089,
+   "longest_stretch": 131,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Strigops_habroptila|XM_030478447": {
+   "id": "sedentary|Strigops_habroptila|XM_030478447",
+   "len": 620,
+   "disordered_fraction": 0.2452,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Nestor_notabilis|XM_010010346": {
+   "id": "sedentary|Nestor_notabilis|XM_010010346",
+   "len": 567,
+   "disordered_fraction": 0.2804,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Mesitornis_unicolor|XM_010192841": {
+   "id": "sedentary|Mesitornis_unicolor|XM_010192841",
+   "len": 568,
+   "disordered_fraction": 0.25,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Harpia_harpyja|XM_052789489": {
+   "id": "sedentary|Harpia_harpyja|XM_052789489",
+   "len": 620,
+   "disordered_fraction": 0.2371,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Apaloderma_vittatum|XM_009870532": {
+   "id": "sedentary|Apaloderma_vittatum|XM_009870532",
+   "len": 421,
+   "disordered_fraction": 0.3112,
+   "longest_stretch": 122,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Struthio_camelus|XM_068943972": {
+   "id": "sedentary|Struthio_camelus|XM_068943972",
+   "len": 621,
+   "disordered_fraction": 0.2399,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Tinamus_guttatus|XM_088535349": {
+   "id": "sedentary|Tinamus_guttatus|XM_088535349",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Nothoprocta_perdicaria|XM_026052220": {
+   "id": "sedentary|Nothoprocta_perdicaria|XM_026052220",
+   "len": 621,
+   "disordered_fraction": 0.2126,
+   "longest_stretch": 74,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Dromaius_novaehollandiae|XM_026117945": {
+   "id": "sedentary|Dromaius_novaehollandiae|XM_026117945",
+   "len": 621,
+   "disordered_fraction": 0.2448,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Rhea_americana|XM_085321686": {
+   "id": "sedentary|Rhea_americana|XM_085321686",
+   "len": 621,
+   "disordered_fraction": 0.2399,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Rhea_pennata|XM_062589058": {
+   "id": "sedentary|Rhea_pennata|XM_062589058",
+   "len": 621,
+   "disordered_fraction": 0.1997,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Cyrtonyx_montezumae|XM_065743080": {
+   "id": "sedentary|Cyrtonyx_montezumae|XM_065743080",
+   "len": 621,
+   "disordered_fraction": 0.2512,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Gallus_gallus|AY034432": {
+   "id": "sedentary|Gallus_gallus|AY034432",
+   "len": 621,
+   "disordered_fraction": 0.2029,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Lagopus_muta|XM_048956813": {
+   "id": "sedentary|Lagopus_muta|XM_048956813",
+   "len": 621,
+   "disordered_fraction": 0.2061,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Tympanuchus_pallidicinctus|XM_052668596": {
+   "id": "sedentary|Tympanuchus_pallidicinctus|XM_052668596",
+   "len": 621,
+   "disordered_fraction": 0.2158,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Phasianus_colchicus|XM_031600058": {
+   "id": "sedentary|Phasianus_colchicus|XM_031600058",
+   "len": 621,
+   "disordered_fraction": 0.2238,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Centrocercus_urophasianus|XM_042837763": {
+   "id": "sedentary|Centrocercus_urophasianus|XM_042837763",
+   "len": 621,
+   "disordered_fraction": 0.2061,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Lagopus_leucura|XM_042889900": {
+   "id": "sedentary|Lagopus_leucura|XM_042889900",
+   "len": 621,
+   "disordered_fraction": 0.2238,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Meleagris_gallopavo|XM_085227606": {
+   "id": "sedentary|Meleagris_gallopavo|XM_085227606",
+   "len": 621,
+   "disordered_fraction": 0.2093,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Numida_meleagris|XM_021386586": {
+   "id": "sedentary|Numida_meleagris|XM_021386586",
+   "len": 621,
+   "disordered_fraction": 0.2093,
+   "longest_stretch": 125,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Oxyura_jamaicensis|XM_035340816": {
+   "id": "sedentary|Oxyura_jamaicensis|XM_035340816",
+   "len": 621,
+   "disordered_fraction": 0.2351,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Colius_striatus|XM_062011745": {
+   "id": "sedentary|Colius_striatus|XM_062011745",
+   "len": 621,
+   "disordered_fraction": 0.2399,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Phaenicophaeus_curvirostris|XM_069859589": {
+   "id": "sedentary|Phaenicophaeus_curvirostris|XM_069859589",
+   "len": 619,
+   "disordered_fraction": 0.2278,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Leptosomus_discolor|XM_086479597": {
+   "id": "sedentary|Leptosomus_discolor|XM_086479597",
+   "len": 620,
+   "disordered_fraction": 0.2371,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Balearica_regulorum_gibbericeps|XM_075754104": {
+   "id": "sedentary|Balearica_regulorum_gibbericeps|XM_075754104",
+   "len": 620,
+   "disordered_fraction": 0.2419,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Nyctibius_grandis|XM_068400630": {
+   "id": "sedentary|Nyctibius_grandis|XM_068400630",
+   "len": 620,
+   "disordered_fraction": 0.229,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Tauraco_erythrolophus|XM_086611119": {
+   "id": "sedentary|Tauraco_erythrolophus|XM_086611119",
+   "len": 655,
+   "disordered_fraction": 0.1496,
+   "longest_stretch": 78,
+   "tail60_disorder_fraction": 0.0
+  },
+  "Cry1|sedentary|Pogoniulus_pusillus|XM_064155388": {
+   "id": "sedentary|Pogoniulus_pusillus|XM_064155388",
+   "len": 620,
+   "disordered_fraction": 0.2468,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Melanerpes_formicivorus|XM_068142320": {
+   "id": "sedentary|Melanerpes_formicivorus|XM_068142320",
+   "len": 620,
+   "disordered_fraction": 0.2258,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Dryobates_pubescens|XM_054167589": {
+   "id": "sedentary|Dryobates_pubescens|XM_054167589",
+   "len": 620,
+   "disordered_fraction": 0.2258,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Indicator_indicator|XM_054387004": {
+   "id": "sedentary|Indicator_indicator|XM_054387004",
+   "len": 620,
+   "disordered_fraction": 0.2242,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Nipponia_nippon|XM_087764154": {
+   "id": "sedentary|Nipponia_nippon|XM_087764154",
+   "len": 620,
+   "disordered_fraction": 0.2403,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|sedentary|Gymnogyps_californianus|XM_050915611": {
+   "id": "sedentary|Gymnogyps_californianus|XM_050915611",
+   "len": 620,
+   "disordered_fraction": 0.2403,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|REF|tr|A0A2I4SZI9|A0A2I4SZI9_ERIRU": {
+   "id": "REF|tr|A0A2I4SZI9|A0A2I4SZI9_ERIRU",
+   "len": 527,
+   "disordered_fraction": 0.074,
+   "longest_stretch": 39,
+   "tail60_disorder_fraction": 0.65
+  },
+  "Cry1|REF|sp|Q5IZC5|CRY1_ERIRU": {
+   "id": "REF|sp|Q5IZC5|CRY1_ERIRU",
+   "len": 620,
+   "disordered_fraction": 0.1984,
+   "longest_stretch": 123,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry1|REF|tr|A0A386QUR4|A0A386QUR4_COLLI": {
+   "id": "REF|tr|A0A386QUR4|A0A386QUR4_COLLI",
+   "len": 525,
+   "disordered_fraction": 0.0762,
+   "longest_stretch": 40,
+   "tail60_disorder_fraction": 0.6667
+  },
+  "Cry1|REF|tr|A0A219TAG4|A0A219TAG4_COLLI": {
+   "id": "REF|tr|A0A219TAG4|A0A219TAG4_COLLI",
+   "len": 525,
+   "disordered_fraction": 0.0781,
+   "longest_stretch": 41,
+   "tail60_disorder_fraction": 0.6833
+  },
+  "Cry1|REF|tr|X5D0Q5|X5D0Q5_COLLI": {
+   "id": "REF|tr|X5D0Q5|X5D0Q5_COLLI",
+   "len": 620,
+   "disordered_fraction": 0.2468,
+   "longest_stretch": 124,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_009071042.1": {
+   "id": "XP_009071042.1",
+   "len": 414,
+   "disordered_fraction": 0.2802,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_077036279.1": {
+   "id": "XP_077036279.1",
+   "len": 448,
+   "disordered_fraction": 0.1607,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_058662175.1": {
+   "id": "XP_058662175.1",
+   "len": 414,
+   "disordered_fraction": 0.2778,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_059329595.1": {
+   "id": "XP_059329595.1",
+   "len": 414,
+   "disordered_fraction": 0.2778,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_068539924.1": {
+   "id": "XP_068539924.1",
+   "len": 414,
+   "disordered_fraction": 0.2681,
+   "longest_stretch": 70,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_068873447.1": {
+   "id": "XP_068873447.1",
+   "len": 585,
+   "disordered_fraction": 0.1436,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_067152525.1": {
+   "id": "XP_067152525.1",
+   "len": 603,
+   "disordered_fraction": 0.1625,
+   "longest_stretch": 67,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_025921632.1": {
+   "id": "XP_025921632.1",
+   "len": 413,
+   "disordered_fraction": 0.2712,
+   "longest_stretch": 68,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_051477460.1": {
+   "id": "XP_051477460.1",
+   "len": 590,
+   "disordered_fraction": 0.1559,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_026705138.1": {
+   "id": "XP_026705138.1",
+   "len": 587,
+   "disordered_fraction": 0.1482,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_074765630.1": {
+   "id": "XP_074765630.1",
+   "len": 587,
+   "disordered_fraction": 0.1397,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_075610611.1": {
+   "id": "XP_075610611.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_010140049.1": {
+   "id": "XP_010140049.1",
+   "len": 436,
+   "disordered_fraction": 0.1651,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_014805817.1": {
+   "id": "XP_014805817.1",
+   "len": 589,
+   "disordered_fraction": 0.1528,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_075008278.1": {
+   "id": "XP_075008278.1",
+   "len": 585,
+   "disordered_fraction": 0.147,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|KAM9289621.1": {
+   "id": "KAM9289621.1",
+   "len": 583,
+   "disordered_fraction": 0.1424,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_032917795.1": {
+   "id": "XP_032917795.1",
+   "len": 584,
+   "disordered_fraction": 0.1438,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_042670011.1": {
+   "id": "XP_042670011.1",
+   "len": 523,
+   "disordered_fraction": 0.1358,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_009997901.1": {
+   "id": "XP_009997901.1",
+   "len": 521,
+   "disordered_fraction": 0.1382,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_066044140.1": {
+   "id": "XP_066044140.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_009894015.1": {
+   "id": "XP_009894015.1",
+   "len": 522,
+   "disordered_fraction": 0.1398,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_032546289.1": {
+   "id": "XP_032546289.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_086604348.1": {
+   "id": "XP_086604348.1",
+   "len": 545,
+   "disordered_fraction": 0.2257,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_072720718.1": {
+   "id": "XP_072720718.1",
+   "len": 591,
+   "disordered_fraction": 0.1506,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_062351899.1": {
+   "id": "XP_062351899.1",
+   "len": 523,
+   "disordered_fraction": 0.1358,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_061853813.1": {
+   "id": "XP_061853813.1",
+   "len": 586,
+   "disordered_fraction": 0.1416,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_064920712.1": {
+   "id": "XP_064920712.1",
+   "len": 583,
+   "disordered_fraction": 0.1424,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_048164141.1": {
+   "id": "XP_048164141.1",
+   "len": 584,
+   "disordered_fraction": 0.1438,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_041894090.1": {
+   "id": "XP_041894090.1",
+   "len": 585,
+   "disordered_fraction": 0.1436,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_031966985.1": {
+   "id": "XP_031966985.1",
+   "len": 584,
+   "disordered_fraction": 0.1438,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_085406392.1": {
+   "id": "XP_085406392.1",
+   "len": 414,
+   "disordered_fraction": 0.2729,
+   "longest_stretch": 70,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_009568372.2": {
+   "id": "XP_009568372.2",
+   "len": 587,
+   "disordered_fraction": 0.1482,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_086751319.1": {
+   "id": "XP_086751319.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_040414341.1": {
+   "id": "XP_040414341.1",
+   "len": 577,
+   "disordered_fraction": 0.182,
+   "longest_stretch": 69,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_065610886.1": {
+   "id": "XP_065610886.1",
+   "len": 414,
+   "disordered_fraction": 0.2729,
+   "longest_stretch": 70,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_025963309.1": {
+   "id": "XP_025963309.1",
+   "len": 582,
+   "disordered_fraction": 0.1409,
+   "longest_stretch": 69,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_054017466.1": {
+   "id": "XP_054017466.1",
+   "len": 444,
+   "disordered_fraction": 0.1779,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_027743232.1": {
+   "id": "XP_027743232.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_079163908.1": {
+   "id": "XP_079163908.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_010154061.1": {
+   "id": "XP_010154061.1",
+   "len": 434,
+   "disordered_fraction": 0.1659,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_055571974.1": {
+   "id": "XP_055571974.1",
+   "len": 587,
+   "disordered_fraction": 0.1414,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_040456452.1": {
+   "id": "XP_040456452.1",
+   "len": 586,
+   "disordered_fraction": 0.1485,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_037249990.1": {
+   "id": "XP_037249990.1",
+   "len": 587,
+   "disordered_fraction": 0.1482,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_005047216.1": {
+   "id": "XP_005047216.1",
+   "len": 579,
+   "disordered_fraction": 0.1451,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_009583412.1": {
+   "id": "XP_009583412.1",
+   "len": 438,
+   "disordered_fraction": 0.3105,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|sp|Q8QG60.2|CRY2_CHICK": {
+   "id": "sp|Q8QG60.2|CRY2_CHICK",
+   "len": 582,
+   "disordered_fraction": 0.2165,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_059675978.1": {
+   "id": "XP_059675978.1",
+   "len": 585,
+   "disordered_fraction": 0.1453,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_030911665.1": {
+   "id": "XP_030911665.1",
+   "len": 541,
+   "disordered_fraction": 0.1701,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_054683042.1": {
+   "id": "XP_054683042.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_050753213.1": {
+   "id": "XP_050753213.1",
+   "len": 585,
+   "disordered_fraction": 0.147,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_010578512.1": {
+   "id": "XP_010578512.1",
+   "len": 593,
+   "disordered_fraction": 0.1518,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_052638060.1": {
+   "id": "XP_052638060.1",
+   "len": 414,
+   "disordered_fraction": 0.2802,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_071600865.1": {
+   "id": "XP_071600865.1",
+   "len": 414,
+   "disordered_fraction": 0.2705,
+   "longest_stretch": 70,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_039924519.1": {
+   "id": "XP_039924519.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_054256772.1": {
+   "id": "XP_054256772.1",
+   "len": 586,
+   "disordered_fraction": 0.1451,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_042722072.1": {
+   "id": "XP_042722072.1",
+   "len": 582,
+   "disordered_fraction": 0.146,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_048804587.1": {
+   "id": "XP_048804587.1",
+   "len": 582,
+   "disordered_fraction": 0.146,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_065541023.1": {
+   "id": "XP_065541023.1",
+   "len": 582,
+   "disordered_fraction": 0.1426,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_017663444.1": {
+   "id": "XP_017663444.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_086318465.1": {
+   "id": "XP_086318465.1",
+   "len": 583,
+   "disordered_fraction": 0.1424,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_085437982.1": {
+   "id": "XP_085437982.1",
+   "len": 523,
+   "disordered_fraction": 0.1377,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_057221330.1": {
+   "id": "XP_057221330.1",
+   "len": 413,
+   "disordered_fraction": 0.2712,
+   "longest_stretch": 57,
+   "tail60_disorder_fraction": 0.9833
+  },
+  "Cry2|XP_051647606.1": {
+   "id": "XP_051647606.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_029820112.1": {
+   "id": "XP_029820112.1",
+   "len": 503,
+   "disordered_fraction": 0.1034,
+   "longest_stretch": 52,
+   "tail60_disorder_fraction": 0.8667
+  },
+  "Cry2|XP_068017565.1": {
+   "id": "XP_068017565.1",
+   "len": 414,
+   "disordered_fraction": 0.2778,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_085080888.1": {
+   "id": "XP_085080888.1",
+   "len": 492,
+   "disordered_fraction": 0.1443,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_057881492.1": {
+   "id": "XP_057881492.1",
+   "len": 413,
+   "disordered_fraction": 0.276,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_054131159.1": {
+   "id": "XP_054131159.1",
+   "len": 413,
+   "disordered_fraction": 0.276,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_010183954.1": {
+   "id": "XP_010183954.1",
+   "len": 449,
+   "disordered_fraction": 0.1626,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_066407279.1": {
+   "id": "XP_066407279.1",
+   "len": 413,
+   "disordered_fraction": 0.276,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_036240046.1": {
+   "id": "XP_036240046.1",
+   "len": 413,
+   "disordered_fraction": 0.276,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_037993804.1": {
+   "id": "XP_037993804.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_050192549.1": {
+   "id": "XP_050192549.1",
+   "len": 582,
+   "disordered_fraction": 0.1443,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_027561927.1": {
+   "id": "XP_027561927.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_061199424.1": {
+   "id": "XP_061199424.1",
+   "len": 582,
+   "disordered_fraction": 0.1684,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_087602337.1": {
+   "id": "XP_087602337.1",
+   "len": 414,
+   "disordered_fraction": 0.2754,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_025901622.1": {
+   "id": "XP_025901622.1",
+   "len": 413,
+   "disordered_fraction": 0.2663,
+   "longest_stretch": 68,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_074006137.1": {
+   "id": "XP_074006137.1",
+   "len": 586,
+   "disordered_fraction": 0.1502,
+   "longest_stretch": 74,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_021257410.1": {
+   "id": "XP_021257410.1",
+   "len": 523,
+   "disordered_fraction": 0.1358,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_068254322.1": {
+   "id": "XP_068254322.1",
+   "len": 587,
+   "disordered_fraction": 0.1465,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_075281457.1": {
+   "id": "XP_075281457.1",
+   "len": 414,
+   "disordered_fraction": 0.2705,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_035182888.1": {
+   "id": "XP_035182888.1",
+   "len": 578,
+   "disordered_fraction": 0.1886,
+   "longest_stretch": 70,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_033370825.1": {
+   "id": "XP_033370825.1",
+   "len": 557,
+   "disordered_fraction": 0.0826,
+   "longest_stretch": 28,
+   "tail60_disorder_fraction": 0.5667
+  },
+  "Cry2|XP_064280800.1": {
+   "id": "XP_064280800.1",
+   "len": 414,
+   "disordered_fraction": 0.2778,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_039560822.1": {
+   "id": "XP_039560822.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_071665258.1": {
+   "id": "XP_071665258.1",
+   "len": 598,
+   "disordered_fraction": 0.1421,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_062491764.1": {
+   "id": "XP_062491764.1",
+   "len": 582,
+   "disordered_fraction": 0.1426,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_057259999.1": {
+   "id": "XP_057259999.1",
+   "len": 582,
+   "disordered_fraction": 0.1426,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_069714171.1": {
+   "id": "XP_069714171.1",
+   "len": 587,
+   "disordered_fraction": 0.1823,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_010289339.1": {
+   "id": "XP_010289339.1",
+   "len": 520,
+   "disordered_fraction": 0.1404,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_031449354.1": {
+   "id": "XP_031449354.1",
+   "len": 523,
+   "disordered_fraction": 0.2027,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_039244966.1": {
+   "id": "XP_039244966.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_071414549.1": {
+   "id": "XP_071414549.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_064001698.1": {
+   "id": "XP_064001698.1",
+   "len": 552,
+   "disordered_fraction": 0.096,
+   "longest_stretch": 39,
+   "tail60_disorder_fraction": 0.65
+  },
+  "Cry2|XP_063254575.1": {
+   "id": "XP_063254575.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_064514098.1": {
+   "id": "XP_064514098.1",
+   "len": 523,
+   "disordered_fraction": 0.1396,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_062432379.1": {
+   "id": "XP_062432379.1",
+   "len": 589,
+   "disordered_fraction": 0.1494,
+   "longest_stretch": 69,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_018763230.2": {
+   "id": "XP_018763230.2",
+   "len": 585,
+   "disordered_fraction": 0.1436,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_030337555.1": {
+   "id": "XP_030337555.1",
+   "len": 553,
+   "disordered_fraction": 0.1085,
+   "longest_stretch": 45,
+   "tail60_disorder_fraction": 0.75
+  },
+  "Cry2|XP_074680212.1": {
+   "id": "XP_074680212.1",
+   "len": 562,
+   "disordered_fraction": 0.2117,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_074723880.1": {
+   "id": "XP_074723880.1",
+   "len": 562,
+   "disordered_fraction": 0.2135,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_068801970.1": {
+   "id": "XP_068801970.1",
+   "len": 584,
+   "disordered_fraction": 0.149,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_066177291.1": {
+   "id": "XP_066177291.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|KAM4898655.1": {
+   "id": "KAM4898655.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_086468882.1": {
+   "id": "XP_086468882.1",
+   "len": 585,
+   "disordered_fraction": 0.1402,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_088376630.1": {
+   "id": "XP_088376630.1",
+   "len": 413,
+   "disordered_fraction": 0.2663,
+   "longest_stretch": 68,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_052549978.1": {
+   "id": "XP_052549978.1",
+   "len": 582,
+   "disordered_fraction": 0.1426,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_042646499.1": {
+   "id": "XP_042646499.1",
+   "len": 583,
+   "disordered_fraction": 0.1441,
+   "longest_stretch": 73,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_053801426.1": {
+   "id": "XP_053801426.1",
+   "len": 582,
+   "disordered_fraction": 0.1426,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_053836186.1": {
+   "id": "XP_053836186.1",
+   "len": 582,
+   "disordered_fraction": 0.1426,
+   "longest_stretch": 71,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_074399151.1": {
+   "id": "XP_074399151.1",
+   "len": 584,
+   "disordered_fraction": 0.1438,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  },
+  "Cry2|XP_064570166.1": {
+   "id": "XP_064570166.1",
+   "len": 584,
+   "disordered_fraction": 0.1438,
+   "longest_stretch": 72,
+   "tail60_disorder_fraction": 1.0
+  }
+ },
+ "summaries": {
+  "Cry4": {
+   "n": 11,
+   "disordered_fraction_median": 0.0721,
+   "longest_stretch_median": 39.0,
+   "tail60_median": 0.65
+  },
+  "Cry1": {
+   "n": 121,
+   "disordered_fraction_median": 0.2238,
+   "longest_stretch_median": 124.0,
+   "tail60_median": 1.0
+  },
+  "Cry2": {
+   "n": 112,
+   "disordered_fraction_median": 0.1447,
+   "longest_stretch_median": 72.0,
+   "tail60_median": 1.0
+  }
+ },
+ "group_comparisons": {
+  "Cry4_vs_Cry1|disordered_fraction": {
+   "U": 5.0,
+   "p_report_only": 4.5586243761118015e-08
+  },
+  "Cry4_vs_Cry2|disordered_fraction": {
+   "U": 0.0,
+   "p_report_only": 4.7807059629364765e-08
+  },
+  "Cry4_vs_Cry1|longest_stretch": {
+   "U": 6.0,
+   "p_report_only": 4.637641953228489e-09
+  },
+  "Cry4_vs_Cry2|longest_stretch": {
+   "U": 13.0,
+   "p_report_only": 3.704367354347783e-08
+  },
+  "Cry4_vs_Cry1|tail60_disorder_fraction": {
+   "U": 36.0,
+   "p_report_only": 3.862027858865844e-18
+  },
+  "Cry4_vs_Cry2|tail60_disorder_fraction": {
+   "U": 13.0,
+   "p_report_only": 6.479504753892257e-20
+  }
+ },
+ "amendment_commit": "e81f26b"
+}
