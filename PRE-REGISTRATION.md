@@ -110,3 +110,24 @@ Caveats (locked): ecological-association test, not mechanism; subgroup W uses fe
 Site partition S_RP (exact): the locked 4-member chain (chain_6ptz_numbering = [395, 372, 318, 369]; the verdict's "Trp400/377/354/321" are generic-numbering examples, the locked chain governs) PLUS all residues with ANY heavy atom within 5.0 A of any FAD heavy atom or any chain-Trp heavy atom. Cry1 geometry from 6PTZ all-atom coordinates (/tmp/6ptz.pdb, FAD HETATM); Cry2 geometry from the 7e superposed FAD + Cry2 ESMFold reference (all-atom; same superposition as 7e). Columns mapped to each gene's MSA exactly as in 7c/7e. NOTE (locked): S_RP is computed fresh from ALL-ATOM geometry and differs from the 7c core (CA-based 4.5/6.0 A thresholds) by design.
 Statistic: identical W + column bootstrap (10,000, seed 260927) restricted to S_RP columns with >=90% occupancy.
 WIN (verdict's first clause): W_RP,Cry1 point > W_RP,Cry2 CI95 upper. FALSIFICATION: CI95 overlap - even the radical-pair functional core shows no differential constraint; the canalization novelty claim is fully generic and DIES (reported, not patched; further redirect consult).
+
+## AMENDMENT 2026-09-27 10:13 IST (arms 7g-a co-evolution network + 7g-b tail surface-charge; judge verdict foldback from round_supp2, thread https://gemini.google.com/app/82ac63c4d194da9d, verdict judge/round_supp2_r1v2_verdict_gemini.txt; locked BEFORE any computation)
+
+TOOL SUBSTITUTIONS RECORDED: judge proposed DCA (plmc/Fast-DCA) and APBS continuum electrostatics. plmc/pydca/APBS/pdb2pqr are not installed in this environment; per-species structures do not exist (only 6PTZ + one Cry2 reference fold). Substitutions, locked: 7g-a uses APC-corrected mutual information (the verdict's own alternative: "Mutual Information with Phylogenetic Correction") computed in numpy on the existing locked panel MSAs - same network claim, simpler estimator. 7g-b uses a sequence-level tail-charge descriptor on the locked panel MSAs (per-species structures unavailable for true surface electrostatics) - the verdict's stated rationale is migratory-vs-sedentary variance in surface-charge distribution, which a tail-charge descriptor tests directly at sequence level.
+
+ARM 7g-a (co-evolution / covariation network coupling surface to S_RP):
+- Per gene (Cry1 panel 116 spp; Cry2 panel 112 spp), over each gene's OWN qualified geometry columns (7c rule): MI(i,j) on the panel's amino-acid columns (21 symbols incl gap), then APC correction (APC = row-mean x col-mean / global-mean of the MI matrix; APC-MI = MI - APC).
+- Edges: top 200 APC-MI column pairs per gene (identical edge budget both genes). Columns mapped to residues via the locked REF mappings (attempt6 geometry for Cry1; 7e REF-row mapping for Cry2).
+- SURFACE residue set: residues with any atom centroid > 12.0A from the FAD heavy-atom centroid (locked, structure-based, computed from 6PTZ for Cry1 and the 7e-superposed Cry2 fold for Cry2). S_RP sets: the locked 7f-d sets (68 Cry1 / 49 Cry2 residues).
+- Statistic: C_gene = the largest connected component (edges above) containing at least one S_RP residue. Record |C_gene| and its surface-residue count.
+- WIN: |C_Cry1| >= 10 residues AND >= 3 surface residues in C_Cry1 AND (|C_Cry2| < 10 OR surface count in C_Cry2 < 3). FALSIFICATION: any leg fails.
+- Sensitivity: matched-intersection 112-species sub-MSAs, identical pipeline.
+- Null note: identical edge budgets and identical pipeline make the comparison self-controlled; no additional permutation null is locked for this arm.
+
+ARM 7g-b (C-terminal tail charge, migratory vs sedentary):
+- TAIL = C-terminal 25% of each gene's reference sequence length (Cry1: 6PTZ numbering; Cry2: REF row numbering), mapped to MSA columns via the locked mappings.
+- Features per species row: net formal charge at pH 7.4 over tail columns (K,R=+1; D,E=-1; H=+0.1; gap/missing = column-skipped, row retained if >=90% tail occupancy), and charged-residue density = fraction of tail positions with K,R,D,E,H.
+- Test: migratory vs sedentary subgroup difference per feature per gene, 10k label permutations, seed 260927 (7f-b machinery).
+- WIN: >=1 tail-charge feature separates in Cry1 (p<0.05) AND the same feature is n.s. in Cry2. FALSIFICATION: Cry1 n.s. on both features OR Cry2 significant on the same feature.
+
+FOLDBACK NOTE: the judge's PRIMARY recommendation (headline pivot to family-level canalization + specificity boundary) is a paper-level change on main, applied separately; these arms are its exploratory specificity probes. If 7g-a/7g-b both falsify, the specificity question is recorded as closed at sequence/structure/network-descriptor level and the paper stands on the canalization positive + boundary.
