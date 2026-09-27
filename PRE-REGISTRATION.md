@@ -154,3 +154,11 @@ The 11:12 R3 arm returned a structural null (paralog variation is purged from th
 Two operationalization fixes to the 11:13 amendment, locked before any corrected run:
 1. CRY4-DIFFERS requires the cry4 dominant symbol to DIFFER from the paralog consensus symbol (the 11:13 text said this; the first implementation omitted the comparison - bug, corrected).
 2. The null is operationalized as a joint label shuffle over the mapped table: the (cry4 tight?, cry4 dominant symbol) pair is permuted across residues (10,000 shuffles, seed 260927, one-sided p for candidate count >= observed). This preserves the cry4 marginal counts exactly as locked and makes the enrichment test non-tautological: it asks whether cry4 differences concentrate at paralog-conserved-agreement positions beyond chance.
+
+## AMENDMENT 2026-09-27 11:17 IST (provided-verdict queue #15: minimum detectable effect - locked BEFORE computation)
+Retrospective MDE (NOT observed power) for the three migration-specific-signature nulls, one-sided alpha=0.05 (two-sided for 7g-b, matching each locked test), power=0.80:
+1. 7f-b gxp: re-run the EXACT locked pipeline (import attempt7f_b_gxp, seed 260927, 10k perms) recording the full null distribution of DeltaW; MDE = (z.95+z.80)*SD_null per gene (Cry1 36/80, Cry2 35/77) plus the locked intersection sensitivity.
+2. 7g-b tail charge: same construction via attempt7g_ab import; MDE = (z.975+z.80)*SD_null for cry1/cry2 x net_charge/charged_density.
+3. Classifier (attempt 3a, n=36/80, one-sided vs 0.5): MDE_AUC solving (A-0.5)/SE_HanleyMcNeil(A) = z.95+z.80 by bisection.
+SANITY LOCKS: recomputed observed statistics must reproduce the committed JSONs (attempt7f_b_gxp.json, attempt7g_ab.json g7b) within permutation-rounding; any mismatch aborts and is reported, no MDE is claimed.
+Framing locked: "at the locked panel sizes the nulls exclude migration-specific effects >= X in each test's native units; smaller effects cannot be excluded." No retuning of any gate; this is interpretive context for existing negatives.

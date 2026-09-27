@@ -1,0 +1,83 @@
+{
+ "amendment": "2026-09-27 11:17 IST #15 MDE",
+ "power": 0.8,
+ "alpha_note": "one-sided 0.05 (7f-b, AUC); two-sided 0.05 (7g-b)",
+ "gxp_7fb": {
+  "CRY1": {
+   "n_mig": 36,
+   "n_sed": 80,
+   "DeltaW_obs": 0.00142,
+   "SD_null": 0.002213,
+   "MDE_DeltaW": 0.005503
+  },
+  "CRY2": {
+   "n_mig": 35,
+   "n_sed": 77,
+   "DeltaW_obs": 0.00038,
+   "SD_null": 0.001705,
+   "MDE_DeltaW": 0.004239
+  },
+  "CRY1_intersection": {
+   "n_mig": 35,
+   "n_sed": 77,
+   "DeltaW_obs": 0.00063,
+   "SD_null": 0.002449,
+   "MDE_DeltaW": 0.006091
+  },
+  "CRY2_intersection": {
+   "n_mig": 35,
+   "n_sed": 77,
+   "DeltaW_obs": 0.00038,
+   "SD_null": 0.001705,
+   "MDE_DeltaW": 0.004239
+  }
+ },
+ "tail_7gb": {
+  "cry1_net_charge": {
+   "n_mig": 36,
+   "n_sed": 80,
+   "obs_delta": -0.0,
+   "SD_null": 4e-06,
+   "MDE_delta": 1.1e-05
+  },
+  "cry2_net_charge": {
+   "n_mig": 35,
+   "n_sed": 73,
+   "obs_delta": -0.0017,
+   "SD_null": 0.000774,
+   "MDE_delta": 0.002168
+  },
+  "cry1_charged_density": {
+   "n_mig": 36,
+   "n_sed": 80,
+   "obs_delta": -2e-05,
+   "SD_null": 3.4e-05,
+   "MDE_delta": 9.7e-05
+  },
+  "cry2_charged_density": {
+   "n_mig": 35,
+   "n_sed": 73,
+   "obs_delta": 0.00091,
+   "SD_null": 0.000935,
+   "MDE_delta": 0.002619
+  }
+ },
+ "classifier_auc": {
+  "test": "attempt 3a LOO AUC vs 0.5, one-sided",
+  "n_mig": 36,
+  "n_sed": 80,
+  "observed_best_auc": 0.402,
+  "MDE_AUC": 0.6424
+ },
+ "sanity": {
+  "CRY1": "observed W_mig/W_sed reproduce committed JSON",
+  "CRY2": "observed W_mig/W_sed reproduce committed JSON",
+  "CRY1_intersection": "observed W_mig/W_sed reproduce committed JSON",
+  "CRY2_intersection": "observed W_mig/W_sed reproduce committed JSON",
+  "7gb_cry1_net_charge": "observed delta reproduces committed JSON",
+  "7gb_cry2_net_charge": "observed delta reproduces committed JSON",
+  "7gb_cry1_charged_density": "observed delta reproduces committed JSON",
+  "7gb_cry2_charged_density": "observed delta reproduces committed JSON"
+ },
+ "framing": "At the locked panel sizes the nulls exclude migration-specific effects >= MDE in each native unit; smaller effects cannot be excluded. Retrospective MDE, not observed power."
+}
