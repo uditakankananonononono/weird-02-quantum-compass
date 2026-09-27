@@ -256,3 +256,6 @@ SWEEP (23 tensor sets, all computed at the three species' LOCKED taus from resul
 DELIVERABLES (report-only, no re-gating of the completed attempt-4 gates): per-set Xu-ordering boolean + (S_er - max(S_Cl, S_gg)); sweep Xu-ordering fraction over the 23 sets; per-species S shift vs the locked tensor set; control outcomes verbatim. Sensitivity metrics mirror the completed envelope's (xu_ordering_fraction, max advantage/deficit) for direct comparison.
 ANTI-GOALS (verdict-carried, locked): NO refitting of any completed gate; NO tensor-set selection based on which sets recover the ordering (all 23 reported); NO causal claims - this is an assumption-sensitivity analysis of the frozen model.
 HONEST-NEGATIVE RULE: if the ordering is tensor-fragile, that fragility is the reported result.
+
+## CLARIFICATION 2026-09-27 16:29 IST (queue #5 arm 5a X-residue handling - locked BEFORE the modified run; no outcome inspected)
+metapredict rejects sequences containing X (unknown residue). Exactly ONE committed sequence is affected: sedentary|Nothoprocta_perdicaria (Cry1 panel, 2 X of 621 aa). Locked handling: predict on X-free segments (X positions preserved as NaN, excluded from all summary denominators); segments shorter than 10 aa are not predicted (NaN). No sequence is dropped; no residue is imputed. The affected sequence is named in the results JSON.
