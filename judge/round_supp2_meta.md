@@ -5,4 +5,4 @@
 - Foldback (critique + change):
   1. Paper headline pivot to family-level canalization with specificity as the reported boundary - to implement on main paper (matches user steering: lead with positives, failures compact).
   2. Two judge-proposed specificity arms staged for LOCKED AMENDMENTS before any execution: (a) DCA/plmc co-evolution network analysis across Cry1/Cry2 alignments (network topology claim); (b) APBS continuum electrostatics surface-potential canalization at the C-terminal tail interface.
-  3. Future judge prompts: DROP competition/ISEF framing (firewall noted profile: user dropped competition framing 2026-09-19) - generic "external science judge" framing instead.
+  3. Framing ruling (parent 2026-09-27 09:18, verified against her channel: she couriered an ISEF-judge-lens verdict herself 09:17:56): harsh-expert-reviewer / top-judge lens persona STAYS as a quality template; what stays dropped per her 2026-09-19 decision is ISEF logistics (deadlines, SRC forms, authorship limits, entry) - never reintroduce those.
