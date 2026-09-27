@@ -1,0 +1,171 @@
+{
+ "amendment": "2026-09-27 13:22 IST locked",
+ "n_joined": 110,
+ "n_panel": 116,
+ "unmatched_count": 6,
+ "join_rule": "BirdLife Species1 == committed sequence-key species; no manual renames",
+ "tests": [
+  {
+   "trait": "migration_ordinal",
+   "feature": "ident_erCry4",
+   "rho": 0.0453,
+   "p": 0.6387707402236213,
+   "n": 110,
+   "p_BH": 0.67635,
+   "sig": false
+  },
+  {
+   "trait": "migration_ordinal",
+   "feature": "charge_pH7",
+   "rho": -0.1471,
+   "p": 0.12515798233792358,
+   "n": 110,
+   "p_BH": 0.37547,
+   "sig": false
+  },
+  {
+   "trait": "migration_ordinal",
+   "feature": "pI",
+   "rho": -0.1561,
+   "p": 0.10352183737670437,
+   "n": 110,
+   "p_BH": 0.37268,
+   "sig": false
+  },
+  {
+   "trait": "migration_ordinal",
+   "feature": "kd_mean",
+   "rho": 0.0214,
+   "p": 0.8242907735406363,
+   "n": 110,
+   "p_BH": 0.82429,
+   "sig": false
+  },
+  {
+   "trait": "migration_ordinal",
+   "feature": "aromatic_frac",
+   "rho": 0.09,
+   "p": 0.34973688506015366,
+   "n": 110,
+   "p_BH": 0.62953,
+   "sig": false
+  },
+  {
+   "trait": "migration_ordinal",
+   "feature": "trp_cterm150",
+   "rho": 0.0803,
+   "p": 0.4046139248955183,
+   "n": 110,
+   "p_BH": 0.60692,
+   "sig": false
+  },
+  {
+   "trait": "lat_span",
+   "feature": "ident_erCry4",
+   "rho": 0.0541,
+   "p": 0.5744698502115146,
+   "n": 110,
+   "p_BH": 0.68936,
+   "sig": false
+  },
+  {
+   "trait": "lat_span",
+   "feature": "charge_pH7",
+   "rho": -0.0475,
+   "p": 0.6219604462249901,
+   "n": 110,
+   "p_BH": 0.69971,
+   "sig": false
+  },
+  {
+   "trait": "lat_span",
+   "feature": "pI",
+   "rho": -0.0681,
+   "p": 0.4798896409812643,
+   "n": 110,
+   "p_BH": 0.617,
+   "sig": false
+  },
+  {
+   "trait": "lat_span",
+   "feature": "kd_mean",
+   "rho": -0.1381,
+   "p": 0.15034713838753572,
+   "n": 110,
+   "p_BH": 0.38661,
+   "sig": false
+  },
+  {
+   "trait": "lat_span",
+   "feature": "aromatic_frac",
+   "rho": 0.1262,
+   "p": 0.1889407561585786,
+   "n": 110,
+   "p_BH": 0.42512,
+   "sig": false
+  },
+  {
+   "trait": "lat_span",
+   "feature": "trp_cterm150",
+   "rho": 0.0765,
+   "p": 0.42716669018400144,
+   "n": 110,
+   "p_BH": 0.59146,
+   "sig": false
+  },
+  {
+   "trait": "hand_wing_index",
+   "feature": "ident_erCry4",
+   "rho": -0.1806,
+   "p": 0.059031129174858095,
+   "n": 110,
+   "p_BH": 0.26564,
+   "sig": false
+  },
+  {
+   "trait": "hand_wing_index",
+   "feature": "charge_pH7",
+   "rho": -0.2595,
+   "p": 0.006196610904479234,
+   "n": 110,
+   "p_BH": 0.05577,
+   "sig": false
+  },
+  {
+   "trait": "hand_wing_index",
+   "feature": "pI",
+   "rho": -0.2613,
+   "p": 0.005831943668465808,
+   "n": 110,
+   "p_BH": 0.10497,
+   "sig": false
+  },
+  {
+   "trait": "hand_wing_index",
+   "feature": "kd_mean",
+   "rho": 0.2038,
+   "p": 0.032736051916486104,
+   "n": 110,
+   "p_BH": 0.19642,
+   "sig": false
+  },
+  {
+   "trait": "hand_wing_index",
+   "feature": "aromatic_frac",
+   "rho": 0.0976,
+   "p": 0.31052622817890085,
+   "n": 110,
+   "p_BH": 0.62105,
+   "sig": false
+  },
+  {
+   "trait": "hand_wing_index",
+   "feature": "trp_cterm150",
+   "rho": 0.0841,
+   "p": 0.382218948528829,
+   "n": 110,
+   "p_BH": 0.62545,
+   "sig": false
+  }
+ ]
+}

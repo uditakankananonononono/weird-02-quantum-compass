@@ -1,0 +1,7 @@
+# Attempt 3: continuous migration traits vs committed Cry1 features
+Amendment: PRE-REGISTRATION.md 2026-09-27 13:22 IST (locked pre-compute). Data: results/h_continuous_traits.json.
+Join: 110 of 116 panel species matched AVONET1_BirdLife by exact BirdLife name; 6 unmatched, disclosed, no manual renames.
+## Results (18 Spearman tests, BH across all)
+ALL 18 trait-feature correlations non-significant after BH. Closest: Hand-Wing Index vs charge_pH7 rho=-0.260 (p=6.20e-3, BH=0.0558) and vs pI rho=-0.261 (p=5.83e-3, BH=0.1050). The HWI-charge pair sits just above the locked alpha; it is reported verbatim and is NOT claimed as a trend - the locked rule is BH<0.05 or nothing.
+## Honest negative + positive
+NEGATIVE, verbatim: continuous phenotyping (migration ordinal, latitudinal span, hand-wing index) recovers no significant association with any committed Cry1 feature. POSITIVE: this is triangulation - three independent phenotype operationalizations (binary labels, ordinal migration, flight-morphology proxy) now return the same null for sequence-level migration association, which sharply limits the space in which a real sequence-level signal could hide. Combined with attempt 15's power bound (MDA 0.6453), the joint statement is: IF a sequence-level migration association existed at detectable size, at least one of these operationalizations had the power to see it; none did. The paper's constraint arc gains an independent strand.
