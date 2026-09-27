@@ -218,21 +218,24 @@ Sliding-window (w=21) net-charge profiles were compared between migratory (n=5) 
 Under the pre-registered 13:17 IST amendment, Hanley--McNeil AUC standard errors give a minimum detectable AUC of $0.6453$ for the full panel ($n_1=35$, $n_0=80$; one-sided $\alpha=0.05$, power $0.80$), $0.9042$ for the $5$-vs-$5$ subpanel arms, and $0.6419$ at $50$-vs-$50$. The observed panel AUC of $0.3414$ lies below the null value. The independent simulation-based MDE from attempt 8g ($0.6424$) agrees to within $0.003$, so two independent power frameworks bracket the same detectability boundary: the benchmark AUCs of $0.4021$ (logistic) and $0.6234$ (random forest) are both below threshold, and all negative results are stated with quantified power. Formula (numbered \#19): $\mathrm{SE}^2 = [A(1-A)+(n_1-1)(Q_1-A^2)+(n_0-1)(Q_2-A^2)]/(n_1 n_0)$, $Q_1 = A/(2-A)$, $Q_2 = 2A^2/(1+A)$.
 
 \section{Unified Causal Diagram: Where the Chain Holds and Where It Breaks (Attempt 14)}
-Figure~1 assembles the framework's four-level chain, sequence $\rightarrow$ structure $\rightarrow$ spin $\rightarrow$ phenotype, with every tested arrow annotated by its committed result. \textbf{Sequence $\rightarrow$ structure:} AlphaFold-derived descriptors track erCry1 identity at the fold level (attempts 7a--7e; RMSD census vs 6PTZ) --- supported as fold conservation, not as functional equivalence. \textbf{Sequence $\rightarrow$ phenotype:} null with quantified power --- panel AUC $0.3414$ (attempt 1--3), MDA $0.6453$ (attempt 15); ML benchmarks $0.4021$/$0.6234$ below the locked MDE $0.6424$ (attempt 8g); whole-protein electrostatics null (attempt 12). \textbf{Structure $\rightarrow$ spin:} partially mapped --- the $369{,}495$-point parameter envelope (attempt 7/redirect block) bounds spin-model behavior across hyperfine and lifetime assumptions, but no committed result links any specific structural variant to a spin-yield change; this arrow is drawn as \emph{untested}. \textbf{Spin $\rightarrow$ phenotype:} untestable at present --- no behavioral or physiological assay data in any committed dataset. \textbf{Tail exception:} the C-terminal tail-charge association (committed tail finding) is the one sequence-level feature that survives, and attempt 12 localizes it to the extreme tail rather than protein-wide reorganization; dN/dS results (attempt 11) are reported as computed under their locked amendment. The diagram's purpose is falsification-first: four of five arrows are null, untestable, or untested, and the figure shows the breaks explicitly rather than implying a continuous mechanistic story.
-\begin{figure}[h]
-\centering
-\begin{tikzpicture}[node distance=2.6cm, every node/.style={draw, rounded corners, align=center, font=\small}]
-\node (seq) {Sequence\\(116 Cry1 + 11 Cry4)};
-\node (str) [right of=seq] {Structure\\(AlphaFold census)};
-\node (spin) [right of=str] {Spin\\(RP envelope)};
-\node (phen) [right of=phen, right of=spin] {Phenotype\\(migration)};
-\draw[->, thick] (seq) -- node[above, draw=none, font=\scriptsize]{fold-level: supported} (str);
-\draw[->, thick, dashed] (str) -- node[above, draw=none, font=\scriptsize]{untested} (spin);
-\draw[->, thick, dashed] (spin) -- node[above, draw=none, font=\scriptsize]{untestable (no assay)} (phen);
-\draw[->, thick, red] (seq) to[bend right=25] node[below, draw=none, font=\scriptsize]{AUC 0.3414; MDA 0.6453} (phen);
-\end{tikzpicture}
-\caption{Four-level chain with committed-result annotations. Solid: tested and supported at the stated scope. Dashed: not tested in committed work. Red: tested, null with quantified power.}
-\end{figure}
+Table~\ref{fig:chain} assembles the framework's four-level chain, sequence $\rightarrow$ structure $\rightarrow$ spin $\rightarrow$ phenotype, with every tested arrow annotated by its committed result. \textbf{Sequence $\rightarrow$ structure:} AlphaFold-derived descriptors track erCry1 identity at the fold level (attempts 7a--7e; RMSD census vs 6PTZ) --- supported as fold conservation, not as functional equivalence. \textbf{Sequence $\rightarrow$ phenotype:} null with quantified power --- panel AUC $0.3414$ (attempt 1--3), MDA $0.6453$ (attempt 15); ML benchmarks $0.4021$/$0.6234$ below the locked MDE $0.6424$ (attempt 8g); whole-protein electrostatics null (attempt 12). \textbf{Structure $\rightarrow$ spin:} partially mapped --- the $369{,}495$-point parameter envelope (attempt 7/redirect block) bounds spin-model behavior across hyperfine and lifetime assumptions, but no committed result links any specific structural variant to a spin-yield change; this arrow is drawn as \emph{untested}. \textbf{Spin $\rightarrow$ phenotype:} untestable at present --- no behavioral or physiological assay data in any committed dataset. \textbf{Tail exception:} the C-terminal tail-charge association (committed tail finding) is the one sequence-level feature that survives, and attempt 12 localizes it to the extreme tail rather than protein-wide reorganization; dN/dS results (attempt 11) are reported as computed under their locked amendment. The diagram's purpose is falsification-first: four of five arrows are null, untestable, or untested, and the figure shows the breaks explicitly rather than implying a continuous mechanistic story.
+\begin{table}[h]
+\centering\small
+\caption{Unified causal chain with committed-result annotations (attempt 14). Solid = tested and supported at the stated scope; dashed = not tested in committed work; red/null = tested, null with quantified power.}
+\label{fig:chain}
+\begin{tabular}{lll}
+\hline
+Arrow & Status & Committed evidence \\
+\hline
+Sequence $\rightarrow$ structure & supported (fold level) & attempts 7a--7e; RMSD census vs 6PTZ \\
+Sequence $\rightarrow$ phenotype & null, power-bounded & AUC 0.3414 (1--3); MDA 0.6453 (15); ML 0.4021/0.6234 (8g) \\
+Structure $\rightarrow$ spin & untested & 369{,}495-point envelope bounds behavior only (7) \\
+Spin $\rightarrow$ phenotype & untestable (no assay) & no committed behavioral data \\
+Tail exception & supported, local & C-terminal tail charge; localized by attempt 12 \\
+Selection screen & null & dN/dS cross 0.1117 vs within 0.1366, $p=0.3792$ (11) \\
+\hline
+\end{tabular}
+\end{table}
 
 \section{Continuous Migration Phenotypes (Attempt 3)}
 The binary migratory/sedentary phenotype was replaced with three continuous operationalizations from the committed AVONET supplement (migration ordinal, latitudinal span, hand-wing index) and tested against six committed Cry1 features across the 110 species joined by exact BirdLife name (6 unmatched, disclosed; 18 Spearman tests, Benjamini--Hochberg across all). No correlation survived correction (minimum adjusted $p = 0.0558$, hand-wing index versus C-terminal charge; reported verbatim and not claimed as a trend under the locked rule). Three independent phenotype operationalizations now return the same null, triangulating the attempt 1--3 result: combined with the attempt-15 power bound, any sequence-level migration association large enough to detect would have been visible to at least one operationalization.
