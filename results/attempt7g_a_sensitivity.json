@@ -1,0 +1,51 @@
+{
+ "amendment": "2026-09-27 10:13 IST 7g-a sensitivity (matched-intersection sub-MSAs, identical pipeline)",
+ "n_intersection_species": 112,
+ "CRY1": {
+  "n_var_cols": 41,
+  "n_edges": 200,
+  "C_size": 0,
+  "C_surface": 0,
+  "C_residues": [],
+  "srp_in_C": []
+ },
+ "CRY2": {
+  "n_var_cols": 26,
+  "n_edges": 200,
+  "C_size": 26,
+  "C_surface": 5,
+  "C_residues": [
+   179,
+   180,
+   181,
+   187,
+   332,
+   515,
+   523,
+   525,
+   527,
+   529,
+   532,
+   533,
+   539,
+   542,
+   544,
+   545,
+   556,
+   559,
+   561,
+   571,
+   572,
+   575,
+   576,
+   578,
+   579,
+   583
+  ],
+  "srp_in_C": [
+   332
+  ],
+  "top_edge": 0.2308
+ },
+ "win": false
+}

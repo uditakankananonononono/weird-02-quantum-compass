@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 03:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,29 +318,25 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
 3.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
+) [3]
 Overfull \hbox (36.78365pt too wide) in paragraph at lines 89--90
 \T1/ptm/m/n/12 mis-la-bels the con-struct ``CRYPTOCHROME-1''; se-quence is 99.6
 % iden-ti-cal to \T1/ptm/m/it/12 Cl\T1/ptm/m/n/12 Cry4 A0A386QUR4
  []
 
-[3] [4]
+[4]
 Overfull \hbox (4.20502pt too wide) in paragraph at lines 119--120
 \T1/ptm/m/n/12 physics-forward an-gle be-fore any out-come in-spec-tion (PRE-RE
 G_ATTEMPT4.md, locked 00:12
  []
 
-
+[5]
 Overfull \hbox (5.06195pt too wide) in paragraph at lines 122--122
 []\T1/ptm/b/n/14.4 Attempt 5a: the fal-si-fi-ca-tion as the re-sult (pre-regist
 ered, ALL GATES
  []
 
-[5]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+[6]
 Overfull \hbox (0.38257pt too wide) in paragraph at lines 146--146
 []\T1/ptm/b/n/14.4 Attempt 5b: fourth-tryptophan per-sis-tence ex-ten-sion (pre
 -registered) 
@@ -359,7 +355,7 @@ tate per-sis-tence proxy ex-ceeds the triad's by $\OT1/ztmcm/m/n/12 43\OML/ztmc
 m/m/it/12 :\OT1/ztmcm/m/n/12 9\OMS/ztmcm/m/n/12 ^^B$
  []
 
-[6]
+[7]
 Overfull \hbox (14.76309pt too wide) in paragraph at lines 151--151
 []\T1/ptm/b/n/17.28 Attempt 7: evo-lu-tion-ary con-straint map-ping (pre-regist
 ered;
@@ -371,35 +367,35 @@ Overfull \hbox (3.06401pt too wide) in paragraph at lines 153--154
 ional po-si-tion: 0 of 33 vari-ant columns
  []
 
-[7] [8]
-Overfull \hbox (5.39151pt too wide) in paragraph at lines 167--168
+[8]
+Overfull \hbox (5.39151pt too wide) in paragraph at lines 170--171
 \T1/ptm/m/n/12 The staged judge ques-tion for this arc asks whether whole-prote
 in canal-iza-tion is magnetosensor-
  []
 
-[9] [10] (./main.aux) ) 
+[9] [10] [11] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3522 strings out of 480247
- 50912 string characters out of 5896151
- 348590 words of memory out of 5000000
- 21402 multiletter control sequences out of 15000+600000
- 531940 words of font info for 134 fonts, out of 8000000 for 9000
+ 3526 strings out of 480247
+ 50925 string characters out of 5896151
+ 344620 words of memory out of 5000000
+ 21401 multiletter control sequences out of 15000+600000
+ 532514 words of font info for 138 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,9n,62p,3703b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/sandbox/.texlive2021/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ectt1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8
-r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
-s/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 135462 bytes).
+ 55i,9n,62p,3206b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/sandbox/.texlive2021/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ectt1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (11 pages, 141390 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
