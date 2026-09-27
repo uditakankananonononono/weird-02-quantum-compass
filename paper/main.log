@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 12:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.8.14)  27 SEP 2026 12:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -176,8 +176,29 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 9.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
 
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 13
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -190,20 +211,20 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -222,7 +243,7 @@ LaTeX Font Info:    ... okay on input line 9.
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-37.0pt
-* \headheight=12.0pt
+* \headheight=15.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -262,125 +283,125 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 10.
+ 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 10.
+ 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 10.
+ 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 10.
+ 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-0.
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 51.
+LaTeX Warning: Command \r invalid in math mode on input line 55.
 
 Missing character: There is no Å in font zptmcm7t!
 [2]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
-3.
+7.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [3]
-Overfull \hbox (36.78365pt too wide) in paragraph at lines 89--90
+Overfull \hbox (36.78365pt too wide) in paragraph at lines 93--94
 \T1/ptm/m/n/12 mis-la-bels the con-struct ``CRYPTOCHROME-1''; se-quence is 99.6
 % iden-ti-cal to \T1/ptm/m/it/12 Cl\T1/ptm/m/n/12 Cry4 A0A386QUR4
  []
 
 [4]
-Overfull \hbox (4.20502pt too wide) in paragraph at lines 119--120
+Overfull \hbox (4.20502pt too wide) in paragraph at lines 123--124
 \T1/ptm/m/n/12 physics-forward an-gle be-fore any out-come in-spec-tion (PRE-RE
 G_ATTEMPT4.md, locked 00:12
  []
 
 [5]
-Overfull \hbox (5.06195pt too wide) in paragraph at lines 122--122
+Overfull \hbox (5.06195pt too wide) in paragraph at lines 126--126
 []\T1/ptm/b/n/14.4 Attempt 5a: the fal-si-fi-ca-tion as the re-sult (pre-regist
 ered, ALL GATES
  []
 
 [6]
-Overfull \hbox (0.38257pt too wide) in paragraph at lines 146--146
+Overfull \hbox (0.38257pt too wide) in paragraph at lines 150--150
 []\T1/ptm/b/n/14.4 Attempt 5b: fourth-tryptophan per-sis-tence ex-ten-sion (pre
 -registered) 
  []
 
 
-Overfull \hbox (8.35155pt too wide) in paragraph at lines 147--148
+Overfull \hbox (8.35155pt too wide) in paragraph at lines 151--152
 \T1/ptm/m/n/12 gates the at-tempt passes (B1--B3; re-sults/h1_attempt5b_tradeof
 f.json, \T1/cmtt/m/n/12 ALL_pass_locked_grid:
  []
 
 
-Overfull \hbox (0.45747pt too wide) in paragraph at lines 147--148
+Overfull \hbox (0.45747pt too wide) in paragraph at lines 151--152
 \T1/cmtt/m/n/12 true\T1/ptm/m/n/12 ): the tetrad's mag-net-i-cally responsive-s
 tate per-sis-tence proxy ex-ceeds the triad's by $\OT1/ztmcm/m/n/12 43\OML/ztmc
 m/m/it/12 :\OT1/ztmcm/m/n/12 9\OMS/ztmcm/m/n/12 ^^B$
  []
 
 [7]
-Overfull \hbox (14.76309pt too wide) in paragraph at lines 151--151
+Overfull \hbox (14.76309pt too wide) in paragraph at lines 155--155
 []\T1/ptm/b/n/17.28 Attempt 7: evo-lu-tion-ary con-straint map-ping (pre-regist
 ered;
  []
 
 
-Overfull \hbox (3.06401pt too wide) in paragraph at lines 153--154
+Overfull \hbox (3.06401pt too wide) in paragraph at lines 157--158
 \T1/ptm/m/n/12 vari-a-tion is com-pletely purged from ev-ery an-no-tated func-t
 ional po-si-tion: 0 of 33 vari-ant columns
  []
 
 [8]
-Overfull \hbox (5.39151pt too wide) in paragraph at lines 170--171
+Overfull \hbox (5.39151pt too wide) in paragraph at lines 174--175
 \T1/ptm/m/n/12 The staged judge ques-tion for this arc asks whether whole-prote
 in canal-iza-tion is magnetosensor-
  []
 
 [9] [10]
-Overfull \hbox (2.29547pt too wide) in paragraph at lines 186--187
+Overfull \hbox (2.29547pt too wide) in paragraph at lines 190--191
 \T1/ptm/m/n/12 Retrospective min-i-mum de-tectable ef-fects (MDE; power 0.80, s
 id-ed-ness matched to each locked
  []
 
 [11]
-Overfull \hbox (21.9667pt too wide) in paragraph at lines 192--193
+Overfull \hbox (21.9667pt too wide) in paragraph at lines 196--197
 \T1/ptm/m/n/12 CATES / NEU-TRAL tags (all source URLs archived in \T1/cmtt/m/n/
 12 results/ \T1/ptm/m/n/12 as \T1/cmtt/m/n/12 attempt8e_literature.md\T1/ptm/m/
 n/12 ).
@@ -389,32 +410,108 @@ n/12 ).
 <causal_diagram.pdf, id=47, 716.46736pt x 476.89395pt>
 File: causal_diagram.pdf Graphic file (type pdf)
 <use causal_diagram.pdf>
-Package pdftex.def Info: causal_diagram.pdf  used on input line 196.
+Package pdftex.def Info: causal_diagram.pdf  used on input line 200.
 (pdftex.def)             Requested size: 452.9679pt x 301.51447pt.
-[12] [13 <./causal_diagram.pdf>] [14] (./main.aux) ) 
+[12] [13 <./causal_diagram.pdf>] [14] (./evidence_appendix.tex
+Overfull \hbox (4.65448pt too wide) in paragraph at lines 3--4
+\T1/cmtt/m/n/12 results/attempt7b_canalization.json\T1/ptm/m/n/12 , and \T1/cmt
+t/m/n/12 results/attempt7_depletion.json\T1/ptm/m/n/12 . The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\T1/ptm/m/n/12 Table 3: 7c two-protein label-resampling tests, 10,000 per-mu-
+ta-tions
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 32--32
+[]\T1/ptm/m/n/12 Figure 2: Whole-protein back-ground con-ser-va-tion for the si
+x-protein panel; source:
+ []
+
+[15
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
+7.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Overfull \hbox (6.15723pt too wide) in paragraph at lines 39--40
+[]\T1/ptm/b/n/12 [PENDING] \T1/ptm/m/n/12 mea-sured spin-chemical or cel-lu-lar
+ life-time re-sponse for the model-predicted
+ []
+
+
+Overfull \hbox (10.04945pt too wide) in paragraph at lines 42--42
+[]\T1/cmtt/m/n/12 results/attempt7b_canalization.json\T1/ptm/m/n/12 , core-vs-b
+ackground means and failed locked
+ []
+
+
+Overfull \hbox (0.40271pt too wide) in paragraph at lines 42--42
+[]\T1/cmtt/m/n/12 results/attempt7_depletion.json\T1/ptm/m/n/12 , 7a conservati
+on-matched variant-depletion null. 
+ []
+
+[16] [17]
+Overfull \hbox (49.83578pt too wide) in paragraph at lines 78--84
+\T1/ptm/m/n/12 locked orig-i-nal grid both FWHM fields are en-coded as zero in 
+\T1/cmtt/m/n/12 results/h1_attempt5b_tradeoff.json
+ []
+
+[18]
+Overfull \hbox (48.35046pt too wide) in paragraph at lines 97--104
+\T1/ptm/m/n/12 A sep-a-rate com-mit-ted ex-ploratory neg-a-tive con-trol, \T1/c
+mtt/m/n/12 results/h1_negative_control_geometry.json\T1/ptm/m/n/12 ,
+ []
+
+[19]
+Overfull \hbox (11.40701pt too wide) in paragraph at lines 107--116
+\T1/ptm/m/n/12 The com-mit-ted \T1/cmtt/m/n/12 results/attempt7d_robustness.jso
+n \T1/ptm/m/n/12 re-ports 10,000 column-bootstrap repli-
+ []
+
+[20]
+Underfull \hbox (badness 6808) in paragraph at lines 124--124
+[]\T1/ptm/m/n/10.95 robin S=1.88e-10; pi-geon S=3.757e-09; chicken
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 125--125
+[]\T1/ptm/m/n/10.95 triad peak=0.001049; tetrad peak=0.001048; triad
+ []
+
+[21] [22])
+Overfull \hbox (7.63336pt too wide) in paragraph at lines 165--217
+[]\T1/ptm/m/n/12 The 7g-b C-terminal-quarter formal-charge and charged-density 
+tests used 10,000 phenotype-
+ []
+
+[23] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3534 strings out of 480247
- 51118 string characters out of 5896151
- 344629 words of memory out of 5000000
- 21408 multiletter control sequences out of 15000+600000
- 532514 words of font info for 138 fonts, out of 8000000 for 9000
+ 3808 strings out of 480247
+ 55391 string characters out of 5896151
+ 349310 words of memory out of 5000000
+ 21666 multiletter control sequences out of 15000+600000
+ 532828 words of font info for 139 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,9n,62p,3206b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/sandbox/.texlive202
-1/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk>{/usr/share/texlive/texm
-f-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on main.pdf (14 pages, 187286 bytes).
+ 55i,12n,62p,3206b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/sandbox/.texlive2021/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ectt1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.en
+c}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
+mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (23 pages, 216460 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
+ 307 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,165 @@
+\section{Artifact-linked evidence and reproducibility}
+\subsection{Scope and evidence hierarchy}
+This supplement transcribes committed outputs; it does not add experiments. The model-based magnetic-response findings and evolutionary conservation findings are distinct hypotheses. Numerical comparisons below come from \texttt{results/attempt7c\_wholeprotein.json}, \texttt{results/attempt7b\_canalization.json}, and \texttt{results/attempt7\_depletion.json}. The manuscript's nulls remain failures of their respective locked gates, not successful magnetoreception mechanism tests.
+\subsection{Conservation contrast, entire control set}
+The locked 7b comparison asks whether a functional core is more conserved than the rest of its own protein, relative to controls. The statistic $C$ is the reported core mean conservation minus background mean conservation. The 7c statistic $W$ instead compares the mean of qualified non-core columns across proteins. Changing the statistic after descriptive inspection is disclosed in the main text; neither null is erased by the 7c result.
+\begin{table}[ht]\centering\small\caption{Committed contrast values. The six rows, including all five controls, are transcribed from the 7b and 7c JSON outputs. Pairwise $p$ refers to the 7c Cry1-versus-control comparison; Cry1 has no pairwise value.}\begin{tabular}{lrrrrr}\hline
+Protein & $n$ & core mean & non-core mean & $C$ & $W$ \\\hline
+CRY1 & 116 & 0.9995 & 0.9955 & 0.0040 & 0.99547 \\
+GAPDH & 182 & 1.0000 & 0.8615 & 0.1385 & 0.98988 \\
+RHO & 177 & 0.9924 & 0.9511 & 0.0413 & 0.97554 \\
+LDHA & 41 & 0.9868 & 0.9726 & 0.0142 & 0.97176 \\
+PKM & 176 & 0.9848 & 0.9345 & 0.0503 & 0.96748 \\
+OPN4 & 170 & 0.9708 & 0.8672 & 0.1036 & 0.89617 \\
+\hline\end{tabular}\end{table}
+\begin{table}[ht]\centering\small\caption{7c two-protein label-resampling tests, 10,000 permutations (\texttt{results/attempt7c\_wholeprotein.json}). The $10^{-4}$ values are resolution-floor values, not exact zeros.}\begin{tabular}{lrr}\hline
+Control & $W_{\rm Cry1}-W_{\rm control}$ & pairwise $p$ \\\hline
+GAPDH & 0.00559 & 0.0231 \\
+RHO & 0.01993 & 0.0001 \\
+LDHA & 0.02371 & 0.0001 \\
+PKM & 0.02799 & 0.0001 \\
+OPN4 & 0.09930 & 0.0001 \\
+\hline\end{tabular}\end{table}
+\subsection{Visual summary of the measured comparator}
+The bars show $W$, not magnetic sensitivity. Their common zero origin makes the small absolute differences visible without inflating them through a cropped axis; exact values are in the table above.
+\begin{figure}[ht]\centering\small\begin{tabular}{lr l}\hline Protein & $W$ & Conservation (0 to 1) \\\hline
+CRY1 & 0.99547 & \textcolor{paperblue}{\rule{7.27cm}{5pt}} \\
+GAPDH & 0.98988 & \textcolor{black}{\rule{7.23cm}{5pt}} \\
+RHO & 0.97554 & \textcolor{black}{\rule{7.12cm}{5pt}} \\
+LDHA & 0.97176 & \textcolor{black}{\rule{7.09cm}{5pt}} \\
+PKM & 0.96748 & \textcolor{black}{\rule{7.06cm}{5pt}} \\
+OPN4 & 0.89617 & \textcolor{black}{\rule{6.54cm}{5pt}} \\
+\hline\end{tabular}\caption{Whole-protein background conservation for the six-protein panel; source: \texttt{results/attempt7c\_wholeprotein.json}.}\end{figure}
+\subsection{Audit of the two failed gates}
+Attempt 7a counted 1 of 33 natural variant columns inside a 36-column qualified core; its conservation-matched permutation result is $p=1.0$. Attempt 7b ranked Cry1 last of six for the within-protein contrast, $C=0.0040$, with within-protein $p=0.15068$. These do not demonstrate special depletion of core variants or exceptional local core contrast after the stated controls. The positive 7c result concerns whole-protein background conservation ($W=0.99547$), not those rejected claims. The later locked 7e Cry2 discrimination control fails, so this difference is not a magnetosensor-specific signal.
+\subsection{Limits and pending confirmations}
+\begin{itemize}
+\item \textbf{[PENDING]} independent protein sequences outside the current avian panel and a frozen replication of the whole-protein rank and pairwise tests.
+\item \textbf{[PENDING]} direct experimental tests linking Cry1 conservation to magnetoreception phenotype.
+\item \textbf{[PENDING]} measured spin-chemical or cellular lifetime response for the model-predicted tetrad/triad contrast.
+\end{itemize}
+\section{Internal artifact references}
+\begin{enumerate}\item \texttt{results/attempt7c\_wholeprotein.json}, amendment 2026-09-26 21:25 IST, whole-protein values and pairwise resampling tests.\item \texttt{results/attempt7b\_canalization.json}, core-vs-background means and failed locked gate.\item \texttt{results/attempt7\_depletion.json}, 7a conservation-matched variant-depletion null.\item \texttt{paper/main.tex}, earlier attempts and the boundaries of the model interpretation.\end{enumerate}
+
+\section{Falsification ledger: model-bound magnetic ordering}
+\subsection{Why classification, spin prediction, and conservation remain separate}
+The locked structure-amplitude score is a model output for migratory classification; the Xu construct experiment orders magnetic sensitivity; evolutionary conservation ranks the whole-protein folded domain. These are three different response variables. The first two constrain one distance-to-lifetime model class, whereas the third tests a comparative-sequence pattern. A conservation difference cannot repair the anti-prediction of the spin model.
+\subsection{Frozen attempt 5a decision fields}
+The committed \texttt{results/h1\_attempt5a\_constraint.json} reports the following machine-readable gates. Their names are reproduced without adding a new threshold or estimating missing replications.\begin{table}[!htbp]\centering\small\caption{Locked gate status transcribed from the attempt-5a JSON.}\begin{tabular}{lp{7cm}}\hline Gate field & Recorded value \\\hline
+A1\_pass & True \\
+A2\_robin\_below\_both & True \\
+A3\_exact\_enumeration & 0 agreement; null agreement 0.3333; gate pass \\
+A4\_ratio\_controls\_over\_robin & 19.9 \\
+ALL\_pass & True \\
+\hline\end{tabular}\end{table}
+\subsection{Ordered scores and uncertainty}\begin{table}[!htbp]\centering\small\caption{Values transcribed verbatim from \texttt{results/h1\_attempt5a\_constraint.json}; units and score definition remain those in the main manuscript.}\begin{tabular}{lp{8cm}}\hline Field & Recorded value \\\hline
+rho & -1.0 \\
+boot\_CI95 & [-1.0, -0.5] \\
+model\_order\_most\_to\_least & ["ClCry4", "GgCry4", "erCry4"] \\
+\hline\end{tabular}\end{table}
+The exact ordering test has only three species. Bootstrap intervals over a three-member experimental ordering cannot be read as broad external validation; the main text explicitly states the exact-permutation floor. [PENDING: independently measured kinetic parameters or a new Cry4 construct panel to replace distance-anchored back-electron transfer as a surrogate.]
+\subsection{Reproducibility map}
+\begin{itemize}\item \texttt{results/h1\_attempt4\_gates.json}: physics-forward replication gates.\item \texttt{results/h1\_attempt5a\_constraint.json}: frozen falsification.\item \texttt{results/h1\_sensitivity\_envelope.json}: modeled parameter sweep.\item \texttt{results/attempt7c\_wholeprotein.json}: separate conservation comparison.\end{itemize} Keeping these stages distinct avoids calling a modeled radical-pair response a measured behavioral phenotype.
+
+\section{Control-sequence acquisition audit}
+\subsection{What a species-by-gene request represents}
+The attempt-7b control ledger stores one request status for each of five control proteins across 187 bird labels. A missing retrieval is not replaced with a guessed sequence. The following count is a check on the ledger's acquisition status, not a statistical test: 935 requested species--protein pairs, of which 746 were marked ``ok'' and 189 ``miss''. Their underlying accession and content records remain in \texttt{data/attempt7b\_controls\_ledger.json} and sequence files; this supplement does not republish individual sequences or claim that every protein has equal coverage.\begin{table}[!htbp]\centering\small\caption{Five-protein acquisition status from the committed control ledger. Every gene has 187 attempted bird entries; missing records remain missing.}\begin{tabular}{lrrr}\hline Protein & attempted & ok & miss \\\hline
+PKM & 187 & 176 & 11 \\
+LDHA & 187 & 41 & 146 \\
+RHO & 187 & 177 & 10 \\
+OPN4 & 187 & 170 & 17 \\
+GAPDH & 187 & 182 & 5 \\
+\hline All five & 935 & 746 & 189 \\\hline\end{tabular}\end{table}
+\subsection{Why the unequal denominators matter}
+The successful sequence counts are not exchangeable between proteins. LDHA has the sparsest observed set and GAPDH one of the densest; any unqualified statement that all five controls were observed in the same 187 species would be false. The whole-protein conservation test in \texttt{results/attempt7c\_wholeprotein.json} uses the qualified columns of the retrieved sequences, and its pairwise tests should be read as comparisons within these realized panels. [PENDING: a frozen sensitivity analysis that equalizes species membership across all six proteins before drawing broader evolutionary conclusions.]
+
+\section{Fourth-tryptophan model-grid audit}
+\subsection{Pre-registered discriminators and an undefined locked width}
+The attempt-5b gate in \texttt{PREREG\_ATTEMPT5B.md} treats the persistence-integral comparison as expected by construction, with no evidential weight by itself. The independent discriminators were peak anisotropy ordering (B2) and magnetic-field discrimination width (B3). On the locked original grid both FWHM fields are encoded as zero in \texttt{results/h1\_attempt5b\_tradeoff.json} because both curves were still rising at the grid edge; these zeros denote \emph{undefined width}, not a real zero-width biological response. A pre-extension amendment recorded the grid issue and extended the field range before computing the width.\begin{table}[!htbp]\centering\small\caption{Reported quantities from the locked and extended model grids. An undefined original FWHM must not be treated as a pass.}\begin{tabular}{p{5.4cm}rr}\hline Quantity & tetrad & triad \\\hline
+Original-grid peak proxy & 0.001048 & 0.001049 \\
+Original-grid FWHM & undefined & undefined \\
+Extended-grid peak proxy & 0.192125 & 0.192123 \\
+Extended-grid FWHM ($\mu$T) & 217389.2 & 217389.2 \\
+\hline\end{tabular}\end{table}
+\subsection{Interpretation kept at the model's resolution}
+The reported persistence-integral ratio is 43.929 under the model's assigned lifetimes. The extended-grid FWHM values match at the tested interpolation, while the extended-grid peak ordering flips relative to the tiny locked-grid difference; neither observation proves equality over all field strengths or in a living cell. The source JSON calls the original tradeoff direction non-robust and favors a no-difference-detected interpretation. [PENDING: direct measurement of spin dynamics and FWHM in the same constructs before claiming physiological temporal advantage.]
+
+\section{Exploratory robustness and negative-control geometry}
+\subsection{Post-hoc perturbations are not the locked gate}
+The committed \texttt{results/h1\_attempt5b\_perturbation.json} labels its perturbations explicitly exploratory and post-hoc. Its numerical integration reports a reference ratio of 43.971, distinct from the original attempt-5b gate output's 43.929; these are not interchanged here. Perturbing the rate parameters can show that a large ratio persists under the stipulated model but cannot supply an independent discriminator if the ratio was already expected from the assigned lifetime difference. All rows in the following ledger were computed under that model, not measured in a cell.
+\begin{table}[!htbp]\centering\small\caption{Post-hoc lognormal perturbation distribution of the tetrad/triad persistence ratio (committed exploratory file). The threshold of 1.25 belongs to the original gate, but checking it after observing the model does not make this a new locked test.}\begin{tabular}{lrrrr}\hline Lognormal $\sigma$ & median & fifth percentile & 95th percentile & fraction above 1.25 \\\hline
+0.05 & 44.0 & 39.3 & 49.3 & 1.0 \\
+0.10 & 44.1 & 34.8 & 55.6 & 1.0 \\
+0.20 & 44.0 & 27.5 & 70.0 & 1.0 \\
+0.30 & 43.9 & 21.9 & 88.3 & 1.0 \\\hline\end{tabular}\end{table}
+An opposed 30\% perturbation gives a ratio of 23.7 in that file. The persistence result is thus insensitive to these modeled perturbations, while selectivity is still the unresolved, more demanding part of the fourth-tryptophan hypothesis. [PENDING: rate distributions and spin-chemical response measured independently of the model assumptions.]
+\subsection{Alternative geometric coordinates fail to recover construct ordering}
+A separate committed exploratory negative control, \texttt{results/h1\_negative\_control\_geometry.json}, recomputes the three-construct score with four alternative distance coordinates. Its recorded boolean for recovery of the Xu ordering is false for all four, so choosing a different distance alone does not rescue this particular score. The table lists each coordinate for the European robin, pigeon, and chicken constructs in that order; these are model inputs in angstroms rather than new experimental distances.
+\begin{table}[!htbp]\centering\small\caption{Model geometric negative-control inputs and test status, directly from the committed JSON.}\begin{tabular}{lrrrr}\hline Coordinate & erCry4 & ClCry4 & GgCry4 & Xu ordering recovered? \\\hline
+terminal & 13.76 & 16.18 & 16.15 & no \\
+terminal-centroid & 20.21 & 21.85 & 21.81 & no \\
+triad & 11.06 & 11.74 & 11.71 & no \\
+third-to-fourth hop & 6.09 & 7.44 & 7.49 & no \\\hline\end{tabular}\end{table}
+These alternatives are not independent biological trials. The numerical score also saturates at several long lifetimes in the negative-control file, further limiting interpretation of ranking ties. [PENDING: an independently calibrated kinetic map between structure and spin-selective lifetime.]
+
+\section{Attempt 7d sampling robustness and 7e Cry2 falsification}
+\subsection{What the 7d robustness check tested}
+The committed \texttt{results/attempt7d\_robustness.json} reports 10,000 column-bootstrap replicates and 116 leave-one-species-out estimates for Cry1. Its first condition compared the Cry1 interval lower bound with all five original control point estimates; its second required all leave-one-species-out $W$ estimates to remain at least 0.99. Both pass. These are robustness checks for the original contrast, not a Cry1-specific mechanism test.\begin{table}[!htbp]\centering\small\caption{Point $W$ and 95\% column-bootstrap intervals from the committed 7d file; the Cry2 row is the separate committed 7e control and is not one of the original 7d five controls.}\begin{tabular}{lrrr}\hline Protein & point $W$ & lower & upper \\\hline
+CRY1 & 0.99547 & 0.99151 & 0.99838 \\
+GAPDH & 0.98988 & 0.98515 & 0.99384 \\
+RHO & 0.97554 & 0.96851 & 0.98148 \\
+LDHA & 0.97176 & 0.96168 & 0.98073 \\
+PKM & 0.96748 & 0.95793 & 0.97612 \\
+OPN4 & 0.89617 & 0.88224 & 0.90957 \\
+CRY2 (7e) & 0.99411 & 0.98905 & 0.99789 \\\hline\end{tabular}\end{table}
+The minimum Cry1 leave-one-species-out value is 0.99491 across 116 deletions. This supports stability within the sampled avian panel; it does not remove phylogenetic dependence or show that Cry1's conservation is unique among photoreceptors.
+\subsection{The photoreceptor-family control defeats specificity}
+The 7e amendment chose the Cry2 paralog before its outcome. The committed 7e Cry2 control result records 112 recovered of 118 requested species, 203 qualified columns, $W_{\mathrm{Cry2}}=0.99411$, and the 95\% interval $[0.98905,0.99789]$. The Cry1 interval lower bound, 0.99151, is below the Cry2 point value; the Cry1 point value, 0.99547, is below Cry2's upper bound. Both locked discrimination clauses are false and \texttt{win} is false. The observed difference between Cry1 and Cry2 does not earn a magnetosensor-specific canalization claim. This falsification supersedes any reading of the five-control 7c win as mechanistic or unique to Cry1.
+\subsection{Structural transfer boundary}
+The Cry2 reference is a 400-residue ESMFold crop, with 369 aligned C-alpha pairs and a global superposition RMSD of 6.03\,\AA. Three tryptophans map; the fourth is absent from this crop. The source notes that this omission can inflate the Cry2 background statistic. It does not license changing the locked 7e outcome after seeing it. [PENDING: prospectively designed full-length Cry2 and additional cryptochrome-family comparators with matched species and coverage.]
+
+\section{Attempt-4 frozen gate ledger}
+\subsection{Why a single failed gate is decisive}
+The physics-forward attempt assessed five pre-specified aspects of the distance-anchored spin model, and the final result file records \texttt{ALL: false}. A pass on the equalized-distance control cannot compensate for failure to recover the experimental interspecies ordering. The following values come from \texttt{results/h1\_attempt4\_gates.json}; each is a computational score or check, not a new independent measurement.\begin{table}[!htbp]\centering\small\caption{All frozen attempt-4 decision fields, including sub-gates; P1 model scores share the model's arbitrary score scale.}\begin{tabular}{lp{8.6cm}c}\hline Gate & committed decision fields & passes? \\\hline
+P1 & robin S=1.88e-10; pigeon S=3.757e-09; chicken S=3.742e-09 & no\\
+P2 & triad peak=0.001049; tetrad peak=0.001048; triad S=9.34e-11; tetrad S=1.88e-10 & no\\
+P3i & mean equalized distance=15.36 angstrom; shrink fraction=1.0 & yes\\
+P3ii & anchor order: 0 of 7 & no\\
+P4 & ordering kept: 0 of 100 & no\\
+P5 & wide curve reported & yes\\
+ALL & conjunction in result file & no \\\hline\end{tabular}\end{table}
+\subsection{Anchor and robustness interpretation}
+Seven anchor choices were evaluated under P3ii; none recovered the target order. P4's 0/100 sign-consistency finding reinforces that the wrong order is not a single-grid fluctuation under the implemented perturbations. P5's ``wide curve reported'' is a completeness check, not experimental validation. A failed P2 tetrad comparison also prevents promoting a duration result into a general performance win. This ledger describes the specified attempt-4 model and its limits, not all radical-pair models. [PENDING: independently determined interspecies rates and hyperfine parameters for a prospectively locked replication.]
+
+\section{Lifetime-to-score grid: the saturating surrogate}
+\subsection{All sampled lifetime points}
+The committed attempt-4 stage-one result records a shared lifetime-to-anisotropy score curve. Its 16 sampled lifetimes are listed below without interpolation. The model scores rise and saturate across the sampled interval, so increasing a lifetime can increase a score while still ranking the robin below the controls when the distance-to-lifetime mapping itself points the wrong way. This table audits the intermediate transfer function, not a measured spin lifetime.\begin{table}[!htbp]\centering\small\caption{Full sampled $S(\tau)$ grid transcribed from \texttt{results/h1\_attempt4\_stage1.json}. Scores are displayed in $10^{-9}$ model units. The two side-by-side halves preserve all sixteen computed pairs.}\begin{tabular}{rrrr}\hline $\tau$ ($\mu$s) & $S/10^{-9}$ & $\tau$ ($\mu$s) & $S/10^{-9}$ \\\hline
+0.10 & 0.09340 & 1.00 & 2.27593 \\
+0.15 & 0.18898 & 1.50 & 2.89695 \\
+0.20 & 0.29425 & 2.00 & 3.23759 \\
+0.30 & 0.56624 & 3.00 & 3.57059 \\
+0.40 & 0.85737 & 4.00 & 3.72059 \\
+0.50 & 1.14414 & 5.00 & 3.79973 \\
+0.65 & 1.54474 & 7.00 & 3.87536 \\
+0.80 & 1.89450 & 10.00 & 3.91863 \\\hline\end{tabular}\end{table}
+
+\subsection{The three-species mapping behind the rank reversal}
+The same committed stage-one artifact records the terminal distance and modeled tetrad and triad lifetimes for each construct. A larger terminal distance maps to longer modeled tetrad lifetime in this surrogate, placing the two controls near the high-score plateau and the robin near the low end of the curve. These distances are derived from modeled structures; neither a score nor the inferred lifetime is an independent measurement of a living bird.\par\medskip\noindent\textbf{Three-species stage-one ledger.} Distances in angstroms; inferred lifetimes in microseconds.
+\begin{center}\small\begin{tabular}{lrrrr}\hline construct & terminal tetrad & terminal triad & tetrad $\tau$ & triad $\tau$ \\\hline
+erCry4 & 13.76 & 11.06 & 0.1495 & 0.0034 \\
+ClCry4 & 16.18 & 11.74 & 4.4540 & 0.0089 \\
+GgCry4 & 16.15 & 11.71 & 4.2711 & 0.0086 \\
+\hline\end{tabular}\end{center}
+The modeled robin tetrad lifetime (0.1495 $\mu$s) is far below the pigeon and chicken estimates (4.454 and 4.2711 $\mu$s). Because the response curve is monotonic on this sampled grid, the surrogate anti-predicts the experimental ordering instead of merely missing a significance threshold. [PENDING: rate constants determined independently of this structural-distance surrogate and tested against additional constructs.]
+
+
+
+\section{Post-Cry2 falsification ledger and descriptor boundary}
+\subsection{Ecological interaction: neither paralog separates the phenotypes}
+The 09:03 locked 7f-b gene-by-phenotype arm compared $\Delta W=W_{\mathrm{migratory}}-W_{\mathrm{sedentary}}$ within each gene under 10,000 label permutations. Committed \texttt{results/attempt7f\_b\_gxp.json} reports Cry1 $\Delta W=+0.00142$ ($p=0.291$) and Cry2 $\Delta W=+0.00038$ ($p=0.393$). The 112-species matched intersection gives the same negative decision. A difference in numerical signs or magnitudes without the locked threshold cannot be promoted into a gene-by-phenotype interaction. Ecological association is not measured magnetosensitivity; phylogenetic dependence also remains a limit of a label shuffle.
+\subsection{Radical-pair sphere: conserved in both paralogs}
+The 7f-d partition included four locked chain sites in 6PTZ numbering (395, 372, 318, 369), plus residues within 5.0\,\AA{} of FAD or a chain Trp by heavy atoms. The committed 7f-d result yields 68 qualified Cry1 and 49 Cry2 columns. Cry1's sphere $W=0.99949$ (95\% CI $[0.99873,1.0]$) overlaps Cry2's $W=0.99745$ (95\% CI $[0.99253,1.0]$). The locked differential-constraint win fails; strong conservation of the sphere is shared, not evidence of magnetosensor specificity.
+\subsection{Network inversion and C-terminal tail nulls}
+The 10:13 7g amendment locked a top-200 APC-corrected mutual-information edge budget per gene over qualified variable columns. The statistic was the largest connected component containing a radical-pair-sphere residue. Committed \texttt{results/attempt7g\_ab.json} has no such component for Cry1 (0; 34 variable columns), versus a 26-residue Cry2 component with five surface residues. The independent 112-species matched-intersection sensitivity in \texttt{results/attempt7g\_a\_sensitivity.json} repeats that inversion: Cry1 0 (41 variable columns), Cry2 26 with five surface sites. This statistic does not identify physical protein interactions or prove the Cry2 network has magnetosensory function.
+
+The 7g-b C-terminal-quarter formal-charge and charged-density tests used 10,000 phenotype-label permutations. Cry1's net-charge and density tests are both $p=1.0$; Cry2 net charge is $p=0.0235$ and density $p=0.32847$. The sole marginal signal is in the wrong paralog for the locked Cry1-specific win. Neither arm rescues specificity; these are static sequence descriptors, not direct electrostatics or measurements of conformational dynamics. [PENDING: independently observed magnetosensitivity against matched full-length paralog sequences, kinetic measurements, and physical interaction tests.]
