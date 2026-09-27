@@ -1,0 +1,79 @@
+{
+ "amendment_commit": "80f21d0",
+ "rule": "report-only sensitivity; original 7b stands",
+ "intersection_n_species": 16,
+ "intersection_species": [
+  "Chamaea_fasciata",
+  "Colius_striatus",
+  "Cygnus_olor",
+  "Cyrtonyx_montezumae",
+  "Gallus_gallus",
+  "Gavia_stellata",
+  "Grus_americana",
+  "Meleagris_gallopavo",
+  "Melospiza_georgiana",
+  "Myiozetetes_cayanensis",
+  "Neopsephotus_bourkii",
+  "Nothoprocta_perdicaria",
+  "Pezoporus_wallicus",
+  "Struthio_camelus",
+  "Tinamus_guttatus",
+  "Tyto_alba"
+ ],
+ "results": {
+  "PKM": {
+   "gene": "PKM",
+   "n_seqs": 16,
+   "n_core_cols": 31,
+   "C": 0.0224,
+   "null_median": 0.0011,
+   "p_within": 0.09169,
+   "rank_equalized": 3
+  },
+  "LDHA": {
+   "gene": "LDHA",
+   "n_seqs": 16,
+   "n_core_cols": 35,
+   "C": 0.0206,
+   "null_median": 0.0012,
+   "p_within": 0.12729,
+   "rank_equalized": 4
+  },
+  "RHO": {
+   "gene": "RHO",
+   "n_seqs": 16,
+   "n_core_cols": 3,
+   "C": 0.0108,
+   "null_median": 0.0108,
+   "p_within": 0.66413,
+   "rank_equalized": 6
+  },
+  "OPN4": {
+   "gene": "OPN4",
+   "n_seqs": 16,
+   "n_core_cols": 147,
+   "C": 0.096,
+   "null_median": 0.0003,
+   "p_within": 0.0001,
+   "rank_equalized": 1
+  },
+  "GAPDH": {
+   "gene": "GAPDH",
+   "n_seqs": 16,
+   "n_core_cols": 14,
+   "C": 0.0377,
+   "null_median": 0.0012,
+   "p_within": 0.20988,
+   "rank_equalized": 2
+  },
+  "CRY1": {
+   "gene": "CRY1",
+   "n_seqs": 16,
+   "n_core_cols": 36,
+   "C": 0.0166,
+   "null_median": 0.0018,
+   "p_within": 0.0402,
+   "rank_equalized": 5
+  }
+ }
+}
